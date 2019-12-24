@@ -6,3 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
 A [link to an adjacent file](./adjacent.md).
+
+## Courses
+[The Emergence of Communicative Competence](./Casillas-DevCommComp-Spring2020-Syllabus.md) (Spring 2020).
+
