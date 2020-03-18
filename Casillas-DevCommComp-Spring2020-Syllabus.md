@@ -52,7 +52,7 @@ Students will propose a research project relevant to topics covered in class; pr
 
 ### Participation (20%)
 
-This is a discussion-based class and students are generally expected to come to class and actively participate in discussion. That said, the unpredictability and multi-timezone nature of coursework this quarter may make it difficult for students to attend some classes. The policy for attendance this quarter (Spring 2020) is therefore as follows: By default, students are expected to attend class, ask at least one question, and respond to at least one question. If the student cannot make it to class, they should contact Marisa with a brief explanation, watch the recording of the class, and submit their question(s) and response(s) to her within 2 days, unless noted otherwise.
+This is a discussion-based class and students are generally expected to come to class and actively participate in discussion. That said, the unpredictability and multi-timezone nature of coursework this quarter may make it difficult for students to attend some classes. The policy for attendance this quarter (Spring 2020) is therefore as follows: By default, students are expected to attend class, ask at least one question, and respond to at least one question (1% per class). If the student cannot make it to class, they should contact Marisa with a brief explanation, watch the recording of the class, and submit their question(s) and response(s) to her within 2 days, unless noted otherwise.
 
 Two further activities are required for full participation: (a) contributions to class debates (up to 1% each) and (b) one-on-one meetings with Marisa as noted in the schedule (0.5% each)
 
@@ -62,7 +62,7 @@ Two further activities are required for full participation: (a) contributions to
 
 ### Final exam (15%)
 
-Students will give two responses to take-home essay questions and will give one written reflection on the course as a whole. These responses can take the form of text, audio, or video, and will be graded following a rubric discussed prior to the exam.
+Students will give two responses to take-home essay questions (up to 7% each) and will give one written reflection on the course as a whole (up to 1%). These responses can take the form of text, audio, or video, and will be graded following a rubric discussed prior to the exam.
 
 * 2 x 7 points for each essay response
 * 1 x 1 point for the course reflection
