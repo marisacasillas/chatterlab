@@ -32,23 +32,23 @@ Students enrolled in this course will be graded on the following basis:
 
 Students are expected to submit digital notes summarizing and reacting to each assigned reading (500–2000 words each; see the Schedule). Marisa will evaluate each student's notes for each reading on a pass/fail basis: tips for effective note-taking will be covered in the first class. There are a total of 36 required readings, but notes are only required for 30 of them, and students may pick which 30 readings to submit notes for (i.e., students earn 1% for each reading with satisfactory notes).
 
-* 30 x 1 point for every reading with notes
+* 30 x 1 point for every [reading with notes](./course_instructions/instructions-reading_notes.md)
 
 ### Transcription mini-project (20%)
 
 Students will incrementally add annotations to a small collection of interaction clips over multiple weeks. Each time they submit new annotations, they are expected to submit short written reflections on their progress (200–500 words). The submission of annotations and reflections takes place four times (up to 3% for all four submissions). Students will also propose a mini research question that can be addressed by additional annotations of the data (up to 3%) and after executing these additional annotations, will present their findings to the class (up to 4%). Students are be expected to provide useful feedback about each other's presentations (1%).
 
-* 4 x 3 points for every annotation + reflections submission
-* 1 x 3 points for proposal of mini research question
-* 1 x 4 points for presentation of findings
-* 1 x 1 point for peer-grading of presentations
+* 4 x 3 points for every [annotation + reflections submission](./course_instructions/instructions-annotation_reflections.md)
+* 1 x 3 points for [proposal of mini research question](./course_instructions/instructions-annotation_proposal.md)
+* 1 x 4 points for [presentation of findings](./course_instructions/instructions-annotation_presentation.md)
+* 1 x 1 point for [peer-grading of presentations](./course_instructions/instructions-annotation_peer_grading.md)
 
 ### Open research proposal (15%)
 
 Students will propose a research project relevant to topics covered in class; proposals can be in the form of follow-up studies or a new line of research (10–15 single-spaced pages). To ensure timely completion of the proposal, initial drafts of its subparts will be due over the course of the last few weeks (1% each for an outline, basic design, and literature review). The final proposal will be evaluated by Marisa (up to 12%).
 
-* 3 x 1 point for every proposal sub-part submission
-* 1 x 12 points for proposal of research project
+* 3 x 1 point for every [proposal sub-part submission](./course_instructions/instructions-research_proposal_subparts.md)
+* 1 x 12 points for [proposal of research project](./course_instructions/instructions-research_proposal.md)
 
 ### Participation (20%)
 
@@ -56,16 +56,16 @@ This is a discussion-based class and students are generally expected to come to 
 
 Two further activities are required for full participation: (a) contributions to class debates (up to 1% each) and (b) one-on-one meetings with Marisa as noted in the schedule (0.5% each)
 
-* 16 x 1 point for active attendance at each class
-* 2 x 1 point for contributions to each of the two debates
+* 16 x 1 point for [active attendance at each class](./course_instructions/instructions-active_attendance.md)
+* 2 x 1 point for [contributions to each of the two debates](./course_instructions/instructions-debate_participation.md)
 * 4 x 0.5 point for each one-on-one meeting with Marisa, as noted in the schedule
 
 ### Final exam (15%)
 
 Students will give two responses to take-home essay questions (up to 7% each) and will give one written reflection on the course as a whole (up to 1%). These responses can take the form of text, audio, or video, and will be graded following a rubric discussed prior to the exam.
 
-* 2 x 7 points for each essay response
-* 1 x 1 point for the course reflection
+* 2 x 7 points for each essay response (grading guidelines TBA)
+* 1 x 1 point for the course reflection (grading guidelines TBA)
 
 <!--
 For MC to remember:
