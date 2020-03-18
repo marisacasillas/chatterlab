@@ -8,6 +8,8 @@ Full credit for participation in this debate (1 point) is gained by your contrib
 
 - Taking notes during brainstorming
 - Taking notes while hearing the other group's arguments
+- Fact-checker for your group's arguments
+- Fact-checker for the other group's arguments
 - Presenting one of your group's arguments
 
 NOTE: More than one person in each group can do each of these tasks, and it is up to the group to make sure that everyone is given the opportunity to make a significant contribution.
