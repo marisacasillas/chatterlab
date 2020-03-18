@@ -18,14 +18,54 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 ----
 
+# Up this week:
+
+**Nothing!** Class hasn't started yet. Check back on April 7th, 2020.
+
+----
+
 # Grading
 
 Students enrolled in this course will be graded on the following basis:
 
-1. **Participation (35%):** With the exception of the first meeting, students are expected to submit their notes summarizing and reacting to each assigned reading (500–2000 words). Tips for effective note-taking will be covered in the first class.
-2. **Transcription (20%):** Students will incrementally add annotations to a small collection of interaction clips over the first weeks of the course. Along the way, they will submit short written reflections on their progress (200–500 words). They will briefly present how behaviors in their clips relate to course topics we have covered. Presentations will be peer-graded in addition to instructor grading, following a rubric discussed prior to presentations.
-3. **Research proposal (20%):** Students will propose a research project relevant to topics covered in class; proposals can be in the form of follow-up studies or a new line of research. Proposals will be presented as research posters and will be peer-graded in addition to instructor grading, following a rubric discussed prior to presentations.
-4. **Final exam (25%):** Students will complete two take-home essays. Essays will be graded following a rubric discussed prior to the exam.
+### Reading notes (30%)
+
+Students are expected to submit digital notes summarizing and reacting to each assigned reading (500–2000 words each; see the Schedule). Marisa will evaluate each student's notes for each reading on a pass/fail basis: tips for effective note-taking will be covered in the first class. There are a total of 36 required readings, but notes are only required for 30 of them, and students may pick which 30 readings to submit notes for (i.e., students earn 1% for each reading with satisfactory notes).
+
+* 30 x 1 point for every reading with notes
+
+### Transcription mini-project (20%)
+
+Students will incrementally add annotations to a small collection of interaction clips over multiple weeks. Each time they submit new annotations, they are expected to submit short written reflections on their progress (200–500 words). The submission of annotations and reflections takes place four times (up to 3% for all four submissions). Students will also propose a mini research question that can be addressed by additional annotations of the data (up to 3%) and after executing these additional annotations, will present their findings to the class (up to 4%). Students are be expected to provide useful feedback about each other's presentations (1%).
+
+* 4 x 3 points for every annotation + reflections submission
+* 1 x 3 points for proposal of mini research question
+* 1 x 4 points for presentation of findings
+* 1 x 1 point for peer-grading of presentations
+
+### Open research proposal (15%)
+
+Students will propose a research project relevant to topics covered in class; proposals can be in the form of follow-up studies or a new line of research. To ensure timely completion of the proposal, initial drafts of its subparts will be due over the course of the last few weeks (1% each for an outline, basic design, and literature review). The final proposal will be evaluated by Marisa (up to 12%).
+
+* 3 x 1 point for every proposal sub-part submission
+* 1 x 12 points for proposal of research project
+
+### Participation (20%)
+
+This is a discussion-based class and students are generally expected to come to class and actively participate in discussion. That said, the unpredictability and multi-timezone nature of coursework this quarter may make it difficult for students to attend some classes. The policy for attendance this quarter (Spring 2020) is therefore as follows: By default, students are expected to attend class, ask at least one question, and respond to at least one question. If the student cannot make it to class, they should contact Marisa with a brief explanation, watch the recording of the class, and submit their question(s) and response(s) to her within 2 days, unless noted otherwise.
+
+Two further activities are required for full participation: (a) contributions to class debates (up to 1% each) and (b) one-on-one meetings with Marisa as noted in the schedule (0.5% each)
+
+* 16 x 1 point for active attendance at each class
+* 2 x 1 point for contributions to each of the two debates
+* 4 x 0.5 point for each one-on-one meeting with Marisa, as noted in the schedule
+
+### Final exam (15%)
+
+Students will give two responses to take-home essay questions and will give one written reflection on the course as a whole. These responses can take the form of text, audio, or video, and will be graded following a rubric discussed prior to the exam.
+
+* 2 x 7 points for each essay response
+* 1 x 1 point for the course reflection
 
 <!--
 For MC to remember:
@@ -36,18 +76,11 @@ For MC to remember:
 
 ----
 
-# Up this week:
-
-**Nothing!** Class hasn't started yet. Check back on April 7th, 2020.
-
-----
-
-
 # Course schedule
 
 \* Week 1 classes have been canceled (COVID-19).
 
-## Foundational issues in interaction
+## Foundational concepts for interaction study
 
 ### Week 02: Tuesday, 07 April 2020
 
@@ -259,7 +292,7 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 
 <!--
 #### Teaching plan:
-- Student presentations of papers
+- Lecture on reading material
 - Mini lecture on asking research questions, incl. brainstorming time
 -->
 
@@ -293,9 +326,9 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 #### Pre-class reading
 \*Stivers, T., Sidnell, J., & Bergen, C. (2018). Children's responses to questions in peer interaction: A window into the ontogenesis of interactional competence. Journal of Pragmatics, 124, 14-30. [pdf](https://www.dropbox.com/s/7g3hlpy7p1jfqgx/stivers2018childrens.pdf?dl=0)
 
-\*Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A reassessment of two-year-olds' behaviour in miscommunication episodes. _Journal of Child Language, 17_(1), 131-146. [pdf](https://www.dropbox.com/s/9tch2s9vmz13zfd/shatz1990conversational.pdf?dl=0)
-
 \*Shatz, M. (1978). On the development of communicative understandings: An early strategy for interpreting and responding to messages. _Cognitive Psychology, 10_(3), 271-301. [pdf](https://www.dropbox.com/s/w2lmn797yla46kf/shatz1978development.pdf?dl=0)
+
+Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A reassessment of two-year-olds' behaviour in miscommunication episodes. _Journal of Child Language, 17_(1), 131-146. [pdf](https://www.dropbox.com/s/9tch2s9vmz13zfd/shatz1990conversational.pdf?dl=0)
 
 \*  = Required
 
@@ -316,9 +349,9 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 #### Pre-class reading
 \*Hilbrink, E., Gattis, M., & Levinson, S. C. (2015). Early developmental changes in the timing of turn-taking: A longitudinal study of mother-infant interaction. _Frontiers in Psychology, 6_:1492. [pdf](https://www.dropbox.com/s/acxzwq4uvhspt7r/hilbrink2015early.pdf?dl=0)
 
-\*Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. _Journal of Child Language, 43_, 1310-1337. [pdf](https://www.dropbox.com/s/dez5j7tc0guxzjp/casillas2016turntaking.pdf?dl=0)
-
 \*Casillas, M., & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. _Journal of Memory and Language, 92_, 234-253. [pdf](https://www.dropbox.com/s/hp5fmpjoyd2mso0/casillas2017development.pdf?dl=0)
+
+Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. _Journal of Child Language, 43_, 1310-1337. [pdf](https://www.dropbox.com/s/dez5j7tc0guxzjp/casillas2016turntaking.pdf?dl=0)
 
 Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the timing of their conversational turns through flexible coordination of language comprehension and production. _Psychological Science_. [pdf](https://www.dropbox.com/s/yct1j7xj6juuxkl/lindsay2019preschoolers.pdf?dl=0)
 
