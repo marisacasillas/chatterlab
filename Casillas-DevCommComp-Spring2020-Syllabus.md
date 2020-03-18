@@ -16,6 +16,8 @@ This course examines the emergence of communicative skills in humans. We will di
 
 All course materials, including readings, grading rubrics, lecture materials, and more will be available online on Canvas and the ChatterLab [webpage](https://marisacasillas.github.io/chatterlab/Casillas-DevCommComp-Spring2020-Syllabus.html) for this course.
 
+----
+
 # Grading
 
 Students enrolled in this course will be graded on the following basis:
@@ -32,13 +34,18 @@ For MC to remember:
     - Mini feedback poll
 -->
 
-# Schedule
+----
 
-### Week 01: Tuesday, 31 March 2020
-Classes canceled (COVID-19).
+# Up this week:
 
-### Week 01: Thursday, 02 April 2020
-Classes canceled (COVID-19).
+**Nothing!** Class hasn't started yet. Check back on April 7th, 2020.
+
+----
+
+
+# Course schedule
+
+\* Week 1 classes have been canceled (COVID-19).
 
 ## Foundational issues in interaction
 
@@ -63,7 +70,7 @@ Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S
 -->
 
 #### Assignments due
-* None
+None!
 
 ### Week 02: Thursday, 09 April 2020
 
@@ -84,7 +91,7 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 -->
 
 #### Assignments due
-- Reading notes for _both_ April 7th and 9th.
+1. Reading notes for _both_ April 7th and 9th.
 
 ## Comparative interaction studies
 
@@ -109,9 +116,9 @@ Dingemanse, M., Roberts, S. G., Baranova, J., Blythe, J., Drew, P., Floyd, S., G
 -->
 
 #### Assignments due
-- Reading notes
-- Annotations: Diarization
-- Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations?
+1. Reading notes
+2. Annotations: Diarization
+3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations?
 
 ### Week 03: Thursday, 16 April 2020
 
@@ -131,9 +138,9 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 -->
 
 #### Assignments due
-- Reading notes
-- Annotations: First-pass transcription
-- Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.)
+1. Reading notes
+2. Annotations: First-pass transcription
+3. Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.)
 
 ### Week 04: Tuesday, 21 April 2020
 
@@ -152,7 +159,7 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 -->
 
 #### Assignments due
-- Reading notes
+1. Reading notes
 
 ## Cognitive models of interaction
 
@@ -172,7 +179,7 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 -->
 
 #### Assignments due
-- Reading notes
+1. Reading notes
 
 ### Week 05: Tuesday, 28 April 2020
 
@@ -193,8 +200,8 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 -->
 
 #### Assignments due
-- Reading notes
-- Researcher profile outline
+1. Reading notes
+2. Researcher profile outline
 
 ### Week 05: Thursday, 30 April 2020
 
@@ -214,8 +221,8 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 -->
 
 #### Assignments due
-- Reading notes
-- Completed researcher profile
+1. Reading notes
+2. Completed researcher profile
 
 ## Visible conversation
 
@@ -236,9 +243,9 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 -->
 
 #### Assignments due
-- Reading notes
-- Second-pass transcribe conversation clips
-- Reflection paragraph: What did you neglect to notice when you first transcribed the clips? What do you think you would discover if you made a further correctional pass?
+1. Reading notes
+2. Second-pass transcribe conversation clips
+3. Reflection paragraph: What did you neglect to notice when you first transcribed the clips? What do you think you would discover if you made a further correctional pass?
 
 
 ### Week 06: Thursday, 07 May 2020
@@ -257,7 +264,7 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 -->
 
 #### Assignments due
-- Reading notes
+1. Reading notes
 
 ## Conversation with child interactants
 
@@ -278,8 +285,8 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 -->
 
 #### Assignments due
-- Reading notes
-- 500 word (maximum) proposal for additional analysis on the conversation clips
+1. Reading notes
+2. 500 word (maximum) proposal for additional analysis on the conversation clips
 
 
 ### Week 07: Thursday, 14 May 2020
@@ -294,26 +301,26 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 
 <!--
 #### Teaching plan:
-- Lecture on reading material
+- Lecture on reading material (short due to meetings)
 - Introduction to video assignment for next time
 -->
 
 #### Assignments due
-- One-on-one meeting about annotation analysis project w/ Marisa
-- Reading notes
+1. One-on-one meeting about annotation analysis project w/ Marisa
+2. Reading notes
 
 ## Language meets interaction in development
 
 ### Week 08: Tuesday, 19 May 2020
 
 #### Pre-class reading
-\*Hilbrink, E., Gattis, M., & Levinson, S. C. (2015). Early developmental changes in the timing of turn-taking: A longitudinal study of mother-infant interaction. _Frontiers in Psychology, 6_:1492. doi:10.3389/fpsyg.2015.01492.
+\*Hilbrink, E., Gattis, M., & Levinson, S. C. (2015). Early developmental changes in the timing of turn-taking: A longitudinal study of mother-infant interaction. _Frontiers in Psychology, 6_:1492. [pdf](https://www.dropbox.com/s/acxzwq4uvhspt7r/hilbrink2015early.pdf?dl=0)
 
-\*Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. _Journal of Child Language, 43_, 1310-1337. doi:10.1017/S0305000915000689.
+\*Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. _Journal of Child Language, 43_, 1310-1337. [pdf](https://www.dropbox.com/s/dez5j7tc0guxzjp/casillas2016turntaking.pdf?dl=0)
 
-\*Casillas, M., & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. _Journal of Memory and Language, 92_, 234-253. doi:10.1016/j.jml.2016.06.013.
+\*Casillas, M., & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. _Journal of Memory and Language, 92_, 234-253. [pdf](https://www.dropbox.com/s/hp5fmpjoyd2mso0/casillas2017development.pdf?dl=0)
 
-Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the timing of their conversational turns through flexible coordination of language comprehension and production. _Psychological Science_.
+Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the timing of their conversational turns through flexible coordination of language comprehension and production. _Psychological Science_. [pdf](https://www.dropbox.com/s/yct1j7xj6juuxkl/lindsay2019preschoolers.pdf?dl=0)
 
 \*  = Required
 
@@ -324,17 +331,19 @@ Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the t
 -->
 
 #### Assignments due
-- Reading notes
-- 3-min video presentation on reasoning, methods, and results of added annotations
-- Peer grades of flash talks (by end of class)
+1. Reading notes
+2. 3-min video presentation on reasoning, methods, and results of added annotations
+3. Peer grades of flash talks (by end of class)
 
 
 ### Week 08: Thursday, 21 May 2020
 
 #### Pre-class reading
-\*Clark, E. V., & Bernicot, J. (2008). Repetition as ratification: How parents and children place information in common ground. _Journal of Child Language, 35_(2), 349-371.
+\*Clark, E. V., & Bernicot, J. (2008). Repetition as ratification: How parents and children place information in common ground. _Journal of Child Language, 35_(2), 349-371. [pdf](https://www.dropbox.com/s/hxlc35cgar7j06h/clark2008repetition.pdf?dl=0)
 
-\*Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as negative evidence. _Journal of Child Language, 30_(3), 637-669.
+\*Clark, E. V. (2020). Conversational repair and the acquisition of language. _Discourse Processes, XX_, 1–19. [pdf](https://www.dropbox.com/s/nydxxgoy3g6jidx/clark2020conversational.pdf?dl=0)
+
+Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as negative evidence. _Journal of Child Language, 30_(3), 637-669. [pdf](https://www.dropbox.com/s/1ddj6gxqdu4w7uk/chouinard2003adult.pdf?dl=0)
 
 \*  = Required
 
@@ -345,19 +354,19 @@ Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the t
 -->
 
 #### Assignments due
-- Reading notes
-- One-on-one meeting w/ Marisa about research proposal
+1. Reading notes
+2. One-on-one meeting w/ Marisa about research proposal
 
 ## Conversational "input"
 
 ### Week 09: Tuesday, 26 May 2020
 
 #### Pre-class reading
-\*Rowe, M. L. (2012). A longitudinal investigation of the role of quantity and quality of child‐directed speech in vocabulary development. _Child Development, 83_(5), 1762-1774.
+\*Rowe, M. L. (2012). A longitudinal investigation of the role of quantity and quality of child‐directed speech in vocabulary development. _Child Development, 83_(5), 1762-1774. [pdf](https://www.dropbox.com/s/fps0qekzfqnoatv/rowe2012longitudinal.pdf?dl=0)
 
-\*Donnellan, E., Bannard, C., McGillion, M. L., Slocombe, K. E., & Matthews, D. (2020). Infants’ intentionally communicative vocalizations elicit responses from caregivers and are the best predictors of the transition to language: A longitudinal investigation of infants’ vocalizations, gestures and word production. _Developmental Science_, e12843.
+\*Donnellan, E., Bannard, C., McGillion, M. L., Slocombe, K. E., & Matthews, D. (2020). Infants’ intentionally communicative vocalizations elicit responses from caregivers and are the best predictors of the transition to language: A longitudinal investigation of infants’ vocalizations, gestures and word production. _Developmental Science_, e12843. [pdf](https://www.dropbox.com/s/d0zmuwqtrso418o/donnellan2019infants.pdf?dl=0)
 
-\*Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. (2018). Beyond the 30-million-word gap: Children’s conversational exposure is associated with language-related brain function. _Psychological Science, 29_(5), 700-710.
+Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. (2018). Beyond the 30-million-word gap: Children’s conversational exposure is associated with language-related brain function. _Psychological Science, 29_(5), 700-710. [pdf](https://www.dropbox.com/s/pgavrbc35if309v/romeo2018beyond.pdf?dl=0)
 
 \*  = Required
 
@@ -367,16 +376,16 @@ Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the t
 -->
 
 #### Assignments due
-- Reading notes
-- 500 word (maximum) outline of proposed research project
+1. Reading notes
+2. 500 word (maximum) outline of proposed research project
 
 ### Week 09: Thursday, 28 May 2020
 #### Pre-class reading
-\*Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399-410.
+\*Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399-410. [pdf](https://www.dropbox.com/s/lhbh8njfhb40a1z/dunn1989becoming.pdf?dl=0)
 
-\*Brown, P. (2011). The cultural organization of attention. In A. Duranti, E. Ochs, & B. B. Schieffelin (Eds.), _The Handbook of Language Socialization_ (pp. 29-55). Malden, MA: Wiley-Blackwell.
+\*Brown, P. (2011). The cultural organization of attention. In A. Duranti, E. Ochs, & B. B. Schieffelin (Eds.), _The Handbook of Language Socialization_ (pp. 29-55). Malden, MA: Wiley-Blackwell. [pdf](https://www.dropbox.com/s/pmad9n8gdlbtkpd/brown2011cultural.pdf?dl=0)
 
-Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mother‐infant‐sibling triads. _Child Development, 62_(3), 517-529.
+Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mother‐infant‐sibling triads. _Child Development, 62_(3), 517-529. [pdf](https://www.dropbox.com/s/qsrj0mj02v263w8/barton1991joint.pdf?dl=0)
 
 \*  = Required
 
@@ -387,9 +396,9 @@ Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mothe
 -->
 
 #### Assignments due
-- Reading notes
-- One-on-one meeting with Marisa
-- Study design proposal
+1. Reading notes
+2. One-on-one meeting with Marisa
+3. Study design proposal
 
 ## Wrapping up
 
@@ -403,9 +412,9 @@ Optional reading of your choice, related to final study proposal.
 -->
 
 #### Assignments due
-- Reading notes
-- One-on-one meeting with Marisa
-- Literature review draft
+1. Reading notes
+2. One-on-one meeting with Marisa
+3. Literature review draft
 
 ### Week 10: Thursday, 04 June 2020
 
@@ -418,10 +427,10 @@ Optional reading of your choice, related to final study proposal.
 -->
 
 #### Assignments due
-- Research proposal
+1. Research proposal
 
 ## Final exam
-- Essay response to two prompts (further instructions to be given).
+Essay response to two prompts (further instructions to be given).
 
 <!--
 - audio/video/written (choose two of three)
