@@ -57,3 +57,7 @@ What did you neglect to notice when you first transcribed the clips? What do you
 
 ### Student's choice
 How did your added annotations end up satisfying/not satisfying your research question? What's still missing?
+
+
+## When are annotations and reflections due?
+Late annotations and reflections can be submitted within a week with a 0.5 point penalty.
