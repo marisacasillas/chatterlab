@@ -45,7 +45,7 @@ Students will incrementally add annotations to a small collection of interaction
 
 ### Open research proposal (15%)
 
-Students will propose a research project relevant to topics covered in class; proposals can be in the form of follow-up studies or a new line of research. To ensure timely completion of the proposal, initial drafts of its subparts will be due over the course of the last few weeks (1% each for an outline, basic design, and literature review). The final proposal will be evaluated by Marisa (up to 12%).
+Students will propose a research project relevant to topics covered in class; proposals can be in the form of follow-up studies or a new line of research (10–15 single-spaced pages). To ensure timely completion of the proposal, initial drafts of its subparts will be due over the course of the last few weeks (1% each for an outline, basic design, and literature review). The final proposal will be evaluated by Marisa (up to 12%).
 
 * 3 x 1 point for every proposal sub-part submission
 * 1 x 12 points for proposal of research project
