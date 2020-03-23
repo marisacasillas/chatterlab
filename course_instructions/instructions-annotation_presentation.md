@@ -8,9 +8,9 @@ Full credit (4 points) for the presentation will be given when all of the follow
 2. the video is submitted no later than the start of class on the day it's due
 3. why and how the annotations were added is clearly explained, with reference to class material as appropriate
 4. the findings are clearly presented, with reference to class material as appropriate
-5. at least one weakness and one strength or follow-up of the mini study are pointed out
+5. at least one weakness and one strength or one follow-up of the mini study are pointed out
 
-Presenting all this information in three minutes or less will be challenging; procrastination is not advised!
+Presenting all this information in three minutes or less will be challenging; procrastination is not advised! ;)
 
 ## Late presentation?
-Late presentations can be submitted within one week with a 1 point penalty.
+Late presentations can be submitted within one week of the original due date with a 1 point penalty.
