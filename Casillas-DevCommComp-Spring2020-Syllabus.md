@@ -72,7 +72,7 @@ Students enrolled in this course will be graded on the following basis:
 
 ### Reading notes (30%)
 
-Students are expected to submit digital notes summarizing and reacting to each assigned reading (500–2000 words each; see the Schedule). Marisa will evaluate each student's notes for each reading on a pass/fail basis: tips for effective note-taking will be covered in the first class. There are a total of 36 required readings, but notes are only required for 30 of them, and students may pick which 30 readings to submit notes for (i.e., students earn 1% for each reading with satisfactory notes).
+Students are expected to submit digital notes summarizing and reacting to each assigned reading (~1/2 page+ each; see the Schedule). Marisa will evaluate each student's notes for each reading on a pass/fail basis: tips for effective note-taking will be covered in the first class. There are a total of 36 required readings, but notes are only required for 30 of them, and students may pick which 30 readings to submit notes for (i.e., students earn 1% for each reading with satisfactory notes).
 
 * 30 x 1 point for every [reading with notes](./course_instructions/instructions-reading_notes.md)
 
@@ -152,7 +152,7 @@ None!
 #### Pre-class reading
 \*Sacks, H., Schegloff, E. A., & Jefferson, G. (1978). A simplest systematics for the organization of turn taking for conversation. In _Studies in the Organization of Conversational Interaction_ (pp. 7-55). Academic Press. [pdf](https://www.dropbox.com/s/zs4ld65w1o0suyn/sacks1974simplest.pdf?dl=0)
 
-\*Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd. [pdf](https://www.dropbox.com/s/zs4ld65w1o0suyn/sacks1974simplest.pdf?dl=0)
+\*Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd. [pdf](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
 Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language and Social Interaction, 43_(1), 3-31. [pdf](https://www.dropbox.com/s/3i7ui2obhqre0kc/stivers2010mobilizing.pdf?dl=0)
 
