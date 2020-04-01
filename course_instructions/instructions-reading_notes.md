@@ -19,8 +19,7 @@ For full credit (1 point) the notes for a reading must:
 3. contain sketches/simplified re-drawings of all key figures/findings
 4. be spatially separated into at least three sections: e.g., detailed notes, overall summary, comments/questions
 5. have few direct quotes; reformulate thoughts in your own words
-6. mention at least one link to another paper covered in class
-7. mention at least one link to the student's research interests
+6. mention at least one link to another paper covered in class or the student's own research interests
 
 - Notes can be made in the language of your choice, but please make sure I can use Google Translate or similar to assess points 4–7 above
 - Notes can be written in a text editor, by hand (submitted as a high-resolution image), or a blend of the two
