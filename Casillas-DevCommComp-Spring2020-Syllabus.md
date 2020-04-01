@@ -20,7 +20,49 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-**Nothing!** Class hasn't started yet. Check back on April 7th, 2020.
+### Tuesday, 07 April 2020
+
+#### Pre-class reading
+\*Levinson, S. C. (1995). Interactional biases in human thinking. In E. N. Goody (Ed.), _Social intelligence and interaction_ (pp. 221-260). Cambridge, UK: Cambridge University Press. [pdf](https://www.dropbox.com/s/j11yj31of9jl834/levinson1995social.pdf?dl=0)
+
+\*Clark, H. H. (1996). Joint Actions. In _Using Language_ (pp. 59–91). Cambridge, UK: Cambridge University Press. [pdf](https://www.dropbox.com/s/g5m0sfexh54r847/clark1996joint.pdf?dl=0)
+
+Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 39-69). Oxford: Berg. [pdf](https://www.dropbox.com/s/j3cgnuz9rik77wb/levinson2006human.pdf?dl=0)
+
+\*  = Required
+
+<!--
+#### Teaching plan:
+- Introductions
+- Lecture on reading material (short)
+- Review syllabus together (incl. "vouchers")
+- Review notes criteria
+- Introduction to interaction clips
+-->
+
+#### Assignments due
+None!
+
+### Thursday, 09 April 2020
+
+#### Pre-class reading
+\*Sacks, H., Schegloff, E. A., & Jefferson, G. (1978). A simplest systematics for the organization of turn taking for conversation. In _Studies in the Organization of Conversational Interaction_ (pp. 7-55). Academic Press. [pdf](https://www.dropbox.com/s/zs4ld65w1o0suyn/sacks1974simplest.pdf?dl=0)
+
+\*Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd. [pdf](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
+
+Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language and Social Interaction, 43_(1), 3-31. [pdf](https://www.dropbox.com/s/3i7ui2obhqre0kc/stivers2010mobilizing.pdf?dl=0)
+
+\*  = Required
+
+<!--
+#### Teaching plan:
+- Lecture on reading material
+- Breakout groups on sequence annotation
+- Discussion on turn-taking structure (no questions yet!!)
+-->
+
+#### Assignments due
+1. Reading notes for _both_ April 7th and 9th.
 
 ----
 
