@@ -10,7 +10,7 @@ NOTE: This course is taking place **remotely**; email the instructor if you need
 
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 
-This course examines the emergence of communicative skills in humans. We will discuss the proposed cognitive, developmental, and evolutionary roots of communicative behaviors, with a focus on current gaps in our knowledge and possible pathways forward. The course will consider these issues from multiple perspectives including linguistics, psychology, and linguistic anthropology, and will cover a wide range of methods used to analyze communicative cognition.It is expected that, by the end of the course, students will able to think and write critically about how human communication and human language are intertwined in both adults and children.
+This course examines the emergence of communicative skills in humans. We will discuss the proposed cognitive, developmental, and evolutionary roots of communicative behaviors, with a focus on current gaps in our knowledge and possible pathways forward. The course will consider these issues from multiple perspectives including linguistics, psychology, and linguistic anthropology, and will cover a wide range of methods used to analyze communicative cognition.It is expected that, by the end of the course, students will able to think and write critically about how human communication and human language are intertwined in both adults and children. Intro video [here](https://uchicago.zoom.us/rec/share/3sdHd77TzmZJHYXzsELPW6R9R5_maaa81HMa8_UMykvdc2kD57LnrIaFpaU5x3xV).
 
 **Course materials:**
 
@@ -30,6 +30,12 @@ All course materials, including readings, grading rubrics, lecture materials, an
 Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 39-69). Oxford: Berg. [pdf](https://www.dropbox.com/s/j3cgnuz9rik77wb/levinson2006human.pdf?dl=0)
 
 \*  = Required
+
+[[lecture](https://uchicago.zoom.us/rec/share/9NVSJOn810xIT7PH51zDAvIhOt3MT6a8gCMX_aINxE4Ng4ms_oB1Db_dfCRja5hj)]
+
+[[slides](https://docs.google.com/presentation/d/1Wq1p4Y_h-4YnHe7xHUkq43oVM89pSti0wfYfD_-XmnY/edit?usp=sharing)]
+
+[[MC's reading notes](course_instructions/notes/week02lecture1.md)]
 
 <!--
 #### Teaching plan:
@@ -72,13 +78,13 @@ Students enrolled in this course will be graded on the following basis:
 
 ### Reading notes (30%)
 
-Students are expected to submit digital notes summarizing and reacting to each assigned reading (~1/2 page+ each; see the Schedule). Marisa will evaluate each student's notes for each reading on a pass/fail basis: tips for effective note-taking will be covered in the first class. There are a total of 36 required readings, but notes are only required for 30 of them, and students may pick which 30 readings to submit notes for (i.e., students earn 1% for each reading with satisfactory notes).
+Students are expected to submit digital notes summarizing and reacting to each assigned reading (~1/2 page+ each; see the Schedule). Marisa will evaluate each student's notes for each reading on a pass/fail basis: tips for effective note-taking will be covered in the first class. There are a total of 36 required readings, but notes are only required for 30 of them, and students may pick which 30 readings to submit notes for (i.e., students earn 1% for each reading with satisfactory notes). Explanation video [here](https://uchicago.zoom.us/rec/share/wup3crHV2ThLGM_10Fn5VqcaIa27X6a8hiRK_qIMz0yW9AJoYHNZscien6trSQ-V).
 
 * 30 x 1 point for every [reading with notes](./course_instructions/instructions-reading_notes.md)
 
 ### Transcription mini-project (20%)
 
-Students will incrementally add annotations to a small collection of interaction clips over multiple weeks. Each time they submit new annotations, they are expected to submit short written reflections on their progress (200–500 words). The submission of annotations and reflections takes place four times (up to 3% for all four submissions). Students will also propose a mini research question that can be addressed by additional annotations of the data (up to 3%) and after executing these additional annotations, will present their findings to the class (up to 4%). Students are be expected to provide useful feedback about each other's presentations (1%).
+Students will incrementally add annotations to a small collection of interaction clips over multiple weeks (a brief intro video [here](https://uchicago.zoom.us/rec/share/yv14Hr37z2FOQ7fk7B_PWb4qPKbZX6a8hCMc_fAEyNf02JF_ZVsfWgQSoRqm3O8)). Each time they submit new annotations, they are expected to submit short written reflections on their progress (200–500 words). The submission of annotations and reflections takes place four times (up to 3% for all four submissions). Students will also propose a mini research question that can be addressed by additional annotations of the data (up to 3%) and after executing these additional annotations, will present their findings to the class (up to 4%). Students are be expected to provide useful feedback about each other's presentations (1%).
 
 * 4 x 3 points for every [annotation + reflections submission](./course_instructions/instructions-annotation_reflections.md)
 * 1 x 3 points for [proposal of mini research question](./course_instructions/instructions-annotation_proposal.md)
