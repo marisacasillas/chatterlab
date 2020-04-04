@@ -35,7 +35,7 @@ Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S
 
 [[slides](https://docs.google.com/presentation/d/1Wq1p4Y_h-4YnHe7xHUkq43oVM89pSti0wfYfD_-XmnY/edit?usp=sharing)]
 
-[[MC's reading notes](course_instructions/notes/week02lecture1.md)]
+[[MC's reading notes](course_instructions/notes/week02lecture01.md)]
 
 <!--
 #### Teaching plan:
@@ -44,6 +44,7 @@ Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S
 - Review syllabus together (incl. "vouchers")
 - Review notes criteria
 - Introduction to interaction clips
+- Discussions (as in slides)
 -->
 
 #### Assignments due
@@ -60,11 +61,16 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 
 \*  = Required
 
+[[lecture]()]
+
+[[slides](https://docs.google.com/presentation/d/1Xt0s900Z0glHyDQNYDIy9YulRoPbYiwDUraVXlTgba8/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk02-lec02-SSJ1974.pdf) and [2](course_instructions/notes/handwritten/wk02-lec02-Stivers2013.pdf)]
+
 <!--
 #### Teaching plan:
 - Lecture on reading material
-- Breakout groups on sequence annotation
-- Discussion on turn-taking structure (no questions yet!!)
+- Discussions (as in slides)
 -->
 
 #### Assignments due
@@ -141,6 +147,12 @@ Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S
 
 \*  = Required
 
+[[lecture](https://uchicago.zoom.us/rec/share/9NVSJOn810xIT7PH51zDAvIhOt3MT6a8gCMX_aINxE4Ng4ms_oB1Db_dfCRja5hj)]
+
+[[slides](https://docs.google.com/presentation/d/1Wq1p4Y_h-4YnHe7xHUkq43oVM89pSti0wfYfD_-XmnY/edit?usp=sharing)]
+
+[[MC's reading notes](course_instructions/notes/week02lecture01.md)]
+
 <!--
 #### Teaching plan:
 - Introductions
@@ -148,6 +160,7 @@ Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S
 - Review syllabus together (incl. "vouchers")
 - Review notes criteria
 - Introduction to interaction clips
+- Discussions (as in slides)
 -->
 
 #### Assignments due
@@ -164,11 +177,16 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 
 \*  = Required
 
+[[lecture]()]
+
+[[slides](https://docs.google.com/presentation/d/1Xt0s900Z0glHyDQNYDIy9YulRoPbYiwDUraVXlTgba8/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk02-lec02-SSJ1974.pdf) and [2](course_instructions/notes/handwritten/wk02-lec02-Stivers2013.pdf)]
+
 <!--
 #### Teaching plan:
 - Lecture on reading material
-- Breakout groups on sequence annotation
-- Discussion on turn-taking structure (no questions yet!!)
+- Discussions (as in slides)
 -->
 
 #### Assignments due
