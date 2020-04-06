@@ -199,7 +199,7 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 #### Pre-class reading
 \*Stivers, T., Enfield, N. J., Brown, P., Englert, C., Hayashi, M., Heinemann, T., ... & Levinson, S. C. (2009). Universals and cultural variation in turn-taking in conversation. _Proceedings of the National Academy of Sciences, 106_(26), 10587-10592. [pdf](https://www.dropbox.com/s/c6v37lvliw66hg8/stivers2009universal.pdf?dl=0)
 
-\*Enfield, N. J., Stivers, T., Brown, P., Englert, C., Harjunpää, K., Hayashi, M., ... & Raymond, C. W. (2020). Polar answers. _Journal of Linguistics, 55_(2), 277-304. [pdf](https://www.dropbox.com/s/75sa3tety6n6ghs/enfield2020polar.pdf?dl=0)
+\*Enfield, N. J., Stivers, T., Brown, P., Englert, C., Harjunpää, K., Hayashi, M., ... & Raymond, C. W. (2019). Polar answers. _Journal of Linguistics, 55_(2), 277-304. [pdf](https://www.dropbox.com/s/75sa3tety6n6ghs/enfield2019polar.pdf?dl=0)
 
 Dingemanse, M., Roberts, S. G., Baranova, J., Blythe, J., Drew, P., Floyd, S., Gisladottir, R. S., Kendrick, K. H., Levinson, S. C., Manrique, E., Rossi, G., & Enfield, N. J. (2015). Universal Principles in the Repair of Communication Problems. _PLOS ONE, 10_(9): e0136100. [pdf](https://www.dropbox.com/s/9tnr20h90sv6i4v/dingemanse2015universal.pdf?dl=0)
 
