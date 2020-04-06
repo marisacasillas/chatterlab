@@ -61,7 +61,7 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 
 \*  = Required
 
-[[lecture]()]
+[[lecture](https://uchicago.zoom.us/rec/share/wZVwdeHq3H9IHJXjwxrdQ6gjN4TlT6a8hiYd_PsFzBt4ridIOnWeV2kQOUJUMBvw)]
 
 [[slides](https://docs.google.com/presentation/d/1Xt0s900Z0glHyDQNYDIy9YulRoPbYiwDUraVXlTgba8/edit?usp=sharing)]
 
@@ -177,7 +177,7 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 
 \*  = Required
 
-[[lecture]()]
+[[lecture](https://uchicago.zoom.us/rec/share/wZVwdeHq3H9IHJXjwxrdQ6gjN4TlT6a8hiYd_PsFzBt4ridIOnWeV2kQOUJUMBvw)]
 
 [[slides](https://docs.google.com/presentation/d/1Xt0s900Z0glHyDQNYDIy9YulRoPbYiwDUraVXlTgba8/edit?usp=sharing)]
 
