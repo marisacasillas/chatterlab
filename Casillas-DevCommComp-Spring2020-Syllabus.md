@@ -123,9 +123,8 @@ Students will give two responses to take-home essay questions (up to 7% each) an
 
 <!--
 For MC to remember:
-- After every class:
-    - Canvas announcement with summary of topics covered, readings and assignments due by next meetings, enriched with links to further instructions
-    - Mini feedback poll
+- After every class: Canvas announcement with summary of topics covered, readings and assignments due by next meetings, enriched with links to further instructions
+- Weekly: Mini feedback poll
 -->
 
 ----
@@ -198,7 +197,7 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 #### Assignments due
 1. Reading notes for _both_ April 7th and 9th.
 2. Fill out data protection mini tutorial
-3. Choose your interaction clips for annotation
+3. Start thinking about which interaction clips you want to annotate
 
 ## Comparative interaction studies
 
@@ -228,6 +227,7 @@ Dingemanse, M., Roberts, S. G., Baranova, J., Blythe, J., Drew, P., Floyd, S., G
 
 #### Assignments due
 1. Reading notes
+2. Choose/make your interaction clips for annotation; notify Marisa
 
 ### Week 03: Thursday, 16 April 2020
 
