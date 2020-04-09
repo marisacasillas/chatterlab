@@ -155,11 +155,13 @@ Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Introductions
 - Lecture on reading material (short)
-- Review syllabus together (incl. "vouchers")
+- Review syllabus
 - Review notes criteria
 - Introduction to interaction clips
+## Synchronous
 - Discussions (as in slides)
 -->
 
@@ -185,12 +187,18 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Lecture on reading material
+- Remind about choosing clips
+## Synchronous
 - Discussions (as in slides)
+- Remind about choosing clips
 -->
 
 #### Assignments due
 1. Reading notes for _both_ April 7th and 9th.
+2. Fill out data protection mini tutorial
+3. Choose your interaction clips for annotation
 
 ## Comparative interaction studies
 
@@ -207,17 +215,19 @@ Dingemanse, M., Roberts, S. G., Baranova, J., Blythe, J., Drew, P., Floyd, S., G
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Lecture on reading material
 - Introduction to "Ask an Expert" segments
-- Breakout groups on basics of turn taking behavior
+- Introduce diarization assignment
+## Synchronous
+- Discussion of points in lecture
+- Breakout groups on Ask an expert
 - Synthesize top questions together; link to motivations
-- (Briefer) discussion about diarization
+- Remind about annotation assignment
 -->
 
 #### Assignments due
 1. Reading notes
-2. Annotations: Diarization
-3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations?
 
 ### Week 03: Thursday, 16 April 2020
 
@@ -230,16 +240,19 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 
 <!--
 #### Teaching plan:
-- Watch and discuss Elliott's interview
+## Asynchronous
+- Watch Elliott's interview (w/ discussion prompts)
 - Lecture on reading material
+- Lecture on transcription
+## Synchronous
 - Debate: turn-taking behaviors are universal to communicative systems
-- (Briefer) discussion about transcription
+- (no discussion points; we'll use the time for debate)
 -->
 
 #### Assignments due
 1. Reading notes
-2. Annotations: First-pass transcription
-3. Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.)
+2. Annotations: Diarization
+3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations?
 
 ### Week 04: Tuesday, 21 April 2020
 
@@ -254,7 +267,11 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 
 <!--
 #### Teaching plan:
-- Sub-group presentations of each reading, incl discussion questions
+## Asynchronous
+- Lecture on reading material
+## Synchronous
+- Discussion questions raised in lecture
+- Remind about transcription assignment
 -->
 
 #### Assignments due
@@ -273,12 +290,18 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Lecture on reading material
-- Work with partner on understanding a responder's POV
+## Synchronous
+- Discussion questions raised in lecture
+- Work with a partner on understanding a responder's POV
 -->
 
 #### Assignments due
 1. Reading notes
+2. Annotations: First-pass transcription
+3. Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.)
+
 
 ### Week 05: Tuesday, 28 April 2020
 
@@ -293,7 +316,10 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Lecture on reading material
+## Synchronous
+- Discussion questions raised in lecture
 - Example online button-press experiment
 - Work with partner on responses to the debate questions
 -->
@@ -315,8 +341,12 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Lecture on reading material
+## Synchronous
+- Discussion questions raised in lecture *VERY BRIEF*
 - Speed-debates: different perspectives on the cognition of interaction
+- Remind about second-pass transcription assignment
 -->
 
 #### Assignments due
@@ -336,7 +366,10 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Lecture on reading material
+## Synchronous
+- Discussion questions raised in lecture
 - Breakout groups on psycholinguistics of turn taking
 - Synthesize top questions together; link to motivations
 -->
@@ -358,8 +391,12 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Lecture on reading material
 - Mini lecture on asking research questions, incl. brainstorming time
+## Synchronous
+- Discussion questions raised in lecture
+- Homeroom: Work on research questions simultaneously
 -->
 
 #### Assignments due
@@ -378,9 +415,13 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Lecture on reading material
 - Watch and discuss Sara and/or Judith's interviews
+## Synchronous
+- Discussion questions raised in lecture
 - Round-robin sessions to re-formulate research questions
+- Remind about meetings
 -->
 
 #### Assignments due
@@ -400,8 +441,12 @@ Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A re
 
 <!--
 #### Teaching plan:
-- Lecture on reading material (short due to meetings)
+## Asynchronous
+- Lecture on reading material
 - Introduction to video assignment for next time
+## Synchronous
+- Discussion questions raised in lecture
+- Remind about meetings
 -->
 
 #### Assignments due
@@ -425,8 +470,12 @@ Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the t
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Lecture on reading material
-- peer-grading session
+## Synchronous
+- No discussion due to presentations
+- Peer-grading of presentations
+- Remind about meetings with Marisa
 -->
 
 #### Assignments due
@@ -447,9 +496,13 @@ Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as
 \*  = Required
 
 <!--
+## Asynchronous
 - Lecture on reading material
+## Synchronous
+- Discussion questions raised in lecture **brief**
 - Breakout groups on development of conversational behavior
 - Synthesize top questions together; link to motivations
+- Remind about meetings w/ Marisa
 -->
 
 #### Assignments due
@@ -470,8 +523,12 @@ Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe,
 \*  = Required
 
 <!--
+## Asynchronous
 - Lecture on reading material
+## Synchronous
+- Discussion questions raised in lecture **brief**
 - Round-robin sessions to re-formulate research questions
+- Remind about one-on-ones with Marisa
 -->
 
 #### Assignments due
@@ -489,9 +546,14 @@ Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mothe
 \*  = Required
 
 <!--
+## Asynchronous
+- Lecture on reading material
 - Watch video from Eve and discuss
+## Synchronous
+- (no discussion to leave room for breakout groups)
 - Breakout groups on culture, caregiving, and conversation
 - Synthesize top questions together; link to motivations
+- Remind about one-on-ones with Marisa
 -->
 
 #### Assignments due
@@ -507,6 +569,7 @@ Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mothe
 Optional reading of your choice, related to final study proposal.
 
 <!--
+## Asynchronous
 - Review guidelines for presentations of research proposals
 -->
 
@@ -521,7 +584,9 @@ Optional reading of your choice, related to final study proposal.
 Optional reading of your choice, related to final study proposal.
 
 <!--
+## Asynchronous
 - Watch video from Penny and discuss
+## Synchronous
 - Mini presentations of research proposals
 -->
 
