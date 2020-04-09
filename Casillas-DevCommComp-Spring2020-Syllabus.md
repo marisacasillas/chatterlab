@@ -244,6 +244,12 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 
 \*  = Required
 
+[[lecture](https://uchicago.zoom.us/rec/play/6MUqcL-u-Dg3T9eSuASDCvR9W9XoKa2shHIdq_Zey0_hU3UBNQegYecaYeVWrw1g8swiyvB7k7IVzsun)]
+
+[[slides](https://docs.google.com/presentation/d/11LbKKoWN52ltpyv24JfRUG_8KhWTa5UgkhjLadpZH3M/edit?usp=sharing)]
+
+[MC's notes for reading [1](course_instructions/notes/handwritten/wk03-lec02-PikaEtAl2018.pdf)]
+
 <!--
 #### Teaching plan:
 ## Asynchronous
