@@ -53,7 +53,7 @@ None!
 ### Thursday, 09 April 2020
 
 #### Pre-class reading
-\*Sacks, H., Schegloff, E. A., & Jefferson, G. (1978). A simplest systematics for the organization of turn taking for conversation. In _Studies in the Organization of Conversational Interaction_ (pp. 7-55). Academic Press. [pdf](https://www.dropbox.com/s/zs4ld65w1o0suyn/sacks1974simplest.pdf?dl=0)
+\*Sacks, H., Schegloff, E. A., & Jefferson, G. (1974). A simplest systematics for the organization of turn taking for conversation. In _Studies in the Organization of Conversational Interaction_ (pp. 7-55). Academic Press. [pdf](https://www.dropbox.com/s/zs4ld65w1o0suyn/sacks1974simplest.pdf?dl=0)
 
 \*Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd. [pdf](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
@@ -170,7 +170,7 @@ None!
 ### Week 02: Thursday, 09 April 2020
 
 #### Pre-class reading
-\*Sacks, H., Schegloff, E. A., & Jefferson, G. (1978). A simplest systematics for the organization of turn taking for conversation. In _Studies in the Organization of Conversational Interaction_ (pp. 7-55). Academic Press. [pdf](https://www.dropbox.com/s/zs4ld65w1o0suyn/sacks1974simplest.pdf?dl=0)
+\*Sacks, H., Schegloff, E. A., & Jefferson, G. (1974). A simplest systematics for the organization of turn taking for conversation. In _Studies in the Organization of Conversational Interaction_ (pp. 7-55). Academic Press. [pdf](https://www.dropbox.com/s/zs4ld65w1o0suyn/sacks1974simplest.pdf?dl=0)
 
 \*Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd. [pdf](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
@@ -211,6 +211,12 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 Dingemanse, M., Roberts, S. G., Baranova, J., Blythe, J., Drew, P., Floyd, S., Gisladottir, R. S., Kendrick, K. H., Levinson, S. C., Manrique, E., Rossi, G., & Enfield, N. J. (2015). Universal Principles in the Repair of Communication Problems. _PLOS ONE, 10_(9): e0136100. [pdf](https://www.dropbox.com/s/9tnr20h90sv6i4v/dingemanse2015universal.pdf?dl=0)
 
 \*  = Required
+
+[[lecture](https://uchicago.zoom.us/rec/play/tZF4ceCp-Dk3G4LGtQSDVKR6W46-Lqqs0yIXqKcFxRzkVnZSOwGmM7tEYbfQp2PdeQMYk-D-HK1myCTR)]
+
+[[slides](https://docs.google.com/presentation/d/1RcfVkhqwiO0Hy6ZZPZ6grAViS3GOqRJiQPhRFgdjrJU/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk03-lec01-StiversEtAl2009.pdf) and [2](course_instructions/notes/handwritten/wk03-lec01-EnfieldEtAl2019.pdf)]
 
 <!--
 #### Teaching plan:
