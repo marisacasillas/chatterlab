@@ -19,62 +19,70 @@ All course materials, including readings, grading rubrics, lecture materials, an
 ----
 
 # Up this week:
-
-### Tuesday, 07 April 2020
+### Week 03: Tuesday, 14 April 2020
 
 #### Pre-class reading
-\*Levinson, S. C. (1995). Interactional biases in human thinking. In E. N. Goody (Ed.), _Social intelligence and interaction_ (pp. 221-260). Cambridge, UK: Cambridge University Press. [pdf](https://www.dropbox.com/s/j11yj31of9jl834/levinson1995social.pdf?dl=0)
+\*Stivers, T., Enfield, N. J., Brown, P., Englert, C., Hayashi, M., Heinemann, T., ... & Levinson, S. C. (2009). Universals and cultural variation in turn-taking in conversation. _Proceedings of the National Academy of Sciences, 106_(26), 10587-10592. [pdf](https://www.dropbox.com/s/c6v37lvliw66hg8/stivers2009universal.pdf?dl=0)
 
-\*Clark, H. H. (1996). Joint Actions. In _Using Language_ (pp. 59–91). Cambridge, UK: Cambridge University Press. [pdf](https://www.dropbox.com/s/g5m0sfexh54r847/clark1996joint.pdf?dl=0)
+\*Enfield, N. J., Stivers, T., Brown, P., Englert, C., Harjunpää, K., Hayashi, M., ... & Raymond, C. W. (2019). Polar answers. _Journal of Linguistics, 55_(2), 277-304. [pdf](https://www.dropbox.com/s/75sa3tety6n6ghs/enfield2019polar.pdf?dl=0)
 
-Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 39-69). Oxford: Berg. [pdf](https://www.dropbox.com/s/j3cgnuz9rik77wb/levinson2006human.pdf?dl=0)
+Dingemanse, M., Roberts, S. G., Baranova, J., Blythe, J., Drew, P., Floyd, S., Gisladottir, R. S., Kendrick, K. H., Levinson, S. C., Manrique, E., Rossi, G., & Enfield, N. J. (2015). Universal Principles in the Repair of Communication Problems. _PLOS ONE, 10_(9): e0136100. [pdf](https://www.dropbox.com/s/9tnr20h90sv6i4v/dingemanse2015universal.pdf?dl=0)
 
 \*  = Required
 
-[[lecture](https://uchicago.zoom.us/rec/share/9NVSJOn810xIT7PH51zDAvIhOt3MT6a8gCMX_aINxE4Ng4ms_oB1Db_dfCRja5hj)]
+[[lecture](https://uchicago.zoom.us/rec/play/tZF4ceCp-Dk3G4LGtQSDVKR6W46-Lqqs0yIXqKcFxRzkVnZSOwGmM7tEYbfQp2PdeQMYk-D-HK1myCTR)]
 
-[[slides](https://docs.google.com/presentation/d/1Wq1p4Y_h-4YnHe7xHUkq43oVM89pSti0wfYfD_-XmnY/edit?usp=sharing)]
+[[slides](https://docs.google.com/presentation/d/1RcfVkhqwiO0Hy6ZZPZ6grAViS3GOqRJiQPhRFgdjrJU/edit?usp=sharing)]
 
-[[MC's reading notes](course_instructions/notes/week02lecture01.md)]
-
-<!--
-#### Teaching plan:
-- Introductions
-- Lecture on reading material (short)
-- Review syllabus together (incl. "vouchers")
-- Review notes criteria
-- Introduction to interaction clips
-- Discussions (as in slides)
--->
-
-#### Assignments due
-None!
-
-### Thursday, 09 April 2020
-
-#### Pre-class reading
-\*Sacks, H., Schegloff, E. A., & Jefferson, G. (1974). A simplest systematics for the organization of turn taking for conversation. In _Studies in the Organization of Conversational Interaction_ (pp. 7-55). Academic Press. [pdf](https://www.dropbox.com/s/zs4ld65w1o0suyn/sacks1974simplest.pdf?dl=0)
-
-\*Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd. [pdf](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
-
-Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language and Social Interaction, 43_(1), 3-31. [pdf](https://www.dropbox.com/s/3i7ui2obhqre0kc/stivers2010mobilizing.pdf?dl=0)
-
-\*  = Required
-
-[[lecture](https://uchicago.zoom.us/rec/share/wZVwdeHq3H9IHJXjwxrdQ6gjN4TlT6a8hiYd_PsFzBt4ridIOnWeV2kQOUJUMBvw)]
-
-[[slides](https://docs.google.com/presentation/d/1Xt0s900Z0glHyDQNYDIy9YulRoPbYiwDUraVXlTgba8/edit?usp=sharing)]
-
-[MC's notes for readings [1](course_instructions/notes/handwritten/wk02-lec02-SSJ1974.pdf) and [2](course_instructions/notes/handwritten/wk02-lec02-Stivers2013.pdf)]
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk03-lec01-StiversEtAl2009.pdf) and [2](course_instructions/notes/handwritten/wk03-lec01-EnfieldEtAl2019.pdf)]
 
 <!--
 #### Teaching plan:
+## Asynchronous
 - Lecture on reading material
-- Discussions (as in slides)
+- Introduction to "Ask an Expert" segments
+- Introduce diarization assignment
+## Synchronous
+- Discussion of points in lecture
+- Breakout groups on Ask an expert
+- Synthesize top questions together; link to motivations
+- Remind about annotation assignment
 -->
 
 #### Assignments due
-1. Reading notes for _both_ April 7th and 9th.
+1. Reading notes
+2. Choose/make your interaction clips for annotation; notify Marisa
+
+### Week 03: Thursday, 16 April 2020
+
+#### Pre-class reading
+\*Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: bridging the gap between human and animal communication. _Proceedings of the Royal Society B: Biological Sciences, 285_(1880), 20180598. [pdf](https://www.dropbox.com/s/4n5zdd9gxxulkbi/pika2018taking.pdf?dl=0)
+
+Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. M., & Pika, S. (2016). Unpeeling the layers of language: Bonobos and chimpanzees engage in cooperative turn-taking sequences. _Scientific Reports, 6_, 25887. [pdf](https://www.dropbox.com/s/rshwpet67dftrbh/frolich2016unpeeling.pdf?dl=0)
+
+\*  = Required
+
+[[lecture](https://uchicago.zoom.us/rec/play/6MUqcL-u-Dg3T9eSuASDCvR9W9XoKa2shHIdq_Zey0_hU3UBNQegYecaYeVWrw1g8swiyvB7k7IVzsun)]
+
+[[slides](https://docs.google.com/presentation/d/11LbKKoWN52ltpyv24JfRUG_8KhWTa5UgkhjLadpZH3M/edit?usp=sharing)]
+
+[MC's notes for reading [1](course_instructions/notes/handwritten/wk03-lec02-PikaEtAl2018.pdf)]
+
+<!--
+#### Teaching plan:
+## Asynchronous
+- Watch Elliott's interview (w/ discussion prompts)
+- Lecture on reading material
+- Lecture on transcription
+## Synchronous
+- Debate: turn-taking behaviors are universal to communicative systems
+- (no discussion points; we'll use the time for debate)
+-->
+
+#### Assignments due
+1. Reading notes
+2. Annotations: Diarization
+3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations?
 
 ----
 
