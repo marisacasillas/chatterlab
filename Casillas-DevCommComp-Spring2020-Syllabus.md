@@ -281,7 +281,7 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 
 \*Gaskins, S. (2006). Cultural perspectives on infant-caregiver interaction. In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 279-298). Oxford: Berg. [pdf](https://www.dropbox.com/s/hu1gtlfqy2uduhr/gaskins2006cultural.pdf?dl=0)
 
-\*Bornstein, M. H., Putnick, D. L., Cote, L. R., Haynes, O. M., & Suwalsky, J. T. (2015). Mother-infant contingent vocalizations in 11 countries. _Psychological Science, 26_(8), 1272-1284. [pdf](https://www.dropbox.com/s/hu1gtlfqy2uduhr/gaskins2006cultural.pdf?dl=0)
+\*Bornstein, M. H., Putnick, D. L., Cote, L. R., Haynes, O. M., & Suwalsky, J. T. (2015). Mother-infant contingent vocalizations in 11 countries. _Psychological Science, 26_(8), 1272-1284. [pdf](https://www.dropbox.com/s/1sl63pmmrf3y84t/bornstein2015mother.pdf?dl=0)
 
 \*  = Required
 
