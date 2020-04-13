@@ -81,8 +81,8 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 
 #### Assignments due
 1. Reading notes
-2. Annotations: Diarization
-3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations?
+2. Annotations: Diarization (due by Sunday)
+3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations? (due by Sunday)
 
 ----
 
@@ -271,8 +271,8 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 
 #### Assignments due
 1. Reading notes
-2. Annotations: Diarization
-3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations?
+2. Annotations: Diarization (due by Sunday)
+3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations? (due by Sunday)
 
 ### Week 04: Tuesday, 21 April 2020
 
