@@ -302,9 +302,9 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 ### Week 04: Thursday, 23 April 2020
 
 #### Pre-class reading
-\*Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. **(including two commentaries and the authors' response; commentaries assigned in class)**
+\*Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. **(including two commentaries and the authors' response; commentaries assigned in class)** [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
 
-\*Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. _Frontiers in Psychology, 6_: 731. doi:10.3389/fpsyg.2015.00731.
+\*Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. _Frontiers in Psychology, 6_: 731. doi:10.3389/fpsyg.2015.00731. [pdf](https://www.dropbox.com/s/wc9gsga25j3co5h/levinson2015timing.pdf?dl=0)
 
 \*  = Required
 
@@ -319,8 +319,8 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 
 #### Assignments due
 1. Reading notes
-2. Annotations: First-pass transcription
-3. Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.)
+2. Annotations: First-pass transcription (due by Sunday)
+3. Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.) (due by Sunday)
 
 
 ### Week 05: Tuesday, 28 April 2020
