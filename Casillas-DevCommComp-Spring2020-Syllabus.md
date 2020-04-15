@@ -119,7 +119,7 @@ This is a discussion-based class and students are generally expected to come to 
 Two further activities are required for full participation: (a) contributions to class debates (up to 1% each) and (b) one-on-one meetings with Marisa as noted in the schedule (0.5% each)
 
 * 16 x 1 point for [active attendance at each class](./course_instructions/instructions-active_attendance.md)
-* 2 x 1 point for [contributions to each of the two debates](./course_instructions/instructions-debate_participation.md)
+* 2 x 1 point for [contributions to the debate and the turn-taking "feature" presentation](./course_instructions/instructions-debate_participation.md)
 * 4 x 0.5 point for each one-on-one meeting with Marisa, as noted in the schedule
 
 ### Final exam (15%)
@@ -314,7 +314,7 @@ Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialog
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture
-- Work with a partner on understanding turn-taking system component
+- Work with a partner on understanding turn-taking system feature
 -->
 
 #### Assignments due
@@ -341,12 +341,12 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 ## Synchronous
 - Discussion questions raised in lecture
 - Example online button-press(?) experiment
-- Work with a partner on understanding turn-taking system component
+- Work with a partner on understanding turn-taking system feature
 -->
 
 #### Assignments due
 1. Reading notes
-2. Turn system component outline
+2. Outline for presentation on turn-taking feature
 
 ### Week 05: Thursday, 30 April 2020
 
@@ -365,13 +365,13 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture *VERY BRIEF*
-- Speed-presentations: different components for a cognitive model of turn taking
+- Speed-presentations: different features for a cognitive model of turn taking
 - Remind about second-pass transcription assignment
 -->
 
 #### Assignments due
 1. Reading notes
-2. Completed turn system component
+2. Presentation on turn-taking feature (Google Drive; check Canvas Assignments)
 
 ## Visible conversation
 
