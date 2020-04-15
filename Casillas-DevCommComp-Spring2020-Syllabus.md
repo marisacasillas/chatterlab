@@ -71,7 +71,7 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 <!--
 #### Teaching plan:
 ## Asynchronous
-- Watch Elliott's interview (w/ discussion prompts)
+- Watch Elliott's interview
 - Lecture on reading material
 - Lecture on transcription
 ## Synchronous
@@ -261,7 +261,7 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 <!--
 #### Teaching plan:
 ## Asynchronous
-- Watch Elliott's interview (w/ discussion prompts)
+- Watch Elliott's interview
 - Lecture on reading material
 - Lecture on transcription
 ## Synchronous
@@ -302,9 +302,9 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 ### Week 04: Thursday, 23 April 2020
 
 #### Pre-class reading
-\*Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. **(including two commentaries and the authors' response; commentaries assigned in class)** [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
-
 \*Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. _Frontiers in Psychology, 6_: 731. doi:10.3389/fpsyg.2015.00731. [pdf](https://www.dropbox.com/s/wc9gsga25j3co5h/levinson2015timing.pdf?dl=0)
+
+Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
 
 \*  = Required
 
@@ -314,7 +314,7 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture
-- Work with a partner on understanding a responder's POV
+- Work with a partner on understanding turn-taking system component
 -->
 
 #### Assignments due
@@ -340,13 +340,13 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture
-- Example online button-press experiment
-- Work with partner on responses to the debate questions
+- Example online button-press(?) experiment
+- Work with a partner on understanding turn-taking system component
 -->
 
 #### Assignments due
 1. Reading notes
-2. Researcher profile outline
+2. Turn system component outline
 
 ### Week 05: Thursday, 30 April 2020
 
@@ -365,13 +365,13 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture *VERY BRIEF*
-- Speed-debates: different perspectives on the cognition of interaction
+- Speed-presentations: different components for a cognitive model of turn taking
 - Remind about second-pass transcription assignment
 -->
 
 #### Assignments due
 1. Reading notes
-2. Completed researcher profile
+2. Completed turn system component
 
 ## Visible conversation
 
@@ -390,8 +390,6 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture
-- Breakout groups on psycholinguistics of turn taking
-- Synthesize top questions together; link to motivations
 -->
 
 #### Assignments due
@@ -429,7 +427,7 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 #### Pre-class reading
 \*Snow, C. E. (1977). The development of conversation between mothers and babies. _Journal of Child Language, 4_(1), 1-22. [pdf](https://www.dropbox.com/s/ow3x0mii5ptxdhd/snow1977development.pdf?dl=0)
 
-\*Casillas, M., & Hilbrink, E. (in press). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), _Developmental and Clinical Pragmatics_. DE GRUYTER MOUTON. [pdf](https://www.dropbox.com/s/1vmy11ug5o2sk8y/casillasIPcommunicative.pdf?dl=0)
+\*Casillas, M., & Hilbrink, E. (in press). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), _Developmental and Clinical Pragmatics_. De Gruyter Mouton. [pdf](https://www.dropbox.com/s/1vmy11ug5o2sk8y/casillasIPcommunicative.pdf?dl=0)
 
 \*  = Required
 
