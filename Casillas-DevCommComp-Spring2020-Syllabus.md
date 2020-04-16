@@ -285,6 +285,13 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 
 \*  = Required
 
+<!--[[lecture]()]-->
+
+[[slides](https://docs.google.com/presentation/d/1aIfcz83XrP8s69_gHMEcsmzNawmCY_R8y04e9zN_AAQ/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk04-lec01-RatnerBruner1978.pdf), [2](course_instructions/notes/handwritten/wk04-lec01-Gaskins2006.pdf), and [3](course_instructions/notes/handwritten/wk04-lec01-BornsteinEtAl2015.pdf)]
+
+
 <!--
 #### Teaching plan:
 ## Asynchronous
@@ -307,6 +314,12 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
 
 \*  = Required
+
+<!--[[lecture]()]-->
+
+[[slides](https://docs.google.com/presentation/d/1JctgsRfPOR8j9BBhW60VpWj3I4XBPGy9FBHMs2FgZ54/edit?usp=sharing)]
+
+[MC's notes for reading [1](course_instructions/notes/handwritten/wk04-lec02-LevinsonTorreira2015.pdf)]
 
 <!--
 #### Teaching plan:
