@@ -285,7 +285,7 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 
 \*  = Required
 
-<!--[[lecture]()]-->
+[[lecture](https://uchicago.zoom.us/rec/share/udRxDrD5yGZOUpXk5V2HBocIPq70aaa8gyEXq6ZZzBuLN0yxRFMBVmQJ2A1djMwS)]
 
 [[slides](https://docs.google.com/presentation/d/1aIfcz83XrP8s69_gHMEcsmzNawmCY_R8y04e9zN_AAQ/edit?usp=sharing)]
 
@@ -315,7 +315,7 @@ Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialog
 
 \*  = Required
 
-<!--[[lecture]()]-->
+[[lecture](https://uchicago.zoom.us/rec/share/ouVUcL_v3FtJRLPzyGTWfoccIavgT6a8h3JM86AEzB74K_rKypsTwhnls0g2jQln)]
 
 [[slides](https://docs.google.com/presentation/d/1JctgsRfPOR8j9BBhW60VpWj3I4XBPGy9FBHMs2FgZ54/edit?usp=sharing)]
 
