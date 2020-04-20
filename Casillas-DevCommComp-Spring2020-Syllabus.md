@@ -19,70 +19,66 @@ All course materials, including readings, grading rubrics, lecture materials, an
 ----
 
 # Up this week:
-### Week 03: Tuesday, 14 April 2020
+### Week 04: Tuesday, 21 April 2020
 
 #### Pre-class reading
-\*Stivers, T., Enfield, N. J., Brown, P., Englert, C., Hayashi, M., Heinemann, T., ... & Levinson, S. C. (2009). Universals and cultural variation in turn-taking in conversation. _Proceedings of the National Academy of Sciences, 106_(26), 10587-10592. [pdf](https://www.dropbox.com/s/c6v37lvliw66hg8/stivers2009universal.pdf?dl=0)
+\*Ratner, N., & Bruner, J. (1978). Games, social exchange and the acquisition of language. _Journal of Child Language, 5_(3), 391-401. [pdf](https://www.dropbox.com/s/lzv71p3xdbbjgi8/ratner1978games.pdf?dl=0)
 
-\*Enfield, N. J., Stivers, T., Brown, P., Englert, C., Harjunpää, K., Hayashi, M., ... & Raymond, C. W. (2019). Polar answers. _Journal of Linguistics, 55_(2), 277-304. [pdf](https://www.dropbox.com/s/75sa3tety6n6ghs/enfield2019polar.pdf?dl=0)
+\*Gaskins, S. (2006). Cultural perspectives on infant-caregiver interaction. In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 279-298). Oxford: Berg. [pdf](https://www.dropbox.com/s/hu1gtlfqy2uduhr/gaskins2006cultural.pdf?dl=0)
 
-Dingemanse, M., Roberts, S. G., Baranova, J., Blythe, J., Drew, P., Floyd, S., Gisladottir, R. S., Kendrick, K. H., Levinson, S. C., Manrique, E., Rossi, G., & Enfield, N. J. (2015). Universal Principles in the Repair of Communication Problems. _PLOS ONE, 10_(9): e0136100. [pdf](https://www.dropbox.com/s/9tnr20h90sv6i4v/dingemanse2015universal.pdf?dl=0)
+\*Bornstein, M. H., Putnick, D. L., Cote, L. R., Haynes, O. M., & Suwalsky, J. T. (2015). Mother-infant contingent vocalizations in 11 countries. _Psychological Science, 26_(8), 1272-1284. [pdf](https://www.dropbox.com/s/1sl63pmmrf3y84t/bornstein2015mother.pdf?dl=0)
 
 \*  = Required
 
-[[lecture](https://uchicago.zoom.us/rec/play/tZF4ceCp-Dk3G4LGtQSDVKR6W46-Lqqs0yIXqKcFxRzkVnZSOwGmM7tEYbfQp2PdeQMYk-D-HK1myCTR)]
+[[lecture](https://uchicago.zoom.us/rec/share/udRxDrD5yGZOUpXk5V2HBocIPq70aaa8gyEXq6ZZzBuLN0yxRFMBVmQJ2A1djMwS)]
 
-[[slides](https://docs.google.com/presentation/d/1RcfVkhqwiO0Hy6ZZPZ6grAViS3GOqRJiQPhRFgdjrJU/edit?usp=sharing)]
+[[slides](https://docs.google.com/presentation/d/1aIfcz83XrP8s69_gHMEcsmzNawmCY_R8y04e9zN_AAQ/edit?usp=sharing)]
 
-[MC's notes for readings [1](course_instructions/notes/handwritten/wk03-lec01-StiversEtAl2009.pdf) and [2](course_instructions/notes/handwritten/wk03-lec01-EnfieldEtAl2019.pdf)]
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk04-lec01-RatnerBruner1978.pdf), [2](course_instructions/notes/handwritten/wk04-lec01-Gaskins2006.pdf), and [3](course_instructions/notes/handwritten/wk04-lec01-BornsteinEtAl2015.pdf)]
+
 
 <!--
 #### Teaching plan:
 ## Asynchronous
 - Lecture on reading material
-- Introduction to "Ask an Expert" segments
-- Introduce diarization assignment
 ## Synchronous
-- Discussion of points in lecture
-- Breakout groups on Ask an expert
-- Synthesize top questions together; link to motivations
-- Remind about annotation assignment
+- Discussion questions raised in lecture
+- Remind about transcription assignment
 -->
 
 #### Assignments due
 1. Reading notes
-2. Choose/make your interaction clips for annotation; notify Marisa
 
-### Week 03: Thursday, 16 April 2020
+## Cognitive models of interaction
+
+### Week 04: Thursday, 23 April 2020
 
 #### Pre-class reading
-\*Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: bridging the gap between human and animal communication. _Proceedings of the Royal Society B: Biological Sciences, 285_(1880), 20180598. [pdf](https://www.dropbox.com/s/4n5zdd9gxxulkbi/pika2018taking.pdf?dl=0)
+\*Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. _Frontiers in Psychology, 6_: 731. doi:10.3389/fpsyg.2015.00731. [pdf](https://www.dropbox.com/s/wc9gsga25j3co5h/levinson2015timing.pdf?dl=0)
 
-Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. M., & Pika, S. (2016). Unpeeling the layers of language: Bonobos and chimpanzees engage in cooperative turn-taking sequences. _Scientific Reports, 6_, 25887. [pdf](https://www.dropbox.com/s/rshwpet67dftrbh/frolich2016unpeeling.pdf?dl=0)
+Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
 
 \*  = Required
 
-[[lecture](https://uchicago.zoom.us/rec/play/6MUqcL-u-Dg3T9eSuASDCvR9W9XoKa2shHIdq_Zey0_hU3UBNQegYecaYeVWrw1g8swiyvB7k7IVzsun)]
+[[lecture](https://uchicago.zoom.us/rec/share/ouVUcL_v3FtJRLPzyGTWfoccIavgT6a8h3JM86AEzB74K_rKypsTwhnls0g2jQln)]
 
-[[slides](https://docs.google.com/presentation/d/11LbKKoWN52ltpyv24JfRUG_8KhWTa5UgkhjLadpZH3M/edit?usp=sharing)]
+[[slides](https://docs.google.com/presentation/d/1JctgsRfPOR8j9BBhW60VpWj3I4XBPGy9FBHMs2FgZ54/edit?usp=sharing)]
 
-[MC's notes for reading [1](course_instructions/notes/handwritten/wk03-lec02-PikaEtAl2018.pdf)]
+[MC's notes for reading [1](course_instructions/notes/handwritten/wk04-lec02-LevinsonTorreira2015.pdf)]
 
 <!--
 #### Teaching plan:
 ## Asynchronous
-- Watch Elliott's interview
 - Lecture on reading material
-- Lecture on transcription
 ## Synchronous
-- Debate: turn-taking behaviors are universal to communicative systems
-- (no discussion points; we'll use the time for debate)
+- Discussion questions raised in lecture
+- Work with a partner on understanding turn-taking system feature
 -->
 
 #### Assignments due
 1. Reading notes
-2. Annotations: Diarization (due by Sunday)
-3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations? (due by Sunday)
+2. Annotations: First-pass transcription (due by Sunday)
+3. Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.) (due by Sunday)
 
 ----
 
