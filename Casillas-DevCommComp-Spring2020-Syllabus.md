@@ -360,9 +360,9 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 ### Week 05: Thursday, 30 April 2020
 
 #### Pre-class reading
-\*Corps, R. E., Crossley, A., Gambi, C., & Pickering, M. J. (2018). Early preparation during turn-taking: Listeners use content predictions to determine what to say but not when to say it. _Cognition, 175_, 77-95. [pdf](https://www.dropbox.com/s/5tcrscd0gfell0f/corps2018early.pdf?dl=0)
+\*Corps, R. E., Crossley, A., Gambi, C., & Pickering, M. J. (2018). Early preparation during turn-taking: Listeners use content predictions to determine what to say but not when to say it. _Cognition 175_, 77-95. [pdf](https://www.dropbox.com/s/5tcrscd0gfell0f/corps2018early.pdf?dl=0)
 
-\*Corps, R., Pickering, M. and Gambi, C. 2020. Predicting turn-ends in discourse context. _Language Cognition and Neuroscience 34_(5), pp. 615-627. [pdf](https://www.dropbox.com/s/ns5qjmno43gxz22/corps2020predicting.pdf?dl=0)
+\*Corps, R., Pickering, M. and Gambi, C. (2020). Predicting turn-ends in discourse context. _Language Cognition and Neuroscience 34_(5), pp. 615-627. [pdf](https://www.dropbox.com/s/ns5qjmno43gxz22/corps2020predicting.pdf?dl=0)
 
 Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness for understanding language. _Journal of Experimental Psychology: General, 147_(2), 190. [pdf](https://www.dropbox.com/s/8ogvg2452iaedit/rabagliati2018importance.pdf?dl=0)
 
