@@ -511,7 +511,7 @@ Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the t
 1. Reading notes
 2. 3-min video presentation on reasoning, methods, and results of added annotations
 3. Peer grades of flash talks (by end of class)
-4. Final annotations added, with instructions for how to add annotations
+4. Final annotation files, with instructions attached for how to add annotations
 
 
 ### Week 08: Thursday, 21 May 2020
@@ -530,8 +530,7 @@ Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture **brief**
-- Breakout groups on development of conversational behavior
-- Synthesize top questions together; link to motivations
+- Come up with questions for Eve
 - Remind about meetings w/ Marisa
 -->
 
@@ -563,7 +562,7 @@ Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe,
 
 #### Assignments due
 1. Reading notes
-2. 500 word (maximum) outline of proposed research project
+2. Draft of research proposal outline (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
 
 ### Week 09: Thursday, 28 May 2020
 #### Pre-class reading
@@ -578,18 +577,17 @@ Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mothe
 <!--
 ## Asynchronous
 - Lecture on reading material
-- Watch video from Eve and discuss
+- Watch video from Eve
 ## Synchronous
-- (no discussion to leave room for breakout groups)
-- Breakout groups on culture, caregiving, and conversation
-- Synthesize top questions together; link to motivations
+- Discussion questions from lecture video
+- Come up with questions for Penny
 - Remind about one-on-ones with Marisa
 -->
 
 #### Assignments due
 1. Reading notes
 2. One-on-one meeting with Marisa
-3. Study design proposal
+3. Draft of research proposal study design (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
 
 ## Wrapping up
 
@@ -600,13 +598,15 @@ Optional reading of your choice, related to final study proposal.
 
 <!--
 ## Asynchronous
-- Review guidelines for presentations of research proposals
+- Video from Penny?
+## Synchronous
+- None! office hours.
 -->
 
 #### Assignments due
 1. Reading notes
 2. One-on-one meeting with Marisa
-3. Literature review draft
+3. Draft of research proposal literature review (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
 
 ### Week 10: Thursday, 04 June 2020
 
@@ -615,13 +615,13 @@ Optional reading of your choice, related to final study proposal.
 
 <!--
 ## Asynchronous
-- Watch video from Penny and discuss
+- None!
 ## Synchronous
-- Mini presentations of research proposals
+- None! office hours.
 -->
 
 #### Assignments due
-1. Research proposal
+1. Full research proposal (10–15 pages; see [rubric](./course_instructions/instructions-research_proposal.md))
 
 ## Final exam
 Essay response to two prompts (further instructions to be given).
