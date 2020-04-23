@@ -373,9 +373,9 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 ## Asynchronous
 - Lecture on reading material
 ## Synchronous
-- Discussion questions raised in lecture *VERY BRIEF*
 - Speed-presentations: different features for a cognitive model of turn taking
 - Remind about second-pass transcription assignment
+- Ask an Expert question development for Sara
 -->
 
 #### Assignments due
@@ -399,6 +399,7 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture
+- Remind about proposal for annotation clips (due in 1 week)
 -->
 
 #### Assignments due
@@ -420,6 +421,7 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 #### Teaching plan:
 ## Asynchronous
 - Lecture on reading material
+- Watch interview with Sara?
 - Mini lecture on asking research questions, incl. brainstorming time
 ## Synchronous
 - Discussion questions raised in lecture
@@ -444,11 +446,10 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 #### Teaching plan:
 ## Asynchronous
 - Lecture on reading material
-- Watch and discuss Sara and/or Judith's interviews
 ## Synchronous
 - Discussion questions raised in lecture
-- Round-robin sessions to re-formulate research questions
 - Remind about meetings
+- Remind about video + annotations + instructions due in 1 week
 -->
 
 #### Assignments due
@@ -474,6 +475,7 @@ Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A re
 ## Synchronous
 - Discussion questions raised in lecture
 - Remind about meetings
+- Remind about video + annotations + instructions due Tues
 -->
 
 #### Assignments due
@@ -509,6 +511,7 @@ Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the t
 1. Reading notes
 2. 3-min video presentation on reasoning, methods, and results of added annotations
 3. Peer grades of flash talks (by end of class)
+4. Final annotations added, with instructions for how to add annotations
 
 
 ### Week 08: Thursday, 21 May 2020
