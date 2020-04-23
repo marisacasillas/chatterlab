@@ -4,7 +4,7 @@ Spring 2020: CHDV 38950, LING 38951, PSYC 38960, EDSO 38950
 
 Tuesdays and Thursdays 15.30-16.50 Chicago time
 
-Office hours: 10.00–11.00 Mon-Fri Chicago time or by appointment.
+Office hours:  Wednesday and Friday 8:00am–11:00am Chicago time, or by appointment.
 
 NOTE: This course is taking place **remotely**; email the instructor if you need access to the relevant meeting and coursework links.
 
