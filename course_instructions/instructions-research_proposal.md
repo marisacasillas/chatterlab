@@ -17,7 +17,7 @@ Marisa will assess each of these questions with the following scale and add comm
 
 ```No (0) — Somewhat (1) — Partly (2) — Strongly (3)```
 
-The answers to these questions, together with the minimal criteria (below), will be used to assess tyour final score. Proposals that strongly fulfill most/all of the questions above, plus the minimum criteria, will be highly rated.
+The answers to these questions, together with the minimal criteria (below), will be used to assess your final score. Proposals that strongly fulfill most/all of the questions above, plus the minimum criteria, will be highly rated.
 
 ## All proposals must fulfill three minimal criteria:
 - Be submitted on time: End of day on June 4th.
