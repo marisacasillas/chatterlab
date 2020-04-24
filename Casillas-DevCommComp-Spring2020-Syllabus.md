@@ -4,7 +4,7 @@ Spring 2020: CHDV 38950, LING 38951, PSYC 38960, EDSO 38950
 
 Tuesdays and Thursdays 15.30-16.50 Chicago time
 
-Office hours:  Wednesday and Friday 8:00am–11:00am Chicago time, or by appointment.
+Office hours: Wednesday and Friday 8:00am–11:00am Chicago time, or by appointment.
 
 NOTE: This course is taking place **remotely**; email the instructor if you need access to the relevant meeting and coursework links.
 
@@ -349,7 +349,6 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture
-- Example online button-press(?) experiment
 - Work with a partner on understanding turn-taking system feature
 -->
 
@@ -425,7 +424,6 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 - Mini lecture on asking research questions, incl. brainstorming time
 ## Synchronous
 - Discussion questions raised in lecture
-- Homeroom: Work on research questions simultaneously
 -->
 
 #### Assignments due
@@ -636,6 +634,6 @@ Essay response to two prompts (further instructions to be given).
 
 **Office:** [online]
 
-**Office hours:** 10.00–11.00 Mon-Fri Chicago time or by appointment.
+**Office hours:** Wednesday and Friday 8:00am–11:00am Chicago time, or by appointment.
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.The University of Chicago is committed to ensuring the full participation of all students in its programs. If you have a documented disability (or think you may have a disability) and, as a result, need a reasonable accommodation to participate in class, complete course requirements, or benefit from the University's programs or services, you are encouraged to contact Student Disability Services as soon as possible. To receive reasonable accommodation, you must be appropriately registered with Student Disability Services.  Please contact the office at 773-834-4469/TTY 773-795-1186 or gmoorehead@uchicago.edu, or visit the website at disabilities.uchicago.edu.  Student Disability Services is located in Room 233 in the Administration Building located at 5801 S. Ellis Avenue._
