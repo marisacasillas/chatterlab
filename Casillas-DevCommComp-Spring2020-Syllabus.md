@@ -19,13 +19,67 @@ All course materials, including readings, grading rubrics, lecture materials, an
 ----
 
 # Up this week:
+
 ## Cognitive models of interaction
 
+### Week 05: Tuesday, 28 April 2020
+
+#### Pre-class reading
+\*Bögels, S., & Levinson, S. C. (2017). The brain behind the response: Insights into turn-taking in conversation from neuroimaging. _Research on Language and Social Interaction, 50_, 71-89. [pdf](https://www.dropbox.com/s/ubrgiythawyzq1j/bogels2017brain.pdf?dl=0)
+
+\*Bögels, S., & Torreira, F. (2015). Listeners use intonational phrase boundaries to project turn ends in spoken interaction. _Journal of Phonetics, 52_, 46-57. [pdf](https://www.dropbox.com/s/iwckfce6w2c6g3y/bogels2015listeners.pdf?dl=0)
+
+Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-taking. _Psychonomic Bulletin & Review, 12_(6), 957-968. [pdf](https://www.dropbox.com/s/avo8i069iqy593c/wilson2005oscillator.pdf?dl=0)
+
+\*  = Required
+
+[no lecture or slides; see Thursday]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk05-lec01-BogelsLevinson2017.pdf) and [2](course_instructions/notes/handwritten/wk05-lec01-BogelsTorreira2015.pdf)]
+
+<!--
+#### Teaching plan:
+## Asynchronous
+- Lecture on reading material
+## Synchronous
+- Discussion questions raised in lecture
+- Work with a partner on understanding turn-taking system feature
+-->
 
 #### Assignments due
 1. Reading notes
-2. Annotations: First-pass transcription (due by Sunday)
-3. Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.) (due by Sunday)
+2. Outline for presentation on turn-taking feature
+
+### Week 05: Thursday, 30 April 2020
+
+#### Pre-class reading
+\*Corps, R. E., Crossley, A., Gambi, C., & Pickering, M. J. (2018). Early preparation during turn-taking: Listeners use content predictions to determine what to say but not when to say it. _Cognition 175_, 77-95. [pdf](https://www.dropbox.com/s/5tcrscd0gfell0f/corps2018early.pdf?dl=0)
+
+\*Corps, R., Pickering, M. and Gambi, C. (2020). Predicting turn-ends in discourse context. _Language Cognition and Neuroscience 34_(5), pp. 615-627. [pdf](https://www.dropbox.com/s/ns5qjmno43gxz22/corps2020predicting.pdf?dl=0)
+
+Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness for understanding language. _Journal of Experimental Psychology: General, 147_(2), 190. [pdf](https://www.dropbox.com/s/8ogvg2452iaedit/rabagliati2018importance.pdf?dl=0)
+
+\*  = Required
+
+[[lecture](https://uchicago.zoom.us/rec/share/7stRCp3v51tOHrfsuEXEWoMjANXfX6a82iYdrvdYxU3sryQHlmYNiU-YMDd_euNh)]
+
+[[slides](https://docs.google.com/presentation/d/14VjZgP4TzMp-dSBeyFcKIuXgjrYNPHFA_eHp0IKwJUM/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk05-lec02-CorpsEtAl2018.pdf) and [2](course_instructions/notes/handwritten/wk05-lec02-CorpsEtAl2019.pdf)]
+
+<!--
+#### Teaching plan:
+## Asynchronous
+- Lecture on reading material
+## Synchronous
+- Speed-presentations: different features for a cognitive model of turn taking
+- Remind about second-pass transcription assignment
+- Ask an Expert question development for Sara
+-->
+
+#### Assignments due
+1. Reading notes
+2. Presentation on turn-taking feature (Google Drive; check Canvas Assignments)
 
 ----
 
