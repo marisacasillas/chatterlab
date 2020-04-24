@@ -19,61 +19,8 @@ All course materials, including readings, grading rubrics, lecture materials, an
 ----
 
 # Up this week:
-### Week 04: Tuesday, 21 April 2020
-
-#### Pre-class reading
-\*Ratner, N., & Bruner, J. (1978). Games, social exchange and the acquisition of language. _Journal of Child Language, 5_(3), 391-401. [pdf](https://www.dropbox.com/s/lzv71p3xdbbjgi8/ratner1978games.pdf?dl=0)
-
-\*Gaskins, S. (2006). Cultural perspectives on infant-caregiver interaction. In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 279-298). Oxford: Berg. [pdf](https://www.dropbox.com/s/hu1gtlfqy2uduhr/gaskins2006cultural.pdf?dl=0)
-
-\*Bornstein, M. H., Putnick, D. L., Cote, L. R., Haynes, O. M., & Suwalsky, J. T. (2015). Mother-infant contingent vocalizations in 11 countries. _Psychological Science, 26_(8), 1272-1284. [pdf](https://www.dropbox.com/s/1sl63pmmrf3y84t/bornstein2015mother.pdf?dl=0)
-
-\*  = Required
-
-[[lecture](https://uchicago.zoom.us/rec/share/udRxDrD5yGZOUpXk5V2HBocIPq70aaa8gyEXq6ZZzBuLN0yxRFMBVmQJ2A1djMwS)]
-
-[[slides](https://docs.google.com/presentation/d/1aIfcz83XrP8s69_gHMEcsmzNawmCY_R8y04e9zN_AAQ/edit?usp=sharing)]
-
-[MC's notes for readings [1](course_instructions/notes/handwritten/wk04-lec01-RatnerBruner1978.pdf), [2](course_instructions/notes/handwritten/wk04-lec01-Gaskins2006.pdf), and [3](course_instructions/notes/handwritten/wk04-lec01-BornsteinEtAl2015.pdf)]
-
-
-<!--
-#### Teaching plan:
-## Asynchronous
-- Lecture on reading material
-## Synchronous
-- Discussion questions raised in lecture
-- Remind about transcription assignment
--->
-
-#### Assignments due
-1. Reading notes
-
 ## Cognitive models of interaction
 
-### Week 04: Thursday, 23 April 2020
-
-#### Pre-class reading
-\*Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. _Frontiers in Psychology, 6_: 731. doi:10.3389/fpsyg.2015.00731. [pdf](https://www.dropbox.com/s/wc9gsga25j3co5h/levinson2015timing.pdf?dl=0)
-
-Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
-
-\*  = Required
-
-[[lecture](https://uchicago.zoom.us/rec/share/ouVUcL_v3FtJRLPzyGTWfoccIavgT6a8h3JM86AEzB74K_rKypsTwhnls0g2jQln)]
-
-[[slides](https://docs.google.com/presentation/d/1JctgsRfPOR8j9BBhW60VpWj3I4XBPGy9FBHMs2FgZ54/edit?usp=sharing)]
-
-[MC's notes for reading [1](course_instructions/notes/handwritten/wk04-lec02-LevinsonTorreira2015.pdf)]
-
-<!--
-#### Teaching plan:
-## Asynchronous
-- Lecture on reading material
-## Synchronous
-- Discussion questions raised in lecture
-- Work with a partner on understanding turn-taking system feature
--->
 
 #### Assignments due
 1. Reading notes
@@ -343,6 +290,10 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 
 \*  = Required
 
+[no lecture or slides; see Thursday]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk05-lec01-BogelsLevinson2017.pdf) and [2](course_instructions/notes/handwritten/wk05-lec01-BogelsTorreira2015.pdf)]
+
 <!--
 #### Teaching plan:
 ## Asynchronous
@@ -366,6 +317,12 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness for understanding language. _Journal of Experimental Psychology: General, 147_(2), 190. [pdf](https://www.dropbox.com/s/8ogvg2452iaedit/rabagliati2018importance.pdf?dl=0)
 
 \*  = Required
+
+[[lecture](https://uchicago.zoom.us/rec/share/7stRCp3v51tOHrfsuEXEWoMjANXfX6a82iYdrvdYxU3sryQHlmYNiU-YMDd_euNh)]
+
+[[slides](https://docs.google.com/presentation/d/14VjZgP4TzMp-dSBeyFcKIuXgjrYNPHFA_eHp0IKwJUM/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk05-lec02-CorpsEtAl2018.pdf) and [2](course_instructions/notes/handwritten/wk05-lec02-CorpsEtAl2019.pdf)]
 
 <!--
 #### Teaching plan:
