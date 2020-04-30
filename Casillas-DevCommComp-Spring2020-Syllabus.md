@@ -95,7 +95,7 @@ Students are expected to submit digital notes summarizing and reacting to each a
 
 ### Transcription mini-project (20%)
 
-Students will incrementally add annotations to a small collection of interaction clips over multiple weeks (a brief intro video [here](https://uchicago.zoom.us/rec/share/yv14Hr37z2FOQ7fk7B_PWb4qPKbZX6a8hCMc_fAEyNf02JF_ZVsfWgQSoRqm3O8)). Each time they submit new annotations, they are expected to submit short written reflections on their progress (200–500 words). The submission of annotations and reflections takes place four times (up to 3% for all four submissions). Students will also propose a mini research question that can be addressed by additional annotations of the data (up to 3%) and after executing these additional annotations, will present their findings to the class (up to 4%). Students are be expected to provide useful feedback about each other's presentations (1%; see a brief introduction video here).
+Students will incrementally add annotations to a small collection of interaction clips over multiple weeks (a brief intro video [here](https://uchicago.zoom.us/rec/share/yv14Hr37z2FOQ7fk7B_PWb4qPKbZX6a8hCMc_fAEyNf02JF_ZVsfWgQSoRqm3O8)). Each time they submit new annotations, they are expected to submit short written reflections on their progress (200–500 words). The submission of annotations and reflections takes place four times (up to 3% for all four submissions). Students will also propose a mini research question that can be addressed by additional annotations of the data (up to 3%) and after executing these additional annotations, will present their findings to the class (up to 4%). Students are be expected to provide useful feedback about each other's presentations (1%; see a brief introduction video [here](https://uchicago.zoom.us/rec/share/6OdQcOjf-jhLeZXU0lr8UYQdL67CX6a803Md_vRYykrnEVx3MjVH7zXJ1kDeQWc1)).
 
 * 4 x 3 points for every [annotation + reflections submission](./course_instructions/instructions-annotation_reflections.md), tutorials for [diarization](https://uchicago.zoom.us/rec/play/6MYrJrqtrzs3GIfGuASDB_ArW420e6us0SNI_aYLxE-2BXAHZgGvN-MSYOLky5xQemWT1_zVnTjxvsza) and [transcription](https://uchicago.zoom.us/rec/play/u8Z-Ib2qrW83GNPEtASDA_ErW9TpKa-s1yYcqfEKmkm8B3EAYVP1ZeESauDKs7z6rz0irBlBdEr83F1H) are available at the linked locations, but please ask if you have any questions!
 * 1 x 3 points for [proposal of mini research question](./course_instructions/instructions-annotation_proposal.md)
@@ -403,7 +403,7 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 
 \*  = Required
 
-[lecture (still to come)]
+[[lecture](https://uchicago.zoom.us/rec/share/-edNP-vs8TlOaKvx4VH9VZQ8RpW5X6a8g3RKq6cEzB2zL8qPTqIH_QTtjwg9ygS9)]
 
 [[slides](https://docs.google.com/presentation/d/1YmQgn_S2UuHk_e8bzyK0NbQhopI61bsHcNqGAbAYMzE/edit?usp=sharing)]
 
@@ -433,7 +433,7 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 
 \*  = Required
 
-[lecture (still to come)]
+[[lecture](https://uchicago.zoom.us/rec/share/vZR6bPLPzmFOX9aQ0HrRZJ9-P7naX6a8gCQfq6VemU6ng-kQYYp5VeoGHTOzmXsy)]
 
 [[slides](https://docs.google.com/presentation/d/1kSzM6O8m6KklIqsQCvswFGRenY4fmj-AmBeapsjxE68/edit?usp=sharing)]
 
