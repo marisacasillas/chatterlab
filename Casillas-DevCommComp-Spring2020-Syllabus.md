@@ -20,22 +20,22 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-## Cognitive models of interaction
+## Visible conversation
 
-### Week 05: Tuesday, 28 April 2020
+### Week 06: Tuesday, 05 May 2020
 
 #### Pre-class reading
-\*Bögels, S., & Levinson, S. C. (2017). The brain behind the response: Insights into turn-taking in conversation from neuroimaging. _Research on Language and Social Interaction, 50_, 71-89. [pdf](https://www.dropbox.com/s/ubrgiythawyzq1j/bogels2017brain.pdf?dl=0)
+\*De Vos, C., Torreira, F., & Levinson, S. C. (2015). Turn-timing in signed conversations: Coordinating stroke-to-stroke turn boundaries. _Frontiers in Psychology, 6_:268. doi:10.3389/fpsyg.2015.00268. [pdf](https://www.dropbox.com/s/h2dyu8lj2297av5/devos2015turntiming.pdf?dl=0)
 
-\*Bögels, S., & Torreira, F. (2015). Listeners use intonational phrase boundaries to project turn ends in spoken interaction. _Journal of Phonetics, 52_, 46-57. [pdf](https://www.dropbox.com/s/iwckfce6w2c6g3y/bogels2015listeners.pdf?dl=0)
-
-Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-taking. _Psychonomic Bulletin & Review, 12_(6), 957-968. [pdf](https://www.dropbox.com/s/avo8i069iqy593c/wilson2005oscillator.pdf?dl=0)
+\*Holler, J., Kendrick, K. H., & Levinson, S. C. (2018). Processing language in face-to-face conversation: Questions with gestures get faster responses. _Psychonomic Bulletin & Review, 25_(5), 1900-1908. doi:10.3758/s13423-017-1363-z. [pdf](https://www.dropbox.com/s/4uer2ny6vto6b97/holler2018processing.pdf?dl=0)
 
 \*  = Required
 
-[no lecture or slides; see Thursday]
+[[lecture](https://uchicago.zoom.us/rec/share/-edNP-vs8TlOaKvx4VH9VZQ8RpW5X6a8g3RKq6cEzB2zL8qPTqIH_QTtjwg9ygS9)]
 
-[MC's notes for readings [1](course_instructions/notes/handwritten/wk05-lec01-BogelsLevinson2017.pdf) and [2](course_instructions/notes/handwritten/wk05-lec01-BogelsTorreira2015.pdf)]
+[[slides](https://docs.google.com/presentation/d/1YmQgn_S2UuHk_e8bzyK0NbQhopI61bsHcNqGAbAYMzE/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk06-lec01-deVosEtAl2015.pdf) and [2](course_instructions/notes/handwritten/wk06-lec01-HollerEtAl2018.pdf)]
 
 <!--
 #### Teaching plan:
@@ -43,43 +43,42 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture
-- Work with a partner on understanding turn-taking system feature
+- Remind about proposal for annotation clips (due in 1 week)
 -->
 
 #### Assignments due
 1. Reading notes
-2. Outline for presentation on turn-taking feature
+2. Second-pass transcribe conversation clips
+3. Reflection paragraph: What did you neglect to notice when you first transcribed the clips? What do you think you would discover if you made a further correctional pass?
 
-### Week 05: Thursday, 30 April 2020
+
+### Week 06: Thursday, 07 May 2020
 
 #### Pre-class reading
-\*Corps, R. E., Crossley, A., Gambi, C., & Pickering, M. J. (2018). Early preparation during turn-taking: Listeners use content predictions to determine what to say but not when to say it. _Cognition 175_, 77-95. [pdf](https://www.dropbox.com/s/5tcrscd0gfell0f/corps2018early.pdf?dl=0)
+\*Latif, N., Alsius, A., & Munhall, K. G. (2018). Knowing when to respond: the role of visual information in conversational turn exchanges. _Attention, Perception, & Psychophysics, 80_(1), 27-41. [pdf](https://www.dropbox.com/s/x8kch00tz3wgp7q/latif2018knowing.pdf?dl=0)
 
-\*Corps, R., Pickering, M. and Gambi, C. (2020). Predicting turn-ends in discourse context. _Language Cognition and Neuroscience 34_(5), pp. 615-627. [pdf](https://www.dropbox.com/s/ns5qjmno43gxz22/corps2020predicting.pdf?dl=0)
-
-Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness for understanding language. _Journal of Experimental Psychology: General, 147_(2), 190. [pdf](https://www.dropbox.com/s/8ogvg2452iaedit/rabagliati2018importance.pdf?dl=0)
+\*Hömke, P., Holler, J., & Levinson, S. C. (2018). Eye blinks are perceived as communicative signals in human face-to-face interaction. _PLoS One, 13_(12): e0208030. doi:10.1371/journal.pone.0208030. [pdf](https://www.dropbox.com/s/tg6b9m43ctw8cx2/homke2018eye.pdf?dl=0)
 
 \*  = Required
 
-[[lecture](https://uchicago.zoom.us/rec/share/7stRCp3v51tOHrfsuEXEWoMjANXfX6a82iYdrvdYxU3sryQHlmYNiU-YMDd_euNh)]
+[[lecture](https://uchicago.zoom.us/rec/share/vZR6bPLPzmFOX9aQ0HrRZJ9-P7naX6a8gCQfq6VemU6ng-kQYYp5VeoGHTOzmXsy)]
 
-[[slides](https://docs.google.com/presentation/d/14VjZgP4TzMp-dSBeyFcKIuXgjrYNPHFA_eHp0IKwJUM/edit?usp=sharing)]
+[[slides](https://docs.google.com/presentation/d/1kSzM6O8m6KklIqsQCvswFGRenY4fmj-AmBeapsjxE68/edit?usp=sharing)]
 
-[MC's notes for readings [1](course_instructions/notes/handwritten/wk05-lec02-CorpsEtAl2018.pdf) and [2](course_instructions/notes/handwritten/wk05-lec02-CorpsEtAl2019.pdf)]
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk06-lec02-LatifEtAl2018.pdf) and [2](course_instructions/notes/handwritten/wk06-lec02-HoemkeEtAl2018.pdf)]
 
 <!--
 #### Teaching plan:
 ## Asynchronous
 - Lecture on reading material
+- Watch interview with Sara?
+- Mini lecture on asking research questions, incl. brainstorming time
 ## Synchronous
-- Speed-presentations: different features for a cognitive model of turn taking
-- Remind about second-pass transcription assignment
-- Ask an Expert question development for Sara
+- Discussion questions raised in lecture
 -->
 
 #### Assignments due
 1. Reading notes
-2. Presentation on turn-taking feature (Google Drive; check Canvas Assignments)
 
 ----
 
