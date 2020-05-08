@@ -20,22 +20,22 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-## Visible conversation
+## Conversation with child interactants
 
-### Week 06: Tuesday, 05 May 2020
+### Week 07: Tuesday, 12 May 2020
 
 #### Pre-class reading
-\*De Vos, C., Torreira, F., & Levinson, S. C. (2015). Turn-timing in signed conversations: Coordinating stroke-to-stroke turn boundaries. _Frontiers in Psychology, 6_:268. doi:10.3389/fpsyg.2015.00268. [pdf](https://www.dropbox.com/s/h2dyu8lj2297av5/devos2015turntiming.pdf?dl=0)
+\*Snow, C. E. (1977). The development of conversation between mothers and babies. _Journal of Child Language, 4_(1), 1-22. [pdf](https://www.dropbox.com/s/ow3x0mii5ptxdhd/snow1977development.pdf?dl=0)
 
-\*Holler, J., Kendrick, K. H., & Levinson, S. C. (2018). Processing language in face-to-face conversation: Questions with gestures get faster responses. _Psychonomic Bulletin & Review, 25_(5), 1900-1908. doi:10.3758/s13423-017-1363-z. [pdf](https://www.dropbox.com/s/4uer2ny6vto6b97/holler2018processing.pdf?dl=0)
+\*Casillas, M., & Hilbrink, E. (in press). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), _Developmental and Clinical Pragmatics_. De Gruyter Mouton. [pdf](https://www.dropbox.com/s/1vmy11ug5o2sk8y/casillasIPcommunicative.pdf?dl=0)
 
 \*  = Required
 
-[[lecture](https://uchicago.zoom.us/rec/share/-edNP-vs8TlOaKvx4VH9VZQ8RpW5X6a8g3RKq6cEzB2zL8qPTqIH_QTtjwg9ygS9)]
+[[lecture](https://uchicago.zoom.us/rec/share/55dMcLvZ2zJOHoXfwUHUZvYOToXBT6a8hiVL_6dZzxvv5DZ2jfS-7ImXUHjD5mec)]
 
-[[slides](https://docs.google.com/presentation/d/1YmQgn_S2UuHk_e8bzyK0NbQhopI61bsHcNqGAbAYMzE/edit?usp=sharing)]
+[[slides](https://docs.google.com/presentation/d/15e_Ejpa7QBWAw_oj9YV-RlgCyOElIsnXlFhrYeHTM_Y/edit?usp=sharing)]
 
-[MC's notes for readings [1](course_instructions/notes/handwritten/wk06-lec01-deVosEtAl2015.pdf) and [2](course_instructions/notes/handwritten/wk06-lec01-HollerEtAl2018.pdf)]
+[MC's notes for reading [1](course_instructions/notes/handwritten/wk07-lec01-Snow1977.pdf)]
 
 <!--
 #### Teaching plan:
@@ -43,44 +43,46 @@ All course materials, including readings, grading rubrics, lecture materials, an
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture
-- Remind about proposal for annotation clips (due in 1 week)
+- Remind about meetings
+- Remind about video + annotations + instructions due in 1 week
 -->
 
 #### Assignments due
 1. Reading notes
-2. Second-pass transcribe conversation clips
-3. Reflection paragraph: What did you neglect to notice when you first transcribed the clips? What do you think you would discover if you made a further correctional pass?
+2. 500 word (maximum) proposal for additional analysis on the conversation clips
 
 
-### Week 06: Thursday, 07 May 2020
-
+### Week 07: Thursday, 14 May 2020
 #### Pre-class reading
-\*Latif, N., Alsius, A., & Munhall, K. G. (2018). Knowing when to respond: the role of visual information in conversational turn exchanges. _Attention, Perception, & Psychophysics, 80_(1), 27-41. [pdf](https://www.dropbox.com/s/x8kch00tz3wgp7q/latif2018knowing.pdf?dl=0)
+\*Stivers, T., Sidnell, J., & Bergen, C. (2018). Children's responses to questions in peer interaction: A window into the ontogenesis of interactional competence. Journal of Pragmatics, 124, 14-30. [pdf](https://www.dropbox.com/s/7g3hlpy7p1jfqgx/stivers2018childrens.pdf?dl=0)
 
-\*Hömke, P., Holler, J., & Levinson, S. C. (2018). Eye blinks are perceived as communicative signals in human face-to-face interaction. _PLoS One, 13_(12): e0208030. doi:10.1371/journal.pone.0208030. [pdf](https://www.dropbox.com/s/tg6b9m43ctw8cx2/homke2018eye.pdf?dl=0)
+\*Shatz, M. (1978). On the development of communicative understandings: An early strategy for interpreting and responding to messages. _Cognitive Psychology, 10_(3), 271-301. [pdf](https://www.dropbox.com/s/w2lmn797yla46kf/shatz1978development.pdf?dl=0)
+
+Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A reassessment of two-year-olds' behaviour in miscommunication episodes. _Journal of Child Language, 17_(1), 131-146. [pdf](https://www.dropbox.com/s/9tch2s9vmz13zfd/shatz1990conversational.pdf?dl=0)
 
 \*  = Required
 
-[[lecture](https://uchicago.zoom.us/rec/share/vZR6bPLPzmFOX9aQ0HrRZJ9-P7naX6a8gCQfq6VemU6ng-kQYYp5VeoGHTOzmXsy)]
+[[lecture](https://uchicago.zoom.us/rec/share/yZxOEYuo53FLYJ3G0mOEfpwCQKnmeaa82iBLqaYEmBw8d5folRe4XUBJrzjofr-n)]
 
-[[slides](https://docs.google.com/presentation/d/1kSzM6O8m6KklIqsQCvswFGRenY4fmj-AmBeapsjxE68/edit?usp=sharing)]
+[[slides](https://docs.google.com/presentation/d/1sgffSEES4qfomqvwT1IUhthFBLuj9Pa8UrsBq4WTL_Y/edit?usp=sharing)]
 
-[MC's notes for readings [1](course_instructions/notes/handwritten/wk06-lec02-LatifEtAl2018.pdf) and [2](course_instructions/notes/handwritten/wk06-lec02-HoemkeEtAl2018.pdf)]
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk07-lec02-Shatz1978.pdf) and [2](course_instructions/notes/handwritten/wk07-lec02-Stivers2018.pdf)]
 
 <!--
 #### Teaching plan:
 ## Asynchronous
 - Lecture on reading material
-- Watch interview with Sara?
-- Mini lecture on asking research questions, incl. brainstorming time
+- Introduction to video assignment for next time
 ## Synchronous
 - Discussion questions raised in lecture
+- Remind about meetings
+- Remind about video + annotations + instructions due Tues
 -->
 
 #### Assignments due
-1. Reading notes
+1. One-on-one meeting about annotation analysis project w/ Marisa
+2. Reading notes
 
-----
 
 # Grading
 
@@ -462,6 +464,12 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 
 \*  = Required
 
+[[lecture](https://uchicago.zoom.us/rec/share/55dMcLvZ2zJOHoXfwUHUZvYOToXBT6a8hiVL_6dZzxvv5DZ2jfS-7ImXUHjD5mec)]
+
+[[slides](https://docs.google.com/presentation/d/15e_Ejpa7QBWAw_oj9YV-RlgCyOElIsnXlFhrYeHTM_Y/edit?usp=sharing)]
+
+[MC's notes for reading [1](course_instructions/notes/handwritten/wk07-lec01-Snow1977.pdf)]
+
 <!--
 #### Teaching plan:
 ## Asynchronous
@@ -486,6 +494,12 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A reassessment of two-year-olds' behaviour in miscommunication episodes. _Journal of Child Language, 17_(1), 131-146. [pdf](https://www.dropbox.com/s/9tch2s9vmz13zfd/shatz1990conversational.pdf?dl=0)
 
 \*  = Required
+
+[[lecture](https://uchicago.zoom.us/rec/share/yZxOEYuo53FLYJ3G0mOEfpwCQKnmeaa82iBLqaYEmBw8d5folRe4XUBJrzjofr-n)]
+
+[[slides](https://docs.google.com/presentation/d/1sgffSEES4qfomqvwT1IUhthFBLuj9Pa8UrsBq4WTL_Y/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk07-lec02-Shatz1978.pdf) and [2](course_instructions/notes/handwritten/wk07-lec02-Stivers2018.pdf)]
 
 <!--
 #### Teaching plan:
@@ -529,9 +543,9 @@ Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the t
 
 #### Assignments due
 1. Reading notes
-2. 3-min video presentation on reasoning, methods, and results of added annotations
-3. Peer grades of flash talks (by end of class)
-4. Final annotation files, with instructions attached for how to add annotations
+2. 3-min video presentation on reasoning, methods, and results of added annotations (by start of class)
+3. Peer grades of flash talks (by end of day)
+4. Final annotation files, with instructions attached for how to add annotations (by end of day)
 
 
 ### Week 08: Thursday, 21 May 2020
