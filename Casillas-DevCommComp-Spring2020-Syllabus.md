@@ -525,7 +525,7 @@ Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A re
 
 \*Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. _Journal of Child Language, 43_, 1310-1337. [pdf](https://www.dropbox.com/s/dez5j7tc0guxzjp/casillas2016turntaking.pdf?dl=0)
 
-Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the timing of their conversational turns through flexible coordination of language comprehension and production. _Psychological Science_. [pdf](https://www.dropbox.com/s/yct1j7xj6juuxkl/lindsay2019preschoolers.pdf?dl=0)
+Lindsay, L., Gambi, C., & Rabagliati, H. (2019). Preschoolers optimize the timing of their conversational turns through flexible coordination of language comprehension and production. _Psychological Science_. [pdf](https://www.dropbox.com/s/yct1j7xj6juuxkl/lindsay2019preschoolers.pdf?dl=0)
 
 \*  = Required
 
@@ -554,8 +554,6 @@ Lindsay, L., Gambi, C., & Rabagliati, H. (in press). Preschoolers optimize the t
 \*Clark, E. V. (2020). Conversational repair and the acquisition of language. _Discourse Processes, XX_, 1–19. [pdf](https://www.dropbox.com/s/nydxxgoy3g6jidx/clark2020conversational.pdf?dl=0)
 
 Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as negative evidence. _Journal of Child Language, 30_(3), 637-669. [pdf](https://www.dropbox.com/s/1ddj6gxqdu4w7uk/chouinard2003adult.pdf?dl=0)
-
-Clark, E. V., & Bernicot, J. (2008). Repetition as ratification: How parents and children place information in common ground. _Journal of Child Language, 35_(2), 349-371. [pdf](https://www.dropbox.com/s/hxlc35cgar7j06h/clark2008repetition.pdf?dl=0)
 
 \*  = Required
 
