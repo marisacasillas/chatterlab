@@ -529,6 +529,12 @@ Lindsay, L., Gambi, C., & Rabagliati, H. (2019). Preschoolers optimize the timin
 
 \*  = Required
 
+[lecture to be posted]
+
+[slides to be posted]
+
+[MC's notes for reading [1](course_instructions/notes/handwritten/wk08-lec01-HilbrinkEtAl2015.pdf)]
+
 <!--
 #### Teaching plan:
 ## Asynchronous
@@ -557,6 +563,11 @@ Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as
 
 \*  = Required
 
+[lecture to be posted]
+
+[slides to be posted]
+
+[MC's notes for reading [2](course_instructions/notes/handwritten/wk08-lec02-Clark2020.pdf)]
 <!--
 ## Asynchronous
 - Lecture on reading material
