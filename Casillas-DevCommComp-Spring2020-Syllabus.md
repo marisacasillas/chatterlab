@@ -19,70 +19,71 @@ All course materials, including readings, grading rubrics, lecture materials, an
 ----
 
 # Up this week:
+## Language meets interaction in development
 
-## Conversation with child interactants
-
-### Week 07: Tuesday, 12 May 2020
+### Week 08: Tuesday, 19 May 2020
 
 #### Pre-class reading
-\*Snow, C. E. (1977). The development of conversation between mothers and babies. _Journal of Child Language, 4_(1), 1-22. [pdf](https://www.dropbox.com/s/ow3x0mii5ptxdhd/snow1977development.pdf?dl=0)
+\*Hilbrink, E., Gattis, M., & Levinson, S. C. (2015). Early developmental changes in the timing of turn-taking: A longitudinal study of mother-infant interaction. _Frontiers in Psychology, 6_:1492. [pdf](https://www.dropbox.com/s/acxzwq4uvhspt7r/hilbrink2015early.pdf?dl=0)
 
-\*Casillas, M., & Hilbrink, E. (in press). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), _Developmental and Clinical Pragmatics_. De Gruyter Mouton. [pdf](https://www.dropbox.com/s/1vmy11ug5o2sk8y/casillasIPcommunicative.pdf?dl=0)
+\*Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. _Journal of Child Language, 43_, 1310-1337. [pdf](https://www.dropbox.com/s/dez5j7tc0guxzjp/casillas2016turntaking.pdf?dl=0)
+
+Lindsay, L., Gambi, C., & Rabagliati, H. (2019). Preschoolers optimize the timing of their conversational turns through flexible coordination of language comprehension and production. _Psychological Science_. [pdf](https://www.dropbox.com/s/yct1j7xj6juuxkl/lindsay2019preschoolers.pdf?dl=0)
 
 \*  = Required
 
-[[lecture](https://uchicago.zoom.us/rec/share/55dMcLvZ2zJOHoXfwUHUZvYOToXBT6a8hiVL_6dZzxvv5DZ2jfS-7ImXUHjD5mec)]
+[lecture posted on Canvas---sensitive material]
 
-[[slides](https://docs.google.com/presentation/d/15e_Ejpa7QBWAw_oj9YV-RlgCyOElIsnXlFhrYeHTM_Y/edit?usp=sharing)]
+[slides posted on Canvas---sensitive material]
 
-[MC's notes for reading [1](course_instructions/notes/handwritten/wk07-lec01-Snow1977.pdf)]
+[MC's notes for reading [1](course_instructions/notes/handwritten/wk08-lec01-HilbrinkEtAl2015.pdf)]
 
 <!--
 #### Teaching plan:
 ## Asynchronous
 - Lecture on reading material
 ## Synchronous
-- Discussion questions raised in lecture
-- Remind about meetings
-- Remind about video + annotations + instructions due in 1 week
+- No discussion due to presentations
+- Peer-grading of presentations
+- Remind about meetings with Marisa
 -->
 
 #### Assignments due
 1. Reading notes
-2. 500 word (maximum) proposal for additional analysis on the conversation clips
+2. 3-min video presentation on reasoning, methods, and results of added annotations (by start of class)
+3. Peer grades of flash talks (by end of day)
+4. Final annotation files, with instructions attached for how to add annotations (by end of day)
 
 
-### Week 07: Thursday, 14 May 2020
+### Week 08: Thursday, 21 May 2020
+
 #### Pre-class reading
-\*Stivers, T., Sidnell, J., & Bergen, C. (2018). Children's responses to questions in peer interaction: A window into the ontogenesis of interactional competence. Journal of Pragmatics, 124, 14-30. [pdf](https://www.dropbox.com/s/7g3hlpy7p1jfqgx/stivers2018childrens.pdf?dl=0)
+\*Casillas, M., & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. _Journal of Memory and Language, 92_, 234-253. [pdf](https://www.dropbox.com/s/hp5fmpjoyd2mso0/casillas2017development.pdf?dl=0)
 
-\*Shatz, M. (1978). On the development of communicative understandings: An early strategy for interpreting and responding to messages. _Cognitive Psychology, 10_(3), 271-301. [pdf](https://www.dropbox.com/s/w2lmn797yla46kf/shatz1978development.pdf?dl=0)
+\*Clark, E. V. (2020). Conversational repair and the acquisition of language. _Discourse Processes, XX_, 1–19. [pdf](https://www.dropbox.com/s/nydxxgoy3g6jidx/clark2020conversational.pdf?dl=0)
 
-Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A reassessment of two-year-olds' behaviour in miscommunication episodes. _Journal of Child Language, 17_(1), 131-146. [pdf](https://www.dropbox.com/s/9tch2s9vmz13zfd/shatz1990conversational.pdf?dl=0)
+Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as negative evidence. _Journal of Child Language, 30_(3), 637-669. [pdf](https://www.dropbox.com/s/1ddj6gxqdu4w7uk/chouinard2003adult.pdf?dl=0)
 
 \*  = Required
 
-[[lecture](https://uchicago.zoom.us/rec/share/yZxOEYuo53FLYJ3G0mOEfpwCQKnmeaa82iBLqaYEmBw8d5folRe4XUBJrzjofr-n)]
+[lecture posted on Canvas---sensitive material]
 
-[[slides](https://docs.google.com/presentation/d/1sgffSEES4qfomqvwT1IUhthFBLuj9Pa8UrsBq4WTL_Y/edit?usp=sharing)]
+[slides posted on Canvas---sensitive material]
 
-[MC's notes for readings [1](course_instructions/notes/handwritten/wk07-lec02-Shatz1978.pdf) and [2](course_instructions/notes/handwritten/wk07-lec02-Stivers2018.pdf)]
+[MC's notes for reading [2](course_instructions/notes/handwritten/wk08-lec02-Clark2020.pdf)]
 
 <!--
-#### Teaching plan:
 ## Asynchronous
 - Lecture on reading material
-- Introduction to video assignment for next time
 ## Synchronous
-- Discussion questions raised in lecture
-- Remind about meetings
-- Remind about video + annotations + instructions due Tues
+- Discussion questions raised in lecture **brief**
+- Come up with questions for Eve
+- Remind about meetings w/ Marisa
 -->
 
 #### Assignments due
-1. One-on-one meeting about annotation analysis project w/ Marisa
-2. Reading notes
-
+1. Reading notes
+2. One-on-one meeting w/ Marisa about research proposal
 
 # Grading
 
