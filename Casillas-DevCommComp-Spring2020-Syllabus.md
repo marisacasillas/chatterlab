@@ -596,6 +596,12 @@ Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe,
 
 \*  = Required
 
+[[lecture](https://uchicago.zoom.us/rec/play/vZ1-cuCt-jo3S9yRtASDUfZxW43pfP-s03Ac-KYJzU7jAHNQMFqmYOERMbN4hFmAsO-EcfaOQ_NwGyzs)] 42 min
+
+[[slides](https://docs.google.com/presentation/d/1NvBAgEqqP9RL1RUBc56rk00fGtrpRIOio6TBBAj1dxc/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk09-lec01-Rowe2012.pdf) and [2](course_instructions/notes/handwritten/wk09-lec01-DonnellanEtAl2019.pdf)]
+
 <!--
 ## Asynchronous
 - Lecture on reading material
@@ -618,6 +624,12 @@ Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe,
 Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mother‐infant‐sibling triads. _Child Development, 62_(3), 517-529. [pdf](https://www.dropbox.com/s/qsrj0mj02v263w8/barton1991joint.pdf?dl=0)
 
 \*  = Required
+
+[[lecture](https://uchicago.zoom.us/rec/play/tZQqcOuv_T83E9STuASDCqQoW43pK6qs0HdI-vALzUqxAHABNlrwM7oQauN9FiVPD1MZz30cvmWZ4lqK)] 36 min
+
+[[slides](https://docs.google.com/presentation/d/1d0hgMyOZqXHA28mM9mbkhYO-Au7cnJe8n39oZWrgF4w/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk09-lec02-DunnShatz1987.pdf) and [2](course_instructions/notes/handwritten/wk09-lec02-Brown2011.pdf)]
 
 <!--
 ## Asynchronous
