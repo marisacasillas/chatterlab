@@ -19,71 +19,71 @@ All course materials, including readings, grading rubrics, lecture materials, an
 ----
 
 # Up this week:
-## Language meets interaction in development
 
-### Week 08: Tuesday, 19 May 2020
+## Conversational "input"
+
+### Week 09: Tuesday, 26 May 2020
 
 #### Pre-class reading
-\*Hilbrink, E., Gattis, M., & Levinson, S. C. (2015). Early developmental changes in the timing of turn-taking: A longitudinal study of mother-infant interaction. _Frontiers in Psychology, 6_:1492. [pdf](https://www.dropbox.com/s/acxzwq4uvhspt7r/hilbrink2015early.pdf?dl=0)
+\*Rowe, M. L. (2012). A longitudinal investigation of the role of quantity and quality of child‐directed speech in vocabulary development. _Child Development, 83_(5), 1762-1774. [pdf](https://www.dropbox.com/s/fps0qekzfqnoatv/rowe2012longitudinal.pdf?dl=0)
 
-\*Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. _Journal of Child Language, 43_, 1310-1337. [pdf](https://www.dropbox.com/s/dez5j7tc0guxzjp/casillas2016turntaking.pdf?dl=0)
+\*Donnellan, E., Bannard, C., McGillion, M. L., Slocombe, K. E., & Matthews, D. (2020). Infants’ intentionally communicative vocalizations elicit responses from caregivers and are the best predictors of the transition to language: A longitudinal investigation of infants’ vocalizations, gestures and word production. _Developmental Science_, e12843. [pdf](https://www.dropbox.com/s/d0zmuwqtrso418o/donnellan2019infants.pdf?dl=0)
 
-Lindsay, L., Gambi, C., & Rabagliati, H. (2019). Preschoolers optimize the timing of their conversational turns through flexible coordination of language comprehension and production. _Psychological Science_. [pdf](https://www.dropbox.com/s/yct1j7xj6juuxkl/lindsay2019preschoolers.pdf?dl=0)
+Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. (2018). Beyond the 30-million-word gap: Children’s conversational exposure is associated with language-related brain function. _Psychological Science, 29_(5), 700-710. [pdf](https://www.dropbox.com/s/pgavrbc35if309v/romeo2018beyond.pdf?dl=0)
 
 \*  = Required
 
-[lecture posted on Canvas---sensitive material]
+[[lecture](https://uchicago.zoom.us/rec/play/vZ1-cuCt-jo3S9yRtASDUfZxW43pfP-s03Ac-KYJzU7jAHNQMFqmYOERMbN4hFmAsO-EcfaOQ_NwGyzs)] 42 min
 
-[slides posted on Canvas---sensitive material]
+[[slides](https://docs.google.com/presentation/d/1NvBAgEqqP9RL1RUBc56rk00fGtrpRIOio6TBBAj1dxc/edit?usp=sharing)]
 
-[MC's notes for reading [1](course_instructions/notes/handwritten/wk08-lec01-HilbrinkEtAl2015.pdf)]
-
-<!--
-#### Teaching plan:
-## Asynchronous
-- Lecture on reading material
-## Synchronous
-- No discussion due to presentations
-- Peer-grading of presentations
-- Remind about meetings with Marisa
--->
-
-#### Assignments due
-1. Reading notes
-2. 3-min video presentation on reasoning, methods, and results of added annotations (by start of class)
-3. Peer grades of flash talks (by end of day)
-4. Final annotation files, with instructions attached for how to add annotations (by end of day)
-
-
-### Week 08: Thursday, 21 May 2020
-
-#### Pre-class reading
-\*Casillas, M., & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. _Journal of Memory and Language, 92_, 234-253. [pdf](https://www.dropbox.com/s/hp5fmpjoyd2mso0/casillas2017development.pdf?dl=0)
-
-\*Clark, E. V. (2020). Conversational repair and the acquisition of language. _Discourse Processes, XX_, 1–19. [pdf](https://www.dropbox.com/s/nydxxgoy3g6jidx/clark2020conversational.pdf?dl=0)
-
-Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as negative evidence. _Journal of Child Language, 30_(3), 637-669. [pdf](https://www.dropbox.com/s/1ddj6gxqdu4w7uk/chouinard2003adult.pdf?dl=0)
-
-\*  = Required
-
-[lecture posted on Canvas---sensitive material]
-
-[slides posted on Canvas---sensitive material]
-
-[MC's notes for reading [2](course_instructions/notes/handwritten/wk08-lec02-Clark2020.pdf)]
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk09-lec01-Rowe2012.pdf) and [2](course_instructions/notes/handwritten/wk09-lec01-DonnellanEtAl2019.pdf)]
 
 <!--
 ## Asynchronous
 - Lecture on reading material
 ## Synchronous
 - Discussion questions raised in lecture **brief**
-- Come up with questions for Eve
-- Remind about meetings w/ Marisa
+- Round-robin sessions to re-formulate research questions
+- Remind about one-on-ones with Marisa
 -->
 
 #### Assignments due
 1. Reading notes
-2. One-on-one meeting w/ Marisa about research proposal
+2. Draft of research proposal outline (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
+
+### Week 09: Thursday, 28 May 2020
+#### Pre-class reading
+\*Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399-410. [pdf](https://www.dropbox.com/s/lhbh8njfhb40a1z/dunn1989becoming.pdf?dl=0)
+
+\*Brown, P. (2011). The cultural organization of attention. In A. Duranti, E. Ochs, & B. B. Schieffelin (Eds.), _The Handbook of Language Socialization_ (pp. 29-55). Malden, MA: Wiley-Blackwell. [pdf](https://www.dropbox.com/s/pmad9n8gdlbtkpd/brown2011cultural.pdf?dl=0)
+
+Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mother‐infant‐sibling triads. _Child Development, 62_(3), 517-529. [pdf](https://www.dropbox.com/s/qsrj0mj02v263w8/barton1991joint.pdf?dl=0)
+
+\*  = Required
+
+[[lecture](https://uchicago.zoom.us/rec/play/tZQqcOuv_T83E9STuASDCqQoW43pK6qs0HdI-vALzUqxAHABNlrwM7oQauN9FiVPD1MZz30cvmWZ4lqK)] 36 min
+
+[[slides](https://docs.google.com/presentation/d/1d0hgMyOZqXHA28mM9mbkhYO-Au7cnJe8n39oZWrgF4w/edit?usp=sharing)]
+
+[MC's notes for readings [1](course_instructions/notes/handwritten/wk09-lec02-DunnShatz1987.pdf) and [2](course_instructions/notes/handwritten/wk09-lec02-Brown2011.pdf)]
+
+<!--
+## Asynchronous
+- Lecture on reading material
+- Watch video from Eve
+## Synchronous
+- Discussion questions from lecture video
+- Come up with questions for Penny
+- Remind about one-on-ones with Marisa
+-->
+
+#### Assignments due
+1. Reading notes
+2. One-on-one meeting with Marisa
+3. Draft of research proposal study design (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
+
+
 
 # Grading
 
