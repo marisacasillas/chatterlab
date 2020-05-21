@@ -83,8 +83,6 @@ Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mothe
 2. One-on-one meeting with Marisa
 3. Draft of research proposal study design (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
 
-
-
 # Grading
 
 Students enrolled in this course will be graded on the following basis:
@@ -123,7 +121,7 @@ Two further activities are required for full participation: (a) contributions to
 
 ### Final exam (15%)
 
-Students will give two responses to take-home essay questions (up to 7% each) and will give one written reflection on the course as a whole (up to 1%). These responses can take the form of text, audio, or video, and will be graded following a rubric discussed prior to the exam.
+Students will give two responses to take-home tasks (up to 7% each) and will give one brief written reflection on the course as a whole (up to 1%). These task responses will be graded following a rubric [here--TBA]().
 
 * 2 x 7 points for each essay response (grading guidelines TBA)
 * 1 x 1 point for the course reflection (grading guidelines TBA)
