@@ -33,7 +33,10 @@ Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe,
 
 \*  = Required
 
-[[lecture](https://uchicago.zoom.us/rec/play/vZ1-cuCt-jo3S9yRtASDUfZxW43pfP-s03Ac-KYJzU7jAHNQMFqmYOERMbN4hFmAsO-EcfaOQ_NwGyzs)] 42 min
+[[lecture](https://uchicago.zoom.us/rec/play/vZ1-cuCt-jo3S9yRtASDUfZxW43pfP-s03Ac-KYJzU7jAHNQMFqmYOERMbN4hFmAsO-EcfaOQ_NwGyzs)]
+
+[[introduction video to this week's experts](https://uchicago.zoom.us/rec/share/x-pwcO_x_UdLZdKV-V6DYvE8AL7_T6a82nIc-vEOmEtlY0gk0Wjvxqw9C4kmhHaP
+)]
 
 [[slides](https://docs.google.com/presentation/d/1NvBAgEqqP9RL1RUBc56rk00fGtrpRIOio6TBBAj1dxc/edit?usp=sharing)]
 
@@ -62,7 +65,7 @@ Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mothe
 
 \*  = Required
 
-[[lecture](https://uchicago.zoom.us/rec/play/tZQqcOuv_T83E9STuASDCqQoW43pK6qs0HdI-vALzUqxAHABNlrwM7oQauN9FiVPD1MZz30cvmWZ4lqK)] 36 min
+[[lecture](https://uchicago.zoom.us/rec/play/tZQqcOuv_T83E9STuASDCqQoW43pK6qs0HdI-vALzUqxAHABNlrwM7oQauN9FiVPD1MZz30cvmWZ4lqK)]
 
 [[slides](https://docs.google.com/presentation/d/1d0hgMyOZqXHA28mM9mbkhYO-Au7cnJe8n39oZWrgF4w/edit?usp=sharing)]
 
@@ -595,6 +598,9 @@ Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe,
 \*  = Required
 
 [[lecture](https://uchicago.zoom.us/rec/play/vZ1-cuCt-jo3S9yRtASDUfZxW43pfP-s03Ac-KYJzU7jAHNQMFqmYOERMbN4hFmAsO-EcfaOQ_NwGyzs)] 42 min
+
+[[introduction video to this week's experts](https://uchicago.zoom.us/rec/share/x-pwcO_x_UdLZdKV-V6DYvE8AL7_T6a82nIc-vEOmEtlY0gk0Wjvxqw9C4kmhHaP
+)]
 
 [[slides](https://docs.google.com/presentation/d/1NvBAgEqqP9RL1RUBc56rk00fGtrpRIOio6TBBAj1dxc/edit?usp=sharing)]
 
