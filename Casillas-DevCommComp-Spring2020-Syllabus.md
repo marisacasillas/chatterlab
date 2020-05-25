@@ -685,12 +685,10 @@ Optional reading of your choice, related to final study proposal.
 1. Full research proposal (10–15 pages; see [rubric](./course_instructions/instructions-research_proposal.md))
 
 ## Final exam
-Essay response to two prompts (further instructions to be given).
+Instructions [here](./course_instructions/instructions-final_exam.md).
 
-<!--
-- audio/video/written (choose two of three)
-- willing to share with classmates?
--->
+The exam is **due before 11:59pm June 11th Chicago time** unless you are a graduating senior, in which case the exam is due before 11:59pm June 4th Chicago time.
+
 
 # Contact
 **Email:** mcasillas@uchicago.edu
