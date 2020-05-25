@@ -2,7 +2,7 @@
 
 This exam makes up 15% of your overall grade.
 
-Please note: Marisa is happy to answer clarification questions about the prompts and grading rubrics but cannot provide any feedback about the specific content you plan to provide in your response.
+Please note: Marisa is happy to answer clarification questions about the prompts and grading rubrics but cannot provide any feedback about the specific content of your responses.
 
 ## Short essay (up to 7 points)
 
@@ -15,12 +15,12 @@ Please respond to ONE of the two prompts below. Your response should be between 
 ### Grading
 A top-scoring essay will:
 
-- thoroughly and accurately cover the relevant literature that we have reviewed in the course (minimally six papers),
-- refer to findings/phenomena from multiple cultural groups, language types, interactional settings, and/or methods,
-- use clear and persuasive argumentation with at least two specific examples to support the arguments made,
-- include original figures and/or tables
-- draw independent and original conclusions synthesizing the relevant course content and class discussions, and
-- be typo-free and easy to understand
+- Thoroughly and accurately cover the relevant literature that we have reviewed in the course (minimally six papers),
+- Refer to findings and/or phenomena from multiple cultural groups, language types, interactional settings, and/or methods,
+- Use clear and persuasive argumentation with at least two specific examples to support the arguments,
+- Include at least one original figure and/or table
+- Draw independent and original conclusions synthesizing the relevant course content and class discussions, and
+- Be typo-free and easy to understand
 
 
 ## Science communication (up to 7 points)
@@ -35,26 +35,26 @@ Please produce a short video or audio presentation (your choice) introducing one
 * How children learn to take turns
 * The role of prediction in human interaction
 
-Your presentation should define the core phenomena for this topic, explain why the topic is important to know about, demonstrate how the most relevant measures are made (with _multiple_ concrete examples), discuss two of the most important findings, and mention at least one exciting future direction for research. The presentation should be around 10 minutes long---any shorter and you should probably be adding more content!
+Your presentation should define the core phenomena for this topic, explain why the topic is important to know about, demonstrate how the most relevant measures are made (with _multiple_ concrete examples), discuss two of the most important findings, and mention at least one exciting future direction for research. The presentation should be around 10 minutes long---any shorter and you should probably be adding more content.
 
 ### Grading
 A top-scoring presentation will:
 
-- be scientifically accurate and thorough,
-- include at least two appropriate and specific examples of relevant measures,
-- accurately describe at least two important findings,
-- convincingly argue for future research that would engage with deep questions still open on this topic,
-- be written and delivered in an engaging manner,
-- be clear enough so that the average adult who knows nothing about this topic can understand everything (I will be testing this!---this is a good chance to get feedback from your friends and family). 
+- Be scientifically accurate and thorough,
+- Include at least two appropriate and specific examples of relevant measures,
+- Accurately describe at least two important findings,
+- Convincinly argue for an important future research topic in this domain,
+- Be written and delivered in an engaging manner, and
+- Be clear enough so that the average adult who knows nothing about this topic can understand everything (I will be testing this!---this is a good chance to get feedback from your friends and family). 
 
 
 ## Course reflection (up to 1 point)
 
-Please write one paragraph (200–500 words) describing a theory, finding, method, and/or experience you encountered in this course that has changed the way you look at human communication. What changed for you, and why?
+Please write one paragraph (200–500 words) describing a theory, paper, finding, method, and/or experience you encountered in this course that has changed the way you look at human communication. What changed for you, and why?
 
 ### Grading
-A top-scoring course refection will:
+Full credit for this course refection will:
 
-- mention a specific theory, finding, method, or experience,
-- describe a change in thinking about human communication ("before" and "after"), and
-- be thoughtful and clearly written.
+- Mention a specific theory, paper, finding, method, or experience,
+- Describe a change in thinking about human communication ("before" and "after"), and
+- Be thoughtful and clearly written.
