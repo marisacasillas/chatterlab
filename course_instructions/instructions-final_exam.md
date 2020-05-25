@@ -43,7 +43,7 @@ A top-scoring presentation will:
 - Be scientifically accurate and thorough,
 - Include at least two appropriate and specific examples of relevant measures,
 - Accurately describe at least two important findings,
-- Convincinly argue for an important future research topic in this domain,
+- Convincingly argue for an important future research topic in this domain,
 - Be written and delivered in an engaging manner, and
 - Be clear enough so that the average adult who knows nothing about this topic can understand everything (I will be testing this!---this is a good chance to get feedback from your friends and family). 
 
@@ -53,7 +53,7 @@ A top-scoring presentation will:
 Please write one paragraph (200–500 words) describing a theory, paper, finding, method, and/or experience you encountered in this course that has changed the way you look at human communication. What changed for you, and why?
 
 ### Grading
-Full credit for this course refection will:
+Full credit for this course reflection will:
 
 - Mention a specific theory, paper, finding, method, or experience,
 - Describe a change in thinking about human communication ("before" and "after"), and
