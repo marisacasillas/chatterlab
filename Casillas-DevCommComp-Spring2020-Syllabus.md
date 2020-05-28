@@ -124,10 +124,10 @@ Two further activities are required for full participation: (a) contributions to
 
 ### Final exam (15%)
 
-Students will give two responses to take-home tasks (up to 7% each) and will give one brief written reflection on the course as a whole (up to 1%). These task responses will be graded following a rubric [here--TBA]().
+Students will give two responses to take-home prompts (up to 7% each) and will give one brief written reflection on the course as a whole (up to 1%). The exam will be graded following a the instructions [here](./course_instructions/instructions-final_exam.md).
 
-* 2 x 7 points for each essay response (grading guidelines TBA)
-* 1 x 1 point for the course reflection (grading guidelines TBA)
+* 2 x 7 points for each response
+* 1 x 1 point for the course reflection
 
 <!--
 For MC to remember:
