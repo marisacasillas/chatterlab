@@ -1,3 +1,8 @@
+# **!!! NOTE: Given ongoing pandemic _and_ protest activity the grading scheme is being adjusted. Please check your email for more details about extended deadlines and options for finishing up the quarter. The deadlines listed below for the research proposal and exam are officially out of date as of June 1, 2020.**
+
+----
+
+
 # The development of communicative competence
 
 Spring 2020: CHDV 38950, LING 38951, PSYC 38960, EDSO 38950
@@ -19,72 +24,42 @@ All course materials, including readings, grading rubrics, lecture materials, an
 ----
 
 # Up this week:
+## Wrapping up
 
-## Conversational "input"
-
-### Week 09: Tuesday, 26 May 2020
+### Week 10: Tuesday, 02 June 2020
 
 #### Pre-class reading
-\*Rowe, M. L. (2012). A longitudinal investigation of the role of quantity and quality of child‐directed speech in vocabulary development. _Child Development, 83_(5), 1762-1774. [pdf](https://www.dropbox.com/s/fps0qekzfqnoatv/rowe2012longitudinal.pdf?dl=0)
-
-\*Donnellan, E., Bannard, C., McGillion, M. L., Slocombe, K. E., & Matthews, D. (2020). Infants’ intentionally communicative vocalizations elicit responses from caregivers and are the best predictors of the transition to language: A longitudinal investigation of infants’ vocalizations, gestures and word production. _Developmental Science_, e12843. [pdf](https://www.dropbox.com/s/d0zmuwqtrso418o/donnellan2019infants.pdf?dl=0)
-
-Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. (2018). Beyond the 30-million-word gap: Children’s conversational exposure is associated with language-related brain function. _Psychological Science, 29_(5), 700-710. [pdf](https://www.dropbox.com/s/pgavrbc35if309v/romeo2018beyond.pdf?dl=0)
-
-\*  = Required
-
-[[lecture](https://uchicago.zoom.us/rec/play/vZ1-cuCt-jo3S9yRtASDUfZxW43pfP-s03Ac-KYJzU7jAHNQMFqmYOERMbN4hFmAsO-EcfaOQ_NwGyzs)]
-
-[[introduction video to this week's experts](https://uchicago.zoom.us/rec/share/x-pwcO_x_UdLZdKV-V6DYvE8AL7_T6a82nIc-vEOmEtlY0gk0Wjvxqw9C4kmhHaP
-)]
-
-[[slides](https://docs.google.com/presentation/d/1NvBAgEqqP9RL1RUBc56rk00fGtrpRIOio6TBBAj1dxc/edit?usp=sharing)]
-
-[MC's notes for readings [1](course_instructions/notes/handwritten/wk09-lec01-Rowe2012.pdf) and [2](course_instructions/notes/handwritten/wk09-lec01-DonnellanEtAl2019.pdf)]
+Optional reading of your choice, related to final study proposal.
 
 <!--
 ## Asynchronous
-- Lecture on reading material
+- Video from Penny?
 ## Synchronous
-- Discussion questions raised in lecture **brief**
-- Round-robin sessions to re-formulate research questions
-- Remind about one-on-ones with Marisa
--->
-
-#### Assignments due
-1. Reading notes
-2. Draft of research proposal outline (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
-
-### Week 09: Thursday, 28 May 2020
-#### Pre-class reading
-\*Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399-410. [pdf](https://www.dropbox.com/s/lhbh8njfhb40a1z/dunn1989becoming.pdf?dl=0)
-
-\*Brown, P. (2011). The cultural organization of attention. In A. Duranti, E. Ochs, & B. B. Schieffelin (Eds.), _The Handbook of Language Socialization_ (pp. 29-55). Malden, MA: Wiley-Blackwell. [pdf](https://www.dropbox.com/s/pmad9n8gdlbtkpd/brown2011cultural.pdf?dl=0)
-
-Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mother‐infant‐sibling triads. _Child Development, 62_(3), 517-529. [pdf](https://www.dropbox.com/s/qsrj0mj02v263w8/barton1991joint.pdf?dl=0)
-
-\*  = Required
-
-[[lecture](https://uchicago.zoom.us/rec/play/tZQqcOuv_T83E9STuASDCqQoW43pK6qs0HdI-vALzUqxAHABNlrwM7oQauN9FiVPD1MZz30cvmWZ4lqK)]
-
-[[slides](https://docs.google.com/presentation/d/1d0hgMyOZqXHA28mM9mbkhYO-Au7cnJe8n39oZWrgF4w/edit?usp=sharing)]
-
-[MC's notes for readings [1](course_instructions/notes/handwritten/wk09-lec02-DunnShatz1987.pdf) and [2](course_instructions/notes/handwritten/wk09-lec02-Brown2011.pdf)]
-
-<!--
-## Asynchronous
-- Lecture on reading material
-- Watch video from Eve
-## Synchronous
-- Discussion questions from lecture video
-- Come up with questions for Penny
-- Remind about one-on-ones with Marisa
+- None! office hours.
 -->
 
 #### Assignments due
 1. Reading notes
 2. One-on-one meeting with Marisa
-3. Draft of research proposal study design (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
+3. Draft of research proposal literature review (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
+
+### Week 10: Thursday, 04 June 2020
+
+<!--
+## Asynchronous
+- None!
+## Synchronous
+- None! office hours.
+-->
+
+#### Assignments due
+1. Full research proposal (10–15 pages; see [rubric](./course_instructions/instructions-research_proposal.md))
+
+## Final exam
+Instructions [here](./course_instructions/instructions-final_exam.md).
+
+The exam is **due before 11:59pm June 11th Chicago time** unless you are a graduating senior, in which case the exam is due before 11:59pm June 4th Chicago time.
+
 
 # Grading
 
@@ -670,9 +645,6 @@ Optional reading of your choice, related to final study proposal.
 3. Draft of research proposal literature review (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
 
 ### Week 10: Thursday, 04 June 2020
-
-#### Pre-class reading
-Optional reading of your choice, related to final study proposal.
 
 <!--
 ## Asynchronous
