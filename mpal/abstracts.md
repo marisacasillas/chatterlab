@@ -59,4 +59,3 @@ Insert abstract text here
 
 ---
 
-Go back to the [handbook](./MPaL_handbook.md)

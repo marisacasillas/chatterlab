@@ -16,5 +16,3 @@ Author C, association, email
 Author D, association, email
 
 ---
-
-Go back to the [handbook](./MPaL_handbook.md)
