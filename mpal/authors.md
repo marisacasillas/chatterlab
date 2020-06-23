@@ -3,7 +3,9 @@
 *insert MPaL logo below* <!-- Also keep mpi logo? -->
 ![insert MPaL image here](./MPIfPL_logo_regular.png)
 
-### Author Index
+---
+
+## Author Index
 
 Author A, association, email
 
@@ -12,3 +14,7 @@ Author B, association, email
 Author C, association, email
 
 Author D, association, email
+
+---
+
+Go back to the [handbook](./MPaL_handbook.md)

@@ -13,9 +13,9 @@ hurdles in documenting and interpreting variation in this context.
 
 ---
 
-### Program Overview
+## Program Overview
 
-#### Friday, 23 October 2020
+### Friday, 23 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 1
 
 09.10 &nbsp;&nbsp;&nbsp; First talk title, first author
@@ -34,7 +34,7 @@ hurdles in documenting and interpreting variation in this context.
 
 18.00 &nbsp;&nbsp;&nbsp; End program Day 1
 
-#### Saterday, 24 October 2020
+### Saterday, 24 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 2
 
 09.10 &nbsp;&nbsp;&nbsp; First talk title, first author
@@ -53,7 +53,7 @@ hurdles in documenting and interpreting variation in this context.
 
 18.00 &nbsp;&nbsp;&nbsp; End program Day 2
 
-#### Sunday, 25 October 2020
+### Sunday, 25 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 3
 
 09.10 &nbsp;&nbsp;&nbsp; First talk title, first author
@@ -74,10 +74,10 @@ hurdles in documenting and interpreting variation in this context.
 
 ---
 
-### Abstract Overview
+## Abstract Overview
 
-#### 23 October
-##### Talks
+### 23 October
+#### Talks
 
 [Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
@@ -85,37 +85,37 @@ hurdles in documenting and interpreting variation in this context.
 
 [Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
  
-##### Posters
+#### Posters
 [Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
 [Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
 [Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
-#### 24 October
-##### Talks
+### 24 October
+#### Talks
 [Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
 [Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
 [Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
-##### Posters
+#### Posters
 [Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
 [Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
 [Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
-#### 25 October
-##### Talks
+### 25 October
+#### Talks
 [Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
 [Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
 [Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
-##### Posters
+#### Posters
 [Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
 [Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
@@ -124,7 +124,7 @@ hurdles in documenting and interpreting variation in this context.
 
 ---
 
-### Acknowledgements
+## Acknowledgements
 
 Insert text here
 
