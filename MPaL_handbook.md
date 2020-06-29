@@ -30,11 +30,7 @@ hurdles in documenting and interpreting variation in this context.
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
-13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/poster-overview)
-
-13.30 &nbsp;&nbsp;&nbsp; Link for [Posters] (./mpal/poster-overview)
-
-13.30 &nbsp;&nbsp;&nbsp; Link for [posters] (./mpal/poster-overview)
+13.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview)
 
 14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts#title-of-talk-four-day-one) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
@@ -53,7 +49,7 @@ hurdles in documenting and interpreting variation in this context.
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
-13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/poster-overview)
+13.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview)
 
 14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts#title-of-talk-four-day-two) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
@@ -72,7 +68,7 @@ hurdles in documenting and interpreting variation in this context.
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
-13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/poster-overview)
+13.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview)
 
 14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts#title-of-talk-four-day-thre) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
