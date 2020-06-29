@@ -1,6 +1,6 @@
 # Many Paths to Language Handbook
 
-***If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting) for help.***
+###***If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting) for help.***
 
 *insert MPaL logo below* <!-- Also keep mpi logo? -->
 ![insert MPaL image here](./mpal/MPIfPL_logo_regular.png)
@@ -16,11 +16,13 @@ hurdles in documenting and interpreting variation in this context.
 ---
 
 ## Program Overview
+
+go to [acknowledgements](#acknowledgements)
  
 ### Friday, 23 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 1
 
-09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts#linktalkone) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
+09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts#link-talk-one) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
 
 10.10 &nbsp;&nbsp;&nbsp; Second talk [title](./mpal/abstracts) ([videolink](./mpal/video)), second [author(s)](./mpal/authors)
 
@@ -30,7 +32,7 @@ hurdles in documenting and interpreting variation in this context.
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
-13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/posterOverview)
+13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/poster-overview)
 
 14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
@@ -49,7 +51,7 @@ hurdles in documenting and interpreting variation in this context.
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
-13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/posterOverview)
+13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/poster-overview)
 
 14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
@@ -68,7 +70,7 @@ hurdles in documenting and interpreting variation in this context.
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
-13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/posterOverview)
+13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/poster-overview)
 
 14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
