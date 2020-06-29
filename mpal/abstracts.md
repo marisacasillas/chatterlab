@@ -11,25 +11,25 @@
 <!-- Where to put timeslot -->
 #### Title of talk one day one
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of talk two day one
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of talk three day one
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of talk four day one
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 

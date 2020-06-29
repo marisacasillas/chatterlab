@@ -11,19 +11,19 @@
 
 #### Title of poster one day one
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of poster two day one
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of poster three day one
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
@@ -31,19 +31,19 @@ Insert abstract text here
 
 #### Title of poster one day two
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of poster two day two
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of poster three day two
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
@@ -51,19 +51,19 @@ Insert abstract text here
 
 #### Title of poster one day three
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of poster two day three
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of poster three day three
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
