@@ -8,27 +8,28 @@
 ## Poster Abstracts
 
 ### 23 October
-[Title of the poster](./mpal/poster-abstracts#title-of-poster-one-day-one) ([*Author(s)*](./mpal/authors))
+[Title of the poster](./poster-abstracts#title-of-poster-one-day-one) ([*Author(s)*](./mpal/authors))
 
-[Title of the poster](./mpal/poster-abstracts#title-of-poster-two-day-one) ([*Author(s)*](./mpal/authors))
+[Title of the poster](./poster-abstracts#title-of-poster-two-day-one) ([*Author(s)*](./mpal/authors))
 
-[Title of the poster](./mpal/poster-abstracts#title-of-poster-three-day-one) ([*Author(s)*](./mpal/authors))
+[Title of the poster](./poster-abstracts#title-of-poster-three-day-one) ([*Author(s)*](./mpal/authors))
 
 
 ### 24 October
 
-[Title of the poster](./mpal/poster-abstracts#title-of-poster-one-day-two) ([*Author(s)*](./mpal/authors))
+[Title of the poster](./poster-abstracts#title-of-poster-one-day-two) ([*Author(s)*](./mpal/authors))
 
-[Title of the poster](./mpal/poster-abstracts#title-of-poster-two-day-two) ([*Author(s)*](./mpal/authors))
+[Title of the poster](./poster-abstracts#title-of-poster-two-day-two) ([*Author(s)*](./mpal/authors))
 
-[Title of the poster](./mpal/poster-abstracts#title-of-poster-three-day-two) ([*Author(s)*](./mpal/authors))
+[Title of the poster](./poster-abstracts#title-of-poster-three-day-two) ([*Author(s)*](./mpal/authors))
 
 
 ### 25 October
 
-[Title of the poster](./mpal/poster-abstracts#title-of-poster-one-day-three) ([*Author(s)*](./mpal/authors))
+[Title of the poster](./poster-abstracts#title-of-poster-one-day-three) ([*Author(s)*](./mpal/authors))
 
-[Title of the poster](./mpal/poster-abstracts#title-of-poster-two-day-three) ([*Author(s)*](./mpal/authors))
+[Title of the poster](./poster-abstracts#title-of-poster-two-day-three) ([*Author(s)*](./mpal/authors))
 
-[Title of the poster](./mpal/poster-abstracts#title-of-poster-three-day-three) ([*Author(s)*](./mpal/authors))
+[Title of the poster](./poster-abstracts#title-of-poster-three-day-three) ([*Author(s)*](./mpal/authors))
+
 ---

@@ -39,25 +39,25 @@ Insert abstract text here
 ### 24 October
 #### Title of talk one day two
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of talk two day two
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of talk three day two
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of talk four day two
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
@@ -66,25 +66,25 @@ Insert abstract text here
 ### 25 October
 #### Title of talk one day three
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of talk two day three
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of talk three day three
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
 #### Title of talk four day three
 
-[Author(s)](./mpal/authors)
+[Author(s)](./authors)
 
 Insert abstract text here
 
