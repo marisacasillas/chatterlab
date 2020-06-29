@@ -1,5 +1,7 @@
 # Many Paths to Language Handbook
 
+***If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting) for help.***
+
 *insert MPaL logo below* <!-- Also keep mpi logo? -->
 ![insert MPaL image here](./mpal/MPIfPL_logo_regular.png)
 
@@ -18,109 +20,59 @@ hurdles in documenting and interpreting variation in this context.
 ### Friday, 23 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 1
 
-09.10 &nbsp;&nbsp;&nbsp; First talk title, first author
+09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts#linktalkone) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
 
-10.10 &nbsp;&nbsp;&nbsp; Second talk title, second author
+10.10 &nbsp;&nbsp;&nbsp; Second talk [title](./mpal/abstracts) ([videolink](./mpal/video)), second [author(s)](./mpal/authors)
 
 11.00 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.30 &nbsp;&nbsp;&nbsp; Third talk title, third author
+11.30 &nbsp;&nbsp;&nbsp; Third talk [title](./mpal/abstracts) ([videolink](./mpal/video)), third [author(s)](./mpal/authors)
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
-13.30 &nbsp;&nbsp;&nbsp; Posters
+13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/posterOverview)
 
-14.30 &nbsp;&nbsp;&nbsp; Fourth talk, fourth author
+14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
 18.00 &nbsp;&nbsp;&nbsp; End program Day 1
 
 ### Saterday, 24 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 2
 
-09.10 &nbsp;&nbsp;&nbsp; First talk title, first author
+09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
 
-10.10 &nbsp;&nbsp;&nbsp; Second talk title, second author
+10.10 &nbsp;&nbsp;&nbsp; Second talk [title](./mpal/abstracts) ([videolink](./mpal/video)), second [author(s)](./mpal/authors)
 
 11.00 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.30 &nbsp;&nbsp;&nbsp; Third talk title, third author
+11.30 &nbsp;&nbsp;&nbsp; Third talk [title](./mpal/abstracts) ([videolink](./mpal/video)), third [author(s)](./mpal/authors)
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
-13.30 &nbsp;&nbsp;&nbsp; Posters
+13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/posterOverview)
 
-14.30 &nbsp;&nbsp;&nbsp; Fourth talk, fourth author
+14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
 18.00 &nbsp;&nbsp;&nbsp; End program Day 2
 
 ### Sunday, 25 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 3
 
-09.10 &nbsp;&nbsp;&nbsp; First talk title, first author
+09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
 
-10.10 &nbsp;&nbsp;&nbsp; Second talk title, second author
+10.10 &nbsp;&nbsp;&nbsp; Second talk [title](./mpal/abstracts) ([videolink](./mpal/video)), second [author(s)](./mpal/authors)
 
 11.00 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.30 &nbsp;&nbsp;&nbsp; Third talk title, third author
+11.30 &nbsp;&nbsp;&nbsp; Third talk [title](./mpal/abstracts) ([videolink](./mpal/video)), third [author(s)](./mpal/authors)
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
-13.30 &nbsp;&nbsp;&nbsp; Posters
+13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/posterOverview)
 
-14.30 &nbsp;&nbsp;&nbsp; Fourth talk, fourth author
+14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
 18.00 &nbsp;&nbsp;&nbsp; End program Day 3
-
----
-
-## Abstract Overview
-
-### 23 October
-#### Talks
-
-[Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
- 
-#### Posters
-[Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-### 24 October
-#### Talks
-[Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-#### Posters
-[Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-### 25 October
-#### Talks
-[Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the talk](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-#### Posters
-[Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
-
-[Title of the poster](./mpal/abstracts) ([*Author(s)*](./mpal/authors))
 
 ---
 
