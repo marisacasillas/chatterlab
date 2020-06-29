@@ -1,6 +1,6 @@
 # Many Paths to Language Handbook
 
-###***If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting) for help.***
+### ***If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting) for help.***
 
 *insert MPaL logo below* <!-- Also keep mpi logo? -->
 ![insert MPaL image here](./mpal/MPIfPL_logo_regular.png)
@@ -17,62 +17,66 @@ hurdles in documenting and interpreting variation in this context.
 
 ## Program Overview
 
-go to [acknowledgements](#acknowledgements)
- 
 ### Friday, 23 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 1
 
-09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts#link-talk-one) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
+09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts#title-of-talk-one-day-one) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
 
-10.10 &nbsp;&nbsp;&nbsp; Second talk [title](./mpal/abstracts) ([videolink](./mpal/video)), second [author(s)](./mpal/authors)
+10.10 &nbsp;&nbsp;&nbsp; Second talk [title](./mpal/abstracts#title-of-talk-two-day-one) ([videolink](./mpal/video)), second [author(s)](./mpal/authors)
 
 11.00 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.30 &nbsp;&nbsp;&nbsp; Third talk [title](./mpal/abstracts) ([videolink](./mpal/video)), third [author(s)](./mpal/authors)
+11.30 &nbsp;&nbsp;&nbsp; Third talk [title](./mpal/abstracts#title-of-talk-three-day-one) ([videolink](./mpal/video)), third [author(s)](./mpal/authors)
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
 13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/poster-overview)
 
-14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
+13.30 &nbsp;&nbsp;&nbsp; Link for [Posters] (./mpal/poster-overview)
+
+13.30 &nbsp;&nbsp;&nbsp; Link for [posters] (./mpal/poster-overview)
+
+13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/abstracts)
+
+14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts#title-of-talk-four-day-one) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
 18.00 &nbsp;&nbsp;&nbsp; End program Day 1
 
 ### Saterday, 24 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 2
 
-09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
+09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts#title-of-talk-one-day-two) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
 
-10.10 &nbsp;&nbsp;&nbsp; Second talk [title](./mpal/abstracts) ([videolink](./mpal/video)), second [author(s)](./mpal/authors)
+10.10 &nbsp;&nbsp;&nbsp; Second talk [title](./mpal/abstracts#title-of-talk-two-day-two) ([videolink](./mpal/video)), second [author(s)](./mpal/authors)
 
 11.00 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.30 &nbsp;&nbsp;&nbsp; Third talk [title](./mpal/abstracts) ([videolink](./mpal/video)), third [author(s)](./mpal/authors)
+11.30 &nbsp;&nbsp;&nbsp; Third talk [title](./mpal/abstracts#title-of-talk-three-day-two) ([videolink](./mpal/video)), third [author(s)](./mpal/authors)
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
 13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/poster-overview)
 
-14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
+14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts#title-of-talk-four-day-two) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
 18.00 &nbsp;&nbsp;&nbsp; End program Day 2
 
 ### Sunday, 25 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 3
 
-09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
+09.10 &nbsp;&nbsp;&nbsp; First talk [title](./mpal/abstracts#title-of-talk-one-day-three) ([videolink](./mpal/video)), first [author(s)](./mpal/authors)
 
-10.10 &nbsp;&nbsp;&nbsp; Second talk [title](./mpal/abstracts) ([videolink](./mpal/video)), second [author(s)](./mpal/authors)
+10.10 &nbsp;&nbsp;&nbsp; Second talk [title](./mpal/abstracts#title-of-talk-two-day-thre) ([videolink](./mpal/video)), second [author(s)](./mpal/authors)
 
 11.00 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.30 &nbsp;&nbsp;&nbsp; Third talk [title](./mpal/abstracts) ([videolink](./mpal/video)), third [author(s)](./mpal/authors)
+11.30 &nbsp;&nbsp;&nbsp; Third talk [title](./mpal/abstracts#title-of-talk-three-day-thre) ([videolink](./mpal/video)), third [author(s)](./mpal/authors)
 
 12.30 &nbsp;&nbsp;&nbsp; Lunch
 
 13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/poster-overview)
 
-14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
+14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts#title-of-talk-four-day-thre) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
 18.00 &nbsp;&nbsp;&nbsp; End program Day 3
 
