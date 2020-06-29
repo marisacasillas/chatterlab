@@ -1,6 +1,6 @@
 # Many Paths to Language Handbook
 
-### ***If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting) for help.***
+### *If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting) for help.*
 
 *insert MPaL logo below* <!-- Also keep mpi logo? -->
 ![insert MPaL image here](./mpal/MPIfPL_logo_regular.png)
@@ -35,8 +35,6 @@ hurdles in documenting and interpreting variation in this context.
 13.30 &nbsp;&nbsp;&nbsp; Link for [Posters] (./mpal/poster-overview)
 
 13.30 &nbsp;&nbsp;&nbsp; Link for [posters] (./mpal/poster-overview)
-
-13.30 &nbsp;&nbsp;&nbsp; [Posters] (./mpal/abstracts)
 
 14.30 &nbsp;&nbsp;&nbsp; Fourth talk [title](./mpal/abstracts#title-of-talk-four-day-one) ([videolink](./mpal/video)), fourth [author(s)](./mpal/authors)
 
