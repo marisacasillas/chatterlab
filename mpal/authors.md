@@ -7,12 +7,9 @@
 
 ## Author Index
 
-Author A, association, email
-
-Author B, association, email
-
-Author C, association, email
-
-Author D, association, email
-
----
+|Name|Affiliation|Contact|
+|---|---|---|
+|Author A|Affiliation A|email|
+|Author B|Affiliation B|email|
+|Author C|Affiliation C|email|
+|Author D|Affiliation D|email|

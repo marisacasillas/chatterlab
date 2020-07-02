@@ -80,22 +80,3 @@ hurdles in documenting and interpreting variation in this context.
 
 Insert text here
 
-<!--
-*Course materials*
-**Course materials**
-***Course materials***
-
-_same_
-__same__
-___same___
-
-[text with hyperlink](website/path with the actual link)
-
-Example:
-Instructions [here](./course_instructions/instructions-final_exam.md).
-
-* creates a bullet point 
-
-\ escaping certain functions: \* escapes the bullet point and creates the asteriks 
--->
-

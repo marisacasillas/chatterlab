@@ -15,17 +15,23 @@
 
 Insert abstract text here
 
+---
+
 #### Title of poster two day one
 
 [Author(s)](./authors)
 
 Insert abstract text here
 
+---
+
 #### Title of poster three day one
 
 [Author(s)](./authors)
 
 Insert abstract text here
+
+---
 
 ### 24 October
 
@@ -35,17 +41,23 @@ Insert abstract text here
 
 Insert abstract text here
 
+---
+
 #### Title of poster two day two
 
 [Author(s)](./authors)
 
 Insert abstract text here
 
+---
+
 #### Title of poster three day two
 
 [Author(s)](./authors)
 
 Insert abstract text here
+
+---
 
 ### 25 October
 
@@ -55,11 +67,15 @@ Insert abstract text here
 
 Insert abstract text here
 
+---
+
 #### Title of poster two day three
 
 [Author(s)](./authors)
 
 Insert abstract text here
+
+---           
 
 #### Title of poster three day three
 

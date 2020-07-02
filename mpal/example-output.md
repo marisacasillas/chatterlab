@@ -4,9 +4,9 @@ Programme
 ### Friday, 23 October 2020
 09.00 &nbsp;&nbsp;&nbsp; Start program Day 1
 
-09.10 &nbsp;&nbsp;&nbsp; [The role of stress in early language learning](./mpal/abstracts#the-role-of-stress-in-early-language-learning) ([videolink](./mpal/video)), [Jan Janssen](./mpal/authors)
+09.10 &nbsp;&nbsp;&nbsp; [The role of stress in early language learning](./mpal/abstracts#the-role-of-stress-in-early-language-learning) ([videolink](./mpal/video)), [*Jan Janssen*](./mpal/authors)
 
-10.10 &nbsp;&nbsp;&nbsp; [How do young children learn inflections](./mpal/abstracts#how-do-young-children-learn-inflections) ([videolink](./mpal/video)), [Frank Smit, Floor van den Bos](./mpal/authors)
+10.10 &nbsp;&nbsp;&nbsp; [How do young children learn inflections](./mpal/abstracts#how-do-young-children-learn-inflections) ([videolink](./mpal/video)), [*Frank Smit, Floor van den Bos*](./mpal/authors)
 
 11.00 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -19,7 +19,6 @@ Programme
 14.30 &nbsp;&nbsp;&nbsp; [Title of talk four day one](./mpal/abstracts#title-of-talk-four-day-one) ([videolink](./mpal/video)), [author(s)](./mpal/authors)
 
 18.00 &nbsp;&nbsp;&nbsp; End program Day 1
-
 
 ---
 
@@ -51,31 +50,13 @@ In linguistic morphology, inflection (or inflexion) is a process of word forma
 
 ---
 
-<!-- Below would be the markdown format for the abstracts -->
-
-### Date
-
----
-
-##### Time
-
-#### Title
-
-*author names, author names, author names*
-
-Abstract text
-
-[tables and figures here](./tables and figures here.jpg)
-
----
-
 Contact list
 
 ## Author Index
 
 <!-- on alfabetic order of last name? -->
 
-|Name|Affiliation|Email|
+|Name|Affiliation|Contact|
 |---|---|---|
 |Van den Bos, Floor|Department of Psychology, Stanford University|f_denbos@stanford.edu|
 |Janssen, Jan|Max Planck Instituut voor Psycholinguïstiek|jan.janssen@mpi.nl|

@@ -8,6 +8,7 @@
 ## Poster Abstracts
 
 ### 23 October
+                                          
 [Title of the poster](./poster-abstracts#title-of-poster-one-day-one) ([*Author(s)*](./authors))
 
 [Title of the poster](./poster-abstracts#title-of-poster-two-day-one) ([*Author(s)*](./authors))
