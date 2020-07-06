@@ -15,3 +15,7 @@ A binomial mixed-effect logistic regression was conducted with condition, age an
 The significant interaction between age and condition is illustrated in Figure 2, where older children relied more on classifier information than younger children in the incongruent condition. It is likely that older children’s stronger reliance on syntactic cues stems from their experience in using classifiers. Hence, the present findings are in line with Salehuddin and Winskel (2011), who found that Malay children start to learn about classifiers formally at about 6 years of age and continue to do so till adolescence.
 
 In short, we showed that Malay-speaking children can use syntactic cues to disambiguate between count nouns. This result suggests that children are flexible learners, as they are able to rely on syntactic cues when it is available. Moreover, by recruiting Malay-speaking children, we provide further support to previous researches on the universality of syntactic bootstrapping in language acquisition.
+
+![Attachment](attachments/43-1.png)
+
+![Attachment](attachments/43-2.png)

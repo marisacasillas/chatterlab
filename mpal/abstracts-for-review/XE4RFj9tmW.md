@@ -25,3 +25,7 @@ We found that individual differences in parent GL use were stable over time, whe
 
 
 (* The current study uses data from a longitudinal training study aimed at increasing parents’ use of gestures with infants (Anonymized, 2019). Therefore, we included parents’ treatment status as a binary covariate, although treatment status was unassociated with children’s vocabulary measures or parents’ GL, CL, or GCL use at any visit, all ps > .1.)
+
+![Attachment](attachments/50-1.png)
+
+![Attachment](attachments/50-2.png)

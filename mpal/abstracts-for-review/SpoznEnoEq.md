@@ -25,3 +25,5 @@ Horst J. S., Hout M. C. 2016. The Novel Object and Unusual Name (NOUN) Database:
 Slobin D. I. 1966. Acquisition of Russian as a Native Language. In F. Smith & G. A. Miller (eds.), The Genesis of Language. A Psycholinguistic Approach. Proceedings of a Conference on Language Development in Children (Cambridge, MA, and London, MIT Press).
 
 Schwartz M., Minkov M. 2014. Russian case system acquisition among russian–hebrew speaking children. Journal of Slavic Linguistics, 51-92.
+
+![Attachment](attachments/92-1.png)

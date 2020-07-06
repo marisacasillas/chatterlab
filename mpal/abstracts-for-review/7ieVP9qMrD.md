@@ -13,3 +13,5 @@ Multiple regression analyses indicated that SES was a significant predictor of w
 
 
 Our findings replicate previous research demonstrating a positive relationship between SES and language outcomes but extends this work to focus upon the school years. Vocabulary is a critical predictor of word learning ability for all children and having stronger reading abilities early on serves as a protective factor for word learning ability in low-mid SES, young school-aged children. These findings point to different paths by which children’s word learning abilities may be impacted by differences in the early home environment.
+
+![Attachment](attachments/82-1.png)

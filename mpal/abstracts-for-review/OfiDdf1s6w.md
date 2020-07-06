@@ -21,3 +21,5 @@ Experiment 3 measured switching frequency. Infants were presented with fifteen 5
 Conclusion
 
 In sum, we found that infants exposed to bilingual environments disengage attention faster and switch attention more frequently than infants exposed to a monolingual environment.
+
+![Attachment](attachments/16-1.png)

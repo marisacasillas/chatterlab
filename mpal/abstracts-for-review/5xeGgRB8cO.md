@@ -35,3 +35,5 @@ Honig, A. S., & Xu, Y. (2012). Chinese immigrant families and bilingualism among
 Lanza, E. (1997). Language mixing in infant bilingualism: A sociolinguistic perspective. 
 
 Oxford University Press.
+
+![Attachment](attachments/2-1.png)

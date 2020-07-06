@@ -17,3 +17,7 @@ We examined 1085 utterances produced by a mother-child dyad (age range: 1;07 to 
 
 
 Our study demonstrates that the same processing factors that influence adult Mandarin speakers’ structural choices play a similar role in child and caregiver speech. Our findings extend experimental research demonstrating priming effects in children’s use of ‘ba’ constructions (Hsu 2019) to spontaneous production. But the non-linear effects of noun phrase weight suggest that ease of processing considerations may not be the only factor driving syntactic choice.
+
+![Attachment](attachments/44-1.png)
+
+![Attachment](attachments/44-2.png)

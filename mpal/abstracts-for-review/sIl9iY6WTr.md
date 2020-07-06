@@ -17,3 +17,5 @@ Three longitudinal studies using the head-turn preference procedure and the Inte
 
 
 Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType + (Age|SubjectID) + (1|StimName))  showed no significant differences between the phonetic or the phonotactic development of the preterm and the full-term infants (see Fig. 2). However, a time-lag between preterm and full-term developmental timing for prosody was found. Socioeconomic status didn’t have a significant effect on prosodic development. Nevertheless, phonetic and phonotactic development were both affected by SES, infants from lower SES showed discrimination of non-native contrast and a preference for high-frequency sequences later than their more advantaged peers. Overall these results suggest that different constraints apply to the acquisition of different phonological subcomponents.
+
+![Attachment](attachments/78-1.png)

@@ -17,3 +17,7 @@ We found that caregivers were more likely to respond to infants’ sequential vo
 
 
 A potentially important characteristic of sequential babbling is the degree of vocal compression, measured in the number of syllables per second. Compression is a common strategy for species that communicate acoustically to efficiently incorporate more vocalizations into vocal bouts of similar durations. By adulthood, spoken utterances approach 5-6 syllables per second (Walker, Archibald, Cherniak & Fish, 1992). We analyzed the relation between infants' vocal compression at 10 months and their transition into spoken language at 18 months. The extent to which infants compress their vocal sequences at 10 months predicted productive vocabulary at 18 months (Figure 2). The link between early compression and later productive vocabulary provides further evidence that infants' prelinguistic vocal development serves as the foundation of early language learning and communicative development. By selectively responding to infants’ vocalizations that incorporate more mature speech characteristics, caregivers provide infants with additional sources of information which guide infants’ communicative development.
+
+![Attachment](attachments/49-1.png)
+
+![Attachment](attachments/49-2.png)

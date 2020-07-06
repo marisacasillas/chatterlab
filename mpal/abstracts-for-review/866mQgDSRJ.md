@@ -13,3 +13,7 @@ We investigate VMS development in two communities with documented low rates of c
 We made broad phonetic transcriptions of 18 Tseltal children’s spontaneous vocalizations over nine 5-minute randomly sampled clips from at-home daylong recordings. Adapting McCune and Vihman’s (2001) measure, if a child produced 10+ realizations of a consonant production within the total 45 randomly sampled minutes, then we considered the child to have acquired the VMS for this consonant. 
 
 An analysis of the frequency of Tseltal consonant types can be seen in Figure 1, which shows that coronals and laryngeals, a phonetic super category containing glottal phonemes, are acquired the earliest; however, the occurrences of laryngeals diminish with age, likely because they are replaced with the other consonants. Interestingly, the dorsals are less often used by older children. The labials are used rather consistently over the course of development. The results largely coincide with our hypotheses, as 7 out of 9 Tseltal children between 9 and 14 months old acquired 2+ VMS, as shown in Table 1. A parallel analysis with Yélî recordings is in progress.
+
+![Attachment](attachments/25-1.png)
+
+![Attachment](attachments/25-2.png)

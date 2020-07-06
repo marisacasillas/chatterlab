@@ -11,3 +11,7 @@ Method: Six children with AS (aged 11-19 months) and 15 children with DS (aged 5
 Results: We conducted analyses in R. We used non-parametric analyses (Wilcoxon, Spearman’s) and discuss results in terms of effect sizes due to our small sample. We ran analyses for each group separately. CV and AW rate were not significantly associated during any tasks for either group (rho’s<.37, p’s>.497; Figure 1). CV rate during PCI and ST was generally higher than CV rate during DPA for AS (PCI: W=11, p=.310, d=.58; ST: W=11, p=.310, d=.65) and DS (PCI: W=78, p=.158, d=.71; ST: W=63, p=.042, d=.73; Figure 2). CV rate did not differ between PCI and ST for either group (p’s=1.00; Figure 2). AW rate was higher during ST than PCI for both groups (AS: W=24, p=.394, d=.64; DS: W=181, p=.004, d=1.14; Figure 2). 
 
 Conclusion: We found that children in both groups tend to vocalize at higher rates while interacting with a parent compared to supervised independent play, and parents’ word counts were highest while reading a book with their child. However, child vocalization rate was not related to adult word rate in either interactive task, suggesting that adult vocal behavior may not impact child vocal patterns over and above the effect of task context during short, structured tasks. These findings can inform language treatment planning by clarifying which factors are relevant for increasing child speech rate for children with neurogenetic syndromes.
+
+![Attachment](attachments/72-1.png)
+
+![Attachment](attachments/72-2.png)

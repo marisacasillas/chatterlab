@@ -23,3 +23,5 @@ Considering these predictions, English monolingual girls are expected to present
 Our findings reveal that monolingual girls (t(6) = -2.071, p = .077) do not differ from monolingual boys (t(3) = 2.231, p = .155) in the ages of onset of the two English DA constructions, which suggests the two biological gender groups have acquired the syntactic non-derivational relationship between DOCs and to/for-datives. 
 
 Furthermore, biological gender differences are not seen in the acquisition of the additional properties required in the production of to/for-datives, given the later onset and the lower incidence of these constructions when compared to DOCs, as depicted in Table 1. These production patterns could also be explained by the frequency with which these structures are heard in the adult input in the two biological gender groups given that both adults and children prefer the use of DOCs over to/for-datives when producing English DA constructions, as illustrated in Table 2.
+
+![Attachment](attachments/81-1.png)

@@ -25,3 +25,5 @@ It can be seen that the distributional patterns of the three types of relative c
 
 
 The results confirmed our predictions of written language being more grammatically complex than child-directed speech. Grammatical complexity increases as the targeted age increases. The types of relative clauses characteristic of written language that children read independently are distributionally different from what preschool children hear. Further analysis on genre and lexical-syntactic pairing will also be discussed.
+
+![Attachment](attachments/33-1.png)

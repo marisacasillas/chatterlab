@@ -15,3 +15,7 @@ Note that from a learning perspective, what is important is not the frequency of
 This still leaves the question of what children actually learn about these words? The presence of gender in languages like Spanish and German makes nouns more predictable, and studies suggest that the distribution of pre-nominal adjectives in English serves a similar function (Dye et al, 2017; 2018). While Spanish largely eschews pre-nominal adjectives, German does not, and in a series of analysis of adult and child-directed speech we show that German color words are both less frequent that English color words (Fig 2), and that their use as pre-nominal modifiers is more formulaic, reflecting the information provided about nouns by the German gender system. 
 
 These results thus offer a more nuanced view of both the learning of color words and their use, and underline the importance of studying cross-linguistic variance. While it is true that children struggle to learn the meaning of color words, this is not only because of their ubiquity (Ramscar et al, 2010), but also because their use is often grammatical rather than ‘semantic’ (they serve to make nouns predictable, rather than adding content). What the evidence seems to show is both that children master the grammatical function of color words quite rapidly, and also that this function has eluded most linguistic analyses to date.
+
+![Attachment](attachments/7-1.png)
+
+![Attachment](attachments/7-2.png)

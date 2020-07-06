@@ -27,3 +27,5 @@ References
 2.	Marsaja, G.I. (2008). Desa kolok: A deaf village and its sign language in Bali, Indonesia. Nijmegen: Ishara Press.
 
 3.	Meier, R. (2005). The forms of early signs: explaining signing children’s articulatory development. In B. Schick, M. Marschark, and P. Spencer (Eds.), Advances in the Sign Language Development of Deaf and Hard-of-Hearing Children. Oxford University Press, 202–230.
+
+![Attachment](attachments/86-1.png)

@@ -23,3 +23,7 @@ Preliminary results show that an average of 175 30-second clips (range: 120-261)
 
 
 Largescale audio recordings permit close observation of naturalistic language behavior. However, the careful sampling techniques employed in previous work require hours of manual annotation. So long as researchers continue to (understandably) find this time investment unreasonable, parental reports of language use will dominate developmental research (Kaushanskaya & Crespo, 2019). This study will outline how random sampling techniques can mitigate the time required to estimate characteristics of children’s language environments, perhaps making this a more feasible methodological tool in developmental science.
+
+![Attachment](attachments/63-1.png)
+
+![Attachment](attachments/63-2.png)

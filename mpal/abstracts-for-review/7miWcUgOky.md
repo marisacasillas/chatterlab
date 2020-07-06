@@ -17,3 +17,7 @@ Results. A linear mixed model analysis was computed, entering the overall langua
 Scores achieved in the objective tasks (t1 and t2) are good predictors of the self-perfection of competence in literacy (e.g. participants with a good language score tended to score high in items like “writing a story” or “understanding something I have read”) and social functioning (e.g. “speaking in public” or “talking on the telephone with someone you don’t know well”). In turn, language objective scores are a good inverse predictor of performance (e.g. “producing sentences’ or “understanding verbal instructions”), as shown in Figure 1.
 
 Discussion. Language-related skills can be organized around three well-differentiated areas: literacy, language use (performance) and social functioning. Participants with good scores in the use of language at a lexical and syntactic level have a positive self-perception of their reading, writing and social competencies, and a negative self-perception of their linguistic performance. This is an interesting result, providing internal validity to the ALASS tool for adults.
+
+![Attachment](attachments/26-1.png)
+
+![Attachment](attachments/26-2.png)

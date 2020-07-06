@@ -21,3 +21,5 @@ To test how often events accompanied verbs, we calculated the mean proportion of
 
 
 In sum, empirical studies of children’s verb learning usually present children with co-occurring relevant events.  However, our data show that this is relatively rare in everyday contexts.  It also shows similarities across these two language groups.  Children increased their verb productions across the 1.5 year age span, while mothers’ productions stayed the same.  Additionally, children heard verbs without seeing relevant events at least 87% of the time. When verbs were produced, it was often for children’s actions, with a tight link (within 3s) between verbs and events. Thus, experimental studies that emulate these learning conditions are needed. It is important to know how children learn verbs to understand how they acquire their native language.
+
+![Attachment](attachments/73-1.png)

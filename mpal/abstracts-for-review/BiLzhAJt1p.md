@@ -25,3 +25,7 @@ A mixed effects logistic regression revealed fixed effects of Word Length (B=-0.
  
 
 Integrating across studies is difficult as any divergence in results may relate to the way in which NWR was administered, differences in the phonological structure of the items, or other differences across the sites or languages. Nevertheless, current results are not clearly compatible with a hypothesis that infant-directed input determines phonological processing, with two populations where infants receive similar levels of infant-directed speech showing divergent NWR patterns.
+
+![Attachment](attachments/67-1.png)
+
+![Attachment](attachments/67-2.png)

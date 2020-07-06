@@ -17,3 +17,5 @@ On average, 42% of all blocks were labeled as "Multispeaker" (i.e. two speakers 
 We conclude by discussing the implications of these findings in a broader cross-cultural context. If early conversational turns are mostly composed of third-party conversations, does this mean that exclusive infant-adult verbal interactions are less important than thought in this rural setting? Or are children raised in such contexts capable of focusing attention on multiple speakers simultaneously, as it has been described for other rural contexts (Rogoff, 1993)? These questions invite further study of children’s language experience in diverse socio-ecological settings.
 
 Figure 1. The proportion of different block types as a function of the focal child's age
+
+![Attachment](attachments/6-1.png)

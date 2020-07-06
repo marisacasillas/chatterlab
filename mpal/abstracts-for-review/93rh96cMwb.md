@@ -15,3 +15,5 @@ Our primary research questions are 1) are the words most frequently produced by 
 Our preliminary results are consistent with literature on emerging words (Tardif et al., 2008; Braginsky et al., 2019). There was substantial overlap in the most frequently produced words for bilingual children and monolingual children at 24 months, with 10 out of the top 15 words being in common across both comparisons (see Table 1). However, there were a number of items that varied across the populations (see Table 2). Particularly, bilingual children produced sound words (baa baa, yum yum, muu) in both languages more frequently than either of the monolingual groups, and may have a stronger bias towards shorter words. Analyses are ongoing, and forthcoming analyses will explore whether bilingual children prioritize particular kinds of words in one of their languages over the other. 
 
 This work will extend previous research on cross-linguistic patterns of early language development by studying bilingual children and contributing to longstanding questions of the relative contributions of input, cultural variation, and linguistic features.
+
+![Attachment](attachments/27-1.png)

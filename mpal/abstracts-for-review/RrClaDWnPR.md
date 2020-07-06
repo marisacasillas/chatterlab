@@ -39,3 +39,7 @@ Dorais, L.-J. (2010). Language of the Inuit: Syntax, semantics, and society in t
 Henke, R. E. (2019). The development of possession in the L1 acquisition of Northern East Cree. Journal of Child Language, 46(5), 980-997.
 
 Marinis, T. (2016). Acquiring possessives. In Jeffrey L. Lidz, William Snyder & Joe Pater (Eds.), The Oxford handbook of developmental linguistics. Oxford: Oxford University Press.
+
+![Attachment](attachments/100-1.png)
+
+![Attachment](attachments/100-2.png)

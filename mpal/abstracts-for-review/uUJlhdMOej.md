@@ -15,3 +15,7 @@ Analysis 1: We measured speech input using LENA daylong audio-recordings from bl
 
 
 * In US/Europe: Incidence of blindness in children is 3/10,000; incidence of DHH (>40 dB) is ~10/10,000 (Gilbert 2003; CDC, n.d.). This difference is reflected in our sample sizes; recruitment is ongoing.
+
+![Attachment](attachments/95-1.png)
+
+![Attachment](attachments/95-2.png)

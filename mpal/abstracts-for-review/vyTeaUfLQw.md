@@ -15,3 +15,7 @@ At present, Experiment 1 data show larger priming effects for relative clauses i
 2. Branigan, H. P., & McLean, J, F. (2016). What children learn from adults’ utterances. Journal of Memory and Language, 91, 141–157. 
 
 3. Huttenlocher, J., Waterfall, H., Vasilyeva, M., Vevea, J., & Hedges, L. V. (2010). Sources of variability in children’s language growth. Cognitive Psychology, 61, 343–365.
+
+![Attachment](attachments/18-1.png)
+
+![Attachment](attachments/18-2.png)
