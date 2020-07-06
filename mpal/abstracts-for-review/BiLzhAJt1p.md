@@ -6,7 +6,7 @@
 
 Childhood language input has been described as key for language processing: Infants who are more often directly verbally addressed develop larger vocabularies and process language faster. However, the evidence for this claim focuses on the lexicon, which is presumably among the most input-hungry language levels (Cristia, 2020). Additionally, most evidence for this input-output link comes from studies of socioeconomic variation in North American samples where these correlations may be confounded by covariation with resource access. The same systematic review of published data (Cristia, 2020) shows that socio-economic differences in infant-directed input are dwarfed in comparison to cultural variation (https://xcult.shinyapps.io/vocsr/).
 
- 
+
 
 We examined phonological processing in two subsistence-level communities where, compared to North American samples, wealth accumulation is relatively minimal and less variable, and infants are verbally addressed much less frequently: the forager-horticulturalist Tsimane' of lowland Bolivia and the subsistence-farming Yélî of Rossel Island, Papua New Guinea. Daylong audio recordings indicate that infants in these communities hear at least three times less directed input than infants in North America: 1–4 minutes per hour among Tsimane' (Cristia et al., 2019; Scaff et al., in prep), and 2–3 minutes per hour among Yélî (Casillas et al., und. rev.), versus 11 minutes per hour among North American infants (Bergelson et al., 2019).
 

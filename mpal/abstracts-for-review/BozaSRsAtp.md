@@ -15,7 +15,3 @@ Our results show that throughout childhood, functional colour term use is changi
 
 
 More broadly, our data suggest that linguistic and visual input interact in complex ways and that there is a developmental trajectory in colour knowledge. First, children differ in their judgement of prototypical colours for categories that might seem uncontroversial for adults (dolphins are grey, not blue) and this might be related to their visual input, because many dolphins they are exposed to can indeed be blue. Second, the observation that children tend to pick brighter colours for the same animals and colour labels leads to questions about how children establish prototypical categories and which information they have at their disposal and use to arrive at prototypical animal colours. For example, picture books tend to depict dolphins as blue, but adults know that this is not a reliable source of information on natural animal colours. Do children weigh the evidence differently, simply compute statistics over the input, or only consider drawn animals for the specific task at hand? Future research will have to address these and other questions posed by our results, including tracing individual children's trajectory towards adult-like colour term knowledge and the factors that might shape this path.
-
-![Attachment](attachments/42-1.png)
-
-![Attachment](attachments/42-2.png)

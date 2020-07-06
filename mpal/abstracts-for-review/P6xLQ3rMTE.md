@@ -11,7 +11,3 @@ We tested 36 monolingual, 17 bidialectal and 23 bilingual children in a child-fr
 Results revealed that monolingual children were less likely to choose the correct meaning for the ideophones compared to bidialectal and bilingual children (estimate = 0.374, SE = 0.175, p = 0.033) and that boys were more likely than girls (estimate = 0.506, SE = 0.177, p = 0.004). In the animal label questionnaire, we found that bilinguals used more animal sounds compared to monolinguals (estimate = 1.900, SE = 0.511, p < 0.001) and bidialectals used animal sounds comparable to monolinguals (estimate = - 0.562, SE = 0.525, p = 0.284). 
 
 Taken together, the results confirm that being exposed to two very close languages results in a similar language acquisition as in monolinguals in the domain of animal labels (Bosch & Ramon-Casas, 2014). Beyond, they provide evidence that even a small variation in input as with two dialects and being a boy associated with smaller vocabulary prolongs the sensitivity to sound symbolism and goes hand in hand with a better guessing of ideophones at the age of three years. The findings indicate the assumption that smaller vocabulary and exposure to slightly different languages support symbolic flexibility.
-
-![Attachment](attachments/68-1.png)
-
-![Attachment](attachments/68-2.png)

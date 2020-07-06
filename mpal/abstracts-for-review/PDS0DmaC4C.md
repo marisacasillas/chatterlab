@@ -12,8 +12,6 @@ In this paper, we analyze and describe teachers' interventions focused on the tr
 
 References
 
-
-
 Ard, L. M. & Beverly, B. L. (2004). Preschool word learning during joint book reading: Effect of adult questions and comments. Communication Disorders Quarterly, 26(1), 17-28. doi: 10.1177/15257401040260010101
 
 Baumann, J. F., Edwards, E. C., Boland, E. M., Olejnik, S. & Kame’enui, E. J. (2003). Vocabulary tricks: Effects of instruction in morphology and context on fifth-grade students’ ability to derive and infer word meanings. American Educational Research Journal, 40(2), 447-494. 
@@ -23,7 +21,3 @@ Green. J. L. & Weade, R. (1987). In search of meaning: A sociolinguistic perspec
 Green, J. L., Weade, R. & Graham, K. (1988). Lesson construction and student participation: A sociolinguistic analysis. En J. Green y J. O. Harke (Eds.), Multiple perspective analysis of classroom discourse (pp. 11-47). Norwood, New Jersey: Ablex Publishing Corporation.
 
 Nash, H. & Snowling, M. (2006). Teaching new words to children with poor existing vocabulary knowledge: a controlled evaluation of the definition and context methods. International Journal of Language and Communication Disorders, 41(3), 335-354. doi: 10.1080/13682820600602295
-
-![Attachment](attachments/31-1.png)
-
-![Attachment](attachments/31-2.png)

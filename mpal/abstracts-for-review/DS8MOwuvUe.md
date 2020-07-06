@@ -53,5 +53,3 @@ Jansen, B., Lalleman, J., & Muysken, P.C. (1981). The alternation hypothesis: ac
 Heine, B. (2008). Contact-induced word order chage without word order change. In P. Siemund & N. Kintana (Eds.), Language contact and contact languages, 33-60.  Amsterdam and Philadelphia: John Benjamins.
 
 Moro, F. R. (2016). Dynamics of Ambon Malay: Comparing Ambon and the Netherlands. Utrecht: LOT.
-
-![Attachment](attachments/32-1.png)

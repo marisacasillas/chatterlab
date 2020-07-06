@@ -17,5 +17,3 @@ More than 80% of input is child-directed for both French and Sesotho. On average
 
 
 Thus, CDS is significantly prevalent over overheard speech for both settings. However, the input composition is dramatically different; maternal input is more dominant in the WEIRD corpora compared to the non-WEIRD one. In the latter, other children's input is more prevalent than maternal input, consistent with previous non-WEIRD descriptions. Interestingly, in terms of speech quality, other children’s and adults’ CDS present similarities with maternal speech within each culture. These results invite further cross-cultural early input research, in order to check if these speech compositions and qualities are representative of WEIRD and non-WEIRD quantifiable distinctions, and the impact these might have for language development.
-
-![Attachment](attachments/88-1.png)

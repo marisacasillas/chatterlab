@@ -19,5 +19,3 @@ We conducted a repeated measures ANOVA on the proportions of iconic gestures (as
 We found support for our hypothesis, according to which the amount and types of children’s iconic gesture use differ depending on the interactive demands of the genre. Overall, we found a trend suggesting that gestures occur less during Retelling that in other genres. When looking at the correlation of the different types, we found more similarity between Retelling and Illustration (with the pattern of hand-as-hand correlating with hand-as-object) than in Explanation, which latter genre gave rise to more gestures of the type hand-as-neutral and a correlation between this type and hand-as-hand. The genres seem thus to raise specific interactive demands reflected by the differences in gestural occurrence.
 
 With respect to the cognitive demands, we found that children gesture more when they recall a story from a video in comparison to a picture book that was read to them—a finding that lines up with previous literature (Hostetter & Alibali, 2008).
-
-![Attachment](attachments/65-1.png)

@@ -15,5 +15,3 @@ The current study made it possible to distinguish between predictions according 
 
 
 The current results are the first pertaining transcoding by Arab first graders and widen the research body of the developmental aspect of language and numerical cognition interaction.
-
-![Attachment](attachments/93-1.png)

@@ -6,10 +6,4 @@
 
 How parents talk to young children matters to language and cognitive development. In the early years the quantity, quality, and diversity inherent in language from parents in the home environment predict differences in vocabulary knowledge, school readiness, and later academic achievement. However, most of what is known about child-directed speech (CDS) comes from studies of monolingual parents, and little is known about features of speech from bilingual parents. Here, we asked whether degree of bilingualism assessed within a single parent might be positively associated with CDS features that are known to facilitate children’s lexical and grammatical structures across languages - parental partial repetitions. During unscripted narrations (n=91) of a picture book to their toddlers in English, mothers who reported being more bilingually balanced (see Figure 1) produced a higher proportion of self-repetitions (both single words and 2-word combinations) within a brief time frame in their speech. At the same time, more bilingual mothers preserved the same degree of lexical diversity as more monolingual mothers. The results obtained also accounted for differences in socio-economic status. These findings are discussed in terms of adaptive strategies that bilingual parents may consciously or unconsciously adopt in bilingual language development.
 
-
-
 Figure 1. An excerpt from the questionnaire demonstrating to parents how they should respond to the questions on their relative language proficiency: for each aspect of language usage, namely reading, writing, listening and speaking, they would rate their relative ability of the languages they know, summing to 100% across the known languages.
-
-![Attachment](attachments/21-1.png)
-
-![Attachment](attachments/21-2.png)

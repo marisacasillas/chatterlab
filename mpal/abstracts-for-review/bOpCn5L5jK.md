@@ -13,5 +13,3 @@ To test these hypotheses, we contacted parents of young children via social medi
 Preliminary results on data collected in Norway (n=182) confirmed our hypotheses that parent-infant interactions (in particular, free-play with a child) predicted larger increases in vocabulary (in both production and comprehension) while tablet/iPad-based games had negative impact on vocabulary gains in comprehension. While our initial analyses did not find any impact of SES, higher SES (as indicated by mother’s education level) was correlated, on the one hand, with less screen exposure and digital baby games use, and, on the other hand, with more book reading and free-play with the child. 
 
 In parallel, data collection is about to be finished across a dozen countries (e.g., France, Germany, UK, Turkey, USA, Canada, Russia) with over 4000 children contributing to data at T1.
-
-![Attachment](attachments/35-1.png)

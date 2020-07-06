@@ -19,7 +19,3 @@ A key problem for fields of language acquisition and language intervention is th
 1. By framing each intervention within Dynamic Systems (Thelen & Smith, 1994) , a  strong emphasis was placed upon creating converging and positive social-emotional engagement to accompany any presentation of a target challenge and to embed patterns of conversation that would increase processing ease. Further, positive expectations kept increasing across time as  early signs of progress and deeper engagement emerged between the child and the experimenter/clinician. These conditions in the treatment dynamic mixes served to perturb acquisition mechanisms toward focused processing and learning of new language structures.
 
   2.  Beyond the remarkable overall pace of acquisition during intervention, detailed individual pathways were revealed which indicated that the basically same presentation patterns across children triggered sub-steps that were strikingly different among the children as they each moved toward full acquisition of language structure
-
-![Attachment](attachments/51-1.png)
-
-![Attachment](attachments/51-2.png)

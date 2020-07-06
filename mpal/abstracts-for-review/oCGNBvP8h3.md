@@ -13,5 +13,3 @@ Method. The children were recorded together with one parent on 10 occasions star
 Analyses. The extent of possible relationships between interactants’ vocalizations/ verbalizations, gestures, gaze behavior, touch behavior and different facial expressions were examined using correlation analysis. Common factors that may have accounted for highly correlated modalities were examined by means of factor analysis. Preliminary results suggest, for instance, that during the first year of life for one group of dyads “gaze away” and “touch” were correlated, perhaps indicating that the communicative bond between child and parent might rely on touch as well as gaze patterns. 
 
 Discussion. The similarities and differences over time between children, parents and dyads are discussed in the context of the vocabulary level the children had reached at 3 years of age; and to what extent the variation in interactional style could be understood in terms of dynamic systems theory (Thelen & Smith, 2006).
-
-![Attachment](attachments/76-1.png)

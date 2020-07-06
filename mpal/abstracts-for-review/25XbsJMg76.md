@@ -27,7 +27,3 @@ Floccia, C., Delle Luche, C., Lepadatu, I., Chow, J., Ratnage, P., & Plunkett, K
 Kroll, J.F., Bobb, S. & Wodniecka, Z. (2006). Language selectivity is the exception, not the rule: Arguments against a fixed locus of language selection in bilingual speech. Bilingualism: Language and Cognition, 9, 119-35.
 Van Hell, J.G. & Tanner, D. (2012). Second language proficiency and cross-language lexical activation. Language Learning, 62 Supplement 2, 148-171.
 Von Holzen, K. & Mani, N. (2012). Language nonselective lexical access in bilingual toddlers. Journal of Experimental Child Psychology, 113, 569-586.
-
-![Attachment](attachments/24-1.png)
-
-![Attachment](attachments/24-2.png)

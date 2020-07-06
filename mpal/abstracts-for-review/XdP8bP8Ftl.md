@@ -11,7 +11,3 @@ In Study 2 (Figure 2) we also found that these larger measures in the ASD group 
 Figure 1. Mean values and standard errors for the four measures of parental variation sets (`Varsets` in the figure) across experimental group, gap and n-gram, in Study 1. First row: Proportion of utterances in variation sets. Second row: Proportion of unique words in variation sets. Third row: Diameter of variation sets. Fourth row: Length of variation sets.
 
 Figure 2. Mean values and standard errors for the four measures of Variation Sets across parent, gap and n-gram, in Study 2. First row: Proportion of utterances in variation sets. Second row: Proportion of unique words in variation sets. Third row: Diameter of variation sets. Fourth row: Length of variation sets.
-
-![Attachment](attachments/22-1.png)
-
-![Attachment](attachments/22-2.png)

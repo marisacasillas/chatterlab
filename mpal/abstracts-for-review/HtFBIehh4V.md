@@ -17,5 +17,3 @@ We found that caregiver vocal responses had a higher elicitation rate than non-v
 
 
 Our data suggest that the modality (vocal v. nonvocal) and sensitivity (sensitive v. redirective) of caregivers’ responses differentially elicit infants’ vocalizations and thus influence vocal turn-taking. Since the amount of conversational turns influences children’s language performance (Romeo et al., 2018), it is crucial that we understand what increases infants’ vocal responses and extends the turn taking interactions. We found that caregivers who respond verbally to their infants and who respond sensitively are more likely to get infants to talk back, increasing the number of turns. Our data contribute to the broader turn-taking literature by highlighting the bidirectional effects of vocal turn-taking, in which caregivers’ vocal and sensitive responses to babbling may serve as a training ground for the extension of early vocal turn-taking.
-
-![Attachment](attachments/29-1.png)

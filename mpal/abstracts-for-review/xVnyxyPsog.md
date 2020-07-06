@@ -5,5 +5,3 @@
 ### NA
 
 NA
-
-![Attachment](attachments/102-1.png)

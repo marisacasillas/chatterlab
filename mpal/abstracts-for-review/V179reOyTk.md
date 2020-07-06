@@ -25,5 +25,3 @@ Mattock, K., Polka, L., Rvachew, S., & Krehm, M. (2010). The first steps in word
 are easier when the shoes fit: Comparing monolingual and bilingual infants. Dev. Sc. 13(1), 229-243.
 
 Menjivar, J., & Akhtar, N. (2017). Language experience and preschoolers' foreign word learning. Biling. Lang. Cogn. 20(3), 642-648.
-
-![Attachment](attachments/56-1.png)

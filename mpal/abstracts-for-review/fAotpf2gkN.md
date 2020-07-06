@@ -17,7 +17,3 @@ Results: In the sample as a whole, all three input measures (types, tokens, and 
 
 
 Conclusion: Results indicate frontal gamma power as a mechanism linking quantitative and qualitative measures of language input to language development in infants at elevated risk of ASD, and importantly, suggest that neural mechanisms underlying language input-output relationships vary depending on ASD risk and diagnosis. Furthermore, findings of a moderation by group suggest that infants at familial risk of ASD may be even more sensitive to the quantity and quality of their language environments. This has important implications for early intervention to support language development in high-risk children.
-
-![Attachment](attachments/20-1.png)
-
-![Attachment](attachments/20-2.png)

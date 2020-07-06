@@ -23,5 +23,3 @@ References
 [3] McCawley, J. 1968. The Phonological Component of a Grammar of Japanese. The Hague: Mouton & Co.
 
 [4] Smith, J. L. 2005. Loan phonology is not all perception: Evidence from Japanese loan doublets. Japanese/Korean Linguistics 14, ed. by Timothy Vance. Stanford: CSLI. 63-74.
-
-![Attachment](attachments/69-1.png)

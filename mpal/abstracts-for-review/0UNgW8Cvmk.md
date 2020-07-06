@@ -19,7 +19,3 @@ These findings showed that IDS used in mothers with PPD loses the melodic qualit
 The results are discussed in relation to those guidelines of the interactionist theories of language acquisition that relate the quality of the early link in the first months of children's life with their environment and its incidence on prelinguistic development and subjective construction.
 
 Furthermore, the results could lead us to a diagnosis method that facilitates the detection of maladjustments during mother-infant communicative interactions based on prosodic and verbal production objective patterns.
-
-![Attachment](attachments/59-1.png)
-
-![Attachment](attachments/59-2.png)
