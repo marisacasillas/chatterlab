@@ -4,8 +4,6 @@
 
 <img src="./mpal/MPaL.png" width="25%">
 
-[review](./mpal/abstract-review-overview)
-
 Children show astonishing variation in the way they acquire their native language(s)—
 each developmental milestone in both production and comprehension is marked by
 meaningful individual differences. This 3-day workshop explores: (a) children’s
