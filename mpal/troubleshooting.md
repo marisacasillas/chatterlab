@@ -1,6 +1,6 @@
 # Many Paths to Language
 
-go to [Main page](../MPaL_handbook)
+Go to [Main page](../MPaL_handbook)
 
 ---
 
@@ -10,4 +10,4 @@ Insert text here
 
 ---
 
-go to [Main page](../MPaL_handbook)
+Go to [Main page](../MPaL_handbook)

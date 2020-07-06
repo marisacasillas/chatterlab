@@ -1,6 +1,6 @@
 # Many Paths to Language
 
-go to [Main page](./MPaL_handbook)
+Go to [Main page](../MPaL_handbook)
 
 ---
 
@@ -34,4 +34,4 @@ Title of the poster, *Author(s)* [abstract](./poster-abstracts#title-of-poster-t
 
 ---
 
-go to [Main page](./MPaL_handbook)
+Go to [Main page](../MPaL_handbook)

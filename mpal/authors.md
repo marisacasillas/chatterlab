@@ -1,6 +1,6 @@
 # Many Paths to Language
 
-go to [Main page](./MPaL_handbook)
+Go to [Main page](../MPaL_handbook)
 
 ---
 
@@ -13,4 +13,4 @@ go to [Main page](./MPaL_handbook)
 |Author C|Affiliation C|email|
 |Author D|Affiliation D|email|
 
-go to [Main page](./MPaL_handbook)
+Go to [Main page](../MPaL_handbook)

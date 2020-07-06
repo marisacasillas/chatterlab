@@ -2,7 +2,7 @@
 
 ### *If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting) for help.*
 
-<img src="./mpal/MPaL.png" width="40%">
+<img src="./mpal/MPaL.png" width="25%">
 
 Children show astonishing variation in the way they acquire their native language(s)—
 each developmental milestone in both production and comprehension is marked by

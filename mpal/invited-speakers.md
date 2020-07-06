@@ -1,7 +1,6 @@
 # Many Paths to Language
 
-go to [Main page](./MPaL_handbook)
-<!-- Fix this link to main page in all markdown files -->
+Go to [Main page](../MPaL_handbook)
 
 ---
 
@@ -32,4 +31,4 @@ Natural language, unlike animal communication systems, provides a rich combinato
 
 ---
 
-go to [Main page](./MPaL_handbook)
+Go to [Main page](../MPaL_handbook)
