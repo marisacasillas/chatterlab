@@ -1,0 +1,23 @@
+# For review only---DO NOT CITE
+
+## Abstract 80
+
+### Day-by-day vocabulary learning through reading aloud at home
+
+There is robust evidence in the field of early language learning that adult-led reading aloud with young children can help them grow and diversify their vocabulary. Previous research has found that book-level linguistic features such as use of rhyme and novel word placement within story texts, as well as simple strategies used by adult readers such as the use of dramatic pauses, or asking extra-textual questions can help children retain new words. Our study builds upon this prior research, testing the interactive effects of book features and parents’ spontaneous use of such word-highlighting strategies on 3-year-olds’ vocabulary retention during successive at-home read alouds -- a more ecologically valid setting than previously explored.
+
+
+
+In this study, parent-child pairs (n=30) were provided with either a rhymed or unrhymed version of the same story featuring novel names and illustrations of eight imaginary monsters, along with a digital audio recorder to take home. Parents were instructed to record reading the book aloud as they normally would with their child daily for five consecutive days. After completing the readings, children were tested on novel word (monster name) recall in two ways - with a multiple-choice picture identification task, and with a verbal production task. The audio recordings of each dyad’s five progressive read-alouds were transcribed and coded for conversational elements including number of extra-textual conversational turns, extra-textual linguistic variability, intentional pauses for highlighting and dramatic effect, target word repetitions, and both parents’ and children’s additional comments on the novel monster names.  
+
+
+
+Findings indicate that after five days of reading, children retained the novel monster names with equal success (M = 6.85 correct identifications out of 8) with both rhymed and unrhymed books, but that the amount of extra-textual commentary across measures was from day to day consistently greater in the unrhymed condition. This suggests that dyads’ dialogic style differed based on the book type, and that with unrhymed texts parents adopt a compensatory interactive style to highlight new words that may seem less memorable on their own in an unrhymed story.
+
+
+
+In addition, we have found that the amount and diversity of conversational elements varied much more across parent-child pairs than within pairs over time -- pairs tended to adopt a consistent reading style, even as the book became more familiar over 5 days. The results from this study also indicate that the effects for some pairs of employing more dialogic reading strategies (e.g., more extra-textual commentary and use of highlighting devices) have a stronger impact on children’s ability to recall and produce the novel words compared to the effect these strategies have on children’s simple retention and identification of the words, which was often at ceiling after five days of hearing the story. Finally, children in this study were overall more successful at remembering the novel words than in previous studies using the same monster books, likely because here in this study they had the opportunity to participate in more natural “every day” interactions through repeated readings at home. 
+
+
+
+In sum, this work explores deeply the range of ways that parents use the text of a book and their own intuitions to help children engage with and learn new vocabulary. Because this work takes into account both simple controlled book-level differences as well as the spontaneous highlighting strategies that parents employ, we are able to see how book type (rhymed or unrhymed) may act as a moderator, as well as which highlighting strategies are most useful for children’s later novel word retention in natural, ecologically valid contexts. Findings from this work will help us more fully understand how shared reading is such fertile ground for young children’s vocabulary growth.
