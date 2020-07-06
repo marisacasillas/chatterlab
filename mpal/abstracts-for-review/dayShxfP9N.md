@@ -8,13 +8,13 @@ This study examines whether English monolingual girls differ from English monoli
 
 
 
-(1) 	a. John gave a book to Mary 			(to-dative)
+(1)
 
-        b. John gave Mary a book 				(DOC)
+a. John gave a book to Mary 			(to-dative)
 
-                                                                        [Larson 1988: 343-353]
-
-
+b. John gave Mary a book 				(DOC)
+                                                                        
+[Larson 1988:343–353]
 
 Considering these predictions, English monolingual girls are expected to present an earlier emergence and, possibly higher frequency rates in the production of English DA, when compared to English monolingual boys’ data (Cornett 2014; Lovas 2011), regardless of the syntactic relation between DOCs and to/for-datives. We also investigate whether the exposure to English DA from the adult input shows differences in the girls’ output and in the boys’ output, as also attested in earlier acquisition works (Clearfield and Nelson 2006; Gleason 1990). In order to shed light on these issues, we analyze data from eight English monolingual girls and five English monolingual boys, and the adults that interact with them, as they appear in the CHILDES database (MacWhinney 2000). 
 
