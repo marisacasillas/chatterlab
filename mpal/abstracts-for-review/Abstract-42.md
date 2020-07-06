@@ -1,0 +1,21 @@
+# For review only---DO NOT CITE
+
+## Abstract 42
+
+### The Many Colours of Dolphins: Functional colour knowledge across development
+
+Colour knowledge permeates our lives and plays a central role in pervasive tasks like object recognition. How does this knowledge develop in children? To address this question it is important to consider which skills are at play: separation of the continuous colour space, attaching labels, and extracting colour information from visual input. 
+
+In this study, we focus on functional colour knowledge, i.e. how children and adults use their knowledge about entities to categorize them. In other words, we tap into higher level skills related to colour term acquisition, which involve not only correctly partitioning the colour space and assigning the appropriate label, but also sampling over many examples and accessing some stored common property. To test the developing ability to use colour knowledge in such a way, we asked children (N = 48, aged 3 to 11) and adults (N = 28, aged 24 to 65 ), to categorize 16 animals by colour in a tablet study (Figure 1, top panel). A second task was to assign a colour to each group (Figure 1, bottom panel). Data collection took place during an outreach event, and a current online study aims to increase our sample size to obtain data from over 100 participants evenly distributed between the age of 3 and 16 and a matched adult sample. 
+
+
+
+Our results show that throughout childhood, functional colour term use is changing and progressively becoming more adult-like. There was a clear developmental pattern from large variability and low consistency in the responses of young children (e.g., dolphins are grey or blue, ants are black or red; Figure 2, Panel A) to large consistency among adults (dolphins are grey, ants are black). Moreover, we show that not only the groupings of animals differ among children and adults (and among children at different ages, Figure 2, Panel B) but also the colours assigned to those groups (Figure 2, Panel D). For instance, while both children and adults assign turtles to a “green” cluster, the green of that cluster is brighter for young children than for adults, and shows a clear developmental pattern from brighter to darker for children as they become older. However, we do not observe extension errors that have been reported previously for children up to the age of 11, as participants from age 3 onwards overwhelmingly pick colours that match the label (Figure 2, Panel C). Taken together, our results suggest that developmental differences in categorization of animals and thus the functional use of colour terms is not due to a delay in acquiring these words per se but rather reflects differences in the colours children prototypically assign to animals.
+
+
+
+More broadly, our data suggest that linguistic and visual input interact in complex ways and that there is a developmental trajectory in colour knowledge. First, children differ in their judgement of prototypical colours for categories that might seem uncontroversial for adults (dolphins are grey, not blue) and this might be related to their visual input, because many dolphins they are exposed to can indeed be blue. Second, the observation that children tend to pick brighter colours for the same animals and colour labels leads to questions about how children establish prototypical categories and which information they have at their disposal and use to arrive at prototypical animal colours. For example, picture books tend to depict dolphins as blue, but adults know that this is not a reliable source of information on natural animal colours. Do children weigh the evidence differently, simply compute statistics over the input, or only consider drawn animals for the specific task at hand? Future research will have to address these and other questions posed by our results, including tracing individual children's trajectory towards adult-like colour term knowledge and the factors that might shape this path.
+
+![Attachment](attachments/42-1.png)
+
+![Attachment](attachments/42-2.png)

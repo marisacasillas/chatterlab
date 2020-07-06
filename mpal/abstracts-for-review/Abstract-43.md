@@ -1,0 +1,21 @@
+# For review only---DO NOT CITE
+
+## Abstract 43
+
+### Children learn new words with the help of classifiers
+
+Often, children hear novel words as they see several objects. One way children learn meanings of novel words is through the Mutual Exclusivity constraint (ME; Markman & Wachtel, 1988), which argues that children assume each object to be given only one name. This way, children are able to reject any familiar object as the referent of the novel label. Although syntactic cues also help children in learning words (e.g., making mass-count nouns distinction; Barner & McKeown, 2005), Sloutsky et al. (2017) argued that syntactic cues does not allow children to distinguish between two count nouns. Yet, this is not true for numeral classifier languages such as Mandarin. In numeral classifier languages, numeral classifiers group count nouns based on various specifications, such as shape and animacy. This classifier information allows children to pick the correct target object among several novel objects (Li et al.; 2010). 
+
+Malay is also a numeral classifier language that categorises count nouns through numeral classifiers (Salehuddin & Winskel, 2008). Therefore, when a “rod-classifier mipo” is asked for, a rod-like novel object is likely to be the target. As Li et al. (2010) showed that Mandarin-speaking children are able to apply classifier information on novel objects, the present study examined whether Malay children will employ syntactic cues to disambiguate between count nouns.
+
+Sixty-seven Malay children (age range = 5 to 9 years, M = 7.21 years, SD = 1.29) were presented with 32 pairs of novel and familiar objects and asked for a novel label (e.g., Find a rod-classifier mipo!). There were four conditions in the present study; (a) a congruent condition, where the classifier is only suitable for the novel object, (b) an incongruent condition, where the classifier is only suitable for the familiar object, (c) a syntax-neutral-match-both condition, where the classifier is suitable for both objects, and (d) a syntax-neutral-mismatch-both condition, where the classifier is suitable for neither object (see Figure 1). It was hypothesised that if children rely on syntactic cues, they would select the object that matches the classifier regardless of the novelty of the object.
+
+A binomial mixed-effect logistic regression was conducted with condition, age and the interaction between condition and age set as fixed effects. There was a main effect of condition (β = -1.45, SE = 0.67, p = .030) and a significant interaction between condition and age (β = 1.41, SE = 0.53, p = .008). The main effect of condition was further analysed by testing the proportion of novel object selection against chance (i.e., proportion of .50). We found that children selected the novel object significantly above chance in the congruent condition (χ² (1) = 187.48, p < .001); the syntax-neutral-match-both condition (χ² (1) = 11.64, p < .001); and the syntax-neutral-mismatch-both condition (χ² (1) = 17.55, p < .001). In the incongruent condition, children selected the familiar object significantly above chance (χ² (1) = 25.54, p < .001).
+
+The significant interaction between age and condition is illustrated in Figure 2, where older children relied more on classifier information than younger children in the incongruent condition. It is likely that older children’s stronger reliance on syntactic cues stems from their experience in using classifiers. Hence, the present findings are in line with Salehuddin and Winskel (2011), who found that Malay children start to learn about classifiers formally at about 6 years of age and continue to do so till adolescence.
+
+In short, we showed that Malay-speaking children can use syntactic cues to disambiguate between count nouns. This result suggests that children are flexible learners, as they are able to rely on syntactic cues when it is available. Moreover, by recruiting Malay-speaking children, we provide further support to previous researches on the universality of syntactic bootstrapping in language acquisition.
+
+![Attachment](attachments/43-1.png)
+
+![Attachment](attachments/43-2.png)
