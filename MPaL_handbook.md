@@ -2,7 +2,7 @@
 
 ### *If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting) for help.*
 
-<img src="./mpal/MPaL.png" width="40%">
+<img src="./mpal/MPaL.png" width="25%">
 
 [review](./mpal/abstract-review-overview)
 
