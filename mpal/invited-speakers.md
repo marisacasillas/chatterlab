@@ -1,6 +1,7 @@
 # Many Paths to Language
 
 go to [Main page](./MPaL_handbook)
+<!-- Fix this link to main page in all markdown files -->
 
 ---
 
@@ -17,6 +18,7 @@ Research carried out in my laboratory concerns psychological and neural mechanis
 ### Andrea Ravignani (MPI for Psycholinguistics)
 
 <img src="./ravignani.png" width="25%">
+<!-- This image is not displayed -- >
 
 Who’s got rhythm? Why do we speak? In my research, I investigate the evolutionary and biological bases of rhythm cognition and flexible sound production, and the role they played in the origins of music and speech in our species. I perform sound recordings and behavioral non-invasive experiments in non-human animals (mostly seals), as a comparative effort to understand the evolutionary history of human capacities. I complement animal research with human testing, neurobiological evidence, mathematical models, and agent-based simulations.
 
