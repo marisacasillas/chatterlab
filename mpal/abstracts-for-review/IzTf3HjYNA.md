@@ -24,6 +24,6 @@ To test if parental input, such as ‘Let her open it’, could be responsible f
 
 Children make few pronoun case errors.  There is considerable variability in error types and tokens, within a narrow range, from child to child.  We consider whether there is a substantial phenomenon to be explained:  children case most of their subjects and objects correctly, regardless of how many ‘ACC +V’ sequences parents produce.
 
-![Attachment](attachments/8-1.png)
-
 ![Attachment](attachments/8-2.png)
+
+![Attachment](attachments/8-1.png)
