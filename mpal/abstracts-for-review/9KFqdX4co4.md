@@ -11,3 +11,5 @@ We present a planned large-scale, multisite study that will investigate whether 
 In sum, this study will measure the generalizability of a key infancy finding – infants’ IDS preference – to more demographically diverse populations and will provide important insights into how variation in infant’s demographics in these societies may affect their IDS preference. This work represents the ManyBabies Consortium's goals and efforts to provide a more global and comprehensive picture of infancy research.
 
 ![Attachment](attachments/99-1.png)
+
+![Attachment](attachments/99-2.png)
