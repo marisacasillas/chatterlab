@@ -12,6 +12,6 @@ Results: We conducted analyses in R. We used non-parametric analyses (Wilcoxon, 
 
 Conclusion: We found that children in both groups tend to vocalize at higher rates while interacting with a parent compared to supervised independent play, and parents’ word counts were highest while reading a book with their child. However, child vocalization rate was not related to adult word rate in either interactive task, suggesting that adult vocal behavior may not impact child vocal patterns over and above the effect of task context during short, structured tasks. These findings can inform language treatment planning by clarifying which factors are relevant for increasing child speech rate for children with neurogenetic syndromes.
 
-![Attachment](attachments/72-0.png)
+![Attachment](attachments/72-01.png)
 
-![Attachment](attachments/72-1.png)
+![Attachment](attachments/72-02.png)
