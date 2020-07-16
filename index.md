@@ -1,16 +1,14 @@
-# CHITTER CHATTER
+# The chattr lab
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The chattr lab investigates the cognition of everyday human language. We explore how communicative needs impact the ways in which language is learned and used by both children and adults. To that end, we employ experimental and observational methods in multiple sites around the world to analyze the production and comphrehension of conversational language. (Principal Investigator: [Dr. Marisa Casillas]())
 
-- Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-- Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+[People](./people.md)
 
-A [link to an adjacent file](./adjacent.md).
+[Projects](./projects.md)
 
-## Courses
-[The Emergence of Communicative Competence](./Casillas-DevCommComp-Spring2020-Syllabus.md) (Spring 2020).
+[Publications](./publications.md)
 
-
+[Contact](./contact.md)
 
 ----
 The chattr lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, particularly those coming from minoritized groups.
