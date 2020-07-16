@@ -1,10 +1,24 @@
-# chattr projects and methods
+# chattr PI
 
-### Xcult comparison
+## Dr. Marisa Casillas
 
-### Multimodal exchange
+### About
 
-### learning to take turns
+
+### Curriculum Vitae
+You can find a recent CV [here]()
+
+### Courses
+
+[The Emergence of Communicative Competence](./Casillas-DevCommComp-Spring2020-Syllabus.md) (Spring 2020).
+
+### Contact
+
+Office: TBA
+
+Phone: TBA
+
+Email: mcasillas@uchicago.edu
 
 ----
 The chattr lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, particularly those coming from minoritized groups.
