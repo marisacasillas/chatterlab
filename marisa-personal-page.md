@@ -6,7 +6,7 @@
 
 
 ### Curriculum Vitae
-You can find a recent CV [here]()
+You can find a recent CV [here](https://docs.google.com/document/d/1hWEHXhlJ_VYXOmvjuOQlSOqgiCmt_eeVc6TvExBpC80/edit?usp=sharing)
 
 ### Courses
 
@@ -19,6 +19,9 @@ Office: TBA
 Phone: TBA
 
 Email: mcasillas@uchicago.edu
+
+<img src="./marisa-image.JPG" width="100%">
+Dr. Casillas in the Bemmelse Waard, Nijmegen, The Netherlands
 
 ----
 The chattr lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, particularly those coming from minoritized groups.
