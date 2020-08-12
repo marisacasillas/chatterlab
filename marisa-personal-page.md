@@ -1,4 +1,4 @@
-# chatter PI
+# Principal investigator
 
 ## Dr. Marisa Casillas
 
