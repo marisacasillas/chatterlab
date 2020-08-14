@@ -5,13 +5,29 @@ Marisa (she/her/hers) is an assistant professor in the University of Chicago's C
 
 ### PhD members
 
-Natalie Dowling
+[Natalie Dowling](https://voices.uchicago.edu/goldinmeadowlab/people/graduate-assistants/)
+
+<!--EP, HL?-->
 
 ### Student members
 
+<!--AB, BP-->
+
 ### Friends of the lab
 
-You can find links to some of our frequent collaborators below.
+You can find links to some of our recent/frequent collaborators below.
+
+#### Turn taking
+
+[Imme Lammertink](https://nl.linkedin.com/in/imme-lammertink-15804685) and [Connie de Vos](https://research.tilburguniversity.edu/en/persons/connie-de-vos)
+
+#### Early language environment
+
+[Elika Bergelson](https://bergelsonlab.com/bergelson-personal-page.html), [John Bunce](https://www.researchgate.net/profile/John_Bunce), [Alex Cristia](https://sites.google.com/site/acrsta/), [Okko Räsänen](http://www.cs.tut.fi/sgn/specog/index.html), [Celia Rosemberg](http://www.ciipme-conicet.gov.ar/wordpress/rosemberg-celia-renata/), [Caroline Rowland](https://www.mpi.nl/people/rowland-caroline), [Camila Scaff](https://camilascaff.com/), and [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
+
+#### Tseltal/Rossel language research
+
+[Penny Brown](https://www.mpi.nl/people/brown-penelope) and [Steve Levinson](https://www.mpi.nl/people/levinson-stephen)
 
 ----
 The chatter lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, and particularly encourage those coming from marginalized groups to reach out if interested in working with the lab.
