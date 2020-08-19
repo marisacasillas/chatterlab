@@ -3,10 +3,12 @@
 ## Dr. Marisa Casillas
 
 ### About
-
+I am interested in learning how patterns of everyday language guide the ways in which language is learned by children, processed by adults.
 
 ### Curriculum Vitae
 You can find a recent CV [here](https://docs.google.com/document/d/1hWEHXhlJ_VYXOmvjuOQlSOqgiCmt_eeVc6TvExBpC80/edit?usp=sharing)
+
+Lab-related publications can be found on our [Publications](./publications.md) page.
 
 ### Courses
 
@@ -19,6 +21,8 @@ Office: TBA
 Phone: TBA
 
 Email: mcasillas@uchicago.edu
+
+Other: [GitHub](https://github.com/marisacasillas/), [Google Scholar](https://scholar.google.com/citations?user=12yVanIAAAAJ&hl=en), and [Twitter](https://twitter.com/middycasillas?lang=en)
 
 <img src="./marisa-image.JPG" width="100%">
 Dr. Casillas in the Bemmelse Waard, Nijmegen, The Netherlands
