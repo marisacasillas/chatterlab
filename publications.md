@@ -18,7 +18,7 @@ Räsänen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (in p
 
 ## 2020
 
-**Casillas, M.**, & Hilbrink, E. (2020). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), Developmental and Clinical Pragmatics (pp. XX-XX). De Gruyter Mouton. [[ms](./lab-publications/Casillas_Hilbrink_inpress_Communicative_act_development_DCPragmaticsHandbook.pdf)]
+**Casillas, M.**, & Hilbrink, E. (2020). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), Developmental and Clinical Pragmatics (pp. 61-88). De Gruyter Mouton. [[ms](./lab-publications/Casillas_Hilbrink_inpress_Communicative_act_development_DCPragmaticsHandbook.pdf)]
 
 Cychosz, M., Romeo, R., Soderstrom, M., Scaff, C., Ganek, H., Cristia, A., **Casillas, M.**, De Barbaro, K., Bang, J. Y., & Weisleder, A. (2020). Longform recordings of everyday life: Ethics for best practices. Behavior Research Methods. Advance online publication. doi:10.3758/s13428-020-01365-9. [[ms](./lab-publications/Cychosz_et_al_2020_Longform_recordings_of_everyday_life_Ethics_for_best_practices_BRM.pdf)]
 
