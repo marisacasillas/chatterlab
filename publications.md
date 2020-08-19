@@ -1,7 +1,96 @@
 # chatter publications
 
+[ms] = manuscript
 
-TBAdded
+[sm] = supplementary materials, if available
+
+[gh] = associated github repository, if available
+
+<!--[[ms]()] [[sm]()] [[gh]()]-->
+
+## in press/accepted
+
+**Casillas, M.**, Brown, P., & Levinson, S. C. (accepted). Early language experience in a Papuan community. Journal of Child Language. [[ms](./lab-publications/Casillas_et_al_accepted_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_accepted_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
+
+Brown, P., & **Casillas, M.** (in press). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
+
+Räsänen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (in press). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. Behavior Research Methods. [[ms](./lab-publications/Räsänen_et_al_inpress_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
+
+## 2020
+
+**Casillas, M.**, & Hilbrink, E. (2020). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), Developmental and Clinical Pragmatics (pp. XX-XX). De Gruyter Mouton. [[ms](./lab-publications/Casillas_Hilbrink_inpress_Communicative_act_development_DCPragmaticsHandbook.pdf)]
+
+Cychosz, M., Romeo, R., Soderstrom, M., Scaff, C., Ganek, H., Cristia, A., **Casillas, M.**, De Barbaro, K., Bang, J. Y., & Weisleder, A. (2020). Longform recordings of everyday life: Ethics for best practices. Behavior Research Methods. Advance online publication. doi:10.3758/s13428-020-01365-9. [[ms](./lab-publications/Cychosz_et_al_2020_Longform_recordings_of_everyday_life_Ethics_for_best_practices_BRM.pdf)]
+
+MacDonald, K., Räsänen, O., **Casillas, M.**, & Warlaumont, A. S. (2020). Measuring prosodic predictability in children’s home language environments. In S. Denison, M. Mack, Y. Xu, & B. C. Armstrong (Eds.), Proceedings of the 42nd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2020) (pp. 695-701). Montreal, QB: Cognitive Science Society. [[ms](./lab-publications/MacDonald_et_al_2020_Measuring_prosodic_predictability_in_childrens_home_language_environments_CogSci.pdf)] [[gh](https://github.com/kemacdonald/lena-pred)]
+
+## 2019
+
+Bergelson, E.\*, **Casillas, M.**\*, Soderstrom, M., Seidl, A., Warlaumont, A. S., & Amatuni, A. (2019). What Do North American Babies Hear? A large-scale cross-corpus analysis. Developmental Science, 22(1): e12724. doi:10.1111/desc.12724. (\* Joint first authorship) [[ms](./lab-publications/Bergelson_Casillas_et_al_2019_What_do_North_American_babies_hear_DevSci.pdf)] [[sm](./lab-publications/Bergelson_Casillas_et_al_2019_What_do_North_American_babies_hear_SuppMat_DevSci.pdf)] [[gh](https://github.com/marisacasillas/NorthAmericanChildren-ADSvsCDS)]
+
+**Casillas, M.**, & Cristia, A. (2019). A step-by-step guide to collecting and analyzing long-format speech environment (LFSE) recordings. Collabra, 5(1): 24. doi:10.1525/collabra.209. [[ms](./lab-publications/Casillas_Cristia_2019_Step-by-step_guide_to_collecting_and_analyzing_long_format_speech_environment_LFSE_recordings_Collabra.pdf)] [[sm](./lab-publications/Casillas_Cristia_2019_Step-by-step_guide_to_collecting_and_analyzing_long_format_speech_environment_LFSE_recordings_SuppMat_Collabra.pdf)]
+
+**Casillas, M.**, Rafiee, A., & Majid, A. (2019). Iranian herbalists, but not cooks, are better at naming odors than laypeople. Cognitive Science, 43(6): e12763. doi:10.1111/cogs.12763. [[ms](./lab-publications/Casillas_et_al_2019_Iranian_hebalists_but_not_cooks_are_better_at_naming_odors_than_laypeople_CognitiveScience.pdf)] [[sm](./lab-publications/Casillas_et_al_2019_Iranian_hebalists_but_not_cooks_are_better_at_naming_odors_than_laypeople_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/Attars-OdorNaming)]
+
+**Casillas, M.**, Brown, P., & Levinson, S. C. (2019). Early language experience in a Tseltal Mayan village. Child Development. Advance online publication. doi:10.1111/cdev.13349. [[ms](./lab-publications/Casillas_et_al_2019_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](./lab-publications/Casillas_et_al_2019_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
+
+Räsänen, O., Seshadri, S., Karadayi, J., Riebling, E., Bunce, J., Cristia, A., Metze, F., **Casillas, M.**, Rosemberg, C., Bergelson, E., & Soderstrom, M. (2019). Automatic word count estimation from daylong child-centered recordings in various language environments using language-independent syllabification of speech. Speech Communication, 113, 63-80. doi:10.1016/j.specom.2019.08.005. [[ms](./lab-publications/Räsänen_et_al_2019_Automatic_word_count_estimation_from_daylong_child_centered_recordings_SpeechComm.pdf)] [[gh](https://github.com/ACLEW/WCE_VM/)]
+
+## 2018
+
+Bögels, S., **Casillas, M.**, & Levinson, S. C. (2018). Planning versus comprehension in turn-taking: Fast responders show reduced anticipatory processing of the question. Neuropsychologia, 109, 295-310. doi:10.1016/j.neuropsychologia.2017.12.028. [[ms](./lab-publications/Bögels_et_al_2018_Planning_versus_comprehension_in_turn_taking_Neuropsychologia.pdf)] [[sm](./lab-publications/Bögels_et_al_2018_Planning_versus_comprehension_in_turn_taking_SuppMat_Neuropsychologia.pdf)]
+
+Cristia, A., Ganesh, S., **Casillas, M.**, & Ganapathy, S. (2018). Talker diarization in the wild: The case of child-centered daylong audio-recordings. In Proceedings of Interspeech 2018 (pp. 2583-2587). doi:10.21437/Interspeech.2018-2078. [[ms](./lab-publications/Cristia_et_al_2018_Talker_diarization_in_the_wild_Interspeech.pdf)]
+
+Räsänen, O., Seshadri, S., & **Casillas, M.** (2018). Comparison of syllabification algorithms and training strategies for robust word count estimation across different languages and recording conditions. In Proceedings of Interspeech 2018 (pp. 1200-1204). doi:10.21437/Interspeech.2018-1047. [[ms](./lab-publications/Räsänen_et_al_2018_Comparison_of_syllabification_algorithms_and_training_strategies_for_robust_word_count_estimation_Interpseech.pdf)]
+
+## 2017
+
+**Casillas, M.**, Bergelson, E., Warlaumont, A. S., Cristia, A., Soderstrom, M., VanDam, M., & Sloetjes, H. (2017). A New Workflow for Semi-automatized Annotations: Tests with Long-Form Naturalistic Recordings of Childrens Language Environments. In Proceedings of Interspeech 2017 (pp. 2098-2102). doi:10.21437/Interspeech.2017-1418.
+
+**Casillas, M.**, Amatuni, A., Seidl, A., Soderstrom, M., Warlaumont, A., & Bergelson, E. (2017). What do Babies hear? Analyses of Child- and Adult-Directed Speech. In Proceedings of Interspeech 2017 (pp. 2093-2097). doi:10.21437/Interspeech.2017-1409.
+
+**Casillas, M.**, & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. Journal of Memory and Language, 92, 234-253. doi:10.1016/j.jml.2016.06.013.
+
+Schuller, B., Steidl, S., Batliner, A., Bergelson, E., Krajewski, J., Janott, C., Amatuni, A., **Casillas, M.**, Seidl, A., Soderstrom, M., Warlaumont, A. S., Hidalgo, G., Schnieder, S., Heiser, C., Hohenhorst, W., Herzog, M., Schmitt, M., Qian, K., Zhang, Y., Trigeorgis, G., Tzirakis, P., & Zafeiriou, S. (2017). The INTERSPEECH 2017 computational paralinguistics challenge: Addressee, cold & snoring. In Proceedings of Interspeech 2017 (pp. 3442-3446). doi:10.21437/Interspeech.2017-43.
+
+## 2016
+
+**Casillas, M.**, Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. Journal of Child Language, 43, 1310-1337. doi:10.1017/S0305000915000689.
+
+Clark, E. V., & **Casillas, M.** (2016). First language acquisition. In K. Allen (Ed.), The Routledge Handbook of Linguistics (pp. 311-328). New York: Routledge.
+
+Holler, J., Kendrick, K. H., **Casillas, M.**, & Levinson, S. C. (Eds.). (2016). Turn-Taking in Human Communicative Interaction. Lausanne: Frontiers Media. doi:10.3389/978-2-88919-825-2.
+
+## 2015
+
+**Casillas, M.**, De Vos, C., Crasborn, O., & Levinson, S. C. (2015). The perception of stroke-to-stroke turn boundaries in signed conversation. In D. C. Noelle, R. Dale, A. S. Warlaumont, J. Yoshimi, T. Matlock, C. D. Jennings, & P. R. Maglio (Eds.), Proceedings of the 37th Annual Meeting of the Cognitive Science Society (CogSci 2015) (pp. 315-320). Austin, TX: Cognitive Science Society.
+
+Holler, J., Kendrick, K. H., **Casillas, M.**, & Levinson, S. C. (2015). Editorial: Turn-taking in human communicative interaction. Frontiers in Psychology, 6: 1919. doi:10.3389/fpsyg.2015.01919.
+
+Lammertink, I., **Casillas, M.**, Benders, T., Post, B., & Fikkert, P. (2015). Dutch and English toddlers' use of linguistic cues in predicting upcoming turn transitions. Frontiers in Psychology, 6: 495. doi:10.3389/fpsyg.2015.00495.
+
+## 2014
+
+Arnon, I., **Casillas, M.**, Kurumada, C., & Estigarribia, B. (Eds.). (2014). Language in interaction: Studies in honor of Eve V. Clark. Amsterdam: Benjamins.
+
+**Casillas, M.** (2014). Taking the floor on time: Delay and deferral in children’s turn taking. In I. Arnon, M. Casillas, C. Kurumada, & B. Estigarribia (Eds.), Language in Interaction: Studies in honor of Eve V. Clark (pp. 101-114). Amsterdam: Benjamins.
+
+**Casillas, M.** (2014). Turn-taking. In D. Matthews (Ed.), Pragmatic development in first language acquisition (pp. 53-70). Amsterdam: Benjamins.
+
+## 2013
+
+**Casillas, M.**, & Frank, M. C. (2013). The development of predictive processes in children’s discourse understanding. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), Proceedings of the 35th Annual Meeting of the Cognitive Science Society. (pp. 299-304). Austin,TX: Cognitive Society.
+
+Sumner, M., Kurumada, C., Gafter, R., & **Casillas, M.** (2013). Phonetic variation and the recognition of words with pronunciation variants. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), Proceedings of the 35th Annual Meeting of the Cognitive Science Society (CogSci 2013) (pp. 3486-3492). Austin, TX: Cognitive Science Society.
+
+## 2012
+
+**Casillas, M.**, & Frank, M. C. (2012). Cues to turn boundary prediction in adults and preschoolers. In S. Brown-Schmidt, J. Ginzburg, & S. Larsson (Eds.), Proceedings of SemDial 2012 (SeineDial): The 16th Workshop on the Semantics and Pragmatics of Dialogue (pp. 61-69). Paris: Université Paris-Diderot.
+
+## 2012
+
+**Casillas, M.**, & Amaral, P. (2011). Learning cues to category membership: Patterns in children’s acquisition of hedges. In C. Cathcart, I.-H. Chen, G. Finley, S. Kang, C. S. Sandy, & E. Stickles (Eds.), Proceedings of the Berkeley Linguistics Society 37th Annual Meeting (pp. 33-45). Linguistic Society of America, eLanguage.
 
 ----
 The chatter lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, and particularly encourage those coming from marginalized groups to reach out if interested in working with the lab.
