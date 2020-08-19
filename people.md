@@ -11,6 +11,8 @@ Marisa (she/her/hers) is an assistant professor in the University of Chicago's C
 
 ### Student members
 
+Aditya Badlani
+
 <!--AB, BP-->
 
 ### Friends of the lab
