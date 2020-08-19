@@ -12,9 +12,9 @@
 
 **Casillas, M.**, Brown, P., & Levinson, S. C. (accepted). Early language experience in a Papuan community. Journal of Child Language. [[ms](./lab-publications/Casillas_et_al_accepted_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_accepted_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
 
-Brown, P., & **Casillas, M.** (in press). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
+Brown, P., & **Casillas, M.** (accepted). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
-Räsänen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (in press). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. Behavior Research Methods. [[ms](./lab-publications/Räsänen_et_al_inpress_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
+Rasanen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (in press). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. Behavior Research Methods. [[ms](./lab-publications/Rasanen_et_al_inpress_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
 
 ## 2020
 
@@ -22,7 +22,7 @@ Räsänen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (in p
 
 Cychosz, M., Romeo, R., Soderstrom, M., Scaff, C., Ganek, H., Cristia, A., **Casillas, M.**, De Barbaro, K., Bang, J. Y., & Weisleder, A. (2020). Longform recordings of everyday life: Ethics for best practices. Behavior Research Methods. Advance online publication. doi:10.3758/s13428-020-01365-9. [[ms](./lab-publications/Cychosz_et_al_2020_Longform_recordings_of_everyday_life_Ethics_for_best_practices_BRM.pdf)]
 
-MacDonald, K., Räsänen, O., **Casillas, M.**, & Warlaumont, A. S. (2020). Measuring prosodic predictability in children’s home language environments. In S. Denison, M. Mack, Y. Xu, & B. C. Armstrong (Eds.), Proceedings of the 42nd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2020) (pp. 695-701). Montreal, QB: Cognitive Science Society. [[ms](./lab-publications/MacDonald_et_al_2020_Measuring_prosodic_predictability_in_childrens_home_language_environments_CogSci.pdf)] [[gh](https://github.com/kemacdonald/lena-pred)]
+MacDonald, K., Rasanen, O., **Casillas, M.**, & Warlaumont, A. S. (2020). Measuring prosodic predictability in children’s home language environments. In S. Denison, M. Mack, Y. Xu, & B. C. Armstrong (Eds.), Proceedings of the 42nd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2020) (pp. 695-701). Montreal, QB: Cognitive Science Society. [[ms](./lab-publications/MacDonald_et_al_2020_Measuring_prosodic_predictability_in_childrens_home_language_environments_CogSci.pdf)] [[gh](https://github.com/kemacdonald/lena-pred)]
 
 ## 2019
 
@@ -34,7 +34,7 @@ Bergelson, E.\*, **Casillas, M.**\*, Soderstrom, M., Seidl, A., Warlaumont, A. S
 
 **Casillas, M.**, Brown, P., & Levinson, S. C. (2019). Early language experience in a Tseltal Mayan village. Child Development. Advance online publication. doi:10.1111/cdev.13349. [[ms](./lab-publications/Casillas_et_al_2019_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](./lab-publications/Casillas_et_al_2019_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
 
-Räsänen, O., Seshadri, S., Karadayi, J., Riebling, E., Bunce, J., Cristia, A., Metze, F., **Casillas, M.**, Rosemberg, C., Bergelson, E., & Soderstrom, M. (2019). Automatic word count estimation from daylong child-centered recordings in various language environments using language-independent syllabification of speech. Speech Communication, 113, 63-80. doi:10.1016/j.specom.2019.08.005. [[ms](./lab-publications/Räsänen_et_al_2019_Automatic_word_count_estimation_from_daylong_child_centered_recordings_SpeechComm.pdf)] [[gh](https://github.com/ACLEW/WCE_VM/)]
+Rasanen, O., Seshadri, S., Karadayi, J., Riebling, E., Bunce, J., Cristia, A., Metze, F., **Casillas, M.**, Rosemberg, C., Bergelson, E., & Soderstrom, M. (2019). Automatic word count estimation from daylong child-centered recordings in various language environments using language-independent syllabification of speech. Speech Communication, 113, 63-80. doi:10.1016/j.specom.2019.08.005. [[ms](./lab-publications/Rasanen_et_al_2019_Automatic_word_count_estimation_from_daylong_child_centered_recordings_SpeechComm.pdf)] [[gh](https://github.com/ACLEW/WCE_VM/)]
 
 ## 2018
 
@@ -42,7 +42,7 @@ Bögels, S., **Casillas, M.**, & Levinson, S. C. (2018). Planning versus compreh
 
 Cristia, A., Ganesh, S., **Casillas, M.**, & Ganapathy, S. (2018). Talker diarization in the wild: The case of child-centered daylong audio-recordings. In Proceedings of Interspeech 2018 (pp. 2583-2587). doi:10.21437/Interspeech.2018-2078. [[ms](./lab-publications/Cristia_et_al_2018_Talker_diarization_in_the_wild_Interspeech.pdf)]
 
-Räsänen, O., Seshadri, S., & **Casillas, M.** (2018). Comparison of syllabification algorithms and training strategies for robust word count estimation across different languages and recording conditions. In Proceedings of Interspeech 2018 (pp. 1200-1204). doi:10.21437/Interspeech.2018-1047. [[ms](./lab-publications/Räsänen_et_al_2018_Comparison_of_syllabification_algorithms_and_training_strategies_for_robust_word_count_estimation_Interpseech.pdf)]
+Rasanen, O., Seshadri, S., & **Casillas, M.** (2018). Comparison of syllabification algorithms and training strategies for robust word count estimation across different languages and recording conditions. In Proceedings of Interspeech 2018 (pp. 1200-1204). doi:10.21437/Interspeech.2018-1047. [[ms](./lab-publications/Rasanen_et_al_2018_Comparison_of_syllabification_algorithms_and_training_strategies_for_robust_word_count_estimation_Interpseech.pdf)]
 
 ## 2017
 
