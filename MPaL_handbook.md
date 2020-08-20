@@ -21,7 +21,7 @@ hurdles in documenting and interpreting variation in this context.
 ## Program Overview
 
 ### Friday, 23 October 2020
-09.00 &nbsp;&nbsp;&nbsp; Start program Day 1
+09.00 &nbsp;&nbsp;&nbsp; Start Program Day 1
 
 09.10 &nbsp;&nbsp;&nbsp; First talk title, *first author(s)* [abstract](./mpal/abstracts#title-of-talk-one-day-one) - [video](./mpal/video)
 
