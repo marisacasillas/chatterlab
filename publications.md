@@ -1,12 +1,9 @@
 # chatter publications
 
-[ms] = manuscript
-
-[sm] = supplementary materials
-
+[ms] = manuscript, [sm] = supplementary materials, 
 [gh]/[osf] = associated repository
 
-Looking for [tools]()?
+Looking for [tools](./tools.md)?
 
 <!--[[ms]()] [[sm]()] [[gh]()]-->
 
