@@ -1,6 +1,6 @@
 #### Teachers interventions and vocabulary development in kindergarten in Argentina
 
-[*Sebastián Carignano, Alejandra Menti, María Patricia Paolantonio, María Paula Dutari*](./authors.md)
+[*SebastiÃ¡n Carignano, Alejandra Menti, MarÃ­a Patricia Paolantonio, MarÃ­a Paula Dutari*](./authors.md)
 
 seba.carignano@gmail.com
 

@@ -1,6 +1,6 @@
 #### Pragmatic language assessment and development in children before the age of 4: Crosslinguistic insights using the Language Use Inventory
 
-[*Daniela O'Neill, Diane Pesco, Anabela Cruz-Santos, Cristiana Guimar„es*](./authors.md)
+[*Daniela O'Neill, Diane Pesco, Anabela Cruz-Santos, Cristiana Guimar√£es*](./authors.md)
 
 doneill@uwaterloo.ca
 

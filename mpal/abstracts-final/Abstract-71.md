@@ -1,6 +1,6 @@
 #### Sign advantage in development of spatial language: Signing childrenâ€™s spatial expressions are more informative than speaking childrenâ€™s speech and gestures combined
 
-[*Dilay Z. Karadöller, Beyza Sümer, Ercenur Ünal, Asli Özyürek*](./authors.md)
+[*Dilay Z. KaradÃ¶ller, Beyza SÃ¼mer, Ercenur Ãœnal, Asli Ã–zyÃ¼rek*](./authors.md)
 
 dilay.karadoller@mpi.nl
 

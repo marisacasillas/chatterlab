@@ -1,6 +1,6 @@
 #### Not all simultaneous bilinguals are dominant in the community language and not all code-mix: Catalan as a heritage language in Hamburg
 
-[*Laia Arnaus, Amelia Jiménez-Gaspar*](./authors.md)
+[*Laia Arnaus, Amelia JimÃ©nez-Gaspar*](./authors.md)
 
 amelia.jimenez@uib.es
 

@@ -1,6 +1,6 @@
 #### Individual variation across the socio-economic strata : a differential contribution of mothersâ€™ and fathersâ€™ speech in high- and low-SES families.
 
-[*Stéphanie Barbu, Ludivine Glas, Bahia Guellaï, Alban Lemasson, Virginie Durier, Aurélie Nardy, Jean Pierre Chevrot, Jacques Juhel*](./authors.md)
+[*StÃ©phanie Barbu, Ludivine Glas, Bahia GuellaÃ¯, Alban Lemasson, Virginie Durier, AurÃ©lie Nardy, Jean Pierre Chevrot, Jacques Juhel*](./authors.md)
 
 stephanie.barbu@univ-rennes1.fr
 
