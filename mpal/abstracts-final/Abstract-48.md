@@ -1,0 +1,22 @@
+#### Reading Practices and Behaviors of Hispanic Parents During Shared Book Reading
+
+[*Daniela Avelar, Adriana Weisleder, Maritza Marquez, Roberta M. Golinkoff*](./authors)
+
+davelar@udel.edu
+
+With the increasing number of Hispanic children in the U.S. and Hispanic children scoring lower than their non-Hispanic peers in assessments of early literacy at the start of Kindergarten (NCES, 2018), understanding the early literacy environments of Hispanic children is critical. Reading to young children can influence their language and emergent literacy skills (e.g., Bus et al., 1995). A meta-analysis revealed that dialogic reading, a style of reading involving questions, comments, and expansions, was a strong predictor of children’s vocabulary (Mol et al., 2008). Notably, they found weaker effect sizes for children from low-income households or who had less educated mothers. Previous studies report that Hispanic families in the US have fewer books at home (e.g., Flores et al., 2005), are less likely to read with their children (e.g., Boyce et al., 2010), and view reading as an adult directed-activity in which children should be passive listeners (Melzi et al., 2013) than non-Hispanics. 
+
+The current study presents preliminary results from a new survey that queries Hispanic parents’ reading beliefs and behaviors when they read with their children in English and in Spanish. Existing surveys do not disentangle the differences between reading in each language and thus do not fully capture the home literacy environment and reading interactions in these families. The Bilingual Reading Survey was developed by adapting questions from the Parent Reading Belief Inventory (PRBI; DeBaryshe & Binder, 1994) and the STIM-Q (Mendelsohn et al., 2016). The goal was to provide a comprehensive description of Hispanic families’ reading practices by examining the language in which shared reading occurs. 
+
+Seventy-five Hispanic parents of children between one and six years of age completed the Bilingual Reading Survey over the phone or online. Maternal education was used as proxy for SES. 
+
+A series of repeated measures ANOVAs were run to determine if there were differences between reading in English and Spanish for low SES (completed high school or less) and high SES (completed some college or more) families. For the number of books at home, there were main effects for language and SES, (p’s<.001). High SES families reported having more books than low SES families and all families reported having more books in English than Spanish. Similarly, for the number of days a week parents read to their children, there were main effects for language and SES, (p’s<.026; Figure 1). High SES reported reading more than low SES families, and families read more in English than in Spanish. There was no significant difference in how often parents asked their children questions during reading in each language. There was a marginally significant interaction in parents teaching children letters and sounds when they read (p=.071) suggesting that high SES parents teach their children about letters and sounds more often when they read in English than in Spanish. Finally, there was a significant difference in how often parents define words for children (Figure 2). Low SES parents define words less frequently when they read in English, while high SES parents define words equally when they read in either language. 
+
+These results provide novel information about reading practices in US Hispanic families in both English and Spanish. These results suggest that Hispanic parents read less often in Spanish and that their behaviors differ based on mother’s level of education and the language of the book, particularly for defining words. Due to the relationship between shared reading and language and literacy outcomes, it is crucial to further explore the complex nature of reading interactions in Hispanic families and in doing so, distinguish between reading in each of their languages since reading practices seem to differ. Obtaining a more comprehensive understanding of reading practices in Hispanic families in each language could inform culturally sensitive interventions.
+
+![Attachment](attachments/48-1.png)
+
+![Attachment](attachments/48-2.png)
+
+---
+
