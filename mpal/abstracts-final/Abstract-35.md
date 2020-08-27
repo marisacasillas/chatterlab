@@ -1,6 +1,6 @@
 #### Language acquisition in time of Covid-19 – a multi-site, multi-country, multi-language study
 
-[*Natalia Kartushina, Julien Mayor*](./authors)
+[*Natalia Kartushina, Julien Mayor*](./authors.md)
 
 Natalia.Kartushina@psykologi.uio.no
 

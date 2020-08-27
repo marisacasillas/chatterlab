@@ -1,6 +1,6 @@
 #### Reading ability as a protective factor for word learning among school-aged low socioeconomic status children
 
-[*Julie M. Schneider, Alyson D. Abel, Mandy J. Maguire*](./authors)
+[*Julie M. Schneider, Alyson D. Abel, Mandy J. Maguire*](./authors.md)
 
 juschnei@udel.edu
 

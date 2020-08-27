@@ -1,6 +1,6 @@
 #### How does language experience support language development? Short-term priming and long-term learning.
 
-[*Leone Buckle, Katherine Messenger, Holly Branigan, Laura Lindsay*](./authors)
+[*Leone Buckle, Katherine Messenger, Holly Branigan, Laura Lindsay*](./authors.md)
 
 Leone.Buckle@warwick.ac.uk
 

@@ -1,6 +1,6 @@
 #### Quantifying the role of rhythm in infants’ language discrimination abilities: A meta-analysis
 
-[*Loretta Gasparini, Alan Langus, Sho Tsuji, Natalie Boll-Avetisyan*](./authors)
+[*Loretta Gasparini, Alan Langus, Sho Tsuji, Natalie Boll-Avetisyan*](./authors.md)
 
 loretta.gasparini@uni-potsdam.de
 

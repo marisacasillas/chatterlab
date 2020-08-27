@@ -1,6 +1,6 @@
 #### Children learn new words with the help of classifiers
 
-[*Ming Yean Sia, Julien Mayor*](./authors)
+[*Ming Yean Sia, Julien Mayor*](./authors.md)
 
 siayean@hotmail.com
 

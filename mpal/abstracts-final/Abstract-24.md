@@ -1,6 +1,6 @@
 #### Language co-activation in the simultaneous bilingual child’s lexicon: A primed picture selection and eye-tracking study
 
-[*Elly Koutamanis, Gerrit Jan Kootstra, Ton Dijkstra, Sharon Unsworth*](./authors)
+[*Elly Koutamanis, Gerrit Jan Kootstra, Ton Dijkstra, Sharon Unsworth*](./authors.md)
 
 e.koutamanis@let.ru.nl
 

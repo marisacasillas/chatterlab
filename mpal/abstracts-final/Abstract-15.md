@@ -1,6 +1,6 @@
 #### Different developmental trajectories in Dutch and Turkish childrenâ€™s acquisition of space-pitch terminology
 
-[*Sarah Dolscheid, Simge Çelik, Hasan Erkan, Aylin Küntay, Asifa Majid*](./authors)
+[*Sarah Dolscheid, Simge Çelik, Hasan Erkan, Aylin Küntay, Asifa Majid*](./authors.md)
 
 sarah.verlage@uni-bielefeld.de
 

@@ -1,6 +1,6 @@
 #### Quantifying the nature of vocal and gestural activity in infants across the first year
 
-[*Helen L. Long, Megan M. Burkhardt-Reed, Dale D. Bowman, Kimbrough D. Oller*](./authors)
+[*Helen L. Long, Megan M. Burkhardt-Reed, Dale D. Bowman, Kimbrough D. Oller*](./authors.md)
 
 hlong@memphis.edu
 

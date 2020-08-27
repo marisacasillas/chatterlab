@@ -1,6 +1,6 @@
 #### Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1 acquisition
 
-[*An Nguyen, William Howe, Géraldine Legendre*](./authors)
+[*An Nguyen, William Howe, Géraldine Legendre*](./authors.md)
 
 an.nguyen@jhu.edu
 

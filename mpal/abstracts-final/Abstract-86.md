@@ -1,6 +1,6 @@
 #### Universal and language-specific patterns in the acquisition of sign language phonology
 
-[*Hannah Lutzenberger, Connie de Vos, Onno Crasborn, Paula Fikkert*](./authors)
+[*Hannah Lutzenberger, Connie de Vos, Onno Crasborn, Paula Fikkert*](./authors.md)
 
 h.lutzenberger@let.ru.nl
 

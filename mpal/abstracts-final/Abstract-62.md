@@ -1,6 +1,6 @@
 #### Impact of an early auditory training on the electrophysiological functioning underlying language acquisition: evidence from typically developing infants
 
-[*Chiara Cantiani, Chiara Dondena, Massimo Molteni, Valentina Riva*](./authors)
+[*Chiara Cantiani, Chiara Dondena, Massimo Molteni, Valentina Riva*](./authors.md)
 
 chiara.cantiani@lanostrafamiglia.it
 

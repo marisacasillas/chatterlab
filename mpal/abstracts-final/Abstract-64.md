@@ -1,6 +1,6 @@
 #### Language Highlights Event Components: Japanese Ground-Path Categories
 
-[*Alexus G. Ramirez, Dani Levine, Hannah Puttre, Kathy Hirsh-Pasek, Roberta Golinkoff*](./authors)
+[*Alexus G. Ramirez, Dani Levine, Hannah Puttre, Kathy Hirsh-Pasek, Roberta Golinkoff*](./authors.md)
 
 alexusgr@udel.edu
 

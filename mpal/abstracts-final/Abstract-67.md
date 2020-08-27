@@ -1,6 +1,6 @@
 #### The role of experience in shaping language processing: Insights from non-industrial communities in Bolivia and Papua New Guinea
 
-[*Alejandrina Cristia, Gianmatteo Farabolini, Camila Scaff, Naomi Havron, Jonathan Stieglitz, Marisa Casillas*](./authors)
+[*Alejandrina Cristia, Gianmatteo Farabolini, Camila Scaff, Naomi Havron, Jonathan Stieglitz, Marisa Casillas*](./authors.md)
 
 alecristia@gmail.com
 

@@ -1,6 +1,6 @@
 #### A biological gender approach to English first language development of complex predicates
 
-[*NA, *](./authors)
+[*NA, *](./authors.md)
 
 ssanchez@flog.uned.es
 

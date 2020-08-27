@@ -1,6 +1,6 @@
 # Many Paths to Language Handbook
 
-### *If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting) for help.*
+### *If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting.md) for help.*
 
 <img src="./mpal/MPaL.png" width="25%">
 
@@ -14,7 +14,7 @@ hurdles in documenting and interpreting variation in this context.
 
 ---
 
-[Our invited speaker lineup](./mpal/invited-speakers)
+[Our invited speaker lineup](./mpal/invited-speakers.md)
 
 ---
 
@@ -24,7 +24,7 @@ hurdles in documenting and interpreting variation in this context.
 ### Thurday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; Opening talk
 
-10.15 - 11.15 &nbsp;&nbsp;&nbsp; First talk title, *Gabriella* [abstract](./mpal/abstracts#title-of-talk-one) [video](./mpal/video)
+10.15 - 11.15 &nbsp;&nbsp;&nbsp; First talk title, *Gabriella* [abstract](./mpal/abstracts.md) [video](./mpal/video)
 
 11.15 - 11.30 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -36,16 +36,16 @@ hurdles in documenting and interpreting variation in this context.
 
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.30 - 14.45 &nbsp;&nbsp;&nbsp; [Poster flash talks](./mpal/poster-overview)
+14.30 - 14.45 &nbsp;&nbsp;&nbsp; [Poster flash talks](./mpal/poster-overview.md)
 
-14.45 - 15.45 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview)
+14.45 - 15.45 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
 
 15.45 - 16.45 &nbsp;&nbsp;&nbsp; Workshop focused on non-WEIRD and Disorders
 
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
 ### Friday, 23 October 2020
-10.00 - 11.00 &nbsp;&nbsp;&nbsp; Second talk title, *David* [abstract](./mpal/abstracts#title-of-talk-two) - [video](./mpal/video)
+10.00 - 11.00 &nbsp;&nbsp;&nbsp; Second talk title, *David* [abstract](./mpal/abstracts.md) - [video](./mpal/video)
 
 11.00 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -57,11 +57,11 @@ hurdles in documenting and interpreting variation in this context.
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.15 - 15.15 &nbsp;&nbsp;&nbsp; Tird talk title, *Andrea* [abstract](./mpal/abstracts#title-of-talk-three) - [video](./mpal/video)
+14.15 - 15.15 &nbsp;&nbsp;&nbsp; Tird talk title, *Andrea* [abstract](./mpal/abstracts.md) - [video](./mpal/video)
 
-15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Poster flash talks](./mpal/poster-overview)
+15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Poster flash talks](./mpal/poster-overview.md)
 
-15.30 - 16.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview)
+15.30 - 16.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
 
 16.30 - 17.30 &nbsp;&nbsp;&nbsp; Workshop focused on SES and Bilingualism
 

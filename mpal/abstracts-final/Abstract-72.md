@@ -1,6 +1,6 @@
 #### Task-Dependent Impact of Adult Words on Vocalization Patterns in Angelman and Down Syndromes
 
-[*Lisa R. Hamrick, Amanda Seidl, Bridgette L. Kelleher*](./authors)
+[*Lisa R. Hamrick, Amanda Seidl, Bridgette L. Kelleher*](./authors.md)
 
 lrague@purdue.edu
 

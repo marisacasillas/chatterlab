@@ -1,6 +1,6 @@
 #### Through the lens of a communicative genre: Differences in use of iconic co-speech gestures by 4-years-old children
 
-[*Katharina J. Rohlfing, Ulrich Mertens, Sofia Koutalidis, Olga Abramov, Stefan Kopp, Friederike Kern*](./authors)
+[*Katharina J. Rohlfing, Ulrich Mertens, Sofia Koutalidis, Olga Abramov, Stefan Kopp, Friederike Kern*](./authors.md)
 
 katharina.rohlfing@upb.de
 

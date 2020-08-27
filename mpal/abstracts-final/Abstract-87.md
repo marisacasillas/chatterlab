@@ -1,6 +1,6 @@
 #### Neurodevelopmental Differences in Autism Spectrum Disorder Applied to Language Learning
 
-[*Kelly L. Coburn, Diane L. Williams*](./authors)
+[*Kelly L. Coburn, Diane L. Williams*](./authors.md)
 
 klc92@psu.edu
 

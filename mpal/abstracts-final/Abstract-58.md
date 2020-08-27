@@ -1,6 +1,6 @@
 #### Individual variability in infants’ cortical tracking of speech rhythm relates to their word segmentation performance
 
-[*Tineke M. Snijders*](./authors)
+[*Tineke M. Snijders*](./authors.md)
 
 tineke.snijders@mpi.nl
 

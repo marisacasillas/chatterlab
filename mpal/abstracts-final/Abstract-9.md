@@ -1,6 +1,6 @@
 #### Toddlers raised in multi-dialectal families learn words better in accented speech than those raised in monodialectal families
 
-[*Natalia Kartushina, Audun Rosslund, Julien Mayor*](./authors)
+[*Natalia Kartushina, Audun Rosslund, Julien Mayor*](./authors.md)
 
 Natalia.Kartushina@psykologi.uio.no
 

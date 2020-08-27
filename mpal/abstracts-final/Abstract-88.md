@@ -1,6 +1,6 @@
 #### Amount and quality of input across speakers: analysing Sesotho and French corpora
 
-[*Georgia Loukatou, Camila Scaff, Katherine Demuth, Alejandrina Cristia, Naomi Havron*](./authors)
+[*Georgia Loukatou, Camila Scaff, Katherine Demuth, Alejandrina Cristia, Naomi Havron*](./authors.md)
 
 georgialoukatou@gmail.com
 

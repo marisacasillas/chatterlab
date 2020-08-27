@@ -1,6 +1,6 @@
 #### Optimal Learning from Minimal Input: How Pirahã Infants Acquire Language
 
-[*Peter Gordon, Zhongyu Li, Stasha Medeiros, Jean Ee Tang, Nick Bisbee, Erin Kirby, Daniel Everett*](./authors)
+[*Peter Gordon, Zhongyu Li, Stasha Medeiros, Jean Ee Tang, Nick Bisbee, Erin Kirby, Daniel Everett*](./authors.md)
 
 pgordon@tc.edu
 

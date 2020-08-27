@@ -1,6 +1,6 @@
 #### Parental Mental Health, Socioeconomic Status, and Children's Verbal Abilities
 
-[*Francesca Scheiber, Allison Momany, Paige Nelson, Kelli Ryckman, Ece Demir-Lira*](./authors)
+[*Francesca Scheiber, Allison Momany, Paige Nelson, Kelli Ryckman, Ece Demir-Lira*](./authors.md)
 
 francesca-scheiber@uiowa.edu
 

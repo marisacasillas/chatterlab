@@ -1,6 +1,6 @@
 #### Preference for deletion vs. epenthesis in Japanese phonological adaptions
 
-[*NA, *](./authors)
+[*NA, *](./authors.md)
 
 s_shoji@hotmail.com
 

@@ -1,6 +1,6 @@
 #### Children’s linguistic environment and their use of sound symbolism in language acquisition
 
-[*Anja Gampe, Jan Schaltegger, Moritz M. Daum*](./authors)
+[*Anja Gampe, Jan Schaltegger, Moritz M. Daum*](./authors.md)
 
 anja.gampe@uni-due.de
 

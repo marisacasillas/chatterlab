@@ -1,6 +1,6 @@
 #### Spot it and learn it!  A novel paradigm to examine word learning in school-aged children
 
-[*Helena Levy, Adriana Hanulíková*](./authors)
+[*Helena Levy, Adriana Hanulíková*](./authors.md)
 
 helena.levy@frequenz.uni-freiburg.de
 

@@ -1,6 +1,6 @@
 #### An Assessment of Functional Categories in Hindi-English Bilingually Developing Young Children
 
-[*Rita Mathur*](./authors)
+[*Rita Mathur*](./authors.md)
 
 mrita2008@gmail.com
 

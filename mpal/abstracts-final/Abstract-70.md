@@ -1,6 +1,6 @@
 #### The Effect of Temperamental Differences on Language Acquisition
 
-[*Liesl Melnick, Sarah C. Kucker*](./authors)
+[*Liesl Melnick, Sarah C. Kucker*](./authors.md)
 
 sarah.kucker@okstate.edu
 

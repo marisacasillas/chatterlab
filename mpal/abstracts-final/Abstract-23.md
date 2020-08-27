@@ -1,6 +1,6 @@
 #### Investigating the relationship between infant learning and measured effect size in preferential looking paradigms
 
-[*Martin Zettersten, Alexis K. Black, Christina Bergmann, Desia Bacon, Haley Weaver, Jenny Saffran*](./authors)
+[*Martin Zettersten, Alexis K. Black, Christina Bergmann, Desia Bacon, Haley Weaver, Jenny Saffran*](./authors.md)
 
 martincz@princeton.edu
 

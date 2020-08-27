@@ -1,6 +1,6 @@
 #### Naturalistic Language Input to Blind, Deaf/Hard-of Hearing, and Typically-Developing Infants: a Quantitative and Qualitative Analysis
 
-[*Erin E. Campbell, Sarp Uner, Elika Bergelson*](./authors)
+[*Erin E. Campbell, Sarp Uner, Elika Bergelson*](./authors.md)
 
 erin.e.campbell@duke.edu
 

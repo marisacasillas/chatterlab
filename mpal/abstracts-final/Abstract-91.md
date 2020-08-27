@@ -1,6 +1,6 @@
 #### Children’s Acquisition of Morphosyntactic Variation
 
-[*Naomi L. Shin, Karen Miller*](./authors)
+[*Naomi L. Shin, Karen Miller*](./authors.md)
 
 naomishin@unm.edu
 

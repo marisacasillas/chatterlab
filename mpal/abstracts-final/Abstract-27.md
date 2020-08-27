@@ -1,6 +1,6 @@
 #### Exploring item-level variability in the Communicative Development Inventory (CDI) across monolingual and bilingual populations
 
-[*Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder*](./authors)
+[*Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder*](./authors.md)
 
 helenawippick@nyu.edu
 

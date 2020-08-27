@@ -1,6 +1,6 @@
 #### Towards a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome
 
-[*Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium*](./authors)
+[*Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium*](./authors.md)
 
 christina.bergmann@mpi.nl
 

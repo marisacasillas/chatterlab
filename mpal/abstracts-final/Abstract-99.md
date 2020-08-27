@@ -1,6 +1,6 @@
 #### Opportunities and challenges of setting up global large-scale replications: ManyBabies1-Africa
 
-[*Angeline Sin Mei Tsui, Christina Bergmann, The Manybabies Africa Team*](./authors)
+[*Angeline Sin Mei Tsui, Christina Bergmann, The Manybabies Africa Team*](./authors.md)
 
 astsui@stanford.edu
 

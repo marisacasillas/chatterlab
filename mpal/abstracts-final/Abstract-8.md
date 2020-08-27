@@ -1,6 +1,6 @@
 #### Revisiting Children's Pronoun Case Errors: A Comprehensive Corpus Analysis
 
-[*Xiaomeng Ma, Virginia Valian, Martin Chodorow*](./authors)
+[*Xiaomeng Ma, Virginia Valian, Martin Chodorow*](./authors.md)
 
 xma3@gradcenter.cuny.edu
 

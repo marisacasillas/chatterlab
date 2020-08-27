@@ -1,6 +1,6 @@
 #### Syntactic variation due to processing factors in Mandarin child-caregiver speech
 
-[*Jidong Chen, Gan Fu, Shu Yang, Bhuvana Narasimhan*](./authors)
+[*Jidong Chen, Gan Fu, Shu Yang, Bhuvana Narasimhan*](./authors.md)
 
 jchen@csufresno.edu
 

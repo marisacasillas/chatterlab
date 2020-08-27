@@ -1,6 +1,6 @@
 #### Parental Speech to Typical and Atypical Populations: A Study on Linguistic Partial Repetition
 
-[*Luca Onnis, Gianluca Esposito, Paola Venuti, Shimon Edelman*](./authors)
+[*Luca Onnis, Gianluca Esposito, Paola Venuti, Shimon Edelman*](./authors.md)
 
 luca.onnis@unige.it
 

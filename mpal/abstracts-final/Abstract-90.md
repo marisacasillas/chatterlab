@@ -1,6 +1,6 @@
 #### Negotiating tensions in language diverse dutch mathematics classrooms
 
-[*Jana Dean*](./authors)
+[*Jana Dean*](./authors.md)
 
 jdean@osd.wednet.edu
 

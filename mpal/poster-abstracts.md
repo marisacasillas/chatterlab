@@ -1,6 +1,6 @@
 # Many Paths to Language
 
-Go to [Main page](../MPaL_handbook)
+Go to [Main page](../MPaL_handbook.md)
 
 ---
   
@@ -12,7 +12,7 @@ Go to [Main page](../MPaL_handbook)
 
 #### The function of infantsâ€™ prelinguistic vocal sequences: implications for early communication and language
 
-[*Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein*](./authors)
+[*Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein*](./authors.md)
 
 sle64@cornell.edu
 
@@ -38,7 +38,7 @@ A potentially important characteristic of sequential babbling is the degree of v
 
 #### Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants
 
-[*Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein*](./authors)
+[*Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein*](./authors.md)
 
 hz524@cornell.edu
 
@@ -64,7 +64,7 @@ Our data suggest that the modality (vocal v. nonvocal) and sensitivity (sensitiv
 
 #### Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists
 
-[*Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia*](./authors)
+[*Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia*](./authors.md)
 
 camiscaff@hotmail.com
 
@@ -88,7 +88,7 @@ Figure 1. The proportion of different block types as a function of the focal chi
 
 #### When do children most resemble their parents?
 
-[*Virginia Valian, Paul Feitzinger, Martin Chodorow*](./authors)
+[*Virginia Valian, Paul Feitzinger, Martin Chodorow*](./authors.md)
 
 vvvstudents@gmail.com
 
@@ -108,7 +108,7 @@ When we filter the child's and parent's vocabulary so that only words that they 
 
 #### Language environments are influenced by communication disorders
 
-[*Hillary V. Ganek, Karen A. Gordon*](./authors)
+[*Hillary V. Ganek, Karen A. Gordon*](./authors.md)
 
 hillary.ganek@sickkids.ca
 
@@ -132,7 +132,7 @@ The evidence suggests communication disorders influence language environments an
 
 #### Neurodevelopmental Differences in Autism Spectrum Disorder Applied to Language Learning
 
-[*Kelly L. Coburn, Diane L. Williams*](./authors)
+[*Kelly L. Coburn, Diane L. Williams*](./authors.md)
 
 klc92@psu.edu
 
@@ -150,7 +150,7 @@ Conclusion:  Implications of known neural differences can be extended to languag
 
 #### Relative clause production abilities of children with ASD
 
-[*Nufar Sukenik*](./authors)
+[*Nufar Sukenik*](./authors.md)
 
 nufar.sukenik@biu.ac.il
 
@@ -160,7 +160,7 @@ Relative clauses (RCs) are complex syntactic structures because they are grammat
 
 #### Parental Speech to Typical and Atypical Populations: A Study on Linguistic Partial Repetition
 
-[*Luca Onnis, Gianluca Esposito, Paola Venuti, Shimon Edelman*](./authors)
+[*Luca Onnis, Gianluca Esposito, Paola Venuti, Shimon Edelman*](./authors.md)
 
 luca.onnis@unige.it
 
@@ -180,7 +180,7 @@ Figure 2. Mean values and standard errors for the four measures of Variation Set
 
 #### Co-development of language and social action in a child with Down Syndrome
 
-[*Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou*](./authors)
+[*Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou*](./authors.md)
 
 iris.nomikou@port.ac.uk
 
@@ -200,7 +200,7 @@ Our data suggest that language development is shaped by the interdependence of t
 
 #### Do older children with ASD continue to show lack of a right-hand bias for gesturing?
 
-[*Nevena Dimitrova, Christine Mohr, Sandra Pache, Seyda Ozcaliskan*](./authors)
+[*Nevena Dimitrova, Christine Mohr, Sandra Pache, Seyda Ozcaliskan*](./authors.md)
 
 nevena.dimitrova@hetsl.ch
 
@@ -218,7 +218,7 @@ These results thus suggest that even though children with ASD continue to show a
 
 #### Children learn new words with the help of classifiers
 
-[*Ming Yean Sia, Julien Mayor*](./authors)
+[*Ming Yean Sia, Julien Mayor*](./authors.md)
 
 siayean@hotmail.com
 
@@ -242,7 +242,7 @@ In short, we showed that Malay-speaking children can use syntactic cues to disam
 
 #### The Effect of Temperamental Differences on Language Acquisition
 
-[*Liesl Melnick, Sarah C. Kucker*](./authors)
+[*Liesl Melnick, Sarah C. Kucker*](./authors.md)
 
 sarah.kucker@okstate.edu
 
@@ -258,7 +258,7 @@ Conclusion: Taken together, these findings suggest that variability in the child
 
 #### Exploring item-level variability in the Communicative Development Inventory (CDI) across monolingual and bilingual populations
 
-[*Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder*](./authors)
+[*Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder*](./authors.md)
 
 helenawippick@nyu.edu
 
@@ -280,7 +280,7 @@ This work will extend previous research on cross-linguistic patterns of early la
 
 #### Language acquisition in time of Covid-19 â€“ a multi-site, multi-country, multi-language study
 
-[*Natalia Kartushina, Julien Mayor*](./authors)
+[*Natalia Kartushina, Julien Mayor*](./authors.md)
 
 Natalia.Kartushina@psykologi.uio.no
 
@@ -298,7 +298,7 @@ In parallel, data collection is about to be finished across a dozen countries (e
 
 #### Determinants of lexical development in Dutch toddlers
 
-[*Josje Verhagen, Mees van Stiphout, Elma Blom*](./authors)
+[*Josje Verhagen, Mees van Stiphout, Elma Blom*](./authors.md)
 
 J.Verhagen@uva.nl
 
@@ -310,7 +310,7 @@ Children typically acquire words like â€œmommyâ€ and â€œbananaâ€
 
 #### An online scale for the Assessment of Language in Adults using Self-reported Skills (ALASS)
 
-[*Hannah Joyce, Javier Aguado-Orea*](./authors)
+[*Hannah Joyce, Javier Aguado-Orea*](./authors.md)
 
 j.aguado-orea@shu.ac.uk
 
@@ -336,7 +336,7 @@ Discussion. Language-related skills can be organized around three well-different
 
 #### DYNAMIC-SYSTEMS REFINEMENTS  & INSIGHTS INTO LANGUAGE AQUISITION FROM MULTIPLE INTERVENTIONS WHERE SIGNIFICANT LANGUAGE ADVANCES WERE TRIGGERED ACROSS 4 MONTHS OR MORE
 
-[*Keith E. Nelson*](./authors)
+[*Keith E. Nelson*](./authors.md)
 
 keithnelsonart@gmail.com
 
@@ -360,7 +360,7 @@ A key problem for fields of language acquisition and language intervention is th
 
 #### Intervention for word-finding difficulty for Arabic preschool children starting to use English as additional language
 
-[*Roaa Alsulaiman, Peter Howell*](./authors)
+[*Roaa Alsulaiman, Peter Howell*](./authors.md)
 
 roaa.al-sulaiman.17@ucl.ac.uk
 
@@ -376,7 +376,7 @@ Discussion: The preliminary results reveal that this rapid and easy-to-score pho
 
 #### Impact of an early auditory training on the electrophysiological functioning underlying language acquisition: evidence from typically developing infants
 
-[*Chiara Cantiani, Chiara Dondena, Massimo Molteni, Valentina Riva*](./authors)
+[*Chiara Cantiani, Chiara Dondena, Massimo Molteni, Valentina Riva*](./authors.md)
 
 chiara.cantiani@lanostrafamiglia.it
 
@@ -396,7 +396,7 @@ Taken together, these results provide some preliminary evidence on the efficacy 
 
 #### Optimal Learning from Minimal Input: How PirahÃ£ Infants Acquire Language
 
-[*Peter Gordon, Zhongyu Li, Stasha Medeiros, Jean Ee Tang, Nick Bisbee, Erin Kirby, Daniel Everett*](./authors)
+[*Peter Gordon, Zhongyu Li, Stasha Medeiros, Jean Ee Tang, Nick Bisbee, Erin Kirby, Daniel Everett*](./authors.md)
 
 pgordon@tc.edu
 
@@ -414,7 +414,7 @@ Of the 12 hours of video recording, there was only 38 minutes of talking -- the 
 
 #### Trivers-Willard hypothesis tested using daylong recordings
 
-[*Valentin Thouzeau, Alejandrina Cristia, Coralie Chevallier*](./authors)
+[*Valentin Thouzeau, Alejandrina Cristia, Coralie Chevallier*](./authors.md)
 
 valentin.thouzeau@gmail.com
 
@@ -426,7 +426,7 @@ The amount of speech produced by adults varies between families, and its determi
 
 #### Efficient estimation of bilingual childrenâ€™s language  exposure from daylong audio recordings
 
-[*Margaret Cychosz, Anele Villanueva, Adriana Weisleder*](./authors)
+[*Margaret Cychosz, Anele Villanueva, Adriana Weisleder*](./authors.md)
 
 mcychosz@umd.edu
 
@@ -458,7 +458,7 @@ Largescale audio recordings permit close observation of naturalistic language be
 
 #### Individual variation across the socio-economic strata : a differential contribution of mothersâ€™ and fathersâ€™ speech in high- and low-SES families.
 
-[*Stéphanie Barbu, Ludivine Glas, Bahia Guellaï, Alban Lemasson, Virginie Durier, Aurélie Nardy, Jean Pierre Chevrot, Jacques Juhel*](./authors)
+[*Stéphanie Barbu, Ludivine Glas, Bahia Guellaï, Alban Lemasson, Virginie Durier, Aurélie Nardy, Jean Pierre Chevrot, Jacques Juhel*](./authors.md)
 
 stephanie.barbu@univ-rennes1.fr
 
@@ -470,7 +470,7 @@ Parental speech to the child has a major influence on language acquisition and i
 
 #### Language Highlights Event Components: Japanese Ground-Path Categories
 
-[*Alexus G. Ramirez, Dani Levine, Hannah Puttre, Kathy Hirsh-Pasek, Roberta Golinkoff*](./authors)
+[*Alexus G. Ramirez, Dani Levine, Hannah Puttre, Kathy Hirsh-Pasek, Roberta Golinkoff*](./authors.md)
 
 alexusgr@udel.edu
 
@@ -488,7 +488,7 @@ Due to null findings when analyzing childrenâ€™s performance on the full te
 
 #### â€œHow Individual Difference Measures Inform Event Processing in Monolingual and Early and Late Bilingual Spanish Speakersâ€
 
-[*Cloe Zeidan, Eleonora Rossi*](./authors)
+[*Cloe Zeidan, Eleonora Rossi*](./authors.md)
 
 czeidan@ufl.edu
 
@@ -502,7 +502,7 @@ The innovative aspect of this project was to understand how individual differenc
 
 #### Childrenâ€™s linguistic environment and their use of sound symbolism in language acquisition
 
-[*Anja Gampe, Jan Schaltegger, Moritz M. Daum*](./authors)
+[*Anja Gampe, Jan Schaltegger, Moritz M. Daum*](./authors.md)
 
 anja.gampe@uni-due.de
 
@@ -518,7 +518,7 @@ Taken together, the results confirm that being exposed to two very close languag
 
 #### The Many Colours of Dolphins: Functional colour knowledge across development
 
-[*Christina Bergmann, Teun van Gils, Lena Ackermann, Markus Ostarek, Jeroen van Paridon, Guillermo Montero-Melis*](./authors)
+[*Christina Bergmann, Teun van Gils, Lena Ackermann, Markus Ostarek, Jeroen van Paridon, Guillermo Montero-Melis*](./authors.md)
 
 christina.bergmann@mpi.nl
 
@@ -542,7 +542,7 @@ More broadly, our data suggest that linguistic and visual input interact in comp
 
 #### Different developmental trajectories in Dutch and Turkish childrenâ€™s acquisition of space-pitch terminology
 
-[*Sarah Dolscheid, Simge Çelik, Hasan Erkan, Aylin Küntay, Asifa Majid*](./authors)
+[*Sarah Dolscheid, Simge Çelik, Hasan Erkan, Aylin Küntay, Asifa Majid*](./authors.md)
 
 sarah.verlage@uni-bielefeld.de
 
@@ -554,7 +554,7 @@ Languages vary considerably in how they describe sensory experiences like colors
 
 #### Investigating the relationship between infant learning and measured effect size in preferential looking paradigms
 
-[*Martin Zettersten, Alexis K. Black, Christina Bergmann, Desia Bacon, Haley Weaver, Jenny Saffran*](./authors)
+[*Martin Zettersten, Alexis K. Black, Christina Bergmann, Desia Bacon, Haley Weaver, Jenny Saffran*](./authors.md)
 
 martincz@princeton.edu
 
@@ -574,7 +574,7 @@ Preliminary inspection of the data (data collection ongoing; N=51 of a pre-regis
 
 #### Towards a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome
 
-[*Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium*](./authors)
+[*Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium*](./authors.md)
 
 christina.bergmann@mpi.nl
 
@@ -600,7 +600,7 @@ In this presentation, we will address the conceptual, ethical, and practical cha
 
 #### The Relation between 9-month-olds' Neural Sensitivity to the Rhythm of Speech and their Word Segmentation ERP response
 
-[*Fleur M. H. G. Vissers, Lisa Rommers, Sophie Arana, Anne Kösem, Tineke M. Snijders*](./authors)
+[*Fleur M. H. G. Vissers, Lisa Rommers, Sophie Arana, Anne Kösem, Tineke M. Snijders*](./authors.md)
 
 f.m.h.g.vissers@gmail.com
 
@@ -616,7 +616,7 @@ Segmentation of the target words will be inferred by looking at the ERP word fam
 
 #### How does language experience support language development? Short-term priming and long-term learning.
 
-[*Leone Buckle, Katherine Messenger, Holly Branigan, Laura Lindsay*](./authors)
+[*Leone Buckle, Katherine Messenger, Holly Branigan, Laura Lindsay*](./authors.md)
 
 Leone.Buckle@warwick.ac.uk
 
@@ -640,7 +640,7 @@ At present, Experiment 1 data show larger priming effects for relative clauses i
 
 #### The changing contributions of prior knowledge and offline processes to vocabulary learning across development
 
-[*Emma James, Gareth Gaskell, Lisa Henderson*](./authors)
+[*Emma James, Gareth Gaskell, Lisa Henderson*](./authors.md)
 
 emma.james@york.ac.uk
 
@@ -658,7 +658,7 @@ In conclusion, phonological neighbour benefits can be reduced following offline 
 
 #### Language co-activation in the simultaneous bilingual childâ€™s lexicon: A primed picture selection and eye-tracking study
 
-[*Elly Koutamanis, Gerrit Jan Kootstra, Ton Dijkstra, Sharon Unsworth*](./authors)
+[*Elly Koutamanis, Gerrit Jan Kootstra, Ton Dijkstra, Sharon Unsworth*](./authors.md)
 
 e.koutamanis@let.ru.nl
 
@@ -690,7 +690,7 @@ Von Holzen, K. & Mani, N. (2012). Language nonselective lexical access in biling
 
 #### Syntactic variation due to processing factors in Mandarin child-caregiver speech
 
-[*Jidong Chen, Gan Fu, Shu Yang, Bhuvana Narasimhan*](./authors)
+[*Jidong Chen, Gan Fu, Shu Yang, Bhuvana Narasimhan*](./authors.md)
 
 jchen@csufresno.edu
 
@@ -720,7 +720,7 @@ Our study demonstrates that the same processing factors that influence adult Man
 
 #### â€˜Long noseâ€™ and â€˜naso lungoâ€™: establishing the need for retrodiction in computational models of word learning
 
-[*Francesca Zermiani, Atiqah Khaliq, Raquel G. Alhama*](./authors)
+[*Francesca Zermiani, Atiqah Khaliq, Raquel G. Alhama*](./authors.md)
 
 zermiani.francesca@gmail.com
 
@@ -742,7 +742,7 @@ We trained the RNN on the the child-directed speech data from Study 1. Since thi
 
 #### A computational study of the mechanisms underlying infant speed of processing and vocabulary development
 
-[*Andrew Jessop, Gary Jones, Caroline Rowland*](./authors)
+[*Andrew Jessop, Gary Jones, Caroline Rowland*](./authors.md)
 
 andrew.jessop@mpi.nl
 
@@ -752,7 +752,7 @@ During their second year, infants experience rapid vocabulary growth while simul
 
 #### Syntax acquisition in children and bilingual speakers: A pre-registered syntactic priming study
 
-[*Sophie M. Hardy, Ema Ushioda, Katherine Messenger*](./authors)
+[*Sophie M. Hardy, Ema Ushioda, Katherine Messenger*](./authors.md)
 
 sophie.hardy@warwick.ac.uk
 
@@ -772,7 +772,7 @@ We will recruit 60 participants from each of the following five groups: L1 Engli
 
 #### How the Empirical Distribution of Words Solves the Variability Problem in Child Directed Speech
 
-[*Maja Linke, Michael Ramscar*](./authors)
+[*Maja Linke, Michael Ramscar*](./authors.md)
 
 maja.linke@uni-tuebingen.de
 
@@ -792,7 +792,7 @@ The results of these analyses show how the distributions of forms in child/careg
 
 #### How young children integrate information during word learning
 
-[*Manuel Bohn, Michael Henry Tessler, Megan Merrick, Michael C. Frank*](./authors)
+[*Manuel Bohn, Michael Henry Tessler, Megan Merrick, Michael C. Frank*](./authors.md)
 
 manuel_bohn@eva.mpg.de
 
@@ -816,7 +816,7 @@ This research shows that children flexibly integrate multiple information source
 
 #### Childrenâ€™s Acquisition of Morphosyntactic Variation
 
-[*Naomi L. Shin, Karen Miller*](./authors)
+[*Naomi L. Shin, Karen Miller*](./authors.md)
 
 naomishin@unm.edu
 
@@ -858,7 +858,7 @@ Tagliamonte, Sali. 2012. Variationist sociolinguistics: Change, observation, and
 
 #### The nature and frequency of relative clauses in the language children hear and the language children read: a developmental cross-corpus analysis of English complex grammar
 
-[*Yaling Hsiao, Nicola Dawson, Nilanjana Banerji, Kate Nation*](./authors)
+[*Yaling Hsiao, Nicola Dawson, Nilanjana Banerji, Kate Nation*](./authors.md)
 
 yaling.hsiao@psy.ox.ac.uk
 
@@ -890,7 +890,7 @@ The results confirmed our predictions of written language being more grammatical
 
 #### Teachers interventions and vocabulary development in kindergarten in Argentina
 
-[*Sebastián Carignano, Alejandra Menti, María Patricia Paolantonio, María Paula Dutari*](./authors)
+[*Sebastián Carignano, Alejandra Menti, María Patricia Paolantonio, María Paula Dutari*](./authors.md)
 
 seba.carignano@gmail.com
 
@@ -916,7 +916,7 @@ Nash, H. & Snowling, M. (2006). Teaching new words to children with poor existin
 
 #### Negotiating tensions in language diverse dutch mathematics classrooms
 
-[*Jana Dean*](./authors)
+[*Jana Dean*](./authors.md)
 
 jdean@osd.wednet.edu
 
@@ -944,7 +944,7 @@ Prediger, S., & Wessels, S. (2011). Relating registers for fractions â€” mu
 
 #### Day-by-day vocabulary learning through reading aloud at home
 
-[*Kirsten Read*](./authors)
+[*Kirsten Read*](./authors.md)
 
 kread@scu.edu
 
@@ -962,7 +962,7 @@ In sum, this work explores deeply the range of ways that parents use the text of
 
 #### Cross- linguistic Influence and the Acquisition of English as a Third Language in the Tunisian Context
 
-[*Aicha Rahal*](./authors)
+[*Aicha Rahal*](./authors.md)
 
 aicha.rahal2016@yahoo.com
 
@@ -980,7 +980,7 @@ Odlin, T. (1989). Language Transfer. Cross-Linguistic Influence in Language Lear
 
 #### Bilingual Learning in Infant Education Centers in Madrid: The Effects of Poverty
 
-[*Wenjun Ma, Patricia K. Kuhl, Naja Ferjan Ramirez*](./authors)
+[*Wenjun Ma, Patricia K. Kuhl, Naja Ferjan Ramirez*](./authors.md)
 
 wenjum@uw.edu
 
@@ -1002,7 +1002,7 @@ Our previous research has shown that infants, across SES, have the capacity to b
 
 #### Dual Language Input from Adults and Older Children in Two Communities
 
-[*Anele Villanueva, Margaret Cychosz, Adriana Weisleder*](./authors)
+[*Anele Villanueva, Margaret Cychosz, Adriana Weisleder*](./authors.md)
 
 anele.villanueva@u.northwestern.edu
 
@@ -1026,7 +1026,7 @@ Among the US families, preliminary results show other children used a higher pro
 
 #### Toddlers raised in multi-dialectal families learn words better in accented speech than those raised in monodialectal families
 
-[*Natalia Kartushina, Audun Rosslund, Julien Mayor*](./authors)
+[*Natalia Kartushina, Audun Rosslund, Julien Mayor*](./authors.md)
 
 Natalia.Kartushina@psykologi.uio.no
 
@@ -1040,7 +1040,7 @@ The results revealed no differences between conditions, suggesting that multi-ac
 
 #### Not all simultaneous bilinguals are dominant in the community language and not all code-mix: Catalan as a heritage language in Hamburg
 
-[*Laia Arnaus, Amelia Jiménez-Gaspar*](./authors)
+[*Laia Arnaus, Amelia Jiménez-Gaspar*](./authors.md)
 
 amelia.jimenez@uib.es
 
@@ -1058,7 +1058,7 @@ We conducted a pilot study with sixteen bi- and trilingual children (mean age 5;
 
 #### Properties of child-directed speech in bilingual parents: A study of partial repetitions
 
-[*Luca Onnis, Yezhou Li*](./authors)
+[*Luca Onnis, Yezhou Li*](./authors.md)
 
 luca.onnis@unige.it
 
@@ -1072,7 +1072,7 @@ Figure 1. An excerpt from the questionnaire demonstrating to parents how they sh
 
 #### Parental Responses to Child Code-Switching in 3 and 4-year-old Spanish-speaking Dual Language Learners
 
-[*Sarah Surrain, Ali Mcafee, Meredith Rowe, Gigi Luk*](./authors)
+[*Sarah Surrain, Ali Mcafee, Meredith Rowe, Gigi Luk*](./authors.md)
 
 sarahsurrain@g.harvard.edu
 
@@ -1114,61 +1114,115 @@ Oxford University Press.
 
 ### Prosody and phonology
 
-#### Individual variability in infantsâ€™ cortical tracking of speech rhythm relates to their word segmentation performance
+#### The role of experience in shaping language processing: Insights from non-industrial communities in Bolivia and Papua New Guinea
 
-[*Tineke M. Snijders*](./authors)
+[*Alejandrina Cristia, Gianmatteo Farabolini, Camila Scaff, Naomi Havron, Jonathan Stieglitz, Marisa Casillas*](./authors.md)
 
-tineke.snijders@mpi.nl
+alecristia@gmail.com
 
-Young infants are very sensitive to the rhythm of speech (Nazzi et al., 1998). Rhythmic cues help infants to identify words and phrases in continuous speech, which is necessary to start building a lexicon (Cutler, 1994). Neural oscillations in the adult brain track the rhythm of speech, synchronising with the incoming speech envelope to focus on salient aspects of the input (Lakatos et al., 2008, Giraud & Poeppel, 2012). This cortical tracking of speech might be a possible neural mechanism through which infants can effectively use rhythmic cues for early language learning. 
+Childhood language input has been described as key for language processing: Infants who are more often directly verbally addressed develop larger vocabularies and process language faster. However, the evidence for this claim focuses on the lexicon, which is presumably among the most input-hungry language levels (Cristia, 2020). Additionally, most evidence for this input-output link comes from studies of socioeconomic variation in North American samples where these correlations may be confounded by covariation with resource access. The same systematic review of published data (Cristia, 2020) shows that socio-economic differences in infant-directed input are dwarfed in comparison to cultural variation (https://xcult.shinyapps.io/vocsr/).
 
-In the current study we related individual differences in infants' cortical tracking of rhythm to later word segmentation performance. 7.5-month-old Dutch-learning infants (N=108) participated in an EEG experiment, in which infants listened to stretches of speech (nursery rhymes), as well as to rhythmically regular (2.5 Hz) and irregular trains of complex tones (beeps). At 9 months the same 108 infants took part in a headturn-preference task assessing their word segmentation ability. Here infants were familiarised with passages containing a reoccurring bisyllabic trochaic pseudoword, and then in the test phase their listening times were assessed for familiar and novel word-lists. 
 
-At 7.5 months the infant brains entrained to the rhythm of the regular beeps, as evidenced by a larger 2.5 Hz power over bilateral frontotemporal electrodes for regular compared to irregular beep trains (cluster p<.001; N=51 datasets with enough trials after artifact rejection). Speech-brain coherence to the nursery rhymes was assessed by looking at the consistency of the phase difference between the EEG signal and the speech amplitude envelope, for frequencies from 1-7 Hz (encompassing the frequencies of occurrence for stress patterns, words and syllables). We compared the observed speech-brain coherence to speech-brain coherence of randomised data (for which the speech envelope data was shuffled), and we used cluster randomisation to assess significance of speech-brain coherence for all electrodes and all frequencies in one test. The infants showed significant speech-brain coherence over all electrodes from 1-7 Hz (N=58; cluster p<.001). 
 
-In a next step, both the entrainment to the 2.5 Hz beeps and the speech-brain coherence were related to the infants' familiarity effect in the word segmentation headturn experiment. While there was no relation for the non-linguistic beep entrainment, there was a correlation between the nursery-rhyme speech-brain coherence and the familiarity effect. Again cluster-randomisation was used to assess the correlation for all electrodes and all frequencies in one test. A large left-lateralised cluster was identified showing a negative correlation between the nursery-rhyme speech-brain coherence at 1.5-1.75 Hz and the familiarity effect (cluster p=.033; Figure 1; N=39 included in both experiments). The infants who showed speech-brain coherence at 1.5-1.75 Hz over left electrode sides more often had a novelty effect in the word segmentation task, meaning they listened longer to the novel compared to the familiar word-lists (see Figure 2).
+We examined phonological processing in two subsistence-level communities where, compared to North American samples, wealth accumulation is relatively minimal and less variable, and infants are verbally addressed much less frequently: the forager-horticulturalist Tsimane' of lowland Bolivia and the subsistence-farming YÃ©lÃ® of Rossel Island, Papua New Guinea. Daylong audio recordings indicate that infants in these communities hear at least three times less directed input than infants in North America: 1â€“4 minutes per hour among Tsimane' (Cristia et al., 2019; Scaff et al., in prep), and 2â€“3 minutes per hour among YÃ©lÃ® (Casillas et al., und. rev.), versus 11 minutes per hour among North American infants (Bergelson et al., 2019).
 
-To conclude, infant brains synchronise to the rhythm of both simple beeps and speech. Specifically for 1.5-1.75 Hz, which corresponds to the stress pattern rate in our stimuli, speech-brain coherence was related to the outcome of the word segmentation task. Tentatively the 7.5-month-old infants showing left-lateralised speech-brain coherence at this frequency are more equipped to start segmenting trochaic words from continuous speech, resulting in a more mature novelty response in the word segmentation task at 9 months. The current study gives evidence for the functional relevance of neural tracking of speech. Around 7-8 months of age for Dutch infants the cortical tracking of stress rhythm might be particularly important for starting to identify words in continuous speech.
+ 
 
-![Attachment](attachments/58-1.png)
+We looked at phonological processing using a non-word repetition (NWR) task. In this task, participants hear phonotactically legal novel words and have to repeat them exactly. Previous work reports NWR scores above 50% among children 4 years and older, with even higher scores for mono- and bi-syllabic items, and for older children: Italian-speaking 4-year-olds score 75% for mono/bisyllabic items and 6-year-olds score 91% for longer items (Piazzalunga et al., 2019); Arabic-speaking 5-year-olds score 95% for short and 55% for long items (Jaber, 2018). 
 
-![Attachment](attachments/58-2.png)
+ 
 
----
+NWR tasks have been used across multiple industrial settings, but have rarely been applied elsewhere; a secondary goal of the current project was to adapt this measure to two non-industrial contexts: the Tsimane' participants (N = 17; aged 1â€“12 years, although most data came from children over 4 years) performed the NWR task in a group setting in 2018, whereas YÃ©lÃ® participants (N = 42; aged 3â€“13 years) performed the NWR task individually in 2019. We also explored cross-linguistically rare sounds found in the extensive YÃ©lÃ® Dnye phonological inventory, including multiple monosyllabic targets with such rare sounds (Figure 1).
 
-#### Opportunities and challenges of setting up global large-scale replications: ManyBabies1-Africa
+ 
 
-[*Angeline Sin Mei Tsui, Christina Bergmann, The Manybabies Africa Team*](./authors)
+A mixed effects logistic regression revealed fixed effects of Word Length (B=-0.87, SE=0.29) and Population (B=-2.80, SE=0.77), as well as an interaction between Word Length and Population (B=1.58, SE=0.31) on the probability of correct repetition for a given trial. Child Age was not a significant predictor, nor did age interact with Word Length. We therefore collapse across ages to better portray the other effects. YÃ©lÃ® children's NWR scores were high and stable for items 2â€“4 syllables in length, with lower scores for monosyllables, whereas Tsimane' children showed a strong NWR score decline with item length (Figure 2). The lower performance for YÃ©lÃ® monosyllables could be related to how we constructed those stimuli: the phones we used for those items were typologically rarer (Figure 1).
 
-astsui@stanford.edu
+ 
 
-From early in life, infants show a preference for infant-directed speech (IDS) over adult-directed speech (ADS). Infantsâ€™ attention to IDS may be beneficial for their language development (e.g., Spinelli, Fasolo, & Mesman, 2017), pointing to the importance of examining infantsâ€™ IDS preference across different ages and language backgrounds. Indeed, many studies (including a recent large-scale multisite study â€“ ManyBabies Consortium, 2020) have shown that infants of different ages and from various language backgrounds have a preference for (North-American) IDS over ADS. However, almost all past studies examined infants in Western, educated, industrialized, rich, and democratic (WEIRD) populations (e.g., North America), with minimal inclusion of infants from non-WEIRD populations, as defined by geography and/or socioeconomic status (Figure 1). To our knowledge, there is no study in the current literature examining infantsâ€™ IDS preference in any country in Africa, a continent home to over 4000 languages. Thus, we do not know whether infants across different cultures show the same IDS preference observed chiefly in WEIRD and almost exclusively in rich, industrialized societies. This sampling bias is a problem for applying theory and generalizing findings about infantsâ€™ IDS preference to infants growing up in different cultures and languages. Our study addresses this problem by extending the ManyBabies Consortium (2020) paradigm to understudied African populations.
+Integrating across studies is difficult as any divergence in results may relate to the way in which NWR was administered, differences in the phonological structure of the items, or other differences across the sites or languages. Nevertheless, current results are not clearly compatible with a hypothesis that infant-directed input determines phonological processing, with two populations where infants receive similar levels of infant-directed speech showing divergent NWR patterns.
 
-We present a planned large-scale, multisite study that will investigate whether infants show a preference for IDS over ADS in Africa. We have experienced challenges that are specific to the diverse cultures and the populations (e.g., negative attitudes towards clinical populations in some parts of Africa), as well as challenges related to supporting researchers with lower resources and less experience in running experiments (e.g., lack of experimental equipment). By adapting our strategies to fit the cultures and resources, we successfully gathered a team of researchers in Africa, organized a multi-day training workshop in Kenya in Winter 2020, and worked with laboratories to set up the experimental paradigm. Currently, 11 labs in sub-Saharan Africa (Figure 2) have joined and are projected to collect data from over 300 infants in total. These labs cover regions in central-east (e.g., Kenya), the west (e.g., Senegal) and the south (e.g., South Africa). We will collect data across a number of diverse regions in Africa, and will explore whether variations in infantsâ€™ demographic factors within non-WEIRD societies may affect their IDS preferences. Further, with a larger sample size, our study can also provide a reliable estimate of the IDS preference effect size in Africa, enabling comparison of infantsâ€™ IDS preference in existing WEIRD (e..g, North America) and high-income non-WEIRD (e.g., Singapore) samples. 
+![Attachment](attachments/67-1.png)
 
-In sum, this study will measure the generalizability of a key infancy finding â€“ infantsâ€™ IDS preference â€“ to more demographically diverse populations and will provide important insights into how variation in infantâ€™s demographics in these societies may affect their IDS preference. This work represents the ManyBabies Consortium's goals and efforts to provide a more global and comprehensive picture of infancy research.
-
-![Attachment](attachments/99-1.png)
+![Attachment](attachments/67-2.png)
 
 ---
 
-#### Measuring phonological systematicity in infantsâ€™ early words
+#### Mother-baby interactions: prosody variations according to maternal depression and infant age.
 
-[*Catherine Laing*](./authors)
+[*María Patricia Paolantonio, Laura M. V. Manoiloff, Ana E. Faas*](./authors.md)
 
-laingc@cardiff.ac.uk
+mppaolantonio@gmail.com
 
-Early in development, infantsâ€™ words are often very simple in structure: Early productions are phonologically systematic (Laing, 2019; Vihman, 2016), and reliant on phonological structures that are simple to produce, such as consonant harmony (/beibi/ to represent baby) and open CV syllables (/da/ to represent dog). Furthermore, many of infantsâ€™ earliest words are phonologically similar: in data from their bilingual (English-Spanish) daughterâ€™s early word acquisition, Deuchar and Quay (2000) show that 13 of her first 20 words are produced with a CV structure, and many words are phonologically identical: she produces car, clock, casa â€˜houseâ€™ and cat as /ka/, and papa â€˜daddyâ€™, pÃ¡jaro â€˜birdâ€™ and panda as /pa/. This points to continuity in the transition from babble to words; Vihman (2017) proposes that infants draw on what is most accessible to them in early word production, with earliest words matching the simple structures and stop consonants produced in babble. 
+We aimed to study the prosodic characteristics of maternal IDS and their babies babbling through voiceâ€™s prosodic characteristics such as intensity, fundamental frequency (F0), melodic contours (intonation) and amount of utterances and its duration. PRAAT software were used to measure the acoustic properties of the voice signal in a sample of Spanish speaking mother-infant dyads -from CÃ³rdoba, Argentina- in relation to the presence or absence of signs of postpartum depression (PPD) and infants age (younger than 6 months or older than 6 months). The hypothesis has been that both the verbal production and the prosodic characteristics of the mother-baby dyads vary depending on the presence of signs of postpartum depression and child age.
 
+44 mother-child dyads between 2 and 10 months of age were analyzed. They were recruited when attended to healthy child control and / or vaccination at the University Hospital of Maternity and Neonatology, a public hospital dependent on the Faculty of Medical Sciences of the National University of CÃ³rdoba. The mothers were primiarous, of legal age, born and raised in the city of CÃ³rdoba. Those dyads with congenital pathologies or diseases that could affect the assessment of the variables under consideration were excluded. All mothers expressed consent for their participation and that of their children in the study.
 
+The mothers were given a postpartum depression screening questionnaire and the dyads participated in semi-structured play session where acoustic data were obtained.  
 
-Here I analyse the phonological similarity of infantsâ€™ developing lexicon. Using data from the Providence corpus (Demuth et al., 2006), I analyse over 140,000 word productions from 5 infants (2 males) between ages 0;11 to 3;10. Measures of phonetic and phonological distance determine the similarity of each word in a recording session with each other word in the same session, and cluster analysis is used to identify clusters of phonologically- and segmentally-similar productions. A smaller number of larger clusters within a session suggests systematicity within that given session; this indicates that the infant is drawing on a smaller number of phonological resources (fewer consonant types, more similar phonological structures) in early word production. I hypothesise that systematicity will be higher in earlier sessions, as infants over-generalise well-rehearsed consonants and structures by adapting or simplifying target word forms to these. In later sessions, I expect to see a reduction in systematicity â€“ indicated by more smaller clusters â€“ as infants move towards a more target-like set of lexical items. 
+Factorial ANOVAs were performed for each variable related to verbal production and prosody for each member of the dyad depending on the factors PPD (with/without indicators of symptomatology) and infant age (2-6 months old group/7-10 months old group).
 
+The results showed statistical significance in relation to PPD for the amount of infant utterances, maternal voice intensity and the use of falling contour intonation in mothers. Significant differences were also found as a function of infantâ€™s age for the amount and duration of maternal vocalizations, intensity measurements and melodic curves in both members of the dyads. 
 
+These findings showed that IDS used in mothers with PPD loses the melodic qualities of this particular speech modality that, according to literature, fulfill numerous functions during language acquisition. Also, the results indicate that in Argentinian Spanish speaking mother-infant dyads the acoustic and verbal production from IDS speech and babbling are moderated is moderated bay childÂ´s age like is shown in studies from other languages.
 
-Segmental and phonological distance is quantified using methods adopted from Monaghan and colleagues (2010), and analyses draw on variability-based neighbourhood clustering models (outlined by Gries and Stoll, 2009) and growth curve models. Preliminary models testing segmental and phonological systematicity over time show a significant effect for the kinds of consonants and structures in infantsâ€™ early words (Consonants: Ï‡2(2)=12.25, p<.01; Structures: Ï‡2(2)=112.76, p<.001; generated via nested model comparisons). Closer inspection of the results shows a significant decrease in the use of early-learned consonants such as /b/ over time (Î²=-6.78, t=-3.29; see Figure 1), and a significant increase in the production of closed syllables over time (Î²=.001, t=5.4). Findings reveal preliminary evidence towards early systematicity giving way to wider phonological variability in infantsâ€™ developing lexicons.
+The results are discussed in relation to those guidelines of the interactionist theories of language acquisition that relate the quality of the early link in the first months of children's life with their environment and its incidence on prelinguistic development and subjective construction.
 
-![Attachment](attachments/101-1.png)
+Furthermore, the results could lead us to a diagnosis method that facilitates the detection of maladjustments during mother-infant communicative interactions based on prosodic and verbal production objective patterns.
+
+---
+
+#### The Development of Consonants in Canonical Babble - Language Acquisition in YÃ©lÃ® Dnye and Tseltal
+
+[*Abram A. K. Peute, Marisa Casillas*](./authors.md)
+
+Bram.Peute@mpi.nl
+
+Soon after children are born they start producing protophones, and after around 7 months they start to produce canonical babbles (Oller et al., 1998). Canonical babbling (henceforth CB) is defined as well-formed syllables often consisting of an reduplicated CV pattern, like â€œmamaâ€ or â€œdaâ€ (Lee et al., 2017), and is seen as a milestone in the motor development of the child. These rhythmic vocalizations relate to other motor development, and train the child in distinguishing and producing the phonemes of their home language(s) (McGillion et al, 2017). 
+
+In the current study we investigate â€œvocal motor schemesâ€ (henceforth VMS), a capacity for consistent phonetic patterning which manifests in CB. VMS provide the child with the means of producing â€œauditory approximationsâ€ to the target words produced by adults, without the child having to deduce the exact phonemes (Vihman, 1993), and VMS have been shown to predict childrenâ€™s later lexical development (McCune & Vihman, 2001; McGillion et al., 2017).
+
+We investigate VMS development in two communities with documented low rates of child-directed speech (CDS): Tseltal (Mayan; Casillas et al., 2019) and YÃ©lÃ® (Papuan; Casillas et al., in prep). Children in these communities have been shown to hit basic early vocal maturity milestones around the same age as has been found in communities with higher rates of CDS. The onset of canonical babbling â€“ based on a vocal maturity measure - has been found to be highly robust cross-culturally and cross-linguistically, regardless of CDS (Oller et al., 1998). However, a measure that relates more closely to later lexical development, such as VMS, may be a more appropriate test of whether the lower rates of CDS impact the expected passage of linguistic milestones. We hypothesize that the average age of VMS acquisition by YÃ©lÃ® and Tseltal children will be comparable to the that of Western children; at least 2 VMS consonants between 9 and 14 months (McCune & Vihman, 2001), despite the fact that these children experience less CDS. Furthermore, we predict that the first consonants YÃ©lÃ® and Tseltal children consistently produce are labial or coronal consonants, or both (McCune & Vihman, 2001; de Boysson-Bardies & Vihman, 1991: Lee et al., 2010).
+
+We made broad phonetic transcriptions of 18 Tseltal childrenâ€™s spontaneous vocalizations over nine 5-minute randomly sampled clips from at-home daylong recordings. Adapting McCune and Vihmanâ€™s (2001) measure, if a child produced 10+ realizations of a consonant production within the total 45 randomly sampled minutes, then we considered the child to have acquired the VMS for this consonant. 
+
+An analysis of the frequency of Tseltal consonant types can be seen in Figure 1, which shows that coronals and laryngeals, a phonetic super category containing glottal phonemes, are acquired the earliest; however, the occurrences of laryngeals diminish with age, likely because they are replaced with the other consonants. Interestingly, the dorsals are less often used by older children. The labials are used rather consistently over the course of development. The results largely coincide with our hypotheses, as 7 out of 9 Tseltal children between 9 and 14 months old acquired 2+ VMS, as shown in Table 1. A parallel analysis with YÃ©lÃ® recordings is in progress.
+
+![Attachment](attachments/25-1.png)
+
+![Attachment](attachments/25-2.png)
+
+---
+
+#### C[l]V is not a good enough C/É¾/V, even if you say so: Asymmetric mispronunciation detection of liquids in Brazilian Portuguese
+
+[*Andressa Toni*](./authors.md)
+
+andressa.toni@usp.br
+
+This study investigates the role of syllable structure on the production and perception of liquids by children learning Brazilian Portuguese (BP) as their first language. In BP, lateral /l/ and tap /É¾/ are phonemes allowed in both simple (CV) and branching (CCV) onsets, as in /salada/ â€˜saladâ€™, /piÉ¾ata/ â€˜pirateâ€™, /plaka/ â€˜signalâ€™, /pÉ¾ato/ â€˜plateâ€™. However, there is a distribution bias in this language favoring laterals in simple onsets and taps in branching onsets, a tendency that could lead to a contrastive underspecification in CCV since no minimal pairs between /l/ and /É¾/ occur in this syllabic position, and more than 85% of all CCV word types are /É¾/-formed. Considering this asymmetry, our aim is to discuss whether liquids would have fully specified representations on childrenâ€™s stored lexical forms throughout phonological development. We argue for developmental effects and syllable structure effects on the segmental (under)specification of the [lateral] feature that distinguishes /l/ and /É¾/ in BP. To verify how this bias affects the childâ€™s grammar, a mispronunciation detection task assessed if both CV and CCV would tolerate liquid substitutions, and if both substitution directions (/l/â†’[É¾]; /É¾/â†’[l]) would be equally detected by the child. 11 children (3-6 years old) were pre-tested in a word-repetition task and grouped according to their own productions (Graph1): Target-like Group (accurate liquid production in CCV/CV); Swap Group (CCV production with consistent liquid swaps in both directions; CV mostly adult-like); and Deletion Group (consistent non-adult liquids in CCV/CV). Results (Graph2) show that Target-like Group could detect mispronunciations in both CV/CCV contexts and liquid directions, as expected. Deletion Group accepted /É¾/CVâ†’[l]CV mispronunciations more than /l/CVâ†’[É¾]CV, but in CCV both mispronunciation directions were accepted. Swap Group children presented distinct production patterns, half of them tending to /É¾/CCVâ†’[l]CCV swaps (also affecting CV production) and half tending to /l/CCVâ†’[É¾]CCV (with adult-like CV production). Despite their opposite production tendencies, however, /É¾/CCVâ†’[l]CCV mispronunciations were detected more than /l/CCVâ†’[É¾]CCV, matching the input bias and pointing out that childrenâ€™s mispronunciation detection is aligned with the input, not with their own outputs. In CV, liquid substitutions were also productively detected by this group, suggesting that different articulatory paths are not leading to (or are not driven by) different perceptual paths, both driving to the construction of similar phonological representations. Results from Swap Group and Deletion Group also suggest that the construction of these representations is influenced by syllable type and by the phonotactic development of the child: when production is unstable, mispronunciations on the unstable structure are accepted if they go towards the input bias. This pattern suggests a syllable effect on perception: CCV and CV present asymmetrical detection patterns, favoring different segment directions according to the input. The relation between unstable production and mispronunciation acceptance also suggests that the inputâ€™s dominant liquid for a syllable type (not the childrenâ€™s own production tendencies) will compete with /l, É¾/ for its detection while they are not licensed into the syllable. This competition supports the view that an underspecified liquid is first represented in lieu of the actual /l, É¾/ segments, reflecting the most frequent segment in the input for CV and CCV syllables. On the other hand, the concrete liquid production in CV and CCV is individually variable, and the factors guiding this variability (such as segmental stability, coarticulatory difficulties, covert contrasts) are currently being investigated. We conclude that both syllable structure and syllable development play a role on the specification of the segmental properties of /l, É¾/ on the phonotactic development of BP speaking children.
+
+![Attachment](attachments/96-1.png)
+
+![Attachment](attachments/96-2.png)
+
+---
+
+#### Quantifying the role of rhythm in infantsâ€™ language discrimination abilities: A meta-analysis
+
+[*Loretta Gasparini, Alan Langus, Sho Tsuji, Natalie Boll-Avetisyan*](./authors.md)
+
+loretta.gasparini@uni-potsdam.de
+
+To begin learning language, infants must make sense of their acoustic input, establishing which sounds and kinds of variation are relevant. Newborns may already prefer their native language (Moon et al., 1993) over a variety that belongs to a different rhythm class: stress-, syllable- or mora-timed (Abercrombie, 1967; Nazzi et al., 1998). Between 4 to 7 months , babies seem to discriminate almost any language or accent from their native variety (Butler et al., 2011; Nazzi et al., 2000), but it is unclear at what age this ability emerges (e.g. Chong et al., 2018; Molnar et al., 2013) or to what extent infants continue relying on â€œrhythm classâ€, or prosody in general, for discrimination (Chong et al., 2018; White et al., 2016). The concept of rhythm classes has been contested in recent years (Turk & Shattuck-Hufnagel, 2013; White et al., 2012), so if rhythm is indeed an important cue for infant language discrimination, it is pertinent to establish to which durational cues infants are attentive, such as proportion or variability of vocalic and consonantal intervals (Grabe & Low, 2002; Ramus et al., 1999).
+
+We present a meta-analysis of studies on babies' language discrimination skills. We first aim to quantify how discrimination skills and preference in the first year of life are modulated by the factors age, rhythm classes of the tested languages (same or different rhythm classes), manipulation of stimuli (e.g. low-pass filtered speech), and method (e.g. head-turn preference paradigm, high amplitude sucking). The second aim is to explore which durational metrics (White et al., 2014) best account for language discrimination in the included studies.
+
+A systematic literature search identified studies that tested infantsâ€™ (birth to 12 months) discrimination or preference of two language varieties, by presenting babies with auditory or audio-visual continuous speech. Data analysis for the first research goal involved random effects meta-analytic models with the factors rhythm class contrast, age, stimulus manipulation, and method, nested in paradigm (analysing discrimination and preference studies separately). For the second research goal the factor of rhythm class will be replaced with durational metrics (like in White et al., 2014), and Principal Component Analysis will be conducted to explore which metrics best account for language discrimination or preference in the included studies.
+
+37 studies were included. Analyses addressing the first research goal showed a significant effect of method, with central fixation paradigms showing larger effect sizes. The effects of age, rhythm class and speech manipulation and their interactions were not significant. An exploratory subgroup analysis was conducted, examining only studies that tested two distinct languages. In this subgroup of discrimination studies there were no effects of age or rhythm class or their interaction, like in the initial analysis. In the subgroup of preference studies there was a significant interaction of rhythm class and age, whereby a non-native language preference increased with age when the tested languages were in the same rhythm class, but a native language preference increased with age when the tested languages were in different rhythm classes. 
+
+The results suggest that there is insufficient evidence that language discrimination is contingent on rhythm class, even in newborns. However, the results suggest that babies may prefer their native rhythm to varying extents, depending on their age. The former finding may be due to insufficient power or sensitivity of measures, or may reflect issues with rhythm class as a concept (Turk & Shattuck-Hufnagel, 2013; White et al., 2012). Analysis for the second research goal is ongoing and will shed light on whether any durational metrics are more successful than the categorical factor â€œrhythm classâ€ in characterising the rhythmic properties of language that may inform infantsâ€™ language discrimination and preferences.
 
 ---
 
@@ -1176,7 +1230,7 @@ Segmental and phonological distance is quantified using methods adopted from Mon
 
 #### Pragmatic language assessment and development in children before the age of 4: Crosslinguistic insights using the Language Use Inventory
 
-[*Daniela O'Neill, Diane Pesco, Anabela Cruz-Santos, Cristiana Guimarães*](./authors)
+[*Daniela O'Neill, Diane Pesco, Anabela Cruz-Santos, Cristiana Guimarães*](./authors.md)
 
 doneill@uwaterloo.ca
 
@@ -1192,7 +1246,7 @@ This presentation will bring together recent findings (published and in progress
 
 #### Individual variability in childrenâ€™s assessment of ironic speaker motivations
 
-[*Vera Hukker, Simone Sprenger, Petra Hendriks*](./authors)
+[*Vera Hukker, Simone Sprenger, Petra Hendriks*](./authors.md)
 
 v.hukker@rug.nl
 
@@ -1212,7 +1266,7 @@ The ironic interpretation of an utterance such as â€œGreat weather!â€ r
 
 #### You and I: Using epistemic cues to predict who will talk next in conversation
 
-[*Imme Lammertink, Maartje de Vries, Caroline Rowland, Marisa Casillas*](./authors)
+[*Imme Lammertink, Maartje de Vries, Caroline Rowland, Marisa Casillas*](./authors.md)
 
 immelammertink@gmail.com
 
@@ -1232,7 +1286,7 @@ Despite the reliable distributional link between subject pronoun person and ques
 
 #### Sign advantage in development of spatial language: Signing childrenâ€™s spatial expressions are more informative than speaking childrenâ€™s speech and gestures combined
 
-[*Dilay Z. Karadöller, Beyza Sümer, Ercenur Ünal, Asli Özyürek*](./authors)
+[*Dilay Z. Karadöller, Beyza Sümer, Ercenur Ünal, Asli Özyürek*](./authors.md)
 
 dilay.karadoller@mpi.nl
 
@@ -1260,7 +1314,7 @@ In brief, visual modality has a stronger impact on signing children than speakin
 
 #### Acquisition of noun case inflections by Russian monolingual and Russian-English bilingual children
 
-[*Ladinskaya N., Chrabaszcz A., Na Lopukhina*](./authors)
+[*Ladinskaya N., Chrabaszcz A., Na Lopukhina*](./authors.md)
 
 ladinskaya.ninaaa@gmail.com
 
@@ -1292,7 +1346,7 @@ Schwartz M., Minkov M. 2014. Russian case system acquisition among russianâ€�
 
 #### Acquiring the Dutch plural in a bilingual setting: Cross-linguistic influence from English to Dutch
 
-[*Darlene Keydeniers, Suzanne Aalberse, Sible Andringa, Folkert Kuiken*](./authors)
+[*Darlene Keydeniers, Suzanne Aalberse, Sible Andringa, Folkert Kuiken*](./authors.md)
 
 D.J.Keydeniers@uva.nl
 
@@ -1350,7 +1404,7 @@ Moro, F. R. (2016). Dynamics of Ambon Malay: Comparing Ambon and the Netherlands
 
 #### An Assessment of Functional Categories in Hindi-English Bilingually Developing Young Children
 
-[*Rita Mathur*](./authors)
+[*Rita Mathur*](./authors.md)
 
 mrita2008@gmail.com
 
@@ -1376,7 +1430,7 @@ X2 test was used to assess bivariate association between categorical variables. 
 
 #### Revisiting Children's Pronoun Case Errors: A Comprehensive Corpus Analysis
 
-[*Xiaomeng Ma, Virginia Valian, Martin Chodorow*](./authors)
+[*Xiaomeng Ma, Virginia Valian, Martin Chodorow*](./authors.md)
 
 xma3@gradcenter.cuny.edu
 
@@ -1408,7 +1462,7 @@ Children make few pronoun case errors.  There is considerable variability in err
 
 #### The acquisition of optionality in Akan wh-questions
 
-[*Paul O. Omane, Barbara Höhle*](./authors)
+[*Paul O. Omane, Barbara Höhle*](./authors.md)
 
 omaneokyere@hotmail.com
 
@@ -1420,7 +1474,7 @@ Keywords: Acquisition, wh-questions, Akan, in-situ structure, ex-situ structure,
 
 #### The acquisition of possession in Inuktitut: insight from child and caregiver speech
 
-[*Leah D. Doroski, Heather Littlefield, Shanley E. M. Allen*](./authors)
+[*Leah D. Doroski, Heather Littlefield, Shanley E. M. Allen*](./authors.md)
 
 doroski.l@husky.neu.edu
 
@@ -1470,7 +1524,7 @@ Marinis, T. (2016). Acquiring possessives. In Jeffrey L. Lidz, William Snyder & 
 
 #### Interactional style in child-parent multimodal interaction during the first three years of life
 
-[*Tove Nilsson Gerholm, Gláucia Laís Salomaõ, Petter Kallioinen*](./authors)
+[*Tove Nilsson Gerholm, Gláucia Laís Salomaõ, Petter Kallioinen*](./authors.md)
 
 tove@ling.su.se
 
@@ -1488,7 +1542,7 @@ Discussion. The similarities and differences over time between children, parents
 
 #### Quantifying the nature of vocal and gestural activity in infants across the first year
 
-[*Helen L. Long, Megan M. Burkhardt-Reed, Dale D. Bowman, Kimbrough D. Oller*](./authors)
+[*Helen L. Long, Megan M. Burkhardt-Reed, Dale D. Bowman, Kimbrough D. Oller*](./authors.md)
 
 hlong@memphis.edu
 
@@ -1506,7 +1560,7 @@ Overall, infants used about three times as many endogenous protophones as social
 
 #### Can you feel my rhythm? Interpersonal coordination between a child with deafblindness and their mentor
 
-[*Lisette de Jonge-Hoekstra, Marleen Janssen, Ralf F. A. Cox, Trees van Nunen*](./authors)
+[*Lisette de Jonge-Hoekstra, Marleen Janssen, Ralf F. A. Cox, Trees van Nunen*](./authors.md)
 
 lisette.hoekstra@rug.nl
 
@@ -1526,7 +1580,7 @@ Our study is the first to apply a combination of detailed motion tracking and co
 
 #### Through the lens of a communicative genre: Differences in use of iconic co-speech gestures by 4-years-old children
 
-[*Katharina J. Rohlfing, Ulrich Mertens, Sofia Koutalidis, Olga Abramov, Stefan Kopp, Friederike Kern*](./authors)
+[*Katharina J. Rohlfing, Ulrich Mertens, Sofia Koutalidis, Olga Abramov, Stefan Kopp, Friederike Kern*](./authors.md)
 
 katharina.rohlfing@upb.de
 
@@ -1551,4 +1605,4 @@ With respect to the cognitive demands, we found that children gesture more when 
 
 ---
 
-Go to [Main page](../MPaL_handbook)
+Go to [Main page](../MPaL_handbook.md)

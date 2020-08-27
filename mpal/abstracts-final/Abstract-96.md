@@ -1,6 +1,6 @@
 #### C[l]V is not a good enough C/ɾ/V, even if you say so: Asymmetric mispronunciation detection of liquids in Brazilian Portuguese
 
-[*Andressa Toni*](./authors)
+[*Andressa Toni*](./authors.md)
 
 andressa.toni@usp.br
 

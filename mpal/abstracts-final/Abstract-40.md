@@ -1,6 +1,6 @@
 #### The genetic relationship between infant motor and personal-social development and subsequent language acquisition processes during toddlerhood:  Evidence for developmental priming mechanisms
 
-[*Jeffrey van der Ven, Ellen Verhoef, Mitchell Olislagers, Janne Vermeulen, Philip Dale, Simon E. Fisher, Beate St Pourcain*](./authors)
+[*Jeffrey van der Ven, Ellen Verhoef, Mitchell Olislagers, Janne Vermeulen, Philip Dale, Simon E. Fisher, Beate St Pourcain*](./authors.md)
 
 JeffreyvanderVen@hotmail.nl
 

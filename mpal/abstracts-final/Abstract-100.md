@@ -1,6 +1,6 @@
 #### The acquisition of possession in Inuktitut: insight from child and caregiver speech
 
-[*Leah D. Doroski, Heather Littlefield, Shanley E. M. Allen*](./authors)
+[*Leah D. Doroski, Heather Littlefield, Shanley E. M. Allen*](./authors.md)
 
 doroski.l@husky.neu.edu
 

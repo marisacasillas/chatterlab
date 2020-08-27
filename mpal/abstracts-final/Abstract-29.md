@@ -1,6 +1,6 @@
 #### Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants
 
-[*Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein*](./authors)
+[*Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein*](./authors.md)
 
 hz524@cornell.edu
 

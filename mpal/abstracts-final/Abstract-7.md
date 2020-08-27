@@ -1,6 +1,6 @@
 #### Learning, Variation and Alignment: How Cross Linguistic Differences Reveal the Functions of Color Words
 
-[*Michael Ramscar, Maja Linke*](./authors)
+[*Michael Ramscar, Maja Linke*](./authors.md)
 
 michael.ramscar@uni-tuebingen.de
 

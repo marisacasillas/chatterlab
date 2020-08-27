@@ -1,6 +1,6 @@
 #### Trivers-Willard hypothesis tested using daylong recordings
 
-[*Valentin Thouzeau, Alejandrina Cristia, Coralie Chevallier*](./authors)
+[*Valentin Thouzeau, Alejandrina Cristia, Coralie Chevallier*](./authors.md)
 
 valentin.thouzeau@gmail.com
 

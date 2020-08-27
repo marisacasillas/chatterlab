@@ -1,6 +1,6 @@
 #### How young children integrate information during word learning
 
-[*Manuel Bohn, Michael Henry Tessler, Megan Merrick, Michael C. Frank*](./authors)
+[*Manuel Bohn, Michael Henry Tessler, Megan Merrick, Michael C. Frank*](./authors.md)
 
 manuel_bohn@eva.mpg.de
 

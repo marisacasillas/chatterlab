@@ -1,6 +1,6 @@
 #### Interactional style in child-parent multimodal interaction during the first three years of life
 
-[*Tove Nilsson Gerholm, Gláucia Laís Salomaõ, Petter Kallioinen*](./authors)
+[*Tove Nilsson Gerholm, Gláucia Laís Salomaõ, Petter Kallioinen*](./authors.md)
 
 tove@ling.su.se
 

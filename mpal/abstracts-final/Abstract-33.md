@@ -1,6 +1,6 @@
 #### The nature and frequency of relative clauses in the language children hear and the language children read: a developmental cross-corpus analysis of English complex grammar
 
-[*Yaling Hsiao, Nicola Dawson, Nilanjana Banerji, Kate Nation*](./authors)
+[*Yaling Hsiao, Nicola Dawson, Nilanjana Banerji, Kate Nation*](./authors.md)
 
 yaling.hsiao@psy.ox.ac.uk
 

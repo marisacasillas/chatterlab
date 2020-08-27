@@ -1,6 +1,6 @@
 #### Investigating the interplay between parental speech input, speed of processing and vocabulary development
 
-[*Julia Egger, Caroline Rowland, Christina Bergmann*](./authors)
+[*Julia Egger, Caroline Rowland, Christina Bergmann*](./authors.md)
 
 julia.egger@mpi.nl
 

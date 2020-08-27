@@ -1,6 +1,6 @@
 #### Can you feel my rhythm? Interpersonal coordination between a child with deafblindness and their mentor
 
-[*Lisette de Jonge-Hoekstra, Marleen Janssen, Ralf F. A. Cox, Trees van Nunen*](./authors)
+[*Lisette de Jonge-Hoekstra, Marleen Janssen, Ralf F. A. Cox, Trees van Nunen*](./authors.md)
 
 lisette.hoekstra@rug.nl
 

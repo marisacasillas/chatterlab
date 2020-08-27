@@ -1,6 +1,6 @@
 #### ‘Long nose’ and ‘naso lungo’: establishing the need for retrodiction in computational models of word learning
 
-[*Francesca Zermiani, Atiqah Khaliq, Raquel G. Alhama*](./authors)
+[*Francesca Zermiani, Atiqah Khaliq, Raquel G. Alhama*](./authors.md)
 
 zermiani.francesca@gmail.com
 

@@ -1,6 +1,6 @@
 #### Properties of child-directed speech in bilingual parents: A study of partial repetitions
 
-[*Luca Onnis, Yezhou Li*](./authors)
+[*Luca Onnis, Yezhou Li*](./authors.md)
 
 luca.onnis@unige.it
 

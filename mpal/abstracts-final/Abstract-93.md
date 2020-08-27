@@ -1,6 +1,6 @@
 #### Linguistic Effects on Two-Digits Numbers by Arab First Graders
 
-[*NA, *](./authors)
+[*NA, *](./authors.md)
 
 info@acmbb.org.il
 

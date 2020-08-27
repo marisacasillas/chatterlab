@@ -1,6 +1,6 @@
 #### Sources of Plasticity in Preterm Children’s Vocabulary Acquisition: Interacting roles of gestational age and parent-child interactions
 
-[*Paige Nelson, Francesca Scheiber, Allison Momany, Kelli Ryckman, Ece Demir-Lira*](./authors)
+[*Paige Nelson, Francesca Scheiber, Allison Momany, Kelli Ryckman, Ece Demir-Lira*](./authors.md)
 
 paige-nelson@uiowa.edu
 

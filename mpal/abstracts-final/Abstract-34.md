@@ -1,6 +1,6 @@
 #### The acquisition of optionality in Akan wh-questions
 
-[*Paul O. Omane, Barbara Höhle*](./authors)
+[*Paul O. Omane, Barbara Höhle*](./authors.md)
 
 omaneokyere@hotmail.com
 

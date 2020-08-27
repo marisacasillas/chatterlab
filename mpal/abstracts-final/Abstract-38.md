@@ -1,6 +1,6 @@
 #### The changing contributions of prior knowledge and offline processes to vocabulary learning across development
 
-[*Emma James, Gareth Gaskell, Lisa Henderson*](./authors)
+[*Emma James, Gareth Gaskell, Lisa Henderson*](./authors.md)
 
 emma.james@york.ac.uk
 

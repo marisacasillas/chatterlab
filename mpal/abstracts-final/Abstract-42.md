@@ -1,6 +1,6 @@
 #### The Many Colours of Dolphins: Functional colour knowledge across development
 
-[*Christina Bergmann, Teun van Gils, Lena Ackermann, Markus Ostarek, Jeroen van Paridon, Guillermo Montero-Melis*](./authors)
+[*Christina Bergmann, Teun van Gils, Lena Ackermann, Markus Ostarek, Jeroen van Paridon, Guillermo Montero-Melis*](./authors.md)
 
 christina.bergmann@mpi.nl
 

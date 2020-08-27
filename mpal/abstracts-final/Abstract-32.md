@@ -1,6 +1,6 @@
 #### Acquiring the Dutch plural in a bilingual setting: Cross-linguistic influence from English to Dutch
 
-[*Darlene Keydeniers, Suzanne Aalberse, Sible Andringa, Folkert Kuiken*](./authors)
+[*Darlene Keydeniers, Suzanne Aalberse, Sible Andringa, Folkert Kuiken*](./authors.md)
 
 D.J.Keydeniers@uva.nl
 

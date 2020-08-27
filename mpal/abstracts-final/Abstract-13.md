@@ -1,6 +1,6 @@
 #### Predicting Lexical Processing Efficiency at 9 Months from the Home Language Environment: Child-Directed vs. Ambient Speech
 
-[*Jayde E. Homer, Abbie Thompson, Jill Lany*](./authors)
+[*Jayde E. Homer, Abbie Thompson, Jill Lany*](./authors.md)
 
 jaydehomer@wustl.edu
 

@@ -1,6 +1,6 @@
 #### Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists
 
-[*Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia*](./authors)
+[*Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia*](./authors.md)
 
 camiscaff@hotmail.com
 

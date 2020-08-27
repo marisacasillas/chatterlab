@@ -1,6 +1,6 @@
 #### The Development of Consonants in Canonical Babble - Language Acquisition in Yélî Dnye and Tseltal
 
-[*Abram A. K. Peute, Marisa Casillas*](./authors)
+[*Abram A. K. Peute, Marisa Casillas*](./authors.md)
 
 Bram.Peute@mpi.nl
 

@@ -1,6 +1,6 @@
 #### When do children most resemble their parents?
 
-[*Virginia Valian, Paul Feitzinger, Martin Chodorow*](./authors)
+[*Virginia Valian, Paul Feitzinger, Martin Chodorow*](./authors.md)
 
 vvvstudents@gmail.com
 

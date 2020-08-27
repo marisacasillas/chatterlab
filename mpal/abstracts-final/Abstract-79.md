@@ -1,6 +1,6 @@
 #### Relative clause production abilities of children with ASD
 
-[*Nufar Sukenik*](./authors)
+[*Nufar Sukenik*](./authors.md)
 
 nufar.sukenik@biu.ac.il
 

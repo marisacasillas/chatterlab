@@ -1,6 +1,6 @@
 #### Parental Responses to Child Code-Switching in 3 and 4-year-old Spanish-speaking Dual Language Learners
 
-[*Sarah Surrain, Ali Mcafee, Meredith Rowe, Gigi Luk*](./authors)
+[*Sarah Surrain, Ali Mcafee, Meredith Rowe, Gigi Luk*](./authors.md)
 
 sarahsurrain@g.harvard.edu
 

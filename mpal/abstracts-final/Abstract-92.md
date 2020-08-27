@@ -1,6 +1,6 @@
 #### Acquisition of noun case inflections by Russian monolingual and Russian-English bilingual children
 
-[*Ladinskaya N., Chrabaszcz A., Na Lopukhina*](./authors)
+[*Ladinskaya N., Chrabaszcz A., Na Lopukhina*](./authors.md)
 
 ladinskaya.ninaaa@gmail.com
 

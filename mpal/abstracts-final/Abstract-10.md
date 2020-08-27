@@ -1,6 +1,6 @@
 #### Do older children with ASD continue to show lack of a right-hand bias for gesturing?
 
-[*Nevena Dimitrova, Christine Mohr, Sandra Pache, Seyda Ozcaliskan*](./authors)
+[*Nevena Dimitrova, Christine Mohr, Sandra Pache, Seyda Ozcaliskan*](./authors.md)
 
 nevena.dimitrova@hetsl.ch
 

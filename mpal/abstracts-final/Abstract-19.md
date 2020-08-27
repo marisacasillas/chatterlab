@@ -1,6 +1,6 @@
 #### Individual variability in children’s assessment of ironic speaker motivations
 
-[*Vera Hukker, Simone Sprenger, Petra Hendriks*](./authors)
+[*Vera Hukker, Simone Sprenger, Petra Hendriks*](./authors.md)
 
 v.hukker@rug.nl
 

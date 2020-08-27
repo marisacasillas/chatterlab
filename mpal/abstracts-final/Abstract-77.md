@@ -1,6 +1,6 @@
 #### Language environments are influenced by communication disorders
 
-[*Hillary V. Ganek, Karen A. Gordon*](./authors)
+[*Hillary V. Ganek, Karen A. Gordon*](./authors.md)
 
 hillary.ganek@sickkids.ca
 

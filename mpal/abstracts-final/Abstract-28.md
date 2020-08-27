@@ -1,6 +1,6 @@
 #### How the Empirical Distribution of Words Solves the Variability Problem in Child Directed Speech
 
-[*Maja Linke, Michael Ramscar*](./authors)
+[*Maja Linke, Michael Ramscar*](./authors.md)
 
 maja.linke@uni-tuebingen.de
 

@@ -1,6 +1,6 @@
 #### Algorithm to Correct Missing ​Pulli​-Signs in Printed Tamil Text
 
-[*NA, *](./authors)
+[*NA, *](./authors.md)
 
 ezhillang@gmail.com
 

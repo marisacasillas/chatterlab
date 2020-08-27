@@ -1,6 +1,6 @@
 #### Child-directed speech of multiple socializes in Mayan Tsotsil acquisition: A qualitative and interactional look
 
-[*Lourdes De Leon*](./authors)
+[*Lourdes De Leon*](./authors.md)
 
 lourdesdeleonp@gmail.com
 

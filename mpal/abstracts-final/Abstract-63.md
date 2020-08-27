@@ -1,6 +1,6 @@
 #### Efficient estimation of bilingual children’s language  exposure from daylong audio recordings
 
-[*Margaret Cychosz, Anele Villanueva, Adriana Weisleder*](./authors)
+[*Margaret Cychosz, Anele Villanueva, Adriana Weisleder*](./authors.md)
 
 mcychosz@umd.edu
 

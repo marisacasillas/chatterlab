@@ -1,6 +1,6 @@
 #### Bilingual Learning in Infant Education Centers in Madrid: The Effects of Poverty
 
-[*Wenjun Ma, Patricia K. Kuhl, Naja Ferjan Ramirez*](./authors)
+[*Wenjun Ma, Patricia K. Kuhl, Naja Ferjan Ramirez*](./authors.md)
 
 wenjum@uw.edu
 

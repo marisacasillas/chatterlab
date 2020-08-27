@@ -1,6 +1,6 @@
 #### Intervention for word-finding difficulty for Arabic preschool children starting to use English as additional language
 
-[*Roaa Alsulaiman, Peter Howell*](./authors)
+[*Roaa Alsulaiman, Peter Howell*](./authors.md)
 
 roaa.al-sulaiman.17@ucl.ac.uk
 

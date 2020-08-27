@@ -1,6 +1,6 @@
 #### Syntax acquisition in children and bilingual speakers: A pre-registered syntactic priming study
 
-[*Sophie M. Hardy, Ema Ushioda, Katherine Messenger*](./authors)
+[*Sophie M. Hardy, Ema Ushioda, Katherine Messenger*](./authors.md)
 
 sophie.hardy@warwick.ac.uk
 

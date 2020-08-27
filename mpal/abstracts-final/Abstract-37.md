@@ -1,6 +1,6 @@
 #### The Multivariate Genetic Architecture of Language- and Literacy-related Abilities: Genetic evidence for different cognitive skill sets
 
-[*Chin Yang Shapland, Ellen Verhoef, George Davey Smith, Simon E. Fisher, Bradley Verhulst, Philip Dale, Beate St Pourcain*](./authors)
+[*Chin Yang Shapland, Ellen Verhoef, George Davey Smith, Simon E. Fisher, Bradley Verhulst, Philip Dale, Beate St Pourcain*](./authors.md)
 
 Beate.StPourcain@mpi.nl
 

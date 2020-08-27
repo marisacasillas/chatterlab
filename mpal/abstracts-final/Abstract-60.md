@@ -1,6 +1,6 @@
 #### “How Individual Difference Measures Inform Event Processing in Monolingual and Early and Late Bilingual Spanish Speakers”
 
-[*Cloe Zeidan, Eleonora Rossi*](./authors)
+[*Cloe Zeidan, Eleonora Rossi*](./authors.md)
 
 czeidan@ufl.edu
 

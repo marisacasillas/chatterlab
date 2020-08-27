@@ -1,6 +1,6 @@
 #### The effects of Prematurity and Socioeconomic Deprivation on Early Speech Perception: A Story of Two Different Delays.
 
-[*Nayeli Gonzalez-Gomez, France O'Brien, Margaret Harris*](./authors)
+[*Nayeli Gonzalez-Gomez, France O'Brien, Margaret Harris*](./authors.md)
 
 ngonzalez-gomez@brookes.ac.uk
 

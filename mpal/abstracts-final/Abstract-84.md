@@ -1,6 +1,6 @@
 #### Generation and Parsing of Number to Words in Tamil
 
-[*NA, *](./authors)
+[*NA, *](./authors.md)
 
 ezhillang@gmail.com
 

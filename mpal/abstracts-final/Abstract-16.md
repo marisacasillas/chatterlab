@@ -1,6 +1,6 @@
 #### Bilingual infants disengage faster and switch attention more frequently than monolingual infants
 
-[*Dean D'Souza, Daniel Brady, Jennifer X. Haensel, Hana D'Souza*](./authors)
+[*Dean D'Souza, Daniel Brady, Jennifer X. Haensel, Hana D'Souza*](./authors.md)
 
 dean.dsouza@anglia.ac.uk
 

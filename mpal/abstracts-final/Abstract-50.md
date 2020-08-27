@@ -1,6 +1,6 @@
 #### Parents’ Talk about Conceptual Categories with Infants: Stability, Variability, and Implications for Vocabulary Development
 
-[*Ran Wei, Anna Kirby, Letitia Naigles, Meredith Rowe*](./authors)
+[*Ran Wei, Anna Kirby, Letitia Naigles, Meredith Rowe*](./authors.md)
 
 ran_wei@g.harvard.edu
 

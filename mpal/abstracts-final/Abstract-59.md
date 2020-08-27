@@ -1,6 +1,6 @@
 #### Mother-baby interactions: prosody variations according to maternal depression and infant age.
 
-[*María Patricia Paolantonio, Laura M. V. Manoiloff, Ana E. Faas*](./authors)
+[*María Patricia Paolantonio, Laura M. V. Manoiloff, Ana E. Faas*](./authors.md)
 
 mppaolantonio@gmail.com
 

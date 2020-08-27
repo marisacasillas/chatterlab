@@ -1,6 +1,6 @@
 #### The function of infants’ prelinguistic vocal sequences: implications for early communication and language
 
-[*Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein*](./authors)
+[*Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein*](./authors.md)
 
 sle64@cornell.edu
 

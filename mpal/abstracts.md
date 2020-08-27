@@ -1,6 +1,6 @@
 # Many Paths to Language
 
-Go to [Main page](../MPaL_handbook)
+Go to [Main page](../MPaL_handbook.md)
 
 ---
 
@@ -33,7 +33,7 @@ Andrea
 
 #### Universal and language-specific patterns in the acquisition of sign language phonology
 
-[*Hannah Lutzenberger, Connie de Vos, Onno Crasborn, Paula Fikkert*](./authors)
+[*Hannah Lutzenberger, Connie de Vos, Onno Crasborn, Paula Fikkert*](./authors.md)
 
 h.lutzenberger@let.ru.nl
 
@@ -67,7 +67,7 @@ References
 
 #### Amount and quality of input across speakers: analysing Sesotho and French corpora
 
-[*Georgia Loukatou, Camila Scaff, Katherine Demuth, Alejandrina Cristia, Naomi Havron*](./authors)
+[*Georgia Loukatou, Camila Scaff, Katherine Demuth, Alejandrina Cristia, Naomi Havron*](./authors.md)
 
 georgialoukatou@gmail.com
 
@@ -93,7 +93,7 @@ Thus, CDS is significantly prevalent over overheard speech for both settings. Ho
 
 #### Child-directed speech of multiple socializes in Mayan Tsotsil acquisition: A qualitative and interactional look
 
-[*Lourdes De Leon*](./authors)
+[*Lourdes De Leon*](./authors.md)
 
 lourdesdeleonp@gmail.com
 
@@ -126,7 +126,7 @@ Shneidman L, Goldin-Meadow S. 2012. Language Input and Acquisition in a Mayan Vi
 
 #### Varying relationships between parent input and the neural mechanisms of language development in infants at high and low risk for Autism
 
-[*Rachel R. Romeo, April Boin Choi, Laurel J. Gabard-Durnam, Carol L. Wilkinson, April R. Levin, Helen Tager-Flusberg, Charles A. Nelson III*](./authors)
+[*Rachel R. Romeo, April Boin Choi, Laurel J. Gabard-Durnam, Carol L. Wilkinson, April R. Levin, Helen Tager-Flusberg, Charles A. Nelson III*](./authors.md)
 
 rachelromeo@gmail.com
 
@@ -152,7 +152,7 @@ Conclusion: Results indicate frontal gamma power as a mechanism linking quantita
 
 #### Naturalistic Language Input to Blind, Deaf/Hard-of Hearing, and Typically-Developing Infants: a Quantitative and Qualitative Analysis
 
-[*Erin E. Campbell, Sarp Uner, Elika Bergelson*](./authors)
+[*Erin E. Campbell, Sarp Uner, Elika Bergelson*](./authors.md)
 
 erin.e.campbell@duke.edu
 
@@ -176,7 +176,7 @@ Analysis 1: We measured speech input using LENA daylong audio-recordings from bl
 
 #### Task-Dependent Impact of Adult Words on Vocalization Patterns in Angelman and Down Syndromes
 
-[*Lisa R. Hamrick, Amanda Seidl, Bridgette L. Kelleher*](./authors)
+[*Lisa R. Hamrick, Amanda Seidl, Bridgette L. Kelleher*](./authors.md)
 
 lrague@purdue.edu
 
@@ -200,7 +200,7 @@ Conclusion: We found that children in both groups tend to vocalize at higher rat
 
 #### Parentsâ€™ Talk about Conceptual Categories with Infants: Stability, Variability, and Implications for Vocabulary Development
 
-[*Ran Wei, Anna Kirby, Letitia Naigles, Meredith Rowe*](./authors)
+[*Ran Wei, Anna Kirby, Letitia Naigles, Meredith Rowe*](./authors.md)
 
 ran_wei@g.harvard.edu
 
@@ -234,7 +234,7 @@ We found that individual differences in parent GL use were stable over time, whe
 
 #### Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1 acquisition
 
-[*An Nguyen, William Howe, Géraldine Legendre*](./authors)
+[*An Nguyen, William Howe, Géraldine Legendre*](./authors.md)
 
 an.nguyen@jhu.edu
 
@@ -262,7 +262,7 @@ The comprehension results confirm that children can use prosody to aid comprehen
 
 #### Characterising lexical richness in the language of childrenâ€™s books
 
-[*Nicola Dawson, Yaling Hsiao, Kate Nation*](./authors)
+[*Nicola Dawson, Yaling Hsiao, Kate Nation*](./authors.md)
 
 nicola.dawson@psy.ox.ac.uk
 
@@ -286,7 +286,7 @@ Our analyses show that the language of childrenâ€™s books is lexically dens
 
 #### Investigating the interplay between parental speech input, speed of processing and vocabulary development
 
-[*Julia Egger, Caroline Rowland, Christina Bergmann*](./authors)
+[*Julia Egger, Caroline Rowland, Christina Bergmann*](./authors.md)
 
 julia.egger@mpi.nl
 
@@ -310,7 +310,7 @@ To be able to both quantify support for the alternative and the null hypothesis,
 
 #### Predicting Lexical Processing Efficiency at 9 Months from the Home Language Environment: Child-Directed vs. Ambient Speech
 
-[*Jayde E. Homer, Abbie Thompson, Jill Lany*](./authors)
+[*Jayde E. Homer, Abbie Thompson, Jill Lany*](./authors.md)
 
 jaydehomer@wustl.edu
 
@@ -326,7 +326,7 @@ LPE was assessed using a looking-while-listening task, in which infants saw imag
 
 #### Developmental effects in the on-line use of morphosyntactic markers: Evidence from Tagalog
 
-[*Rowena Garcia, Gabriela Garrido Rodriguez, Evan Kidd*](./authors)
+[*Rowena Garcia, Gabriela Garrido Rodriguez, Evan Kidd*](./authors.md)
 
 rowena.garcia@mpi.nl
 
@@ -362,7 +362,7 @@ Our results showed that childrenâ€™s online use of morphosyntactic markers 
 
 #### Reading Practices and Behaviors of Hispanic Parents During Shared Book Reading
 
-[*Daniela Avelar, Adriana Weisleder, Maritza Marquez, Roberta M. Golinkoff*](./authors)
+[*Daniela Avelar, Adriana Weisleder, Maritza Marquez, Roberta M. Golinkoff*](./authors.md)
 
 davelar@udel.edu
 
@@ -384,7 +384,7 @@ These results provide novel information about reading practices in US Hispanic f
 
 #### Reading ability as a protective factor for word learning among school-aged low socioeconomic status children
 
-[*Julie M. Schneider, Alyson D. Abel, Mandy J. Maguire*](./authors)
+[*Julie M. Schneider, Alyson D. Abel, Mandy J. Maguire*](./authors.md)
 
 juschnei@udel.edu
 
@@ -404,7 +404,7 @@ Our findings replicate previous research demonstrating a positive relationship b
 
 #### The effects of Prematurity and Socioeconomic Deprivation on Early Speech Perception: A Story of Two Different Delays.
 
-[*Nayeli Gonzalez-Gomez, France O'Brien, Margaret Harris*](./authors)
+[*Nayeli Gonzalez-Gomez, France O'Brien, Margaret Harris*](./authors.md)
 
 ngonzalez-gomez@brookes.ac.uk
 
@@ -432,7 +432,7 @@ Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType 
 
 #### Examining verb-action co-occurrences in everyday contexts in Spanish-speaking and English-speaking families
 
-[*Jane B. Childers, Aria Gaston-Panthaki, Priscilla Tovar-Perez, Gemma Smith, Marissa Young, Rayna Webb*](./authors)
+[*Jane B. Childers, Aria Gaston-Panthaki, Priscilla Tovar-Perez, Gemma Smith, Marissa Young, Rayna Webb*](./authors.md)
 
 jchilder@trinity.edu
 
@@ -460,7 +460,7 @@ In sum, empirical studies of childrenâ€™s verb learning usually present chi
 
 #### Bilingual infants disengage faster and switch attention more frequently than monolingual infants
 
-[*Dean D'Souza, Daniel Brady, Jennifer X. Haensel, Hana D'Souza*](./authors)
+[*Dean D'Souza, Daniel Brady, Jennifer X. Haensel, Hana D'Souza*](./authors.md)
 
 dean.dsouza@anglia.ac.uk
 
@@ -488,7 +488,7 @@ In sum, we found that infants exposed to bilingual environments disengage attent
 
 #### Spot it and learn it!  A novel paradigm to examine word learning in school-aged children
 
-[*Helena Levy, Adriana Hanulíková*](./authors)
+[*Helena Levy, Adriana Hanulíková*](./authors.md)
 
 helena.levy@frequenz.uni-freiburg.de
 
@@ -521,7 +521,7 @@ Menjivar, J., & Akhtar, N. (2017). Language experience and preschoolers' foreign
 #### 23 October 13.00 - 14.00
 #### The Multivariate Genetic Architecture of Language- and Literacy-related Abilities: Genetic evidence for different cognitive skill sets
 
-[*Chin Yang Shapland, Ellen Verhoef, George Davey Smith, Simon E. Fisher, Bradley Verhulst, Philip Dale, Beate St Pourcain*](./authors)
+[*Chin Yang Shapland, Ellen Verhoef, George Davey Smith, Simon E. Fisher, Bradley Verhulst, Philip Dale, Beate St Pourcain*](./authors.md)
 
 Beate.StPourcain@mpi.nl
 
@@ -545,7 +545,7 @@ Our findings suggest a spectrum of interrelated, but aetiologically different co
 
 #### Parental Mental Health, Socioeconomic Status, and Children's Verbal Abilities
 
-[*Francesca Scheiber, Allison Momany, Paige Nelson, Kelli Ryckman, Ece Demir-Lira*](./authors)
+[*Francesca Scheiber, Allison Momany, Paige Nelson, Kelli Ryckman, Ece Demir-Lira*](./authors.md)
 
 francesca-scheiber@uiowa.edu
 
@@ -565,7 +565,7 @@ These results are consistent with previous findings that parental depression may
 
 #### Sources of Plasticity in Preterm Childrenâ€™s Vocabulary Acquisition: Interacting roles of gestational age and parent-child interactions
 
-[*Paige Nelson, Francesca Scheiber, Allison Momany, Kelli Ryckman, Ece Demir-Lira*](./authors)
+[*Paige Nelson, Francesca Scheiber, Allison Momany, Kelli Ryckman, Ece Demir-Lira*](./authors.md)
 
 paige-nelson@uiowa.edu
 
@@ -582,7 +582,7 @@ We ran a two-way ANOVA with Group (Early Preterm, Late Preterm, Early Term, and 
 #### 23 October 13.00 - 14.00
 #### Individual variability in infantsâ€™ cortical tracking of speech rhythm relates to their word segmentation performance
 
-[*Tineke M. Snijders*](./authors)
+[*Tineke M. Snijders*](./authors.md)
 
 tineke.snijders@mpi.nl
 
@@ -604,7 +604,7 @@ To conclude, infant brains synchronise to the rhythm of both simple beeps and sp
 
 #### Opportunities and challenges of setting up global large-scale replications: ManyBabies1-Africa
 
-[*Angeline Sin Mei Tsui, Christina Bergmann, The Manybabies Africa Team*](./authors)
+[*Angeline Sin Mei Tsui, Christina Bergmann, The Manybabies Africa Team*](./authors.md)
 
 astsui@stanford.edu
 
@@ -620,7 +620,7 @@ In sum, this study will measure the generalizability of a key infancy finding â
 
 #### Measuring phonological systematicity in infantsâ€™ early words
 
-[*Catherine Laing*](./authors)
+[*Catherine Laing*](./authors.md)
 
 laingc@cardiff.ac.uk
 
@@ -641,5 +641,5 @@ Segmental and phonological distance is quantified using methods adopted from Mon
 
 ---
 
-Go to [Main page](../MPaL_handbook)
+Go to [Main page](../MPaL_handbook.md)
 

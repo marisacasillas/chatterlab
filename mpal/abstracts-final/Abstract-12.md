@@ -1,6 +1,6 @@
 #### Co-development of language and social action in a child with Down Syndrome
 
-[*Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou*](./authors)
+[*Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou*](./authors.md)
 
 iris.nomikou@port.ac.uk
 

@@ -1,6 +1,6 @@
 #### Measuring phonological systematicity in infants’ early words
 
-[*Catherine Laing*](./authors)
+[*Catherine Laing*](./authors.md)
 
 laingc@cardiff.ac.uk
 

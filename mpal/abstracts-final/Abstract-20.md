@@ -1,6 +1,6 @@
 #### Varying relationships between parent input and the neural mechanisms of language development in infants at high and low risk for Autism
 
-[*Rachel R. Romeo, April Boin Choi, Laurel J. Gabard-Durnam, Carol L. Wilkinson, April R. Levin, Helen Tager-Flusberg, Charles A. Nelson III*](./authors)
+[*Rachel R. Romeo, April Boin Choi, Laurel J. Gabard-Durnam, Carol L. Wilkinson, April R. Levin, Helen Tager-Flusberg, Charles A. Nelson III*](./authors.md)
 
 rachelromeo@gmail.com
 

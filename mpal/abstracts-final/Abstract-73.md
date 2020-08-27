@@ -1,6 +1,6 @@
 #### Examining verb-action co-occurrences in everyday contexts in Spanish-speaking and English-speaking families
 
-[*Jane B. Childers, Aria Gaston-Panthaki, Priscilla Tovar-Perez, Gemma Smith, Marissa Young, Rayna Webb*](./authors)
+[*Jane B. Childers, Aria Gaston-Panthaki, Priscilla Tovar-Perez, Gemma Smith, Marissa Young, Rayna Webb*](./authors.md)
 
 jchilder@trinity.edu
 

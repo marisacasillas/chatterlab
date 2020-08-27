@@ -1,6 +1,6 @@
 #### Developmental effects in the on-line use of morphosyntactic markers: Evidence from Tagalog
 
-[*Rowena Garcia, Gabriela Garrido Rodriguez, Evan Kidd*](./authors)
+[*Rowena Garcia, Gabriela Garrido Rodriguez, Evan Kidd*](./authors.md)
 
 rowena.garcia@mpi.nl
 

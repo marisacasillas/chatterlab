@@ -1,6 +1,6 @@
 #### You and I: Using epistemic cues to predict who will talk next in conversation
 
-[*Imme Lammertink, Maartje de Vries, Caroline Rowland, Marisa Casillas*](./authors)
+[*Imme Lammertink, Maartje de Vries, Caroline Rowland, Marisa Casillas*](./authors.md)
 
 immelammertink@gmail.com
 

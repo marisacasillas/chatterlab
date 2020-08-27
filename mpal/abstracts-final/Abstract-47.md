@@ -1,6 +1,6 @@
 #### Dual Language Input from Adults and Older Children in Two Communities
 
-[*Anele Villanueva, Margaret Cychosz, Adriana Weisleder*](./authors)
+[*Anele Villanueva, Margaret Cychosz, Adriana Weisleder*](./authors.md)
 
 anele.villanueva@u.northwestern.edu
 

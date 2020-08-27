@@ -1,6 +1,6 @@
 #### The Relation between 9-month-olds' Neural Sensitivity to the Rhythm of Speech and their Word Segmentation ERP response
 
-[*Fleur M. H. G. Vissers, Lisa Rommers, Sophie Arana, Anne Kösem, Tineke M. Snijders*](./authors)
+[*Fleur M. H. G. Vissers, Lisa Rommers, Sophie Arana, Anne Kösem, Tineke M. Snijders*](./authors.md)
 
 f.m.h.g.vissers@gmail.com
 

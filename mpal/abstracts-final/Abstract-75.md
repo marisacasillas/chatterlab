@@ -1,6 +1,6 @@
 #### A computational study of the mechanisms underlying infant speed of processing and vocabulary development
 
-[*Andrew Jessop, Gary Jones, Caroline Rowland*](./authors)
+[*Andrew Jessop, Gary Jones, Caroline Rowland*](./authors.md)
 
 andrew.jessop@mpi.nl
 

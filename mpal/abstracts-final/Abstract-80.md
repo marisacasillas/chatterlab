@@ -1,6 +1,6 @@
 #### Day-by-day vocabulary learning through reading aloud at home
 
-[*Kirsten Read*](./authors)
+[*Kirsten Read*](./authors.md)
 
 kread@scu.edu
 

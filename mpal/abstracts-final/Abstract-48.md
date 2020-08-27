@@ -1,6 +1,6 @@
 #### Reading Practices and Behaviors of Hispanic Parents During Shared Book Reading
 
-[*Daniela Avelar, Adriana Weisleder, Maritza Marquez, Roberta M. Golinkoff*](./authors)
+[*Daniela Avelar, Adriana Weisleder, Maritza Marquez, Roberta M. Golinkoff*](./authors.md)
 
 davelar@udel.edu
 

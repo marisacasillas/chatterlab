@@ -1,6 +1,6 @@
 #### Characterising lexical richness in the language of children’s books
 
-[*Nicola Dawson, Yaling Hsiao, Kate Nation*](./authors)
+[*Nicola Dawson, Yaling Hsiao, Kate Nation*](./authors.md)
 
 nicola.dawson@psy.ox.ac.uk
 

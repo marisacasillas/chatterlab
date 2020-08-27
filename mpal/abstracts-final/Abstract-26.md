@@ -1,6 +1,6 @@
 #### An online scale for the Assessment of Language in Adults using Self-reported Skills (ALASS)
 
-[*Hannah Joyce, Javier Aguado-Orea*](./authors)
+[*Hannah Joyce, Javier Aguado-Orea*](./authors.md)
 
 j.aguado-orea@shu.ac.uk
 

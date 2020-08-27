@@ -1,6 +1,6 @@
 #### Determinants of lexical development in Dutch toddlers
 
-[*Josje Verhagen, Mees van Stiphout, Elma Blom*](./authors)
+[*Josje Verhagen, Mees van Stiphout, Elma Blom*](./authors.md)
 
 J.Verhagen@uva.nl
 
