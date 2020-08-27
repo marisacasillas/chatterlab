@@ -10,9 +10,9 @@ Go to [Main page](../MPaL_handbook.md)
 
 ### Child-caregiver interaction
 
-The function of infants’ prelinguistic vocal sequences: implications for early communication and language, *Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein* [abstract](./poster-abstracts.md#The-function-of-infants’-prelinguistic-vocal-sequences:-implications-for-early-communication-and-language)
+The function of infants’ prelinguistic vocal sequences: implications for early communication and language, *Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein* [abstract](./poster-abstracts.md#The-function-of-infants’-prelinguistic-vocal-sequences\:-implications-for-early-communication-and-language)
 
-Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants, *Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein* [abstract](./poster-abstracts.md#Caregiver-behavior-that-facilitates-vocal-turn-taking-with-prelinguistic-infants)
+Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants, *Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein* [abstract](./poster-abstracts.md#Caregiver-behavior-that-facilitates-vocal-turn\-taking-with-prelinguistic-infants)
 
 Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists, *Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia* [abstract](./poster-abstracts.md#Exploring-conversational-exchanges-and-addressees-among-Tsimane-forager-horticulturalists)
 
@@ -44,7 +44,7 @@ Children learn new words with the help of classifiers, *Ming Yean Sia, Julien Ma
 
 The Effect of Temperamental Differences on Language Acquisition, *Liesl Melnick, Sarah C. Kucker* [abstract](./poster-abstracts.md#The-Effect-of-Temperamental-Differences-on-Language-Acquisition)
 
-Exploring item-level variability in the Communicative Development Inventory (CDI) across monolingual and bilingual populations, *Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder* [abstract](./poster-abstracts.md#Exploring-item-level-variability-in-the-Communicative-Development-Inventory-(CDI)-across-monolingual-and-bilingual-populations)
+Exploring item-level variability in the Communicative Development Inventory (CDI) across monolingual and bilingual populations, *Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder* [abstract](./poster-abstracts.md#Exploring-item-level-variability-in-the-Communicative-Development-Inventory-\(CDI\)-across-monolingual-and-bilingual-populations)
 
 Language acquisition in time of Covid-19 – a multi-site, multi-country, multi-language study, *Natalia Kartushina, Julien Mayor* [abstract](./poster-abstracts.md#Language-acquisition-in-time-of-Covid-19-–-a-multi-site,-multi-country,-multi-language-study)
 
@@ -55,7 +55,7 @@ Determinants of lexical development in Dutch toddlers, *Josje Verhagen, Mees van
 
 ### Assessments and interventions for developmental disorders
 
-An online scale for the Assessment of Language in Adults using Self-reported Skills (ALASS), *Hannah Joyce, Javier Aguado-Orea* [abstract](./poster-abstracts.md#An-online-scale-for-the-Assessment-of-Language-in-Adults-using-Self-reported-Skills-(ALASS))
+An online scale for the Assessment of Language in Adults using Self-reported Skills (ALASS), *Hannah Joyce, Javier Aguado-Orea* [abstract](./poster-abstracts.md#An-online-scale-for-the-Assessment-of-Language-in-Adults-using-Self-reported-Skills-\(ALASS\))
 
 Dynamic-systems refinements & insights into language acquisition from multiple interventions where significant language advances were triggered across 4 months or more, *Keith E. Nelson* [abstract](./poster-abstracts.md#Dynamic-systems-refinements-&-insights-into-language-acquisition-from-multiple-interventions-where-significant-language-advances-were-triggered-across-4-months-or-more)
 
