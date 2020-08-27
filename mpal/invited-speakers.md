@@ -1,6 +1,6 @@
 # Many Paths to Language
 
-Go to [Main page](../MPaL_handbook)
+Go to [Main page](../MPaL_handbook.md)
 
 ---
 
@@ -30,4 +30,4 @@ Natural language, unlike animal communication systems, provides a rich combinato
 
 ---
 
-Go to [Main page](../MPaL_handbook)
+Go to [Main page](../MPaL_handbook.md)
