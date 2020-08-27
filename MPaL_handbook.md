@@ -24,7 +24,7 @@ hurdles in documenting and interpreting variation in this context.
 ### Thurday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; Opening talk
 
-10.15 - 11.15 &nbsp;&nbsp;&nbsp; First talk title, *Gabriella* [abstract](./mpal/abstracts.md) [video](./mpal/video)
+10.15 - 11.15 &nbsp;&nbsp;&nbsp; First talk title, *Gabriella* [abstract](./mpal/abstracts.md) [video]
 
 11.15 - 11.30 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -45,7 +45,7 @@ hurdles in documenting and interpreting variation in this context.
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
 ### Friday, 23 October 2020
-10.00 - 11.00 &nbsp;&nbsp;&nbsp; Second talk title, *David* [abstract](./mpal/abstracts.md) - [video](./mpal/video)
+10.00 - 11.00 &nbsp;&nbsp;&nbsp; Second talk title, *David* [abstract](./mpal/abstracts.md) - [video]
 
 11.00 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -57,7 +57,7 @@ hurdles in documenting and interpreting variation in this context.
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.15 - 15.15 &nbsp;&nbsp;&nbsp; Tird talk title, *Andrea* [abstract](./mpal/abstracts.md) - [video](./mpal/video)
+14.15 - 15.15 &nbsp;&nbsp;&nbsp; Tird talk title, *Andrea* [abstract](./mpal/abstracts.md) - [video]
 
 15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Poster flash talks](./mpal/poster-overview.md)
 
