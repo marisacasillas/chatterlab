@@ -1,10 +1,9 @@
 # chatter publications
 
-[ms] = manuscript
+[ms] = manuscript, [sm] = supplementary materials, 
+[gh]/[osf] = associated repository
 
-[sm] = supplementary materials, if available
-
-[gh] = associated github repository, if available
+Looking for [tools](./tools.md)?
 
 <!--[[ms]()] [[sm]()] [[gh]()]-->
 
@@ -26,7 +25,7 @@ MacDonald, K., Rasanen, O., **Casillas, M.**, & Warlaumont, A. S. (2020). Measur
 
 ## 2019
 
-Bergelson, E.\*, **Casillas, M.**\*, Soderstrom, M., Seidl, A., Warlaumont, A. S., & Amatuni, A. (2019). What Do North American Babies Hear? A large-scale cross-corpus analysis. Developmental Science, 22(1): e12724. doi:10.1111/desc.12724. (\* Joint first authorship) [[ms](./lab-publications/Bergelson_Casillas_et_al_2019_What_do_North_American_babies_hear_DevSci.pdf)] [[sm](./lab-publications/Bergelson_Casillas_et_al_2019_What_do_North_American_babies_hear_SuppMat_DevSci.pdf)] [[gh](https://github.com/marisacasillas/NorthAmericanChildren-ADSvsCDS)]
+Bergelson, E.\*, **Casillas, M.**\*, Soderstrom, M., Seidl, A., Warlaumont, A. S., & Amatuni, A. (2019). What Do North American Babies Hear? A large-scale cross-corpus analysis. Developmental Science, 22(1): e12724. doi:10.1111/desc.12724. (\* Joint first authorship) [[ms](./lab-publications/Bergelson_Casillas_et_al_2019_What_do_North_American_babies_hear_DevSci.pdf)] [[sm](./lab-publications/Bergelson_Casillas_et_al_2019_What_do_North_American_babies_hear_SuppMat_DevSci.pdf)] [[osf](https://osf.io/d9ac4/)] [[gh](https://github.com/marisacasillas/NorthAmericanChildren-ADSvsCDS)] [[gh for associated tool](https://github.com/SeedlingsBabylab/idslabel)]
 
 **Casillas, M.**, & Cristia, A. (2019). A step-by-step guide to collecting and analyzing long-format speech environment (LFSE) recordings. Collabra, 5(1): 24. doi:10.1525/collabra.209. [[ms](./lab-publications/Casillas_Cristia_2019_Step-by-step_guide_to_collecting_and_analyzing_long_format_speech_environment_LFSE_recordings_Collabra.pdf)] [[sm](./lab-publications/Casillas_Cristia_2019_Step-by-step_guide_to_collecting_and_analyzing_long_format_speech_environment_LFSE_recordings_SuppMat_Collabra.pdf)]
 
@@ -46,51 +45,51 @@ Rasanen, O., Seshadri, S., & **Casillas, M.** (2018). Comparison of syllabificat
 
 ## 2017
 
-**Casillas, M.**, Bergelson, E., Warlaumont, A. S., Cristia, A., Soderstrom, M., VanDam, M., & Sloetjes, H. (2017). A New Workflow for Semi-automatized Annotations: Tests with Long-Form Naturalistic Recordings of Childrens Language Environments. In Proceedings of Interspeech 2017 (pp. 2098-2102). doi:10.21437/Interspeech.2017-1418.
+**Casillas, M.**, Bergelson, E., Warlaumont, A. S., Cristia, A., Soderstrom, M., VanDam, M., & Sloetjes, H. (2017). A New Workflow for Semi-automatized Annotations: Tests with Long-Form Naturalistic Recordings of Childrens Language Environments. In Proceedings of Interspeech 2017 (pp. 2098-2102). doi:10.21437/Interspeech.2017-1418. [[ms](./lab-publications/Casillas_et_al_2017_A_new_workflow_for_semi_automitized_annotations
+.pdf)] [[osf](https://osf.io/b2jep/wiki/home/)]
 
-**Casillas, M.**, Amatuni, A., Seidl, A., Soderstrom, M., Warlaumont, A., & Bergelson, E. (2017). What do Babies hear? Analyses of Child- and Adult-Directed Speech. In Proceedings of Interspeech 2017 (pp. 2093-2097). doi:10.21437/Interspeech.2017-1409.
+**Casillas, M.**, Amatuni, A., Seidl, A., Soderstrom, M., Warlaumont, A., & Bergelson, E. (2017). What do Babies hear? Analyses of Child- and Adult-Directed Speech. In Proceedings of Interspeech 2017 (pp. 2093-2097). doi:10.21437/Interspeech.2017-1409. [[ms](./lab-publications/Casillas_et_al_2017_What_do_babies_hear_Interspeech.pdf)] [[osf](https://osf.io/d9ac4/)] [[gh for associated tool](https://github.com/SeedlingsBabylab/idslabel)]
 
-**Casillas, M.**, & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. Journal of Memory and Language, 92, 234-253. doi:10.1016/j.jml.2016.06.013.
+**Casillas, M.**, & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. Journal of Memory and Language, 92, 234-253. doi:10.1016/j.jml.2016.06.013. [[ms](./lab-publications/Casillas_Frank_2016_The_development_of_childrens_ability_to_track_and_predict_turn_structure_in_conversation_JML.pdf)] [[sm](./lab-publications/Casillas_Frank_2016_The_development_of_childrens_ability_to_track_and_predict_turn_structure_in_conversation_SuppMat_JML.pdf)] [[gh](https://github.com/marisacasillas/turn_taking)]
 
-Schuller, B., Steidl, S., Batliner, A., Bergelson, E., Krajewski, J., Janott, C., Amatuni, A., **Casillas, M.**, Seidl, A., Soderstrom, M., Warlaumont, A. S., Hidalgo, G., Schnieder, S., Heiser, C., Hohenhorst, W., Herzog, M., Schmitt, M., Qian, K., Zhang, Y., Trigeorgis, G., Tzirakis, P., & Zafeiriou, S. (2017). The INTERSPEECH 2017 computational paralinguistics challenge: Addressee, cold & snoring. In Proceedings of Interspeech 2017 (pp. 3442-3446). doi:10.21437/Interspeech.2017-43.
+Schuller, B., Steidl, S., Batliner, A., Bergelson, E., Krajewski, J., Janott, C., Amatuni, A., **Casillas, M.**, Seidl, A., Soderstrom, M., Warlaumont, A. S., Hidalgo, G., Schnieder, S., Heiser, C., Hohenhorst, W., Herzog, M., Schmitt, M., Qian, K., Zhang, Y., Trigeorgis, G., Tzirakis, P., & Zafeiriou, S. (2017). The INTERSPEECH 2017 computational paralinguistics challenge: Addressee, cold & snoring. In Proceedings of Interspeech 2017 (pp. 3442-3446). doi:10.21437/Interspeech.2017-43. [[ms](./lab-publications/Schuller_et_al_2017_The_INTERSPEECH_2017_Computational_paralinguistics_challenge_Interspeech.pdf)]
 
 ## 2016
 
-**Casillas, M.**, Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. Journal of Child Language, 43, 1310-1337. doi:10.1017/S0305000915000689.
+**Casillas, M.**, Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. Journal of Child Language, 43, 1310-1337. doi:10.1017/S0305000915000689. [[ms](./lab-publications/Casillas_et_al_2016_Turn_taking_timing_and_planning_in_early_language_acquisition_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_2016_Turn_taking_timing_and_planning_in_early_language_acquisition_SuppMat_JCL.pdf)]
 
-Clark, E. V., & **Casillas, M.** (2016). First language acquisition. In K. Allen (Ed.), The Routledge Handbook of Linguistics (pp. 311-328). New York: Routledge.
+Clark, E. V., & **Casillas, M.** (2016). First language acquisition. In K. Allen (Ed.), The Routledge Handbook of Linguistics (pp. 311-328). New York: Routledge. [[ms](./lab-publications/Clark_Casillas_2016_First_language_acquisition_RoutledgeLinguisticsHandbook.pdf)]
 
-Holler, J., Kendrick, K. H., **Casillas, M.**, & Levinson, S. C. (Eds.). (2016). Turn-Taking in Human Communicative Interaction. Lausanne: Frontiers Media. doi:10.3389/978-2-88919-825-2.
+Holler, J., Kendrick, K. H., **Casillas, M.**, & Levinson, S. C. (Eds.). (2016). Turn-Taking in Human Communicative Interaction. Lausanne: Frontiers Media. doi:10.3389/978-2-88919-825-2. [[full special issue](2015_Special_Issue_Turn-Taking_in_Human_Communicative_Interaction_Frontiers.pdf)]
 
 ## 2015
 
-**Casillas, M.**, De Vos, C., Crasborn, O., & Levinson, S. C. (2015). The perception of stroke-to-stroke turn boundaries in signed conversation. In D. C. Noelle, R. Dale, A. S. Warlaumont, J. Yoshimi, T. Matlock, C. D. Jennings, & P. R. Maglio (Eds.), Proceedings of the 37th Annual Meeting of the Cognitive Science Society (CogSci 2015) (pp. 315-320). Austin, TX: Cognitive Science Society.
+**Casillas, M.**, De Vos, C., Crasborn, O., & Levinson, S. C. (2015). The perception of stroke-to-stroke turn boundaries in signed conversation. In D. C. Noelle, R. Dale, A. S. Warlaumont, J. Yoshimi, T. Matlock, C. D. Jennings, & P. R. Maglio (Eds.), Proceedings of the 37th Annual Meeting of the Cognitive Science Society (CogSci 2015) (pp. 315-320). Austin, TX: Cognitive Science Society. [[ms](./lab-publications/Casillas_et_al_2015_The_perception_of_stroke-to-stroke_turn_boundaries_in_signed_conversation_CogSci.pdf)]
 
-Holler, J., Kendrick, K. H., **Casillas, M.**, & Levinson, S. C. (2015). Editorial: Turn-taking in human communicative interaction. Frontiers in Psychology, 6: 1919. doi:10.3389/fpsyg.2015.01919.
+Holler, J., Kendrick, K. H., **Casillas, M.**, & Levinson, S. C. (2015). Editorial: Turn-taking in human communicative interaction. Frontiers in Psychology, 6: 1919. doi:10.3389/fpsyg.2015.01919. [[ms](./lab-publications/Holler_et_al_2015_Editorial_turn_taking_in_human_communicative_interaction_Frontiers.pdf)] [[full special issue](2015_Special_Issue_Turn-Taking_in_Human_Communicative_Interaction_Frontiers.pdf)]
 
-Lammertink, I., **Casillas, M.**, Benders, T., Post, B., & Fikkert, P. (2015). Dutch and English toddlers' use of linguistic cues in predicting upcoming turn transitions. Frontiers in Psychology, 6: 495. doi:10.3389/fpsyg.2015.00495.
+Lammertink, I., **Casillas, M.**, Benders, T., Post, B., & Fikkert, P. (2015). Dutch and English toddlers' use of linguistic cues in predicting upcoming turn transitions. Frontiers in Psychology, 6: 495. doi:10.3389/fpsyg.2015.00495. [[ms](./lab-publications/Lammertink_et_al_2015_Dutch_and_English_toddlers_use_of_linguistic_cues_to_predicting_upcoming_turn_boundaries_Frontiers.pdf)]
 
 ## 2014
 
 Arnon, I., **Casillas, M.**, Kurumada, C., & Estigarribia, B. (Eds.). (2014). Language in interaction: Studies in honor of Eve V. Clark. Amsterdam: Benjamins.
 
-**Casillas, M.** (2014). Taking the floor on time: Delay and deferral in children’s turn taking. In I. Arnon, M. Casillas, C. Kurumada, & B. Estigarribia (Eds.), Language in Interaction: Studies in honor of Eve V. Clark (pp. 101-114). Amsterdam: Benjamins.
+**Casillas, M.** (2014). Taking the floor on time: Delay and deferral in children’s turn taking. In I. Arnon, M. Casillas, C. Kurumada, & B. Estigarribia (Eds.), Language in Interaction: Studies in honor of Eve V. Clark (pp. 101-114). Amsterdam: Benjamins. [[ms](./lab-publications/Casillas_2014_Taking_the_floor_on_time_ClarkTiLARVolume.pdf)]
 
-**Casillas, M.** (2014). Turn-taking. In D. Matthews (Ed.), Pragmatic development in first language acquisition (pp. 53-70). Amsterdam: Benjamins.
+**Casillas, M.** (2014). Turn-taking. In D. Matthews (Ed.), Pragmatic development in first language acquisition (pp. 53-70). Amsterdam: Benjamins. [[ms](./lab-publications/Casillas_2014_Turn_taking_DPragmaticsTiLARVolume.pdf)]
 
 ## 2013
 
-**Casillas, M.**, & Frank, M. C. (2013). The development of predictive processes in children’s discourse understanding. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), Proceedings of the 35th Annual Meeting of the Cognitive Science Society. (pp. 299-304). Austin,TX: Cognitive Society.
+**Casillas, M.**, & Frank, M. C. (2013). The development of predictive processes in children’s discourse understanding. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), Proceedings of the 35th Annual Meeting of the Cognitive Science Society. (pp. 299-304). Austin,TX: Cognitive Society. [[ms](./lab-publications/Casillas_Frank_2013_The_development_of_predictive_processes_in_childrens_discourse_understanding_CogSci.pdf)]
 
-Sumner, M., Kurumada, C., Gafter, R., & **Casillas, M.** (2013). Phonetic variation and the recognition of words with pronunciation variants. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), Proceedings of the 35th Annual Meeting of the Cognitive Science Society (CogSci 2013) (pp. 3486-3492). Austin, TX: Cognitive Science Society.
+Sumner, M., Kurumada, C., Gafter, R., & **Casillas, M.** (2013). Phonetic variation and the recognition of words with pronunciation variants. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), Proceedings of the 35th Annual Meeting of the Cognitive Science Society (CogSci 2013) (pp. 3486-3492). Austin, TX: Cognitive Science Society. [[ms](./lab-publications/Sumner_et_al_2013_Phonetic_variation_and_the_recognition_of_words_with_pronunciation_variants.pdf)]
 
-## 2012
-
-**Casillas, M.**, & Frank, M. C. (2012). Cues to turn boundary prediction in adults and preschoolers. In S. Brown-Schmidt, J. Ginzburg, & S. Larsson (Eds.), Proceedings of SemDial 2012 (SeineDial): The 16th Workshop on the Semantics and Pragmatics of Dialogue (pp. 61-69). Paris: Université Paris-Diderot.
+**Casillas, M.**, & Amaral, P. (2013). Learning cues to category membership: Patterns in children’s acquisition of hedges. In C. Cathcart, I.-H. Chen, G. Finley, S. Kang, C. S. Sandy, & E. Stickles (Eds.), Proceedings of the Berkeley Linguistics Society 37th Annual Meeting (pp. 33-45). Linguistic Society of America, eLanguage. [[ms](./lab-publications/Casillas_Amaral_2013_Learning_cues_to_category_membership_BLS.pdf)]
 
 ## 2012
 
-**Casillas, M.**, & Amaral, P. (2011). Learning cues to category membership: Patterns in children’s acquisition of hedges. In C. Cathcart, I.-H. Chen, G. Finley, S. Kang, C. S. Sandy, & E. Stickles (Eds.), Proceedings of the Berkeley Linguistics Society 37th Annual Meeting (pp. 33-45). Linguistic Society of America, eLanguage.
+**Casillas, M.**, & Frank, M. C. (2012). Cues to turn boundary prediction in adults and preschoolers. In S. Brown-Schmidt, J. Ginzburg, & S. Larsson (Eds.), Proceedings of SemDial 2012 (SeineDial): The 16th Workshop on the Semantics and Pragmatics of Dialogue (pp. 61-69). Paris: Université Paris-Diderot. [[ms](./lab-publications/Casillas_Frank_2012_Cues_to_turn_boundary_prediction_in_adults_and_preschoolers_SemDial.pdf)]
+
 
 ----
 The chatter lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, and particularly encourage those coming from marginalized groups to reach out if interested in working with the lab.
