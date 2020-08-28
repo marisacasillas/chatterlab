@@ -358,8 +358,6 @@ Our results showed that children’s online use of morphosyntactic markers devel
 
 ### Socioeconomic status and language development
 
-##### 11.15 - 12.15
-
 #### Reading Practices and Behaviors of Hispanic Parents During Shared Book Reading
 
 [*Daniela Avelar, Adriana Weisleder, Maritza Marquez, Roberta M. Golinkoff*](./authors.md)
@@ -427,8 +425,6 @@ Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType 
 ---
 
 ### Multilingualism
-
-##### 11.15 - 12.15
 
 #### Examining verb-action co-occurrences in everyday contexts in Spanish-speaking and English-speaking families
 
