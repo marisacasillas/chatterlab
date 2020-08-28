@@ -10,9 +10,9 @@ Go to [Main page](../MPaL_handbook.md)
 
 ### Child-caregiver interaction
 
-The function of infants’ prelinguistic vocal sequences: implications for early communication and language, *Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein* [abstract](./poster-abstracts.md#The-function-of-infants’-prelinguistic-vocal-sequences\:-implications-for-early-communication-and-language)
+The function of infants’ prelinguistic vocal sequences: implications for early communication and language, *Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein* [abstract](./poster-abstracts.md#The-function-of-infants’-prelinguistic-vocal-sequences%3A-implications-for-early-communication-and-language)
 
-Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants, *Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein* [abstract](./poster-abstracts.md#Caregiver-behavior-that-facilitates-vocal-turn\-taking-with-prelinguistic-infants)
+Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants, *Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein* [abstract](./poster-abstracts.md#Caregiver-behavior-that-facilitates-vocal-turn-taking-with-prelinguistic-infants)
 
 Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists, *Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia* [abstract](./poster-abstracts.md#Exploring-conversational-exchanges-and-addressees-among-Tsimane-forager-horticulturalists)
 
@@ -29,7 +29,7 @@ Neurodevelopmental Differences in Autism Spectrum Disorder Applied to Language L
 
 Relative clause production abilities of children with ASD, *Nufar Sukenik* [abstract](./poster-abstracts.md#Relative-clause-production-abilities-of-children-with-ASD)
 
-Parental Speech to Typical and Atypical Populations: A Study on Linguistic Partial Repetition, *Luca Onnis, Gianluca Esposito, Paola Venuti, Shimon Edelman* [abstract](./poster-abstracts.md#Parental-Speech-to-Typical-and-Atypical-Populations:-A-Study-on-Linguistic-Partial-Repetition)
+Parental Speech to Typical and Atypical Populations: A Study on Linguistic Partial Repetition, *Luca Onnis, Gianluca Esposito, Paola Venuti, Shimon Edelman* [abstract](./poster-abstracts.md#Parental-Speech-to-Typical-and-Atypical-Populations%3A-A-Study-on-Linguistic-Partial-Repetition)
 
 Co-development of language and social action in a child with Down Syndrome, *Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou* [abstract](./poster-abstracts.md#Co-development-of-language-and-social-action-in-a-child-with-Down-Syndrome)
 
