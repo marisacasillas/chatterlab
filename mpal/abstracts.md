@@ -117,7 +117,7 @@ Shneidman L, Goldin-Meadow S. 2012. Language Input and Acquisition in a Mayan Vi
 
 ---
 
-### Disorders and delays
+### Disorders and delay in language development
 
 #### 22 October 11.30 - 12.30
 
@@ -192,7 +192,7 @@ Conclusion: We found that children in both groups tend to vocalize at higher rat
 
 ---
 
-### Complexity of CDS
+### Complexity in child-directed speech
 
 #### 22 October 13.15 - 14.15
 
@@ -270,7 +270,7 @@ Our analyses show that the language of children’s books is lexically denser an
 
 ---
 
-### Processing across age and input characteristics
+### Language processing across age and input characteristics
 
 #### 22 October 13.15 - 14.15
 
@@ -400,7 +400,7 @@ Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType 
 
 ---
 
-### Multilingualism
+### Multilingual language development
 
 #### Examining verb-action co-occurrences in everyday contexts in Spanish-speaking and English-speaking families
 
