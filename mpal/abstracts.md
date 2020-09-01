@@ -8,25 +8,31 @@ Go to [Main page](../MPaL_handbook.md)
 
 #### 22 October 10.15 - 11.15
 
-Gabriella
+Gabriella Vigliocco
+
+Abstract still to come.
 
 ---
 
 #### 23 October 10.00 - 11.00
 
-David
+David Barner
+
+Abstract still to come.
 
 ---
 
 #### 23 October 14.15 - 15.15
 
-Andrea
+Andrea Ravignani
+
+Abstract still to come.
 
 ---
 
 ## Talks
 
-### Non-WEIRD language development
+### Language development in non-WEIRD contexts
 
 #### 22 October 11.30 - 12.30
 
@@ -39,19 +45,17 @@ h.lutzenberger@let.ru.nl
 
 Children acquiring signed languages from birth parallel their speaking peers in linguistic milestones.[1] The acquisition of sign phonology brings extra hurdles: children learn to coordinate two articulators, i.e. two hands, and autofeedback is visual and/or tactile rather than auditory. This study is the first to investigate the acquisition of sign phonology in a non-WEIRD context: a Balinese village community. 
 
-	Kata Kolok (KK) emerged spontaneously in a labour-intensive community with high congenital deafness. KK’s phonology is typologically distinct from WEIRD sign languages, with a larger signing space and fewer marked handshapes.[2] KK children receive signed input from birth, from many hearing and deaf signers. Thus, the acquisition setting is comparable to that of hearing children acquiring a spoken language, unlike the experience of most WEIRD deaf children [1]. 
+Kata Kolok (KK) emerged spontaneously in a labour-intensive community with high congenital deafness. KK’s phonology is typologically distinct from WEIRD sign languages, with a larger signing space and fewer marked handshapes.[2] KK children receive signed input from birth, from many hearing and deaf signers. Thus, the acquisition setting is comparable to that of hearing children acquiring a spoken language, unlike the experience of most WEIRD deaf children [1]. 
 
-	Case studies of WEIRD sign languages show that early signing is characterised by simplification and substitution of handshapes, locations and movements. Children omit, repeat, or proximalise movements, produce signs at bigger and more salient locations, and assimilate and replace marked by unmarked handshapes.[1,3] 
+Case studies of WEIRD sign languages show that early signing is characterised by simplification and substitution of handshapes, locations and movements. Children omit, repeat, or proximalise movements, produce signs at bigger and more salient locations, and assimilate and replace marked by unmarked handshapes.[1,3] 
 
-	Using longitudinal data, we examine universalities and differences in sign phonology acquisition. We predict cross-linguistic similarities in movement errors due to general motor development and differences in handshape and location errors due to KK’s typological profile.  
+Using longitudinal data, we examine universalities and differences in sign phonology acquisition. We predict cross-linguistic similarities in movement errors due to general motor development and differences in handshape and location errors due to KK’s typological profile.  
 
-	We collected 1400 off-target signs produced by four deaf children (spanning 1;5-3;0 years) in a total of 75 hours of naturalistic recordings from the KK Child Signing Corpus. For each error, we analysed (i) attempted target signs, (ii) accuracy of handshape, movement, location, orientation, and body contact, and (iii) error types. Results are interpreted in the light of the literature and KK’s phonological system. 
+We collected 1400 off-target signs produced by four deaf children (spanning 1;5-3;0 years) in a total of 75 hours of naturalistic recordings from the KK Child Signing Corpus. For each error, we analysed (i) attempted target signs, (ii) accuracy of handshape, movement, location, orientation, and body contact, and (iii) error types. Results are interpreted in the light of the literature and KK’s phonological system. 
 
-	The errors in our data show similarities with patterns described for WEIRD sign languages; (i) handshape and location errors are most common and (ii) movement errors are rare and typically caused by omission or proximalisation. These commonalities may be linked to general motor development, suggesting universality in sign phonology acquisition. Critically, we also observe striking differences. Firstly, KK children substitute both marked and unmarked handshapes (Figure 1); this may be typologically grounded with fewer marked handshapes featuring in the KK lexicon. Secondly, KK children often increase or add body contact (Figure 1c-f). While a preference for fingertip contact has been mentioned in the literature, the role of contact has not been discussed extensively. Increased contact may be a typological feature of KK, but may also be more central to early signing: rather than increasing saliency of location, displacing signs might increase proprioception, providing more autofeedback.
+The errors in our data show similarities with patterns described for WEIRD sign languages; (i) handshape and location errors are most common and (ii) movement errors are rare and typically caused by omission or proximalisation. These commonalities may be linked to general motor development, suggesting universality in sign phonology acquisition. Critically, we also observe striking differences. Firstly, KK children substitute both marked and unmarked handshapes (Figure 1); this may be typologically grounded with fewer marked handshapes featuring in the KK lexicon. Secondly, KK children often increase or add body contact (Figure 1c-f). While a preference for fingertip contact has been mentioned in the literature, the role of contact has not been discussed extensively. Increased contact may be a typological feature of KK, but may also be more central to early signing: rather than increasing saliency of location, displacing signs might increase proprioception, providing more autofeedback.
 
-	This is the first study to corroborate similarities and differences in child errors of KK and WEIRD sign languages, finding that acquisition of movement has universal tendencies, while handshape and location may be more susceptible to typological differences such as diverging phonologies and language ecologies.
-
-
+This is the first study to corroborate similarities and differences in child errors of KK and WEIRD sign languages, finding that acquisition of movement has universal tendencies, while handshape and location may be more susceptible to typological differences such as diverging phonologies and language ecologies.
 
 References
 
@@ -65,7 +69,7 @@ References
 
 ---
 
-#### Amount and quality of input across speakers: analysing Sesotho and French corpora
+#### Amount and quality of input across speakers: Analysing Sesotho and French corpora
 
 [*Georgia Loukatou, Camila Scaff, Katherine Demuth, Alejandrina Cristia, Naomi Havron*](./authors.md)
 
@@ -73,15 +77,9 @@ georgialoukatou@gmail.com
 
 Most language acquisition research is based on Western, Educated, Industrialised, Rich, Democratic (WEIRD) communities (Henrich, Heine & Norenzayan, 2010), where the primary caregiver is the mother. Mother-child dyad speech has long been the focus of early input studies, despite evidence suggesting that non-maternal input can be important for language outcomes (e.g. Demuth, 1986). Additionally, in many communities (particularly non-WEIRD ones), interaction occurs with multiple speakers rather than mostly the mother (e.g. Casillas, Brown & Levinson, 2019). Yet, few studies describe child-directed speech (CDS) from various speakers, and even fewer investigate this across cultures (see Shneidman & Goldin‐Meadow, 2012). 
 
-
-
 In this study, we analyse speech produced around and to children by their mother, other children and adults, in two diverse cultures. We ask who produces the input, and how much of it is child-directed. We also ask whether different speakers vary in terms of utterance length, function (ratio of questions) and lexical diversity. To answer these questions, we annotated three corpora. The non-WEIRD Demuth corpus (Demuth, 1992) in the Sesotho language was recorded in non-industrial South African Lesotho. It contains input to three toddlers aged 2;1-3;3 years. We also annotated recordings from the WEIRD Lyon and Paris corpora (Demuth & Tremblay 2008; Leroy, Mathiot & Morgenstern, 2009) for three children- those with siblings, and the same age range as in the Demuth corpus.
 
-
-
 More than 80% of input is child-directed for both French and Sesotho. On average, 79% of French CDS utterances comes from mothers, whereas in Sesotho only 25.3% does (Figure 1). Other children (siblings and peers) provide 3.3% of French CDS, when in Sesotho it corresponds to 10 times that proportion (38.5%). Other adults provide 9.2% of French CDS, versus 15.8% in Sesotho. We ran a mixed-effects linear regression predicting the relative amount of input from different speakers at each session, including a random intercept for target child. The independent variables were the speaker category (mother, children, adults), language (Sesotho, French) and their interaction. There were significant interactions; the ratio of speech from mothers was lower in Sesotho than French (β =-0.27, SE =.0.41, t=-6.31, p<.001), but that from other children was higher (β =0.19, SE =.0.48, t =3.91, p=.002). There were differences between languages in utterance length, function and lexical diversity of CDS, but no differences across speakers in utterance length and lexical diversity. However, children asked considerably less questions in both Sesotho and French (Figure 2).
-
-
 
 Thus, CDS is significantly prevalent over overheard speech for both settings. However, the input composition is dramatically different; maternal input is more dominant in the WEIRD corpora compared to the non-WEIRD one. In the latter, other children's input is more prevalent than maternal input, consistent with previous non-WEIRD descriptions. Interestingly, in terms of speech quality, other children’s and adults’ CDS present similarities with maternal speech within each culture. These results invite further cross-cultural early input research, in order to check if these speech compositions and qualities are representative of WEIRD and non-WEIRD quantifiable distinctions, and the impact these might have for language development.
 
@@ -93,7 +91,7 @@ Thus, CDS is significantly prevalent over overheard speech for both settings. Ho
 
 #### Child-directed speech of multiple socializes in Mayan Tsotsil acquisition: A qualitative and interactional look
 
-[*Lourdes De Leon*](./authors.md)
+[*Lourdes De León*](./authors.md)
 
 lourdesdeleonp@gmail.com
 
@@ -150,7 +148,7 @@ Conclusion: Results indicate frontal gamma power as a mechanism linking quantita
 
 ---
 
-#### Naturalistic Language Input to Blind, Deaf/Hard-of Hearing, and Typically-Developing Infants: a Quantitative and Qualitative Analysis
+#### Naturalistic language input to Blind, Deaf/Hard-of Hearing, and typically-developing infants: A quantitative and qualitative analysis
 
 [*Erin E. Campbell, Sarp Uner, Elika Bergelson*](./authors.md)
 
@@ -160,13 +158,13 @@ Blind, deaf/hard-of-hearing (DHH), and typically-developing infants have diverge
 
 Analysis 1: We measured speech input using LENA daylong audio-recordings from blind infants (n=5; age: 9-31 mos.)*, DHH infants (n=11; age: 14-31 mos.), and typically-developing infants (n=22; matched to DHH on age or hearing-age, maternal education, and gender; age: 6-31 mos.). Using LENA’s Adult-Word-Count estimate, we find no significant differences in speech input quantity across groups (ps> .05 by Kruskal-Wallis Test; Fig.1). 
 
-        Analysis 2: We collected 30-minute video-recordings of unstructured parent-child interaction from one blind infant (n=1; age: 10 and 14 mos.)*, and used analogous video-recordings from DHH (n=22; age: 13-16 mos.) and typically-developing infants (n=18; age: 13 mos.). These video-recordings were fully transcribed and part-of-speech tagged. We focus on sense-specific adjectives as one way parents may provide linguistic descriptions of perceptual features that their children cannot access. Adjective tokens were coded as amodal, visual, tactile, hearing, smell, or taste. While we found no difference in overall adjective quantity or in proportion of amodal adjectives (Kruskal-Wallis test; p>.05), adjective modality differed by group (Fig.2). Specifically, DHH infants heard the smallest proportion of hearing-related adjective tokens (Bonferroni-corrected Dunn Test, p=.035; Fig.2).
+Analysis 2: We collected 30-minute video-recordings of unstructured parent-child interaction from one blind infant (n=1; age: 10 and 14 mos.)*, and used analogous video-recordings from DHH (n=22; age: 13-16 mos.) and typically-developing infants (n=18; age: 13 mos.). These video-recordings were fully transcribed and part-of-speech tagged. We focus on sense-specific adjectives as one way parents may provide linguistic descriptions of perceptual features that their children cannot access. Adjective tokens were coded as amodal, visual, tactile, hearing, smell, or taste. While we found no difference in overall adjective quantity or in proportion of amodal adjectives (Kruskal-Wallis test; p>.05), adjective modality differed by group (Fig.2). Specifically, DHH infants heard the smallest proportion of hearing-related adjective tokens (Bonferroni-corrected Dunn Test, p=.035; Fig.2).
 
-        Taken together, these results suggest that (1) blind, DHH, and typically-developing infants are exposed to approximately the same amount of linguistic input but that (2) the content of this input may be tailored to the child’s sensory experience, particularly for DHH infants. Notably, speech in the environment of DHH infants may misrepresent speech heard by these children; our qualitative result of fewer hearing-related adjectives said to DHH infants highlights a further difference in their input. In contrast, while Ns are low, blind infants appear to hear similar speech input as sighted peers, with more work needed. These results provide initial data on how much parents talk to blind, DHH, and typically-developing infants, and how modality-specific this language input may be. This in turn has implications for the language learning trajectories and lexicons of infants with differing sensory experiences.
+Taken together, these results suggest that (1) blind, DHH, and typically-developing infants are exposed to approximately the same amount of linguistic input but that (2) the content of this input may be tailored to the child’s sensory experience, particularly for DHH infants. Notably, speech in the environment of DHH infants may misrepresent speech heard by these children; our qualitative result of fewer hearing-related adjectives said to DHH infants highlights a further difference in their input. In contrast, while Ns are low, blind infants appear to hear similar speech input as sighted peers, with more work needed. These results provide initial data on how much parents talk to blind, DHH, and typically-developing infants, and how modality-specific this language input may be. This in turn has implications for the language learning trajectories and lexicons of infants with differing sensory experiences.
 
 
 
-* In US/Europe: Incidence of blindness in children is 3/10,000; incidence of DHH (>40 dB) is ~10/10,000 (Gilbert 2003; CDC, n.d.). This difference is reflected in our sample sizes; recruitment is ongoing.
+\* In US/Europe: Incidence of blindness in children is 3/10,000; incidence of DHH (>40 dB) is ~10/10,000 (Gilbert 2003; CDC, n.d.). This difference is reflected in our sample sizes; recruitment is ongoing.
 
 ![Attachment](attachments/95-1.png)
 
@@ -174,7 +172,7 @@ Analysis 1: We measured speech input using LENA daylong audio-recordings from bl
 
 ---
 
-#### Task-Dependent Impact of Adult Words on Vocalization Patterns in Angelman and Down Syndromes
+#### Task-dependent impact of adult words on vocalization patterns in Angelman and Down Syndromes
 
 [*Lisa R. Hamrick, Amanda Seidl, Bridgette L. Kelleher*](./authors.md)
 
@@ -188,9 +186,9 @@ Results: We conducted analyses in R. We used non-parametric analyses (Wilcoxon, 
 
 Conclusion: We found that children in both groups tend to vocalize at higher rates while interacting with a parent compared to supervised independent play, and parents’ word counts were highest while reading a book with their child. However, child vocalization rate was not related to adult word rate in either interactive task, suggesting that adult vocal behavior may not impact child vocal patterns over and above the effect of task context during short, structured tasks. These findings can inform language treatment planning by clarifying which factors are relevant for increasing child speech rate for children with neurogenetic syndromes.
 
-![Attachment](attachments/72-1.png)
+![Attachment](attachments/72-01.png)
 
-![Attachment](attachments/72-2.png)
+![Attachment](attachments/72-02.png)
 
 ---
 
@@ -198,7 +196,7 @@ Conclusion: We found that children in both groups tend to vocalize at higher rat
 
 #### 22 October 13.15 - 14.15
 
-#### Parents’ Talk about Conceptual Categories with Infants: Stability, Variability, and Implications for Vocabulary Development
+#### Parents’ talk about conceptual categories with infants: Stability, variability, and implications for vocabulary development
 
 [*Ran Wei, Anna Kirby, Letitia Naigles, Meredith Rowe*](./authors.md)
 
@@ -210,19 +208,15 @@ Previous studies find that adults’ use of generics (e.g., “Strawberries are 
 
 The current study addresses the following questions: 
 
-1.        Do parents discuss conceptual categories with infants, and if so how?
+1. Do parents discuss conceptual categories with infants, and if so how?
 
-2.        Does parents’ input about conceptual categories vary by parent education?
+2. Does parents’ input about conceptual categories vary by parent education?
 
-3.        Does parents’ discussion of categories predict infants’ size of vocabulary?
+3. Does parents’ discussion of categories predict infants’ size of vocabulary?
 
 Participants were 46 American parent-child dyads with varying levels of parental education, M = 15.6 years, SD = 2.14, range = 10 – 18. Semi-structured play sessions were recorded at child age 10, 12, 14, and 16 months. Recordings were transcribed and coded for parents’ talk about categories (see Table 1 for coding scheme), Cohen’s Kappas > 0.80. We calculated the raw frequency of parents’ generic language (GL), non-generic language about categories (CL), and total utterances about categories (GCL, including both GL and CL). To account for parents’ overall talkativeness, we also calculated the density of GL, CL, and GCL (i.e., frequency divided by the total number of parental utterances). We derived parents’ word types (i.e., the number of different words produced) from the transcripts as a control measure of parental vocabulary diversity. Parents reported children’s receptive and expressive vocabulary using the MB-CDI at each visit, and we used the Mullen Scales of Early Learning to assess children’s expressive language skills at 18 months. 
 
-
-
 We found that individual differences in parent GL use were stable over time, whereas differences in CL use were more variable. That is, overall, parents who used more and denser GL at one visit also did so at other visits. Parents who had received more education produced more and denser GCL. The mean frequency and density of GL and GCL (averaged across the four visits), as well as the mean frequency (but not mean density) of CL, significantly predicted children’ vocabulary at 18 months, controlling for parent education, 10-month receptive vocabulary, treatment status*, and parent mean word types across visits (see Table 2 for OLS regression models). Further, controlling for covariates, the mean frequency of GCL mediated associations between parent education and children’s 18-month vocabulary. Our findings suggest that parents’ talk about categories varies by education and supports children’s vocabulary development. 
-
-
 
 (* The current study uses data from a longitudinal training study aimed at increasing parents’ use of gestures with infants (Anonymized, 2019). Therefore, we included parents’ treatment status as a binary covariate, although treatment status was unassociated with children’s vocabulary measures or parents’ GL, CL, or GCL use at any visit, all ps > .1.)
 
@@ -234,7 +228,7 @@ We found that individual differences in parent GL use were stable over time, whe
 
 #### Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1 acquisition
 
-[*An Nguyen, William Howe, G�raldine Legendre*](./authors.md)
+[*An Nguyen, William Howe, Gèraldine Legendre*](./authors.md)
 
 an.nguyen@jhu.edu
 
@@ -246,11 +240,7 @@ FAT: but if the dinosaur roars the baby is gonna be what? - CHI:  scared.
 
 The presence of PQs contradicts a popular claim that children never hear wh-in-situ questions in English (Yip and Matthews, 2007) or only hear them as EQs (Becker and Gotowski, 2015). Furthermore, the fact that PQs share the pragmatic space with fronted wh-questions while having fewer syntactic operations (no overt wh-movement or auxiliary inversion) allows us to test simplicity-based theories of syntax acquisition (e.g. Jakubowicz, 2011), which predict children’s preference for PQs. This experimental study seeks to (1) confirm that children accept PQs as information-seeking questions and (2) test the simplicity-based account’s prediction.
 
-
-
 Nineteen native English-speaking children (M=4.01, 7 males) participated in a comprehension-production study. The comprehension task contained 12 vignettes. Children saw the stories on the screen while hearing true but under-informative statements (Figure 1). At the end of each vignette, children heard either a PQ or EQ (both have the same surface structure but differ prosodically, as EQs have a strong rising pitch while PQs have a flat/falling pitch). If they understand the pragmatics of EQs and PQs, they will repeat the under-informative statement given an EQ but provide the more specific answer given a PQ. Indeed, children gave new-information answers to PQs and repetition answers to EQs with an accuracy significantly above chance (t(147)=2.86, p=0.004), and provided twice as many target as non-target answers (Table 1). In the elicitation task, children were instructed to ask an alien several wh-questions. The experimenter first primed them by using both an in-situ and a fronted wh-structure in 2 practice trials. Children completed 10 additional trials. Despite the priming attempt, children only produced fronted wh-questions. 
-
-
 
 The comprehension results confirm that children can use prosody to aid comprehension (Snedeker, 2008). Children differentiate PQs from EQs and understand that PQs request new information. This challenges the assumption that children only interpret English wh-in-situ as EQs. The elicitation results, however, do not support simplicity-based accounts (PQs were not produced). Two possible explanations are explored. First, children prefer to maximize the interrogative illocutionary force. This is supported by Pozzan and Valian (2016): despite 38% of non-inverted yes/no questions in child-directed speech, children never produce such structures when elicited. In their and our case, children choose to signal a question early by fronting the wh-word/auxiliary over a simpler syntactic structure. Second, in line with Schneider et al.’s (2019) proposal that children’s production has less variability than their input because they filter out low-frequency variants, English-speaking children may treat PQs as ‘noise’ and only regularize to higher-frequency fronted questions. However, frequency cannot be the sole determiner: despite having similar input frequencies of wh-in-situ, French-speaking children do produce this structure in elicitation tasks (Strik, 2007). Regularization may also be sensitive to the number of variants (types of wh-questions) as well as across-speakers variability within each type. French allows more wh- variants, and their wh-in-situ shows less prosodic variability than English.
 
@@ -308,7 +298,7 @@ To be able to both quantify support for the alternative and the null hypothesis,
 
 ---
 
-#### Predicting Lexical Processing Efficiency at 9 Months from the Home Language Environment: Child-Directed vs. Ambient Speech
+#### Predicting lexical processing efficiency at 9 Months from the home language environment: Child-directed vs. ambient speech
 
 [*Jayde E. Homer, Abbie Thompson, Jill Lany*](./authors.md)
 
@@ -332,19 +322,11 @@ rowena.garcia@mpi.nl
 
 Studies have shown cross-linguistic differences in children’s real-time use of morphosyntactic markers for thematic role assignment. Experiments in Turkish have revealed that children as young as 4 years can already use case marking to predict the upcoming second noun (Özge, Küntay, & Snedeker, 2019), while studies in German have demonstrated that even at the age of 6, children are not as efficient as adults in using case markers on-line (Schipke, Knoll, Friederici, & Oberecker, 2012). Based on models of language processing which assume that the parser makes use of distributional information (connectionist: e.g., Chang, Dell, & Bock, 2006; expectation-based: e.g., Levy, 2008), this difference may be due to the consistency of the case markers and the frequency of patient-initial sentences in the language. In this research, we tested this prediction in Tagalog (Austronesian), an understudied verb-initial language that uses pre-nominal morphosyntactic markers to assign thematic roles (i.e., voice-marking on the verb and a prenominal marker).
 
-
-
 In Tagalog, the agent voice -um- indicates that the ang-marked noun is the agent [Table 1a, b], while the patient voice -in- marks the ang-phrase as the patient [Table 1c, d]. Post-verb word order is relatively flexible. Evidence from child-directed speech shows that the patient voice is overall more frequent, as well as the agent-initial order (Garcia, Roeser, & Höhle, 2019). Given this distribution, children are expected to learn the patient voice mapping before that of the agent voice, as children have more exposure to the former than the latter, facilitating the rapid implementation of online parsing decisions.
-
-
 
 To test this hypothesis, we conducted an eye-tracking experiment with 32 adults (controls) and 151 children (fifty-three 5-year-olds, forty-nine 7-year-olds, forty-nine 9-year-olds), who saw a picture depicting a transitive action between two animals. After 1500ms of silence, they heard an audio-recorded sentence [Table 1a-d] that corresponded to the picture. They were told to pay attention because there would be questions about what they had seen and heard. There were 32 experimental items (8 per sentence condition) and 32 fillers. Our independent variables were voice and the order of the thematic roles; and the dependent variable was the proportion of fixations to the agent in the picture. Our analyses determined whether participants looked at the referent of the upcoming noun even before it is mentioned (Noun1 region), based on the voice-marking on the verb and the noun marker that they had previously encountered. 
 
-
-
 A permutation analysis revealed that the ability to use morphosyntactic markers to assign thematic roles develops with age. The 5-year-olds showed divergence in the looks to the agent between agent-initial and patient-initial conditions only after the noun onset. However, similar to adults, 7- and 9-year-old children showed predictive use of the morphosyntactic markers in the patient voice. Thus, in Figure 1 (bottom panel), 7-year-olds looked more to the agent during the pre-noun regions when the sentence was agent-initial than when it was patient-initial (significant regions are shaded grey). However, in the agent voice we only found divergence after noun onset.
-
- 
 
 Our results showed that children’s online use of morphosyntactic markers develops with age, with adult-like online predictive processing only beginning to emerge at 7 years. Furthermore, we found that the real-time use of the markers is modulated by voice—with the patient voice being used more efficiently than the agent voice. We interpret this to reflect the participants’ sensitivity to the distributional properties of the language in line with expectation-based and connectionist sentence processing models.
 
@@ -358,7 +340,7 @@ Our results showed that children’s online use of morphosyntactic markers devel
 
 ### Socioeconomic status and language development
 
-#### Reading Practices and Behaviors of Hispanic Parents During Shared Book Reading
+#### Reading practices and behaviors of Hispanic parents during shared book reading
 
 [*Daniela Avelar, Adriana Weisleder, Maritza Marquez, Roberta M. Golinkoff*](./authors.md)
 
@@ -392,15 +374,13 @@ One-hundred and twenty-four school-aged children (Mage = 136.28 months; SDage = 
 
 Multiple regression analyses indicated that SES was a significant predictor of word learning ability, vocabulary, and reading across the school years. On average, children from lower SES homes performed significantly worse on all three measures. To address whether SES-related gaps in word learning differ as a function of age, and relate to reading and vocabulary differently, we computed two multiple regression models investigating how age and SES interact with vocabulary and reading independently, to predict a child’s word learning success. Vocabulary positively predicts word learning ability (ß= 0.005, p < .0001), as does age (ß= 0.26, p = .01), when controlling for reading ability, SES, bilingualism, and home literacy environment. Therefore, children with worse vocabularies perform worse on measures of word learning, both of which improve with age; however, this is independent of SES. Interestingly, an age x SES x reading ability interaction emerged (ß = 0.002, p = .05), independent of vocabulary. Simple slopes analyses indicated that for young children (< 11.5 years old) from households where mothers had not completed college (some college and below), individual differences in reading ability significantly accounted for variability in word learning success (Figure 1). 
 
-
-
 Our findings replicate previous research demonstrating a positive relationship between SES and language outcomes but extends this work to focus upon the school years. Vocabulary is a critical predictor of word learning ability for all children and having stronger reading abilities early on serves as a protective factor for word learning ability in low-mid SES, young school-aged children. These findings point to different paths by which children’s word learning abilities may be impacted by differences in the early home environment.
 
 ![Attachment](attachments/82-1.png)
 
 ---
 
-#### The effects of Prematurity and Socioeconomic Deprivation on Early Speech Perception: A Story of Two Different Delays.
+#### The effects of prematurity and socioeconomic deprivation on early speech perception: A story of two different delays.
 
 [*Nayeli Gonzalez-Gomez, France O'Brien, Margaret Harris*](./authors.md)
 
@@ -408,19 +388,15 @@ ngonzalez-gomez@brookes.ac.uk
 
 Two major developmental trajectories have been identified as markers of infants’ specialisation on their native language. First, there is an increase in infants’ ability to process native sounds and consequently, a preference emerges for the sequences that are either legal or have a high frequency of occurrence in their native language (e.g., Jusczyk, Cutler, & Redanz, 1993; Jusczyk, Luce, & Charles-Luce,  1994; Höhle,  Bijeljac-Babic, Herold, Weissenborn, & Nazzi, T. 2009). Second, infants’ ability to process non-native sounds decreases over time, a process known as perceptual narrowing (e.g., Werker, & Tees, 1984; Mattock, & Burnham, 2006). These processes of learning have been assumed to be “universal” (Arnett, 2008). However, the vast majority of developmental studies have relied on “convenience samples”, consisting of infants born full term and from higher-SES families, which are, for the most part, unrepresentative of the larger population (Henrich, Heine, & Norenzayan, 2010). There is thus no evidence as to how much the time course of learning is affected by maturational and environmental factors. 
 
-
-
 The present project addresses this issue. To do so, we investigated early phonological development in cases where: a) maturation is following an altered timetable: infants born preterm; and b) the environment is different: infants from lower-socio-economic status families. The linguistic abilities of both populations have been found to lag well behind their advantaged peers during the school years. Preterm children and children from low-SES families show poorer auditory discrimination and memory, reading difficulties, poor vocabulary, a specific delay in verbal processing and reasoning, less complex expressive language and lower receptive understanding than their matched controls (e.g., for data on preterm children see: Jansson-Verkasalo et al., 2004; Guarini et al., 2009; 2010; Sansavini  et al., 2010; for data on low SES children see: Fernald, Marchman, & Weisleder, 2013; Farkas, & Beron, 2004; Halle, et al., 2009). 
-
-
 
 Three longitudinal studies using the head-turn preference procedure and the Intermodal Preferential looking explored 76 English-learning infants’ phonetic, prosodic and phonotactic development at 7.5, 9, 10.5 and 12 months of age. The sample included 20 preterm infants from higher-SES families; 18 preterm infants from lower-SES families; 20 full-term infants from higher-SES and 18 full-term infants from lower-SES. Infants’ sensitivity to non-native Cantonese tones (i.e., Tones 25 and 33 instantiated on a CV syllable pronounced ‘‘chee”) and a consonant Hindi Contrast (i.e., /t̪/ dental stop vs /t/ retroflex stop, instantiated on a CV syllable pronounced “t̪a”’) were used to explore prosodic and phonetic development, respectively (see Fig. 1). Phonotactic development was explored using CVC English pseudo-words with either a high-probability or a low-probability of occurrence in the language. 
 
-
-
-Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType + (Age|SubjectID) + (1|StimName))  showed no significant differences between the phonetic or the phonotactic development of the preterm and the full-term infants (see Fig. 2). However, a time-lag between preterm and full-term developmental timing for prosody was found. Socioeconomic status didn’t have a significant effect on prosodic development. Nevertheless, phonetic and phonotactic development were both affected by SES, infants from lower SES showed discrimination of non-native contrast and a preference for high-frequency sequences later than their more advantaged peers. Overall these results suggest that different constraints apply to the acquisition of different phonological subcomponents.
+Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType + (Age\|SubjectID) + (1\|StimName))  showed no significant differences between the phonetic or the phonotactic development of the preterm and the full-term infants (see Fig. 2). However, a time-lag between preterm and full-term developmental timing for prosody was found. Socioeconomic status didn’t have a significant effect on prosodic development. Nevertheless, phonetic and phonotactic development were both affected by SES, infants from lower SES showed discrimination of non-native contrast and a preference for high-frequency sequences later than their more advantaged peers. Overall these results suggest that different constraints apply to the acquisition of different phonological subcomponents.
 
 ![Attachment](attachments/78-1.png)
+
+![Attachment](attachments/78-2.png)
 
 ---
 
@@ -434,19 +410,11 @@ jchilder@trinity.edu
 
 Experimental studies of verb learning use varied methods including preferential looking and behavioral enactment.  Across these methods, children often hear a new verb while seeing a novel event during a learning phase.  However, there is little data about the frequency with which children see a relevant action with a corresponding verb in everyday contexts.  We observed Spanish- and English-speaking mother/toddler dyads to discover how often children see relevant events while hearing verbs.
 
-
-
 Spanish-speaking (n= 10 dyads, in Guatemala City, Guatemala and Santiago, Chile) and English-speaking children (n= 10, in Austin, Texas) were recruited.  Half were male; half were aged 19-25 months while half were aged 27-36m.  Participants were matched for age, gender, and siblings, and were videotaped playing in their home. Two 45-60 minute samples were recorded (one with a standardized set of toys). Coders watched sessions second-by-second, noting the exact time a verb was said by the parent or child, and whether a relevant action was available in the scene. 
-
-
 
 Overall, analyses show no significant differences by language.  For example, the rate of action-verb co-occurences was similar across languages (Spanish: Mprop=.11,SD=.08; English: Mprop=.12,SD=.06).  Instead, differences emerged by age (see Table 1).  In verb productions, independent samples t-tests reveal developmental change in the children’s verb productions, t(18)= -2.80, p=.012, but not mothers’ productions, t(18)=1.28, ns, suggesting that parents do not adjust their verb productions as children’s productions increase.  
 
-
-
 To test how often events accompanied verbs, we calculated the mean proportion of verbs that co-occurred with relevant events in the scene.  We found similarly low rates across ages (younger: Mprop= .13, SE=.02; older: Mprop=.10, SE=.02).  Put simply, children only saw relevant actions when they heard a new verb 10-13% of the time.  To examine the specific contexts in which events were present when verbs were heard, a RM ANOVA with action (3: action seen by child, done by child, both seen and done) by Age (2: younger, older), dv= proportion verbs, reveals a main effect of action, F(2,18)=76.79, p<.001, np2 =.81, with children most likely to hear a verb referring to their own action (Mprop.= .61,SE=.04) as compared to one seen performed by the parent (Mprop.= .29,SE= .03) or both (Mprop.=.07, SE=.02) (Fig 1). In addition, although we coded for actions within 10 seconds of the verb occurrence, the average link between verbs and actions was M=3 seconds (SD= 2s; range: immediate-7s).   
-
-
 
 In sum, empirical studies of children’s verb learning usually present children with co-occurring relevant events.  However, our data show that this is relatively rare in everyday contexts.  It also shows similarities across these two language groups.  Children increased their verb productions across the 1.5 year age span, while mothers’ productions stayed the same.  Additionally, children heard verbs without seeing relevant events at least 87% of the time. When verbs were produced, it was often for children’s actions, with a tight link (within 3s) between verbs and events. Thus, experimental studies that emulate these learning conditions are needed. It is important to know how children learn verbs to understand how they acquire their native language.
 
@@ -482,9 +450,9 @@ In sum, we found that infants exposed to bilingual environments disengage attent
 
 ---
 
-#### Spot it and learn it!  A novel paradigm to examine word learning in school-aged children
+#### Spot it and learn it! A novel paradigm to examine word learning in school-aged children
 
-[*Helena Levy, Adriana Hanulíková*](./authors.md)
+[*Helena Levy, Adriana Hanulíková](./authors.md)
 
 helena.levy@frequenz.uni-freiburg.de
 
@@ -515,7 +483,8 @@ Menjivar, J., & Akhtar, N. (2017). Language experience and preschoolers' foreign
 ### Influences on language and literacy
 
 #### 23 October 13.00 - 14.00
-#### The Multivariate Genetic Architecture of Language- and Literacy-related Abilities: Genetic evidence for different cognitive skill sets
+
+#### The multivariate genetic architecture of language- and literacy-related abilities: Genetic evidence for different cognitive skill sets
 
 [*Chin Yang Shapland, Ellen Verhoef, George Davey Smith, Simon E. Fisher, Bradley Verhulst, Philip Dale, Beate St Pourcain*](./authors.md)
 
@@ -539,7 +508,7 @@ Our findings suggest a spectrum of interrelated, but aetiologically different co
 
 ---
 
-#### Parental Mental Health, Socioeconomic Status, and Children's Verbal Abilities
+#### Parental mental health, socioeconomic status, and children's verbal abilities
 
 [*Francesca Scheiber, Allison Momany, Paige Nelson, Kelli Ryckman, Ece Demir-Lira*](./authors.md)
 
@@ -559,7 +528,7 @@ These results are consistent with previous findings that parental depression may
 
 ---
 
-#### Sources of Plasticity in Preterm Children’s Vocabulary Acquisition: Interacting roles of gestational age and parent-child interactions
+#### Sources of plasticity in preterm children's vocabulary acquisition: Interacting roles of gestational age and parent-child interactions
 
 [*Paige Nelson, Francesca Scheiber, Allison Momany, Kelli Ryckman, Ece Demir-Lira*](./authors.md)
 
@@ -576,7 +545,8 @@ We ran a two-way ANOVA with Group (Early Preterm, Late Preterm, Early Term, and 
 ### Prosody and phonology in early infancy
 
 #### 23 October 13.00 - 14.00
-#### Individual variability in infants’ cortical tracking of speech rhythm relates to their word segmentation performance
+
+#### Individual variability in infants' cortical tracking of speech rhythm relates to their word segmentation performance
 
 [*Tineke M. Snijders*](./authors.md)
 
@@ -600,7 +570,7 @@ To conclude, infant brains synchronise to the rhythm of both simple beeps and sp
 
 #### Opportunities and challenges of setting up global large-scale replications: ManyBabies1-Africa
 
-[*Angeline Sin Mei Tsui, Christina Bergmann, The Manybabies Africa Team*](./authors.md)
+[*Angeline Sin Mei Tsui, Christina Bergmann, The ManyBabies Africa Team*](./authors.md)
 
 astsui@stanford.edu
 
@@ -612,9 +582,11 @@ In sum, this study will measure the generalizability of a key infancy finding �
 
 ![Attachment](attachments/99-1.png)
 
+![Attachment](attachments/99-2.png)
+
 ---
 
-#### Measuring phonological systematicity in infants’ early words
+#### Measuring phonological systematicity in infants' early words
 
 [*Catherine Laing*](./authors.md)
 
@@ -622,11 +594,7 @@ laingc@cardiff.ac.uk
 
 Early in development, infants’ words are often very simple in structure: Early productions are phonologically systematic (Laing, 2019; Vihman, 2016), and reliant on phonological structures that are simple to produce, such as consonant harmony (/beibi/ to represent baby) and open CV syllables (/da/ to represent dog). Furthermore, many of infants’ earliest words are phonologically similar: in data from their bilingual (English-Spanish) daughter’s early word acquisition, Deuchar and Quay (2000) show that 13 of her first 20 words are produced with a CV structure, and many words are phonologically identical: she produces car, clock, casa ‘house’ and cat as /ka/, and papa ‘daddy’, pájaro ‘bird’ and panda as /pa/. This points to continuity in the transition from babble to words; Vihman (2017) proposes that infants draw on what is most accessible to them in early word production, with earliest words matching the simple structures and stop consonants produced in babble. 
 
-
-
 Here I analyse the phonological similarity of infants’ developing lexicon. Using data from the Providence corpus (Demuth et al., 2006), I analyse over 140,000 word productions from 5 infants (2 males) between ages 0;11 to 3;10. Measures of phonetic and phonological distance determine the similarity of each word in a recording session with each other word in the same session, and cluster analysis is used to identify clusters of phonologically- and segmentally-similar productions. A smaller number of larger clusters within a session suggests systematicity within that given session; this indicates that the infant is drawing on a smaller number of phonological resources (fewer consonant types, more similar phonological structures) in early word production. I hypothesise that systematicity will be higher in earlier sessions, as infants over-generalise well-rehearsed consonants and structures by adapting or simplifying target word forms to these. In later sessions, I expect to see a reduction in systematicity – indicated by more smaller clusters – as infants move towards a more target-like set of lexical items. 
-
-
 
 Segmental and phonological distance is quantified using methods adopted from Monaghan and colleagues (2010), and analyses draw on variability-based neighbourhood clustering models (outlined by Gries and Stoll, 2009) and growth curve models. Preliminary models testing segmental and phonological systematicity over time show a significant effect for the kinds of consonants and structures in infants’ early words (Consonants: χ2(2)=12.25, p<.01; Structures: χ2(2)=112.76, p<.001; generated via nested model comparisons). Closer inspection of the results shows a significant decrease in the use of early-learned consonants such as /b/ over time (β=-6.78, t=-3.29; see Figure 1), and a significant increase in the production of closed syllables over time (β=.001, t=5.4). Findings reveal preliminary evidence towards early systematicity giving way to wider phonological variability in infants’ developing lexicons.
 
