@@ -1,8 +1,8 @@
 # Many Paths to Language Handbook
 
-### *If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting.md) for help.*
+<!--### *If you experience any (technical) problems during this conference, click [here](./mpal/troubleshooting.md) for help.*-->
 
-<img src="./mpal/MPaL.png" width="25%">
+<!--<img src="./mpal/MPaL.png" width="25%">-->
 
 Children show astonishing variation in the way they acquire their native language(s)—
 each developmental milestone in both production and comprehension is marked by
@@ -14,25 +14,29 @@ hurdles in documenting and interpreting variation in this context.
 
 ---
 
-[Our invited speaker lineup](./mpal/invited-speakers.md)
-
----
-
 ## Program Overview
-\* The times in this program reflect the actual times in each time zone (San Francisco, Paris, and Singapore)
+The times in this program reflect the actual times in each time zone in which the workshop will be presented (San Francisco, Paris, and Singapore). For example, if you are joining during the "Singapore" track, the opening remarks begin at 10.00 in the morning on Thusday, 22 October local Singapore time.
 
 ### Thurday, 22 October 2020
-10.00 - 10.15 &nbsp;&nbsp;&nbsp; Opening talk
+10.00 - 10.15 &nbsp;&nbsp;&nbsp; Opening remarks
 
-10.15 - 11.15 &nbsp;&nbsp;&nbsp; First talk title, *Gabriella* [abstract](./mpal/abstracts.md) [video]
+10.15 - 11.15 &nbsp;&nbsp;&nbsp; Invited talk 1, *Gabriella Vigliocco*  <!--[abstract](./mpal/abstracts.md)] [video]-->
 
 11.15 - 11.30 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.30 - 12.30 &nbsp;&nbsp;&nbsp; Parallel session: non-WEIRD & Disorders
+11.30 - 12.30 &nbsp;&nbsp;&nbsp; Parallel session 1:
+
+&nbsp;&nbsp;&nbsp; Room A. Language development in non-WEIRD contexts
+
+&nbsp;&nbsp;&nbsp; Room B. Disorders and delay in language development
 
 12.30 - 13.15 &nbsp;&nbsp;&nbsp; Lunch break
 
-13.15 - 14.15 &nbsp;&nbsp;&nbsp; Parallel session: Complexity of CDS & Processing across age and input characteristics
+13.15 - 14.15 &nbsp;&nbsp;&nbsp; Parallel session 2
+
+&nbsp;&nbsp;&nbsp; Room A. Complexity in child-directed speech
+
+&nbsp;&nbsp;&nbsp; Room B. Language processing across age and input characteristics
 
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -40,36 +44,45 @@ hurdles in documenting and interpreting variation in this context.
 
 14.45 - 15.45 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
 
-15.45 - 16.45 &nbsp;&nbsp;&nbsp; Workshop focused on non-WEIRD and Disorders
+15.45 - 16.45 &nbsp;&nbsp;&nbsp; Live workshops on parallel session 1 themes
 
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
 ### Friday, 23 October 2020
-10.00 - 11.00 &nbsp;&nbsp;&nbsp; Second talk title, *David* [abstract](./mpal/abstracts.md) - [video]
+10.00 - 11.00 &nbsp;&nbsp;&nbsp; Invited talk 2, *David Barner* <!--[abstract](./mpal/abstracts.md)] [video]-->
 
 11.00 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.15 - 12.15 &nbsp;&nbsp;&nbsp; Parallel session: SES $ Bilingualism
+11.15 - 12.15 &nbsp;&nbsp;&nbsp; Parallel session 3
+
+&nbsp;&nbsp;&nbsp; Room A. Socioeconomic status and language development
+
+&nbsp;&nbsp;&nbsp; Room B. Multilingual language development
 
 12.15 - 13.00 &nbsp;&nbsp;&nbsp; Lunch break
 
-13.00 - 14.00 &nbsp;&nbsp;&nbsp; Parallel session: Influences on language and literacy & Prosody and phonology in early infancy
+13.00 - 14.00 &nbsp;&nbsp;&nbsp; Parallel session 4
+
+&nbsp;&nbsp;&nbsp; Room A. Influences on language and literacy
+
+&nbsp;&nbsp;&nbsp; Room B. Prosody and phonology in early infancy
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.15 - 15.15 &nbsp;&nbsp;&nbsp; Tird talk title, *Andrea* [abstract](./mpal/abstracts.md) - [video]
+14.15 - 15.15 &nbsp;&nbsp;&nbsp; Invited talk 3, *Andrea Ravignani* <!--[abstract](./mpal/abstracts.md)] [video]-->
 
 15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Poster flash talks](./mpal/poster-overview.md)
 
 15.30 - 16.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
 
-16.30 - 17.30 &nbsp;&nbsp;&nbsp; Workshop focused on SES and Bilingualism
+16.30 - 17.30 &nbsp;&nbsp;&nbsp; Live workshops on parallel session 3 themes
 
-17.30 - 17.45 &nbsp;&nbsp;&nbsp; Closing talk & poster prizes
+17.30 - 17.45 &nbsp;&nbsp;&nbsp; Closing remarks & poster prizes
 
 ---
-
+<!--
 ## Acknowledgements
 
 Insert text here
+-->
 
