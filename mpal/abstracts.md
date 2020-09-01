@@ -600,8 +600,6 @@ Segmental and phonological distance is quantified using methods adopted from Mon
 
 ![Attachment](attachments/101-1.png)
 
----
-
 
 ---
 
