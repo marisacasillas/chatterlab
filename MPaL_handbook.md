@@ -34,7 +34,7 @@ The times in this program reflect the actual times in each time zone in which th
 
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.30 - 14.45 &nbsp;&nbsp;&nbsp; [Poster flash talks](./mpal/poster-overview.md)
+14.30 - 14.45 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/poster-overview.md)
 
 14.45 - 15.45 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
 
@@ -65,7 +65,7 @@ The times in this program reflect the actual times in each time zone in which th
 
 14.15 - 15.15 &nbsp;&nbsp;&nbsp; Invited talk 3, *Andrea Ravignani* <!--[abstract](./mpal/abstracts.md)] [video]-->
 
-15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Poster flash talks](./mpal/poster-overview.md)
+15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/poster-overview.md)
 
 15.30 - 16.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
 
