@@ -276,6 +276,8 @@ This work will extend previous research on cross-linguistic patterns of early la
 
 ![Attachment](attachments/27-1.png)
 
+![Attachment](attachments/27-2.png)
+
 ---
 
 #### Language acquisition in time of Covid-19 – a multi-site, multi-country, multi-language study
