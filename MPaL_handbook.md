@@ -9,7 +9,7 @@ Children show astonishing variation in the way they acquire their native languag
 ---
 
 ## Program Overview
-The times in this program reflect the actual times in each time zone in which the workshop will be presented (San Francisco, Paris, and Singapore). For example, if you are joining during the "Singapore" track, the opening remarks begin at 10.00 in the morning on Thusday, 22 October local Singapore time.
+The times in this program reflect the actual times in each time zone in which the workshop will be presented (San Francisco, Paris, and Singapore). For example, if you are joining during the "Singapore" track, the opening remarks begin at 10.00 in the morning on Thursday, October 22nd local Singapore time.
 
 ### Thurday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; Opening remarks
@@ -18,11 +18,11 @@ The times in this program reflect the actual times in each time zone in which th
 
 11.15 - 11.30 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.30 - 12.30 &nbsp;&nbsp;&nbsp; Parallel session 1:
+11.30 - 12.30 &nbsp;&nbsp;&nbsp; Parallel session 1
 
 &nbsp;&nbsp;&nbsp; Room A. Language development in non-WEIRD contexts [abstracts](./mpal/abstracts.md#language-development-in-non-weird-contexts)
 
-&nbsp;&nbsp;&nbsp; Room B. Disorders and delay in language development [abstracts](./mpal/abstracts.md#disorders-and-delay-in-language-development)
+&nbsp;&nbsp;&nbsp; Room B. Disorders and delays in language development [abstracts](./mpal/abstracts.md#disorders-and-delay-in-language-development)
 
 12.30 - 13.15 &nbsp;&nbsp;&nbsp; Lunch break
 
