@@ -420,6 +420,8 @@ In sum, empirical studies of children's verb learning usually present children w
 
 ![Attachment](attachments/73-1.png)
 
+![Attachment](attachments/73-2.png)
+
 ---
 
 #### Bilingual infants disengage faster and switch attention more frequently than monolingual infants
