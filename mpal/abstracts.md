@@ -448,6 +448,8 @@ In sum, we found that infants exposed to bilingual environments disengage attent
 
 ![Attachment](attachments/16-1.png)
 
+![Attachment](attachments/16-2.png)
+
 ---
 
 #### Spot it and learn it! A novel paradigm to examine word learning in school-aged children
