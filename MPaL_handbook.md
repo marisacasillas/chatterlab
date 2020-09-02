@@ -20,17 +20,17 @@ The times in this program reflect the actual times in each time zone in which th
 
 11.30 - 12.30 &nbsp;&nbsp;&nbsp; Parallel session 1:
 
-&nbsp;&nbsp;&nbsp; Room A. Language development in non-WEIRD contexts
+&nbsp;&nbsp;&nbsp; Room A. Language development in non-WEIRD contexts [abstracts](./mpal/abstracts.md#language-development-in-non-weird-contexts)
 
-&nbsp;&nbsp;&nbsp; Room B. Disorders and delay in language development
+&nbsp;&nbsp;&nbsp; Room B. Disorders and delay in language development [abstracts](./mpal/abstracts.md#disorders-and-delay-in-language-development)
 
 12.30 - 13.15 &nbsp;&nbsp;&nbsp; Lunch break
 
 13.15 - 14.15 &nbsp;&nbsp;&nbsp; Parallel session 2
 
-&nbsp;&nbsp;&nbsp; Room A. Complexity in child-directed speech
+&nbsp;&nbsp;&nbsp; Room A. Complexity in child-directed speech [abstracts](./mpal/abstracts.md#complexity-in-child-directed-speech)
 
-&nbsp;&nbsp;&nbsp; Room B. Language processing across age and input characteristics
+&nbsp;&nbsp;&nbsp; Room B. Language processing across age and input characteristics [abstracts](./mpal/abstracts.md#language-processing-across-age-and-input-characteristics)
 
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -49,17 +49,17 @@ The times in this program reflect the actual times in each time zone in which th
 
 11.15 - 12.15 &nbsp;&nbsp;&nbsp; Parallel session 3
 
-&nbsp;&nbsp;&nbsp; Room A. Socioeconomic status and language development
+&nbsp;&nbsp;&nbsp; Room A. Socioeconomic status and language development [abstracts](./mpal/abstracts.md#socioeconomic-status-and-language-development)
 
-&nbsp;&nbsp;&nbsp; Room B. Multilingual language development
+&nbsp;&nbsp;&nbsp; Room B. Multilingual language development [abstracts](./mpal/abstracts.md#multilingual-language-development)
 
 12.15 - 13.00 &nbsp;&nbsp;&nbsp; Lunch break
 
 13.00 - 14.00 &nbsp;&nbsp;&nbsp; Parallel session 4
 
-&nbsp;&nbsp;&nbsp; Room A. Influences on language and literacy
+&nbsp;&nbsp;&nbsp; Room A. Influences on language and literacy [abstracts](./mpal/abstracts.md#influences-on-language-and-literacy)
 
-&nbsp;&nbsp;&nbsp; Room B. Prosody and phonology in early infancy
+&nbsp;&nbsp;&nbsp; Room B. Prosody and phonology in early infancy [abstracts](./mpal/abstracts.md#prosody-and-phonology-in-early-infancy)
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
