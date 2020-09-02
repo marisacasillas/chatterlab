@@ -9,9 +9,9 @@ Children show astonishing variation in the way they acquire their native languag
 ---
 
 ## Program Overview
-The times in this program reflect the actual times in each time zone in which the workshop will be presented (San Francisco, Paris, and Singapore). For example, if you are joining during the "Singapore" track, the opening remarks begin at 10.00 in the morning on Thursday, October 22nd local Singapore time.
+The times in this program reflect the actual times in each time zone in which the workshop will be presented (San Francisco, Paris, and Singapore). For example, if you are joining during the "Singapore" track, the opening remarks begin at 10.00 in the morning on Thursday, 22 October local Singapore time.
 
-### Thurday, 22 October 2020
+### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; Opening remarks
 
 10.15 - 11.15 &nbsp;&nbsp;&nbsp; Invited talk 1, *Gabriella Vigliocco*  <!--[abstract](./mpal/abstracts.md)] [video]-->
@@ -38,7 +38,7 @@ The times in this program reflect the actual times in each time zone in which th
 
 14.45 - 15.45 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
 
-15.45 - 16.45 &nbsp;&nbsp;&nbsp; Live workshops on parallel session 1 themes
+15.45 - 16.45 &nbsp;&nbsp;&nbsp; Live workshop on parallel session 1 themes
 
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
@@ -69,7 +69,7 @@ The times in this program reflect the actual times in each time zone in which th
 
 15.30 - 16.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
 
-16.30 - 17.30 &nbsp;&nbsp;&nbsp; Live workshops on parallel session 3 themes
+16.30 - 17.30 &nbsp;&nbsp;&nbsp; Live workshop on parallel session 3 themes
 
 17.30 - 17.45 &nbsp;&nbsp;&nbsp; Closing remarks & poster prizes
 
