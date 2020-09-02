@@ -528,6 +528,8 @@ These results are consistent with previous findings that parental depression may
 
 ![Attachment](attachments/61-1.png)
 
+![Attachment](attachments/61-2.png)
+
 ---
 
 #### Sources of plasticity in preterm children's vocabulary acquisition: Interacting roles of gestational age and parent-child interactions
