@@ -6,9 +6,9 @@ Go to [Main page](../MPaL_handbook.md)
 
 ## Invited talks
 
-#### 22 October 10.15 - 11.15
+#### Gabriella Vigliocco (University College London): Talk title TBA
 
-##### Gabriella Vigliocco (University College London): Talk title TBA
+##### 22 October 10.15 - 11.15
 
 <img src="./vigliocco.png">
 
@@ -22,9 +22,9 @@ Research carried out in my laboratory concerns psychological and neural mechanis
 
 ---
 
-#### 23 October 10.00 - 11.00
+#### David Barner (University of California, San Diego): Talk title TBA
 
-##### David Barner (University of California, San Diego): Talk title TBA
+##### 23 October 10.00 - 11.00
 
 <img src="./barner.png" width="25%">
 
@@ -38,9 +38,9 @@ Natural language, unlike animal communication systems, provides a rich combinato
 
 ---
 
-#### 23 October 14.15 - 15.15
+#### Andrea Ravignani (Max Planck Institute for Psycholinguistics): Talk title TBA
 
-##### Andrea Ravignani (Max Planck Institute for Psycholinguistics): Talk title TBA
+##### 23 October 14.15 - 15.15
 
 <img src="./ravignani1.png" width="25%">
 
@@ -52,14 +52,18 @@ TBA
 
 Who’s got rhythm? Why do we speak? In my research, I investigate the evolutionary and biological bases of rhythm cognition and flexible sound production, and the role they played in the origins of music and speech in our species. I perform sound recordings and behavioral non-invasive experiments in non-human animals (mostly seals), as a comparative effort to understand the evolutionary history of human capacities. I complement animal research with human testing, neurobiological evidence, mathematical models, and agent-based simulations.
 
----
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## Talks
 
 ### Language development in non-WEIRD contexts
 
 #### 22 October 11.30 - 12.30
-
 
 #### Universal and language-specific patterns in the acquisition of sign language phonology
 
@@ -92,6 +96,11 @@ References
 ![Attachment](attachments/86-1.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Amount and quality of input across speakers: Analysing Sesotho and French corpora
 
@@ -112,6 +121,11 @@ Thus, CDS is significantly prevalent over overheard speech for both settings. Ho
 ![Attachment](attachments/88-2.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Child-directed speech of multiple socializes in Mayan Tsotsil acquisition: A qualitative and interactional look
 
@@ -140,11 +154,15 @@ Ochs E, Schieffelin BB. 1984. Language acquisition and socialization: Three deve
 Shneidman L, Goldin-Meadow S. 2012. Language Input and Acquisition in a Mayan Village: How important is directed speech? Developmental Science 15(5): 659–73
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Disorders and delay in language development
 
 #### 22 October 11.30 - 12.30
-
 
 #### Varying relationships between parent input and the neural mechanisms of language development in infants at high and low risk for Autism
 
@@ -154,15 +172,9 @@ rachelromeo@gmail.com
 
 Introduction: Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterized by general impairments in social communication skills, though children with ASD vary greatly in the development of other receptive and expressive language skills. Because early language skills predict later functioning in individuals with ASD, it is critical to better understand factors that influence language development in this population, how this may differ from typically developing children, and the neurobiological mechanisms by which these factors influence early development. 
 
-
-
 Methods: We investigated these questions in a subsample of infant-mother dyads from a longitudinal, prospective study of ASD biomarkers in 218 infants at either high familial risk of ASD (HRA) due to having an older sibling with ASD, or low risk controls (LRC) who have no family history of ASD. The present subsample (n=48) included 25 LRC and 23 HRA infants, of whom 12 received ASD diagnoses (HRA+, oversampled) and 11 did not (HRA-). At 18 months of age, dyads engaged in 10 minutes of free-play with a set of experimenter-provided toys. Videos were transcribed verbatim and three measures of parent language input were extracted, including quantitative measures (word tokens) and qualitative measures of lexical diversity (word types) and grammatical complexity (mean length of utterance [MLU] in morphemes). At 24 months, standardized assessments of receptive and expressive language skills (Mullen Scales of Early Learning) and high-density resting-state electroencephalography (EEG) were collected. The EEG measure of interest is power in the gamma band (30-50 Hz) over the frontal scalp region, which has previously been found to relate to children's development of language and higher cognitive skills. 
 
-
-
 Results: In the sample as a whole, all three input measures (types, tokens, and MLU) were positively correlated with expressive MSEL scores, indicating that infants exposed to greater quantity and quality of input at 18 months exhibited greater expressive language scores 6 months later. Only tokens correlated with receptive MSEL scores. A group-by-input interaction indicated that HRA infants showed stronger input-skill relationships than LRC infants, and within the HRA group, HRA+ infants showed stronger input-skill relationships than HRA- infants (Figure 1). Furthermore, in high risk infants, greater/higher quality input was correlated with lower baseline frontal gamma power, which significantly mediated relationships between input and later expressive language scores (Figure 2).
-
-
 
 Conclusion: Results indicate frontal gamma power as a mechanism linking quantitative and qualitative measures of language input to language development in infants at elevated risk of ASD, and importantly, suggest that neural mechanisms underlying language input-output relationships vary depending on ASD risk and diagnosis. Furthermore, findings of a moderation by group suggest that infants at familial risk of ASD may be even more sensitive to the quantity and quality of their language environments. This has important implications for early intervention to support language development in high-risk children.
 
@@ -171,6 +183,11 @@ Conclusion: Results indicate frontal gamma power as a mechanism linking quantita
 ![Attachment](attachments/20-2.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Naturalistic language input to Blind, Deaf/Hard-of Hearing, and typically-developing infants: A quantitative and qualitative analysis
 
@@ -215,6 +232,11 @@ Conclusion: We found that children in both groups tend to vocalize at higher rat
 ![Attachment](attachments/72-02.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Complexity in child-directed speech
 
@@ -293,6 +315,11 @@ Our analyses show that the language of children's books is lexically denser and 
 ![Attachment](attachments/4-1.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Language processing across age and input characteristics
 
@@ -359,10 +386,15 @@ Our results showed that children's online use of morphosyntactic markers develop
 ![Attachment](attachments/45-2.png)
 
 ---
-
-#### 23 October 11.15 - 12.15
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Socioeconomic status and language development
+
+#### 23 October 11.15 - 12.15
 
 #### Reading practices and behaviors of Hispanic parents during shared book reading
 
@@ -423,8 +455,15 @@ Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType 
 ![Attachment](attachments/78-2.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Multilingual language development
+
+#### 23 October 11.15 - 12.15
 
 #### Examining verb-action co-occurrences in everyday contexts in Spanish-speaking and English-speaking families
 
@@ -507,6 +546,11 @@ are easier when the shoes fit: Comparing monolingual and bilingual infants. Dev.
 Menjivar, J., & Akhtar, N. (2017). Language experience and preschoolers' foreign word learning. Biling. Lang. Cogn. 20(3), 642-648.
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Influences on language and literacy
 
@@ -571,6 +615,11 @@ We administered two questionnaires to parents – one assessing language/literac
 We ran a two-way ANOVA with Group (Early Preterm, Late Preterm, Early Term, and Term), Language/literacy activities, and Group X Language/literacy activities interaction to predict DVAP, while controlling for children's age at testing and parent education. Controlling for age at testing and education, there was a trend in the direction of Language/literacy activities varying by group (F (3, 49) = 2.388, p = .08). Follow-up analyses showed that language/literacy activities were more predictive of DVAP for Late Preterm children than other GA groups. There was no significant effect of Group controlling for language/literacy activities. To sum, the results showed that parental cognitive stimulation might predict outcomes more than broad factors, such as parental SES. Further, parent-child interactions might play a larger role for Preterm children – specifically for Late Preterm children. Our results are consistent with the hypothesis that prematurity might exhibit a heightened case of plasticity where environmental influences might play a larger role in children's outcomes than Term (DeMaster, Bick, Johnson, Landry, & Duncan 2019). Further, late prematurity may be at the optimum point for plasticity, which could possibly explain the greater role of input for this group of children.
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Prosody and phonology in early infancy
 
@@ -629,7 +678,6 @@ Here I analyse the phonological similarity of infants' developing lexicon. Using
 Segmental and phonological distance is quantified using methods adopted from Monaghan and colleagues (2010), and analyses draw on variability-based neighbourhood clustering models (outlined by Gries and Stoll, 2009) and growth curve models. Preliminary models testing segmental and phonological systematicity over time show a significant effect for the kinds of consonants and structures in infants' early words (Consonants: χ2(2)=12.25, p<.01; Structures: χ2(2)=112.76, p<.001; generated via nested model comparisons). Closer inspection of the results shows a significant decrease in the use of early-learned consonants such as /b/ over time (β=-6.78, t=-3.29; see Figure 1), and a significant increase in the production of closed syllables over time (β=.001, t=5.4). Findings reveal preliminary evidence towards early systematicity giving way to wider phonological variability in infants' developing lexicons.
 
 ![Attachment](attachments/101-1.png)
-
 
 ---
 
