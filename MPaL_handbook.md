@@ -14,7 +14,7 @@ The times in this program reflect the actual times in each time zone in which th
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
 
-10.15 - 11.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Gabriella Vigliocco. [Title TBA.](./mpal/abstracts.md#22-october-1015---1115)
+10.15 - 11.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Gabriella Vigliocco. [Title TBA.](./mpal/abstracts.md#gabriella-vigliocco-university-college-london-talk-title-tba)
 
 11.15 - 11.30 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -43,7 +43,7 @@ The times in this program reflect the actual times in each time zone in which th
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
 ### Friday, 23 October 2020
-10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Title TBA.](./mpal/abstracts.md#22-october-1000---1100)
+10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Title TBA.](./mpal/abstracts.md#david-barner-university-of-california-san-diego-talk-title-tba)
 
 11.00 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -63,7 +63,7 @@ The times in this program reflect the actual times in each time zone in which th
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Title TBA.](./mpal/abstracts.md#22-october-1415---1515)
+14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Title TBA.](./mpal/abstracts.md#andrea-ravignani-max-planck-institute-for-psycholinguistics-talk-title-tba)
 
 15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/poster-overview.md)
 
