@@ -274,7 +274,7 @@ We found that individual differences in parent GL use were stable over time, whe
 
 #### Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1 acquisition
 
-[*An Nguyen, William Howe, Gèraldine Legendre*](./authors.md)
+[*An Nguyen, William Howe, Géraldine Legendre*](./authors.md)
 
 an.nguyen@jhu.edu
 
