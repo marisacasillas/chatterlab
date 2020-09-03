@@ -4,7 +4,7 @@ Go to [Main page](../MPaL_handbook.md)
 
 ---
 
-## Flash Poster Overview
+## Flash Poster Presentations
 
 ### 22 October
 
