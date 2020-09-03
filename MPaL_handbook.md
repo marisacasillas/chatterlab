@@ -34,9 +34,9 @@ The times in this program reflect the actual times in each time zone in which th
 
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.30 - 14.45 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/poster-overview.md)
+14.30 - 14.45 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/flash-poster-overview.md#22-october)
 
-14.45 - 15.45 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
+14.45 - 15.45 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md#22-october)
 
 15.45 - 16.45 &nbsp;&nbsp;&nbsp; **Live workshop on parallel session 1 themes** (pre-registration required)
 
@@ -65,9 +65,9 @@ The times in this program reflect the actual times in each time zone in which th
 
 14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Title TBA.](./mpal/abstracts.md#andrea-ravignani-max-planck-institute-for-psycholinguistics-talk-title-tba)
 
-15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/poster-overview.md)
+15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/flash-poster-overview.md#23-october)
 
-15.30 - 16.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
+15.30 - 16.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md#23-october)
 
 16.30 - 17.30 &nbsp;&nbsp;&nbsp; **Live workshop on parallel session 3 themes** (pre-registration required)
 
