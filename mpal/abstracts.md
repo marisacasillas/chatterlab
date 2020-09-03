@@ -381,9 +381,11 @@ A permutation analysis revealed that the ability to use morphosyntactic markers 
 
 Our results showed that children's online use of morphosyntactic markers develops with age, with adult-like online predictive processing only beginning to emerge at 7 years. Furthermore, we found that the real-time use of the markers is modulated by voice—with the patient voice being used more efficiently than the agent voice. We interpret this to reflect the participants' sensitivity to the distributional properties of the language in line with expectation-based and connectionist sentence processing models.
 
+![Attachment](attachments/45-2.png)
+
 ![Attachment](attachments/45-1.png)
 
-![Attachment](attachments/45-2.png)
+_Figure 1._ Seven-year-olds' average proportion of looks to the agent throughout the trial. The sentence regions are indicated by the rectangles (NM1 refers to the first noun marker, Adj to adjective, NM2 to the second noun marker). The small grey/black bars around -0.01 indicate the p values for each time bin. The large grey bars indicate the time bins which were found to be significant in the permutation analysis.
 
 ---
 <br/>
