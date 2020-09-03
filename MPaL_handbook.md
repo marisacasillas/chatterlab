@@ -12,25 +12,25 @@ Children show astonishing variation in the way they acquire their native languag
 The times in this program reflect the actual times in each time zone in which the workshop will be presented (San Francisco, Paris, and Singapore). For example, if you are joining during the "Singapore" track, the opening remarks begin at 10.00 in the morning on Thursday, 22 October local Singapore time.
 
 ### Thursday, 22 October 2020
-10.00 - 10.15 &nbsp;&nbsp;&nbsp; Opening remarks
+10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
 
-10.15 - 11.15 &nbsp;&nbsp;&nbsp; Invited talk 1, *Gabriella Vigliocco*  <!--[abstract](./mpal/abstracts.md)] [video]-->
+10.15 - 11.15 &nbsp;&nbsp;&nbsp; **Invited talk:** *Gabriella Vigliocco*  <!--[abstract](./mpal/abstracts.md)] [video]-->
 
 11.15 - 11.30 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.30 - 12.30 &nbsp;&nbsp;&nbsp; Parallel session 1
+11.30 - 12.30 &nbsp;&nbsp;&nbsp; **Parallel talk session 1:**
 
-&nbsp;&nbsp;&nbsp; Room A. Language development in non-WEIRD contexts [abstracts](./mpal/abstracts.md#language-development-in-non-weird-contexts)
+&nbsp;&nbsp;&nbsp; Room A. [Language development in non-WEIRD contexts](./mpal/abstracts.md#language-development-in-non-weird-contexts)
 
-&nbsp;&nbsp;&nbsp; Room B. Disorders and delays in language development [abstracts](./mpal/abstracts.md#disorders-and-delay-in-language-development)
+&nbsp;&nbsp;&nbsp; Room B. [Disorders and delays in language development](./mpal/abstracts.md#disorders-and-delay-in-language-development)
 
 12.30 - 13.15 &nbsp;&nbsp;&nbsp; Lunch break
 
-13.15 - 14.15 &nbsp;&nbsp;&nbsp; Parallel session 2
+13.15 - 14.15 &nbsp;&nbsp;&nbsp; **Parallel talk session 2:**
 
-&nbsp;&nbsp;&nbsp; Room A. Complexity in child-directed speech [abstracts](./mpal/abstracts.md#complexity-in-child-directed-speech)
+&nbsp;&nbsp;&nbsp; Room A. [Complexity in child-directed speech](./mpal/abstracts.md#complexity-in-child-directed-speech)
 
-&nbsp;&nbsp;&nbsp; Room B. Language processing across age and input characteristics [abstracts](./mpal/abstracts.md#language-processing-across-age-and-input-characteristics)
+&nbsp;&nbsp;&nbsp; Room B. [Language processing across age and input characteristics abstracts](./mpal/abstracts.md#language-processing-across-age-and-input-characteristics)
 
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -38,40 +38,42 @@ The times in this program reflect the actual times in each time zone in which th
 
 14.45 - 15.45 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
 
-15.45 - 16.45 &nbsp;&nbsp;&nbsp; Live workshop on parallel session 1 themes
+15.45 - 16.45 &nbsp;&nbsp;&nbsp; **Live workshop on parallel session 1 themes** (pre-registration required)
 
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
 ### Friday, 23 October 2020
-10.00 - 11.00 &nbsp;&nbsp;&nbsp; Invited talk 2, *David Barner* <!--[abstract](./mpal/abstracts.md)] [video]-->
+10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** *David Barner* <!--[abstract](./mpal/abstracts.md)] [video]-->
 
 11.00 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-11.15 - 12.15 &nbsp;&nbsp;&nbsp; Parallel session 3
+11.15 - 12.15 &nbsp;&nbsp;&nbsp; **Parallel talk session 3:**
 
-&nbsp;&nbsp;&nbsp; Room A. Socioeconomic status and language development [abstracts](./mpal/abstracts.md#socioeconomic-status-and-language-development)
+&nbsp;&nbsp;&nbsp; Room A. [Socioeconomic status and language development](./mpal/abstracts.md#socioeconomic-status-and-language-development)
 
-&nbsp;&nbsp;&nbsp; Room B. Multilingual language development [abstracts](./mpal/abstracts.md#multilingual-language-development)
+&nbsp;&nbsp;&nbsp; Room B. [Multilingual language development](./mpal/abstracts.md#multilingual-language-development)
 
 12.15 - 13.00 &nbsp;&nbsp;&nbsp; Lunch break
 
-13.00 - 14.00 &nbsp;&nbsp;&nbsp; Parallel session 4
+13.00 - 14.00 &nbsp;&nbsp;&nbsp; **Parallel talk session 4:**
 
-&nbsp;&nbsp;&nbsp; Room A. Influences on language and literacy [abstracts](./mpal/abstracts.md#influences-on-language-and-literacy)
+&nbsp;&nbsp;&nbsp; Room A. [Influences on language and literacy](./mpal/abstracts.md#influences-on-language-and-literacy)
 
-&nbsp;&nbsp;&nbsp; Room B. Prosody and phonology in early infancy [abstracts](./mpal/abstracts.md#prosody-and-phonology-in-early-infancy)
+&nbsp;&nbsp;&nbsp; Room B. [Prosody and phonology in early infancy](./mpal/abstracts.md#prosody-and-phonology-in-early-infancy)
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.15 - 15.15 &nbsp;&nbsp;&nbsp; Invited talk 3, *Andrea Ravignani* <!--[abstract](./mpal/abstracts.md)] [video]-->
+14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** *Andrea Ravignani* <!--[abstract](./mpal/abstracts.md)] [video]-->
 
 15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/poster-overview.md)
 
 15.30 - 16.30 &nbsp;&nbsp;&nbsp; [Posters](./mpal/poster-overview.md)
 
-16.30 - 17.30 &nbsp;&nbsp;&nbsp; Live workshop on parallel session 3 themes
+16.30 - 17.30 &nbsp;&nbsp;&nbsp; **Live workshop on parallel session 3 themes** (pre-registration required)
 
-17.30 - 17.45 &nbsp;&nbsp;&nbsp; Closing remarks & poster prizes
+17.30 - 17.45 &nbsp;&nbsp;&nbsp; **Closing remarks & poster prizes**
+
+18.00 &nbsp;&nbsp;&nbsp; End program day 2
 
 ---
 <!--
