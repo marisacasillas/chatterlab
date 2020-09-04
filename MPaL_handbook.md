@@ -8,15 +8,15 @@ Children show astonishing variation in the way they acquire their native languag
 
 ---
 
-## Program Overview
+## Pick your scientific program
 
-The different schedules for each timezone:
+MPaL2020 is offering this year's workshop on three schedules. Click on the one that suits you best to see what's planned.
 
-[Paris](./MPaL_handbook_Paris.md)
+[San Francisco time (GMT -7)](./MPaL_handbook_SF.md)
 
-[Singapore](./MPaL_handbook_Singapore.md)
+[Paris time (GMT +1)](./MPaL_handbook_Paris.md)
 
-[San Francisco](./MPaL_handbook_SF.md)
+[Singapore time (GMT +8)](./MPaL_handbook_Singapore.md)
 
 ---
 <!--
