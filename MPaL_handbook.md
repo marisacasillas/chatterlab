@@ -12,11 +12,11 @@ Children show astonishing variation in the way they acquire their native languag
 
 The different schedules for each timezone:
 
-[Paris](../MPaL_handbook_Paris.md)
+[Paris](./MPaL_handbook_Paris.md)
 
-[Singapore](../MPaL_handbook_Singapore.md)
+[Singapore](./MPaL_handbook_Singapore.md)
 
-[San Francisco](../MPaL_handbook_SF.md)
+[San Francisco](./MPaL_handbook_SF.md)
 
 ---
 <!--
