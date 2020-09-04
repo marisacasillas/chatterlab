@@ -1,6 +1,6 @@
 # Many Paths to Language Handbook
 
-## Program Overview Singapore timezone
+## Program Overview: Singapore time (GMT +8)
 
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**

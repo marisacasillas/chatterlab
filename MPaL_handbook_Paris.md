@@ -1,6 +1,6 @@
 # Many Paths to Language Handbook
 
-## Program Overview Paris timezone
+## Program Overview: Paris time (GMT +1)
 
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
