@@ -104,6 +104,10 @@ When we filter the child's and parent's vocabulary so that only words that they 
 
 ---
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Developmental disorders and delays
 
 #### Language environments are influenced by communication disorders
@@ -214,6 +218,10 @@ These results thus suggest that even though children with ASD continue to show a
 
 ---
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Lexical development
 
 #### Children learn new words with the help of classifiers
@@ -308,6 +316,10 @@ Children typically acquire words like “mommy” and “banana” before “int
 
 ---
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Assessments and interventions for developmental disorders
 
 #### An online scale for the Assessment of Language in Adults using Self-reported Skills (ALASS)
@@ -394,6 +406,10 @@ Taken together, these results provide some preliminary evidence on the efficacy 
 
 ---
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Differences in linguistic input
 
 #### Optimal Learning from Minimal Input: How Pirahã Infants Acquire Language
@@ -465,6 +481,10 @@ Largescale audio recordings permit close observation of naturalistic language be
 stephanie.barbu@univ-rennes1.fr
 
 Parental speech to the child has a major influence on language acquisition and individual differences. Much of the early research has been conducted with mothers as mothers remain the primary caregiver in various cultures and are generally more available to researchers than fathers. Despite a growing interest in fatherhood, studies observing both mothers and fathers with their child remain too rare to evaluate accurately any possible interaction between parents and child characteristics. Family socio-economic status (SES) has also profound and pervasive effects on parenting and language input. These findings and shortcomings stress the need to study the complex interactions between child x parent x family characteristics throughtout early language development. To do so, we focused on how young children from 2 to 6 years old, from two contrasting social backgrounds, acquire a frequent phonological alternation in French: liaison. Liaisons represent a challenging task for young learners in word segmentation and learning from the flow of speech leading to frequent errors in young children. Moreover, liaisons are of two types: obligatory liaisons, which are categorical and do not vary with speakers' characteristics in adults; and variable liaisons, which are a sociolinguistic variable and are more frequently produced by high-SES adults and women. Liaisons are therefore prone to evidence the impact of quantitative and qualitative differences in children's input and to explore the causes of individual differences in language. In this perspective, 100 French monolingual children and their parents participated in a set of studies. Using a picture naming task eliciting the production of the two types of liaisons, we evidenced early, but temporary SES differences for obligatory liaisons as well as sex differences in low-SES children, but not in high-SES children; low-SES boys presented the lowest performances. Variable liaisons revealed SES differences that appeared progressively during preschool years, but no sex differences. Different developmental and social patterns were thus observed for the two types of liaisons. To investigate whether these differences were related to differences in the input children receive in relation to parents and child characteristics, both parents participated in a picture naming task and in a book reading task with their child. We evidenced SES differences in parents' productions of variable liaisons in both tasks, but no overall sex difference. Nevertheless, we found an unexpected result: high-SES fathers realized liaisons less frequently with their 2-3 year-olds than fathers with older children and mothers whatever the child age (3-4, 4-5, 5-6 years old). This pattern was not observed in the picture naming task and not for low-SES parents. We also found a relation between parents' and children's productions for high-SES fathers in the book reading task only. These findings suggest that high-SES fathers adjust their speech to the youngest children. By realizing fewer liaisons, fathers may help their child to identify words in the flow of speech; and this probably helps for the first steps of liaison acquisition. This also leads to re-examine in the light of possible differences related to family SES the assumption that mothers are seen as providing more linguistic support for their child by tuning their speech to the child's needs, whereas fathers are seen to be more challenging.
+
+---
+
+Go to [Main page](../MPaL_handbook.md)
 
 ---
 
@@ -552,6 +572,10 @@ Languages vary considerably in how they describe sensory experiences like colors
 
 ---
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Methodological advances
 
 #### Investigating the relationship between infant learning and measured effect size in preferential looking paradigms
@@ -595,6 +619,10 @@ In this presentation, we will address the conceptual, ethical, and practical cha
 ![Attachment](attachments/39-1.png)
 
 ![Attachment](attachments/39-2.png)
+
+---
+
+Go to [Main page](../MPaL_handbook.md)
 
 ---
 
@@ -713,6 +741,10 @@ Our study demonstrates that the same processing factors that influence adult Man
 ![Attachment](attachments/44-1.png)
 
 ![Attachment](attachments/44-2.png)
+
+---
+
+Go to [Main page](../MPaL_handbook.md)
 
 ---
 
@@ -853,6 +885,10 @@ Shin, Naomi (2016). Acquiring patterns of morphosyntactic variation: Children's 
 
 
 Tagliamonte, Sali. 2012. Variationist sociolinguistics: Change, observation, and interpretation. Malden, MA/West Sussex: Wiley-Blackwell.
+
+---
+
+Go to [Main page](../MPaL_handbook.md)
 
 ---
 
@@ -1000,6 +1036,10 @@ Our previous research has shown that infants, across SES, have the capacity to b
 
 ---
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Multilingual and multi-dialectal language environments
 
 #### Dual Language Input from Adults and Older Children in Two Communities
@@ -1105,6 +1145,10 @@ Lanza, E. (1997). Language mixing in infant bilingualism: A sociolinguistic pers
 Oxford University Press.
 
 ![Attachment](attachments/2-1.png)
+
+---
+
+Go to [Main page](../MPaL_handbook.md)
 
 ---
 
@@ -1222,6 +1266,10 @@ The results suggest that there is insufficient evidence that language discrimina
 
 ---
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Discourse and pragmatics
 
 #### Pragmatic language assessment and development in children before the age of 4: Crosslinguistic insights using the Language Use Inventory
@@ -1303,6 +1351,10 @@ Speaking children disambiguated their under-informative-descriptions (Speech-onl
 
 
 In brief, visual modality has a stronger impact on signing children than speaking children even when both speech and gestures are considered. This can be attributed to the variations in iconic structures in sign vs iconic co-speech gestures. Having iconic linguistic structures in sign languages, unlike gestures that are not learned as linguistic structures but rather only as part of a composite system with speech (Perniss, Özyürek & Morgan, 2017), might have facilitated the development of informativeness in Left-Right expressions for signing children more than speaking children. Interestingly, the facilitating impact of sign over speech-plus-gesture was not present in adults, suggesting sign advantage appears mostly in the development. Lastly, both signing and speaking children were less informative than adults pointing to the challenge of spatial domain in conceptual development (Clark E., 1973).
+
+---
+
+Go to [Main page](../MPaL_handbook.md)
 
 ---
 
@@ -1513,6 +1565,10 @@ Marinis, T. (2016). Acquiring possessives. In Jeffrey L. Lidz, William Snyder & 
 ![Attachment](attachments/100-1.png)
 
 ![Attachment](attachments/100-2.png)
+
+---
+
+Go to [Main page](../MPaL_handbook.md)
 
 ---
 

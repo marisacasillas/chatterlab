@@ -160,6 +160,10 @@ Shneidman L, Goldin-Meadow S. 2012. Language Input and Acquisition in a Mayan Vi
 <br/>
 <br/>
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Disorders and delay in language development
 
 #### 22 October 11.30 - 12.30
@@ -237,6 +241,10 @@ Conclusion: We found that children in both groups tend to vocalize at higher rat
 <br/>
 <br/>
 <br/>
+
+Go to [Main page](../MPaL_handbook.md)
+
+---
 
 ### Complexity in child-directed speech
 
@@ -321,6 +329,10 @@ Our analyses show that the language of children's books is lexically denser and 
 <br/>
 <br/>
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Language processing across age and input characteristics
 
 #### 22 October 13.15 - 14.15
@@ -394,6 +406,10 @@ _Figure 1._ Seven-year-olds' average proportion of looks to the agent throughout
 <br/>
 <br/>
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Socioeconomic status and language development
 
 #### 23 October 11.15 - 12.15
@@ -462,6 +478,10 @@ Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType 
 <br/>
 <br/>
 <br/>
+
+Go to [Main page](../MPaL_handbook.md)
+
+---
 
 ### Multilingual language development
 
@@ -554,6 +574,10 @@ Menjivar, J., & Akhtar, N. (2017). Language experience and preschoolers' foreign
 <br/>
 <br/>
 
+Go to [Main page](../MPaL_handbook.md)
+
+---
+
 ### Influences on language and literacy
 
 #### 23 October 13.00 - 14.00
@@ -622,6 +646,10 @@ We ran a two-way ANOVA with Group (Early Preterm, Late Preterm, Early Term, and 
 <br/>
 <br/>
 <br/>
+
+Go to [Main page](../MPaL_handbook.md)
+
+---
 
 ### Prosody and phonology in early infancy
 
