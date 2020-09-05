@@ -34,7 +34,7 @@
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
 ### Friday, 23 October 2020
-10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Title TBA.](./mpal/abstracts.md#david-barner-university-of-california-san-diego-talk-title-tba)
+10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Linguistic Diversity and the Origin of Exact Algorithms.](./mpal/abstracts.md#david-barner-university-of-california-san-diego-talk-title-tba)
 
 11.00 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -54,7 +54,7 @@
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Title TBA.](./mpal/abstracts.md#andrea-ravignani-max-planck-institute-for-psycholinguistics-talk-title-tba)
+14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Seal pups have something to say about speech and rhythm.](./mpal/abstracts.md#andrea-ravignani-max-planck-institute-for-psycholinguistics-talk-title-tba)
 
 15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/flash-poster-overview.md#23-october)
 
