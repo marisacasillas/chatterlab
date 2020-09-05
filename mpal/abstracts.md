@@ -22,8 +22,7 @@ Research carried out in my laboratory concerns psychological and neural mechanis
 
 ---
 
-#### David Barner (University of California, San Diego) 
-#### Linguistic Diversity and the Origin of Exact Algorithms
+#### David Barner (University of California, San Diego): Linguistic Diversity and the Origin of Exact Algorithms
 
 ##### 23 October 10.00 - 11.00
 
