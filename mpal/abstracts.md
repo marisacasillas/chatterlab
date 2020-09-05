@@ -40,7 +40,7 @@ Dr. Barner's research program engages two fundamental problems that confront the
 ---
 
 #### Andrea Ravignani (Comparative Bioacoustics Group, Max Planck Institute for Psycholinguistics)
-#### Seal pups have something to say about speech and rhythm
+#### Seal Pups have Something to Say about Speech and Rhythm
 
 ##### 23 October 14.15 - 15.15
 
@@ -168,7 +168,7 @@ Go to [Main page](../MPaL_handbook.md)
 
 ---
 
-### Disorders and delay in language development
+### Disorders and delays in language development
 
 #### 22 October 11.30 - 12.30
 
