@@ -13,7 +13,7 @@
 
 &nbsp;&nbsp;&nbsp; Room A. [Language development in non-WEIRD contexts](./mpal/abstracts.md#language-development-in-non-weird-contexts)
 
-&nbsp;&nbsp;&nbsp; Room B. [Disorders and delays in language development](./mpal/abstracts.md#disorders-and-delay-in-language-development)
+&nbsp;&nbsp;&nbsp; Room B. [Disorders and delays in language development](./mpal/abstracts.md#disorders-and-delays-in-language-development)
 
 12.30 - 13.15 &nbsp;&nbsp;&nbsp; Lunch break
 
@@ -54,7 +54,7 @@
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Seal pups have something to say about speech and rhythm](./mpal/abstracts.md#andrea-ravignani-max-planck-institute-for-psycholinguistics)
+14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Seal Pups have Something to Say about Speech and Rhythm](./mpal/abstracts.md#andrea-ravignani-comparative-bioacoustics-group-max-planck-institute-for-psycholinguistics)
 
 15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/flash-poster-overview.md#23-october)
 
