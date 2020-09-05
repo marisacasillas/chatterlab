@@ -23,7 +23,7 @@ Research carried out in my laboratory concerns psychological and neural mechanis
 ---
 
 #### David Barner (University of California, San Diego) 
-####            Linguistic Diversity and the Origin of Exact Algorithms
+#### Linguistic Diversity and the Origin of Exact Algorithms
 
 ##### 23 October 10.00 - 11.00
 
@@ -39,7 +39,8 @@ Dr. Barner's research program engages two fundamental problems that confront the
 
 ---
 
-#### Andrea Ravignani (Comparative Bioacoustics Group, Max Planck Institute for Psycholinguistics): Seal pups have something to say about speech and rhythm
+#### Andrea Ravignani (Comparative Bioacoustics Group, Max Planck Institute for Psycholinguistics)
+#### Seal pups have something to say about speech and rhythm
 
 ##### 23 October 14.15 - 15.15
 
