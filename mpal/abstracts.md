@@ -22,19 +22,19 @@ Research carried out in my laboratory concerns psychological and neural mechanis
 
 ---
 
-#### David Barner (University of California, San Diego): Talk title TBA
+#### David Barner (University of California, San Diego): Linguistic Diversity and the Origin of Exact Algorithms
 
 ##### 23 October 10.00 - 11.00
 
-<img src="./barner.png" width="25%">
+<img src="./barner.JPG" width="25%">
 
 ###### Abstract
 
-TBA
+The evolution of exact numerical language poses a uniquely challenging puzzle to scientists. Although its foundations appear primitive, rooted in the most basic capacities to represent objects, amount, and equality, its expression in natural language is both highly diverse and relatively recent in human culture. A folk theory, common among economists and anthropologists, is that symbolic systems of number evolved in human cultures to solve problems of debt and trade (e.g., Jevons's double coincidence of wants), and therefore that number systems are constructed from human fairness concerns. An alternative, found in recent work on indigeneous groups like the Piraha, is that the ability to equitably match sets of things instead depends on the prior introduction of a symbolic number system. In this talk, I review evidence from children learning diverse languages to argue that neither fairness concerns nor simply learning number words is enough to explain human intuitions regarding large, exact, numbers. Instead, I argue that the key innovation created by humans is the use of recursive counting algorithms to transform a parallel and capacity-limited process for comparing small sets into a sequential, Markov, process that can be applied to infinitely large sets. I also show how differences between how languages represent recursive counting impact the discovery of this algorithmic solution to representing exact number.
 
 ###### About David
 
-Natural language, unlike animal communication systems, provides a rich combinatorial system that encodes meaning structurally, allowing a finite set of words to express an unbounded number of thoughts. My research investigates how children acquire the logical representations that underlie language, and how they acquire abstract, uniquely human, concepts. A guiding hypothesis of this work is that many important conceptual changes in human development do not require the creation of entirely novel representations, but instead emerge from the representational resources provided by natural language.
+Dr. Barner's research program engages two fundamental problems that confront the cognitive sciences. The first problem is how we can explain the acquisition of concepts that do not transparently reflect properties of the physical world, whether these express time, number, or logical content found in language. What are the first assumptions that children make about such words when they hear them in language, and what kinds of evidence do they use to decode their meanings? Second, he is interested in how linguistic structure affects learning, and whether grammatical differences between languages cause differences in conceptual development. Are there concepts that are easier to learn in some languages than in others? Or do cross-linguistic differences have little effect on the rate at which concepts emerge in language development? Dr. Barner studies these case studies taking a cross-linguistic and cross-cultural developmental approach informed by methods in both psychology and linguistics, and studies children learning different languages.
 
 ---
 
