@@ -34,7 +34,7 @@
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
 ### Friday, 23 October 2020
-10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Linguistic Diversity and the Origin of Exact Algorithms](./mpal/abstracts.md#david-barner-university-of-california-san-diego)
+10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Linguistic Diversity and the Origin of Exact Algorithms](./mpal/abstracts.md#david-barner-university-of-california-san-diego-)
 
 11.00 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
