@@ -38,19 +38,21 @@ Dr. Barner's research program engages two fundamental problems that confront the
 
 ---
 
-#### Andrea Ravignani (Max Planck Institute for Psycholinguistics): Talk title TBA
+#### Andrea Ravignani (Comparative Bioacoustics Group, Max Planck Institute for Psycholinguistics): Seal pups have something to say about speech and rhythm
 
 ##### 23 October 14.15 - 15.15
 
-<img src="./ravignani1.png" width="25%">
+<img src="./ravignani.jpg" width="25%">
 
 ###### Abstract
 
-TBA
+Understanding the origins and evolution of human speech requires multidisciplinary approaches. One approach consists in investigating animals’ capacities for sound production. In particular, the function, ontogeny, mechanisms and phylogeny of flexible vocal production in other animals can elucidate early stages of vocal production in the human lineage. Historically, comparative animal work in speech and language has been performed on either non-human primates or birds. However, at least four other taxonomic groups show greater phylogenetic proximity to humans than birds, and more developed vocal production learning capacities than primates. These groups are pinnipeds (true seals, sea lions, fur seals, and walrus), bats, cetaceans, and elephants. Here I focus on pinnipeds and argue that, although this research lags decades behind avian and primate work, pinniped work has much to offer to understand the origins of human speech and music. In this talk, I will first critically review available evidence on mammals’ capacities for vocal production learning and rhythm. I will then present: (1) longitudinal data on vocal development in seal pups, suggesting how acoustic features in seal vocalizations change with age and sex, while factoring out maturational influences due to body growth and vocal tract characteristics, (2) a case study of spontaneous vocal imitation, and a systematic experiment of noise-induced frequency shit, suggesting seal pups can modulate their fundamental frequency and formants, (3) experimental data from two groups of seals exposed to conspecific repertoires of different sizes, suggesting that limited auditory input induces less variability in an individual repertoire, (4) daily tracking of acoustic temporal structure, suggesting that pup calls become more rhythmically structured over ontogeny, (5) preliminary evidence on pinnipeds’ abilities for interactive vocal timing, obtained from group recordings, playback experiments, and computational modelling, suggesting some limited abilities for ‘turn-taking’ in pups. Taken together, this on-going research suggests that pinnipeds’ abilities to produce sounds, and to time them precisely, are more developed than previously surmised. Seals, especially in their puppyhood, can be good model species to better understand the evolution of the human speech and rhythm.
 
 ###### About Andrea
 
-Who’s got rhythm? Why do we speak? In my research, I investigate the evolutionary and biological bases of rhythm cognition and flexible sound production, and the role they played in the origins of music and speech in our species. I perform sound recordings and behavioral non-invasive experiments in non-human animals (mostly seals), as a comparative effort to understand the evolutionary history of human capacities. I complement animal research with human testing, neurobiological evidence, mathematical models, and agent-based simulations.
+Why are humans musical, chatty animals? In my research, I investigate the evolutionary and biological bases of rhythm cognition and flexible sound production, and the role they played in the origins of music and speech in our species. I perform sound recordings and behavioral non-invasive experiments in non-human animals (mostly seals), as a comparative effort to understand the evolutionary history of human capacities. I complement animal research with human testing, neurobiological evidence, mathematical models, and agent-based simulations.
+I completed my PhD in 2014. My doctoral research, in Vienna (Dept. of Cognitive Biology) and Edinburgh (Centre for Language Evolution), investigated rhythmic and syntactic-like capacities comparatively in humans, chimpanzees and monkeys. Between 2014 and 2020, I performed research as a postdoctoral fellow on vocal communication and rhythm in humans and baby seals, based at the AI-Lab Vrije Universiteit Brussel, Sealcentre Pieterburen, and Institute for Advanced Studies (UvA, Amsterdam). In spring 2020 I moved to the MPI in Nijmegen as an Independent Group Leader to start my interdisciplinary group, Comparative Bioacoustics.
+
 
 <br/>
 <br/>
