@@ -10,7 +10,7 @@ Children show astonishing variation in the way they acquire their native languag
 
 ## Pick your scientific program
 
-MPaL2020 is offering this year's workshop on three schedules. Click on the one that suits you best to see what's planned.
+MPaL 2020 is offering this year's workshop on three schedules. Click on the one that suits you best to see what's planned.
 
 [San Francisco time (GMT -7)](./MPaL_handbook_SF.md)
 
