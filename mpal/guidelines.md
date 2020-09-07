@@ -28,7 +28,7 @@
 * You are welcome to present your poster as either a series of short slides or as a single slide (like a real-life poster) - as you wish.
 * Your poster is part of a "theme" group (check the [handbook](https://marisacasillas.github.io/chatterlab/MPaL_handbook.html)). Each presenter in your theme group will receive a link to a Zoom room in which they can have discussions, and break off to separate rooms if contacted individually by a viewer during the poster presentation sessions. This Zoom link will be available on the website for each theme group in case you also want to visit other themes.
 * There will be a "guestbook" for each poster where people can indicate that they have seen your poster and send you any comments/questions they have.
-* Together with your presentation video, you may also send us a pdf version of your poster for visitors to download.
+* Together with your presentation video, you may also send us a pdf version of your poster for visitors to download. If you choose to do so, please label this file with the abstract number only (e.g. 45.PDF).
 * Follow the general guidelines above.
 * Please note that your poster presentation will be available for viewing outside of the workshop hours.
 
