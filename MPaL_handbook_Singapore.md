@@ -1,6 +1,6 @@
 # Many Paths to Language Handbook
 
-## Program Overview: San Francisco time (GMT -7)
+## Program Overview: Singapore time (GMT +8)
 
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
