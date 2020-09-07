@@ -1,6 +1,6 @@
 # Many Paths to Language Handbook
 
-## Program Overview: Paris time (GMT +1)
+## Program Overview: San Francisco time (GMT -7)
 
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
@@ -13,7 +13,7 @@
 
 &nbsp;&nbsp;&nbsp; Room A. [Language development in non-WEIRD contexts](./mpal/abstracts.md#language-development-in-non-weird-contexts)
 
-&nbsp;&nbsp;&nbsp; Room B. [Disorders and delays in language development](./mpal/abstracts.md#disorders-and-delay-in-language-development)
+&nbsp;&nbsp;&nbsp; Room B. [Disorders and delays in language development](./mpal/abstracts.md#disorders-and-delays-in-language-development)
 
 12.30 - 13.15 &nbsp;&nbsp;&nbsp; Lunch break
 
@@ -34,7 +34,7 @@
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
 ### Friday, 23 October 2020
-10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Title TBA.](./mpal/abstracts.md#david-barner-university-of-california-san-diego-talk-title-tba)
+10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Linguistic Diversity and the Origin of Exact Algorithms](./mpal/abstracts.md#david-barner-university-of-california-san-diego)
 
 11.00 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -54,7 +54,7 @@
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Title TBA.](./mpal/abstracts.md#andrea-ravignani-max-planck-institute-for-psycholinguistics-talk-title-tba)
+14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Seal Pups have Something to Say about Speech and Rhythm](./mpal/abstracts.md#andrea-ravignani-comparative-bioacoustics-group-max-planck-institute-for-psycholinguistics)
 
 15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/flash-poster-overview.md#23-october)
 
@@ -67,4 +67,3 @@
 18.00 &nbsp;&nbsp;&nbsp; End program day 2
 
 ---
-
