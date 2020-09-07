@@ -21,7 +21,7 @@
 
 &nbsp;&nbsp;&nbsp; Room A. [Complexity in child-directed speech](./mpal/abstracts.md#complexity-in-child-directed-speech)
 
-&nbsp;&nbsp;&nbsp; Room B. [Language processing across age and input characteristics abstracts](./mpal/abstracts.md#language-processing-across-age-and-input-characteristics)
+&nbsp;&nbsp;&nbsp; Room B. [Language processing across age and input characteristics](./mpal/abstracts.md#language-processing-across-age-and-input-characteristics)
 
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
