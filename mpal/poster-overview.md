@@ -87,8 +87,6 @@ How Individual Difference Measures Inform Event Processing in Monolingual and Ea
 
 Children’s linguistic environment and their use of sound symbolism in language acquisition, *Anja Gampe, Jan Schaltegger, Moritz M. Daum* [abstract](./poster-abstracts.md#childrens-linguistic-environment-and-their-use-of-sound-symbolism-in-language-acquisition)
 
-The Many Colours of Dolphins: Functional colour knowledge across development, *Christina Bergmann, Teun van Gils, Lena Ackermann, Markus Ostarek, Jeroen van Paridon, Guillermo Montero-Melis* [abstract](./poster-abstracts.md#the-many-colours-of-dolphins-functional-colour-knowledge-across-development)
-
 Different developmental trajectories in Dutch and Turkish children’s acquisition of space-pitch terminology, *Sarah Dolscheid, Simge Çelik, Hasan Erkan, Aylin Küntay, Asifa Majid* [abstract](./poster-abstracts.md#different-developmental-trajectories-in-dutch-and-turkish-childrens-acquisition-of-space-pitch-terminology)
 
 
@@ -223,6 +221,8 @@ Quantifying the nature of vocal and gestural activity in infants across the firs
 Can you feel my rhythm? Interpersonal coordination between a child with deafblindness and their mentor, *Lisette de Jonge-Hoekstra, Marleen Janssen, Ralf F. A. Cox, Trees van Nunen* [abstract](./poster-abstracts.md#can-you-feel-my-rhythm-interpersonal-coordination-between-a-child-with-deafblindness-and-their-mentor)
 
 Through the lens of a communicative genre: Differences in use of iconic co-speech gestures by 4-years-old children, *Katharina J. Rohlfing, Ulrich Mertens, Sofia Koutalidis, Olga Abramov, Stefan Kopp, Friederike Kern* [abstract](./poster-abstracts.md#through-the-lens-of-a-communicative-genre-differences-in-use-of-iconic-co-speech-gestures-by-4-years-old-children)
+
+The Many Colours of Dolphins: Functional colour knowledge across development, *Christina Bergmann, Teun van Gils, Lena Ackermann, Markus Ostarek, Jeroen van Paridon, Guillermo Montero-Melis* [abstract](./poster-abstracts.md#the-many-colours-of-dolphins-functional-colour-knowledge-across-development)
 
 
 ---
