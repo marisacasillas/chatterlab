@@ -65,10 +65,15 @@ Evan.Kidd@mpi.nl
 **Abstract:** A key characteristic of human languages is their diversity (Evans & Levinson, 2009), and so any serious theory of language phenomena must be built upon a representative sample of the world’s languages. However, languages are dying at an alarming rate (Evans, 2010), underscoring the importance of widening the evidential base. Despite a proud history of crosslinguistic work in language acquisition (e.g., MacWhinney & Bates, 1989; Slobin, 1985, 1992, 1997), we only have data covering a mere 1 - 2% of the world’s languages (Lieven & Stoll, 2010). In this talk we will outline a working model for increasing the number of languages for which we have data, based on our collective experience and work across several languages in different contexts across the world.
  
 **References:**
+
 Evans, N., & Levinson, S. (2009). The myth of language universals: Language diversity and its importance for cognitive science. Behavioral & Brain Sciences, 32, 429–448.
+
 Evans, N. (2010). Dying words: Endangered languages and what they have to tell us. Wiley-Blackwell, Chichester, UK
+
 Lieven, E., & Stoll, S. (2010). Language. In M. Bornstein (Ed.), The handbook of cross-cultural developmental science (pp. 143–160). Mahwah, NJ: Lawrence Erlbaum.
+
 MacWhinney, B., & Bates, E. (1989). The crosslinguistic study of sentence processing. Cambridge, UK: Cambridge University Press.
+
 Slobin, D. I. (1985–1997). The crosslinguistic study of language acquisition (Vols. 1–5). Hillsdale, NJ: Lawrence Erlbaum.
  
 ### Daylong recordings in diverse societies and cultures
