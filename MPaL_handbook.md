@@ -19,6 +19,10 @@ MPaL 2020 is offering this year's workshop on three schedules. Click on the one 
 [Singapore time (GMT +8)](./MPaL_handbook_Singapore.md)
 
 ---
+
+**NEWS:** Check out the [pre-MPaL workshop](./mpal/preworkshop/preMPaL-workshop.md) on adapting standard language development methods and theories for diverse participant communities.
+
+
 <!--
 ## Acknowledgements
 
