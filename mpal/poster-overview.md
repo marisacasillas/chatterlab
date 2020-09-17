@@ -74,9 +74,6 @@ Trivers-Willard hypothesis tested using daylong recordings, *Valentin Thouzeau, 
 
 Efficient estimation of bilingual children’s language exposure from daylong audio recordings, *Margaret Cychosz, Anele Villanueva, Adriana Weisleder* [abstract](./poster-abstracts.md#efficient-estimation-of-bilingual-childrens-language-exposure-from-daylong-audio-recordings)
 
-Individual variation across the socio-economic strata: a differential contribution of mothers’ and fathers’ speech in high- and low-SES families, *Stéphanie Barbu, Ludivine Glas, Bahia Guellaï, Alban Lemasson, Virginie Durier, Aurélie Nardy, Jean Pierre Chevrot, Jacques Juhel* [abstract](./poster-abstracts.md#individual-variation-across-the-socio-economic-strata-a-differential-contribution-of-mothers-and-fathers-speech-in-high--and-low-ses-families)
-
-
 ---
 
 ### Language and perception
