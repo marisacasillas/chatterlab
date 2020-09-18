@@ -678,7 +678,7 @@ To conclude, infant brains synchronise to the rhythm of both simple beeps and sp
 
 #### Opportunities and challenges of setting up global large-scale replications: ManyBabies1-Africa
 
-[*Angeline Sin Mei Tsui, Christina Bergmann, The ManyBabies Africa Team*](./authors.md)
+[*Angeline Sin Mei Tsui, Catherine Mbagaya, Mulat Asnake, Christina Bergmann*](./authors.md)
 
 astsui@stanford.edu
 
