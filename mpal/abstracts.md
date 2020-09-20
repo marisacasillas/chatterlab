@@ -6,7 +6,8 @@ Go to [Main page](../MPaL_handbook.md)
 
 ## Invited talks
 
-#### Gabriella Vigliocco (University College London): Talk title TBA
+#### Gabriella Vigliocco (University College London)
+#### Ecological learning: Characterising the multimodal cues available to children in real-world communication
 
 ##### 22 October 10.15 - 11.15
 
@@ -14,16 +15,20 @@ Go to [Main page](../MPaL_handbook.md)
 
 ###### Abstract
 
-TBA
+Language is most often learnt in face-to-face contexts in which children have access to caregivers’ multimodal behaviours (such as gestures, prosody, eyegaze) in addition to the language they produce. There is clear evidence that each of these different behaviours plays a role in supporting children’s language learning. However, we still know little about how the multiple and potentially useful cues present in the communicative context are distributed in naturalistic interactions. 
+	
+The work I will present aims to characterise the multimodal cues available in children’s input and their potential role in supporting learning to map words to world. This mapping is considered as a major challenge in language development because even in the best-case scenario in which labels and referents are present at the same time, usually there are multiple possible referents that could be mapped to any word (the “gavagai’ problem). Moreover, most often labels and referents are not physically co-occurring, namely, language is temporally and/or spatially displaced making the mapping even more difficult. 
+
+From a semi-naturalistic corpus of dyadic interaction (ECOLANG corpus) between English speaking caregivers and their 2-4 year-old children, we characterise the distribution of cues that caregivers provide when talking about novel or known objects and when talking about objects that are present in the environment or absent (in order to assess language in situated and displaced contexts). First, we will address whether cues (focusing especially on non-arbitrary – indexical and iconic – ones) are used primarily when most useful for learning. Second, looking at similarities and differences between the cue-distribution for child-directed spoken English (from ECOLANG) to child-directed British Sign Language (which we collected using a similar procedure), we will address issues of generalizability of the effects across linguistic systems. Finally, comparing results for child-caregiver interactions to those for adult-adult interactions in similar conditions (also part of the ECOLANG corpus), we will ask whether the use of specific cues is general to any learning context or specific to child development. 
 
 ###### About Gabriella
 
-Research carried out in my laboratory concerns psychological and neural mechanisms of human language use with a special emphasis on how conceptual and linguistic information are integrated. Our most important contributions to date include development of a theoretical framework for sentence production, and development of explicit computational models of lexical semantic representation informed by cognitive science and neuroscience. At present, our two main projects address: (1) the relationship between language and thought in spoken and signed languages; (2) the representation of abstract knowledge.
+Gabriella’s research focuses on the cognitive and neurobiological basis of human communication. Her group investigates how we learn and process language in real-word settings, how our linguistic knowledge interfaces with perception, action and emotion and how these systems are recruited during language learning. She uses tools from psychology, cognitive neuroscience and computational modelling seeking converging evidence from different languages and populations. More specific recent questions addressed include the role of iconicity and multimodality in language learning and processing and the role of emotion in learning and processing abstract concepts.
 
 ---
 
 #### David Barner (University of California, San Diego)
-#### Linguistic Diversity and the Origin of Exact Algorithms
+#### Linguistic diversity and the origin of exact algorithms
 
 ##### 23 October 10.00 - 11.00
 
@@ -40,7 +45,7 @@ Dr. Barner's research program engages two fundamental problems that confront the
 ---
 
 #### Andrea Ravignani (Comparative Bioacoustics Group, Max Planck Institute for Psycholinguistics)
-#### Seal Pups have Something to Say about Speech and Rhythm
+#### Seal pups have something to say about speech and rhythm
 
 ##### 23 October 14.15 - 15.15
 
