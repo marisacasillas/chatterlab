@@ -134,7 +134,7 @@ Thus, CDS is significantly prevalent over overheard speech for both settings. Ho
 <br/>
 <br/>
 
-#### Child-directed speech of multiple socializes in Mayan Tsotsil acquisition: A qualitative and interactional look
+#### Child-directed speech of multiple socializers in Mayan Tsotsil acquisition: A qualitative and interactional look
 
 [*Lourdes De León*](./authors.md)
 
