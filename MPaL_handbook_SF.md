@@ -7,9 +7,9 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
 
-10.15 - 11.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Gabriella Vigliocco. [Ecological learning: Characterising the multimodal cues available to children in real-world communication](./mpal/abstracts.md#gabriella-vigliocco-university-college-london)
+10.15 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** Gabriella Vigliocco. [Ecological learning: Characterising the multimodal cues available to children in real-world communication.](./mpal/abstracts.md#gabriella-vigliocco-university-college-london) _*NOTE: This talk has no live Q&A in this timezone_
 
-11.15 - 11.30 &nbsp;&nbsp;&nbsp; Coffee break
+11.00 - 11.30 &nbsp;&nbsp;&nbsp; Coffee break
 
 11.30 - 12.30 &nbsp;&nbsp;&nbsp; **Parallel talk session 1:**
 
@@ -58,7 +58,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
 ### Friday, 23 October 2020
-10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Linguistic diversity and the origin of exact algorithms](./mpal/abstracts.md#david-barner-university-of-california-san-diego)
+10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk and live Q&A:** David Barner. [Linguistic diversity and the origin of exact algorithms.](./mpal/abstracts.md#david-barner-university-of-california-san-diego)
 
 11.00 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -98,7 +98,9 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
-14.15 - 15.15 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Seal pups have something to say about speech and rhythm](./mpal/abstracts.md#andrea-ravignani-comparative-bioacoustics-group-max-planck-institute-for-psycholinguistics)
+14.15 - 15.00 &nbsp;&nbsp;&nbsp; **Invited talk:** Andrea Ravignani. [Seal pups have something to say about speech and rhythm](./mpal/abstracts.md#andrea-ravignani-comparative-bioacoustics-group-max-planck-institute-for-psycholinguistics) _*NOTE: This talk has no live Q&A in this timezone_
+
+15.00 - 15.15 &nbsp;&nbsp;&nbsp; Coffee break
 
 15.15 - 15.30 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/flash-poster-overview.md#23-october)
 
