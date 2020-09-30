@@ -7,7 +7,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
 
-10.15 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** Gabriella Vigliocco. [Ecological learning: Characterising the multimodal cues available to children in real-world communication.](./mpal/abstracts.md#gabriella-vigliocco-university-college-london) _*NOTE: This talk has no live Q&A in this timezone_
+10.15 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk:** Gabriella Vigliocco. [Ecological learning: Characterising the multimodal cues available to children in real-world communication](./mpal/abstracts.md#gabriella-vigliocco-university-college-london) _*NOTE: This talk has no live Q&A in this timezone_
 
 11.00 - 11.30 &nbsp;&nbsp;&nbsp; Coffee break
 
