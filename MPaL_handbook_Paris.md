@@ -45,8 +45,6 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 |13.45–14.00|Garcia et al.|[Developmental effects in the on-line use of morphosyntactic markers: Evidence from Tagalog](./mpal/abstracts.md#developmental-effects-in-the-on-line-use-of-morphosyntactic-markers-evidence-from-tagalog)|
 |14.00–14.15| -- | Live Q&A featuring: Homer, Egger, and Garcia|
 
-&nbsp;&nbsp;&nbsp; Room B. 
-
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
 14.30 - 14.45 &nbsp;&nbsp;&nbsp; [Flash poster presentations](./mpal/flash-poster-overview.md#22-october)

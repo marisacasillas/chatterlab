@@ -45,7 +45,6 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 |13.45–14.00|Garcia et al.|[Developmental effects in the on-line use of morphosyntactic markers: Evidence from Tagalog](./mpal/abstracts.md#developmental-effects-in-the-on-line-use-of-morphosyntactic-markers-evidence-from-tagalog)|
 |14.00–14.15| -- | Live Q&A featuring: Homer and Egger|
 
-&nbsp;&nbsp;&nbsp; Room B. 
 
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -56,6 +55,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 15.45 - 16.45 &nbsp;&nbsp;&nbsp; **Live workshop on parallel session 1 themes** (pre-registration required)
 
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
+
 
 ### Friday, 23 October 2020
 10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk and live Q&A:** David Barner. [Linguistic diversity and the origin of exact algorithms.](./mpal/abstracts.md#david-barner-university-of-california-san-diego)
