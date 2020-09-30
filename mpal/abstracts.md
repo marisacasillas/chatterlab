@@ -24,6 +24,9 @@ From a semi-naturalistic corpus of dyadic interaction (ECOLANG corpus) between E
 Gabriella’s research focuses on the cognitive and neurobiological basis of human communication. Her group investigates how we learn and process language in real-word settings, how our linguistic knowledge interfaces with perception, action and emotion and how these systems are recruited during language learning. She uses tools from psychology, cognitive neuroscience and computational modelling seeking converging evidence from different languages and populations. More specific recent questions addressed include the role of iconicity and multimodality in language learning and processing and the role of emotion in learning and processing abstract concepts.
 
 ---
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+<br/>
 
 #### David Barner (University of California, San Diego)
 #### Linguistic diversity and the origin of exact algorithms
@@ -41,6 +44,9 @@ The evolution of exact numerical language poses a uniquely challenging puzzle to
 Dr. Barner's research program engages two fundamental problems that confront the cognitive sciences. The first problem is how we can explain the acquisition of concepts that do not transparently reflect properties of the physical world, whether these express time, number, or logical content found in language. What are the first assumptions that children make about such words when they hear them in language, and what kinds of evidence do they use to decode their meanings? Second, he is interested in how linguistic structure affects learning, and whether grammatical differences between languages cause differences in conceptual development. Are there concepts that are easier to learn in some languages than in others? Or do cross-linguistic differences have little effect on the rate at which concepts emerge in language development? Dr. Barner studies these case studies taking a cross-linguistic and cross-cultural developmental approach informed by methods in both psychology and linguistics, and studies children learning different languages.
 
 ---
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+<br/>
 
 #### Andrea Ravignani (Comparative Bioacoustics Group, Max Planck Institute for Psycholinguistics)
 #### Seal pups have something to say about speech and rhythm
@@ -58,11 +64,8 @@ Understanding the origins and evolution of human speech requires multidisciplina
 Why are humans musical, chatty animals? In my research, I investigate the evolutionary and biological bases of rhythm cognition and flexible sound production, and the role they played in the origins of music and speech in our species. I perform sound recordings and behavioral non-invasive experiments in non-human animals (mostly seals), as a comparative effort to understand the evolutionary history of human capacities. I complement animal research with human testing, neurobiological evidence, mathematical models, and agent-based simulations.
 I completed my PhD in 2014. My doctoral research, in Vienna (Dept. of Cognitive Biology) and Edinburgh (Centre for Language Evolution), investigated rhythmic and syntactic-like capacities comparatively in humans, chimpanzees and monkeys. Between 2014 and 2020, I performed research as a postdoctoral fellow on vocal communication and rhythm in humans and baby seals, based at the AI-Lab Vrije Universiteit Brussel, Sealcentre Pieterburen, and Institute for Advanced Studies (UvA, Amsterdam). In spring 2020 I moved to the MPI in Nijmegen as an Independent Group Leader to start my interdisciplinary group, Comparative Bioacoustics.
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 
@@ -103,9 +106,8 @@ References
 ![Attachment](attachments/86-1.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -128,9 +130,8 @@ Thus, CDS is significantly prevalent over overheard speech for both settings. Ho
 ![Attachment](attachments/88-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -161,15 +162,12 @@ Ochs E, Schieffelin BB. 1984. Language acquisition and socialization: Three deve
 Shneidman L, Goldin-Meadow S. 2012. Language Input and Acquisition in a Mayan Village: How important is directed speech? Developmental Science 15(5): 659–73
 
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
----
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Disorders and delays in language development
 
@@ -196,9 +194,8 @@ Taken together, these results suggest that (1) blind, DHH, and typically-develop
 ![Attachment](attachments/95-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -221,9 +218,8 @@ Conclusion: We found that children in both groups tend to vocalize at higher rat
 ![Attachment](attachments/72-02.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -246,15 +242,12 @@ Conclusion: Results indicate frontal gamma power as a mechanism linking quantita
 ![Attachment](attachments/20-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
----
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Complexity in child-directed speech
 
@@ -284,9 +277,8 @@ We found that individual differences in parent GL use were stable over time, whe
 ![Attachment](attachments/50-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -313,9 +305,8 @@ The comprehension results confirm that children can use prosody to aid comprehen
 ![Attachment](attachments/85-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -338,15 +329,12 @@ Our analyses show that the language of children's books is lexically denser and 
 ![Attachment](attachments/4-1.png)
 
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
----
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Language processing across age and input characteristics
 
@@ -367,9 +355,8 @@ LPE was assessed using a looking-while-listening task, in which infants saw imag
 ![Attachment](attachments/13-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -396,12 +383,10 @@ To be able to both quantify support for the alternative and the null hypothesis,
 ![Attachment](attachments/1-1.png)
 
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
+<br/>
+<br/>
 
 #### Developmental effects in the on-line use of morphosyntactic markers: Evidence from Tagalog
 
@@ -426,15 +411,12 @@ Our results showed that children's online use of morphosyntactic markers develop
 _Figure 1._ Seven-year-olds' average proportion of looks to the agent throughout the trial. The sentence regions are indicated by the rectangles (NM1 refers to the first noun marker, Adj to adjective, NM2 to the second noun marker). The small grey/black bars around -0.01 indicate the p values for each time bin. The large grey bars indicate the time bins which were found to be significant in the permutation analysis.
 
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
----
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Socioeconomic status and language development
 
@@ -459,9 +441,8 @@ Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType 
 ![Attachment](attachments/78-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -486,9 +467,8 @@ These results provide novel information about reading practices in US Hispanic f
 ![Attachment](attachments/48-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -509,15 +489,12 @@ Our findings replicate previous research demonstrating a positive relationship b
 ![Attachment](attachments/82-1.png)
 
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
----
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Multilingual language development
 
@@ -544,9 +521,8 @@ In sum, empirical studies of children's verb learning usually present children w
 ![Attachment](attachments/73-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -579,9 +555,8 @@ In sum, we found that infants exposed to bilingual environments disengage attent
 ![Attachment](attachments/16-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -614,15 +589,12 @@ are easier when the shoes fit: Comparing monolingual and bilingual infants. Dev.
 Menjivar, J., & Akhtar, N. (2017). Language experience and preschoolers' foreign word learning. Biling. Lang. Cogn. 20(3), 642-648.
 
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
----
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Influences on language and literacy
 
@@ -649,9 +621,8 @@ These results are consistent with previous findings that parental depression may
 ![Attachment](attachments/61-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -668,9 +639,8 @@ We administered two questionnaires to parents – one assessing language/literac
 We ran a two-way ANOVA with Group (Early Preterm, Late Preterm, Early Term, and Term), Language/literacy activities, and Group X Language/literacy activities interaction to predict DVAP, while controlling for children's age at testing and parent education. Controlling for age at testing and education, there was a trend in the direction of Language/literacy activities varying by group (F (3, 49) = 2.388, p = .08). Follow-up analyses showed that language/literacy activities were more predictive of DVAP for Late Preterm children than other GA groups. There was no significant effect of Group controlling for language/literacy activities. To sum, the results showed that parental cognitive stimulation might predict outcomes more than broad factors, such as parental SES. Further, parent-child interactions might play a larger role for Preterm children – specifically for Late Preterm children. Our results are consistent with the hypothesis that prematurity might exhibit a heightened case of plasticity where environmental influences might play a larger role in children's outcomes than Term (DeMaster, Bick, Johnson, Landry, & Duncan 2019). Further, late prematurity may be at the optimum point for plasticity, which could possibly explain the greater role of input for this group of children.
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -697,15 +667,12 @@ Conclusions
 Our findings suggest a spectrum of interrelated, but aetiologically different cognitive skill sets contributing to language, literacy and PWM performance. The pattern of identified genetic and residual structures is consistent with mediated pleiotropy implicating, predominantly, effects of language on literacy.
 
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
----
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Prosody and phonology in early infancy
 
@@ -726,9 +693,8 @@ Segmental and phonological distance is quantified using methods adopted from Mon
 ![Attachment](attachments/101-1.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -753,9 +719,8 @@ To conclude, infant brains synchronise to the rhythm of both simple beeps and sp
 ![Attachment](attachments/58-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
 <br/>
 <br/>
 
@@ -776,11 +741,5 @@ In sum, this study will measure the generalizability of a key infancy finding �
 ![Attachment](attachments/99-2.png)
 
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
