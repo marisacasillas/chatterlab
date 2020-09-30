@@ -11,7 +11,7 @@
 
 11.30 - 12.30 &nbsp;&nbsp;&nbsp; **Parallel talk session 1:**
 
-Time|Authors|Room A: [Language development in non-WEIRD contexts](./mpal/abstracts.md#language-development-in-non-weird-contexts)| Live Q&A availability|
+|Time|Authors|Room A: [Language development in non-WEIRD contexts](./mpal/abstracts.md#language-development-in-non-weird-contexts)| Live Q&A availability|
 |---|---|---|---|
 |11.30–11.50|Lutzenberger et al.|[Universal and language-specific patterns in the acquisition of sign language phonology](./mpal/abstracts.md#universal-and-language-specific-patterns-in-the-acquisition-of-sign-language-phonology)|
 |11.50–12.10|Loukatou et al.|[Amount and quality of input across speakers: analysing Sesotho and French corpora](./mpal/abstracts.md#amount-and-quality-of-input-across-speakers-analysing-sesotho-and-french-corpora)|
@@ -58,7 +58,7 @@ Time|Authors|Room A: [Language development in non-WEIRD contexts](./mpal/abstrac
 
 11.15 - 12.15 &nbsp;&nbsp;&nbsp; **Parallel talk session 3:**
 
-Time|Authors|Room A: [Socioeconomic status and language development](./mpal/abstracts.md#socioeconomic-status-and-language-development)| Live Q&A availability|
+|Time|Authors|Room A: [Socioeconomic status and language development](./mpal/abstracts.md#socioeconomic-status-and-language-development)| Live Q&A availability|
 |---|---|---|---|
 |11.15–11.35|Gonzalez-Gomez et al.|[The effects of prematurity and socioeconomic deprivation on early speech perception: A story of two different delays](./mpal/abstracts.md#the-effects-of-prematurity-and-socioeconomic-deprivation-on-early-speech-perception-a-story-of-two-different-delays)|
 |11.35–11.55|Avelar et al.|[Reading practices and behaviors of Hispanic parents during shared book reading](./mpal/abstracts.md#reading-practices-and-behaviors-of-hispanic-parents-during-shared-book-reading)|
@@ -74,7 +74,7 @@ Time|Authors|Room A: [Socioeconomic status and language development](./mpal/abst
 
 13.00 - 14.00 &nbsp;&nbsp;&nbsp; **Parallel talk session 4:**
 
-Time|Authors|Room A: [Influences on language and literacy](./mpal/abstracts.md#influences-on-language-and-literacy)| Live Q&A availability|
+|Time|Authors|Room A: [Influences on language and literacy](./mpal/abstracts.md#influences-on-language-and-literacy)| Live Q&A availability|
 |---|---|---|---|
 |13.00–13.20|Scheiber et al.|[Parental Mental Health, Socioeconomic Status, and Children’s Verbal Abilities](./mpal/abstracts.md#parental-mental-health-socioeconomic-status-and-childrens-verbal-abilities)|
 |13.20–13.40|Nelson et al.|[ Sources of Plasticty in Preterm Children's Vocabulary Acquisition: Interacting roles of gestational age and parent-child interactions](./mpal/abstracts.md#sources-of-plasticity-in-preterm-childrens-vocabulary-acquisition-interacting-roles-of-gestational-age-and-parent-child-interactions)|
