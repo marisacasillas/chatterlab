@@ -40,7 +40,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 |Time|Authors|Room B: [Language processing across age and input characteristics](./mpal/abstracts.md#language-processing-across-age-and-input-characteristics)|
 |---|---|---|
-|13.15–13.30|Horner et al.|[Predicting lexical processing efficiency at 9 Months from the home language environment: Child-directed vs. ambient speech](./mpal/abstracts.md#predicting-lexical-processing-efficiency-at-9-months-from-the-home-language-environment-child-directed-vs-ambient-speech)|
+|13.15–13.30|Homer et al.|[Predicting lexical processing efficiency at 9 months from the home language environment: Child-directed vs. ambient speech](./mpal/abstracts.md#predicting-lexical-processing-efficiency-at-9-months-from-the-home-language-environment-child-directed-vs-ambient-speech)|
 |13.30–13.45|Egger et al.|[Investigating the interplay between parental speech input, speed of processing and vocabulary development](./mpal/abstracts.md#investigating-the-interplay-between-parental-speech-input-speed-of-processing-and-vocabulary-development)|
 |13.45–14.00|Garcia et al.|[Developmental effects in the on-line use of morphosyntactic markers: Evidence from Tagalog](./mpal/abstracts.md#developmental-effects-in-the-on-line-use-of-morphosyntactic-markers-evidence-from-tagalog)|
 |14.00–14.15| -- | Live Q&A featuring: |
