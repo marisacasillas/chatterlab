@@ -3,7 +3,7 @@
 ## Program Overview: San Francisco time (GMT -7)
 Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
-</br>
+<br/>
 
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
@@ -57,9 +57,9 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
-</br>
-</br>
-</br>
+<br/>
+<br/>
+<br/>
 
 ### Friday, 23 October 2020
 10.00 - 11.00 &nbsp;&nbsp;&nbsp; **Invited talk and live Q&A:** David Barner. [Linguistic diversity and the origin of exact algorithms.](./mpal/abstracts.md#david-barner-university-of-california-san-diego)

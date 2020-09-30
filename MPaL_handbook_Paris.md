@@ -3,7 +3,7 @@
 ## Program Overview: Paris time (GMT +1)
 Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
-</br>
+<br/>
 
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
@@ -56,9 +56,9 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 16.45 &nbsp;&nbsp;&nbsp; End program day 1
 
-</br>
-</br>
-</br>
+<br/>
+<br/>
+<br/>
 
 ### Friday, 23 October 2020
 10.00 - 10.45 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Linguistic diversity and the origin of exact algorithms](./mpal/abstracts.md#david-barner-university-of-california-san-diego) _*NOTE: This talk has no live Q&A in this timezone_
