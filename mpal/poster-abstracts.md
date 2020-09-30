@@ -1,6 +1,6 @@
 # Many Paths to Language
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
   
@@ -104,7 +104,7 @@ When we filter the child's and parent's vocabulary so that only words that they 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -218,7 +218,7 @@ These results thus suggest that even though children with ASD continue to show a
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -298,7 +298,7 @@ Children typically acquire words like "mommy" and "banana" before "interesting" 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -388,7 +388,7 @@ Taken together, these results provide some preliminary evidence on the efficacy 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -456,7 +456,7 @@ Largescale audio recordings permit close observation of naturalistic language be
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -520,7 +520,7 @@ Languages vary considerably in how they describe sensory experiences like colors
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -570,7 +570,7 @@ In this presentation, we will address the conceptual, ethical, and practical cha
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -692,7 +692,7 @@ Our study demonstrates that the same processing factors that influence adult Man
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -825,7 +825,7 @@ Tagliamonte, Sali. 2012. Variationist sociolinguistics: Change, observation, and
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -973,7 +973,7 @@ Our previous research has shown that infants, across SES, have the capacity to b
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1085,7 +1085,7 @@ Oxford University Press.
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1203,7 +1203,7 @@ The results suggest that there is insufficient evidence that language discrimina
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1265,7 +1265,7 @@ Despite the reliable distributional link between subject pronoun person and ques
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1479,7 +1479,7 @@ Marinis, T. (2016). Acquiring possessives. In Jeffrey L. Lidz, William Snyder & 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1589,4 +1589,4 @@ More broadly, our data suggest that linguistic and visual input interact in comp
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))

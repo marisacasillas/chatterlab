@@ -1,6 +1,6 @@
 # Many Paths to Language
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -167,7 +167,7 @@ Shneidman L, Goldin-Meadow S. 2012. Language Input and Acquisition in a Mayan Vi
 <br/>
 <br/>
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -252,7 +252,7 @@ Conclusion: Results indicate frontal gamma power as a mechanism linking quantita
 <br/>
 <br/>
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -344,7 +344,7 @@ Our analyses show that the language of children's books is lexically denser and 
 <br/>
 <br/>
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -432,7 +432,7 @@ _Figure 1._ Seven-year-olds' average proportion of looks to the agent throughout
 <br/>
 <br/>
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -515,7 +515,7 @@ Our findings replicate previous research demonstrating a positive relationship b
 <br/>
 <br/>
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -620,7 +620,7 @@ Menjivar, J., & Akhtar, N. (2017). Language experience and preschoolers' foreign
 <br/>
 <br/>
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -703,7 +703,7 @@ Our findings suggest a spectrum of interrelated, but aetiologically different co
 <br/>
 <br/>
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -782,5 +782,5 @@ In sum, this study will measure the generalizability of a key infancy finding â€
 <br/>
 <br/>
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
