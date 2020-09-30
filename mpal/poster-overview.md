@@ -194,7 +194,7 @@ Sign advantage in development of spatial language: Signing children’s spatial 
 
 ### Morphosyntactic development
 
-Acquisition of noun case inflections by Russian monolingual and Russian-English bilingual children, *Ladinskaya N., Chrabaszcz A., Na Lopukhina* [abstract](./poster-abstracts.md#acquisition-of-noun-case-inflections-by-russian-monolingual-and-russian-english-bilingual-children)
+Acquisition of noun case inflections by Russian monolingual and Russian-English bilingual children, *Ladinskaya N. S., Chrabaszcz A. V., Lopukhina А. А.* [abstract](./poster-abstracts.md#acquisition-of-noun-case-inflections-by-russian-monolingual-and-russian-english-bilingual-children)
 
 Acquiring the Dutch plural in a bilingual setting: Cross-linguistic influence from English to Dutch, *Darlene Keydeniers, Suzanne Aalberse, Sible Andringa, Folkert Kuiken* [abstract](./poster-abstracts.md#acquiring-the-dutch-plural-in-a-bilingual-setting-cross-linguistic-influence-from-english-to-dutch)
 
