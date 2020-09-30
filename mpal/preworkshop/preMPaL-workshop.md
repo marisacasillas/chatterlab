@@ -1,5 +1,10 @@
 # Pre-MPaL2020 LangVIEW workshop
-October 20–21, 2020
+Click here to return to the [main MPaL workshop page](../../MPaL_handbook.md).
+
+---
+
+## Investigating the "standard model" across diverse contexts
+**Dates:** October 20–21, 2020
 
 **Organizing committee:** Marisa Casillas, Janet Bang, Alejandrina Cristia,
 Michael C. Frank, & Caroline Rowland
@@ -100,3 +105,6 @@ Michael C. Frank (Stanford University); mcfrank@stanford.edu
 #### Emerging themes: How can we address the challenges before us?
 Caroline Rowland (Max Planck Institute for Psycholinguistics); Caroline.Rowland@mpi.nl
 
+---
+
+Click here to return to the [main MPaL workshop page](../../MPaL_handbook.md).
