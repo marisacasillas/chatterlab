@@ -1317,7 +1317,7 @@ Go to [Main page](../MPaL_handbook.md)
 
 #### Acquisition of noun case inflections by Russian monolingual and Russian-English bilingual children
 
-[*Ladinskaya N., Chrabaszcz A., Na Lopukhina*](./authors.md)
+[*Ladinskaya N. S., Chrabaszcz A. V., Lopukhina А. А.*](./authors.md)
 
 ladinskaya.ninaaa@gmail.com
 

@@ -49,7 +49,7 @@ Go to [Main page](../MPaL_handbook.md)
 |Childers, Jane B.|Trinity University|jchilder@trinity.edu|
 |Chodorow, Martin|Hunter College - CUNY|martin.chodorow@gmail.com|
 |Choi, April Boin|Boston Children’s Hospital and Harvard University|aprilboin.choi@childrens.harvard.edu|
-|Chrabaszcz, A.|National Research University Higher School of Economics (Moscow, Russia), University of Pittsburgh (Pittsburgh, USA)|akrabis@hse.ru|
+|Chrabaszcz, Anna|National Research University Higher School of Economics (Moscow, Russia), University of Pittsburgh (Pittsburgh, USA)|akrabis@hse.ru|
 |Chrisostomou, Leanne|University of Portsmouth|leanne.chrisostomou@port.ac.uk|
 |Coburn, Kelly L.|The Pennsylvania State University|klc92@psu.edu|
 |Cox, Ralf F. A.|University of Groningen|r.f.a.cox@rug.nl|
@@ -151,7 +151,7 @@ Go to [Main page](../MPaL_handbook.md)
 |Kuhl, Patricia K.|University of Washington|pkkuhl@uw.edu|
 |Kuiken, Folkert|University of Amsterdam|F.Kuiken@uva.nl|
 |Küntay, Aylin|Koç University|akuntay@ku.edu.tr|
-|Ladinskaya, N.|National Research University Higher School of Economics (Moscow, Russia)|nladinskaya@hse.ru|
+|Ladinskaya, Nina|National Research University Higher School of Economics (Moscow, Russia)|nladinskaya@hse.ru|
 |Laing, Catherine|Cardiff University|laingc@cardiff.ac.uk|
 |Lammertink, Imme|Royal Dutch Kentalis|immelammertink@gmail.com|
 |Langus, Alan|University of Potsdam|alan.langus@uni-potsdam.de|
@@ -167,6 +167,7 @@ Go to [Main page](../MPaL_handbook.md)
 |Linke, Maja|Linguistics Department, University of Tuebingen|maja.linke@uni-tuebingen.de|
 |Littlefield, Heather|Northeastern University|H.Littlefield@northeastern.edu|
 |Long, Helen L.|University of Memphis|hlong@memphis.edu|
+|Lopukhina, Anastasiya|National Research University Higher School of Economics (Moscow, Russia)|alopukhina@hse.ru|
 |Loukatou, Georgia|LSCP, Département d’études cognitives, ENS, EHESS, CNRS, PSL University|georgialoukatou@gmail.com|
 |Luk, Gigi|McGill University|gigi.luk@mcgill.ca|
 |Lutzenberger, Hannah|Radboud University|h.lutzenberger@let.ru.nl|
@@ -193,7 +194,6 @@ Go to [Main page](../MPaL_handbook.md)
 |Momany, Allison|University of Iowa|allison-momany@uiowa.edu|
 |Montero-Melis, Guillermo|Max Planck Institute for Psycholinguistics and Stockholm University|Guillermo.MonteroMelis@mpi.nl|
 |Morris, Pamela A.|New York University|pamela.morris@nyu.edu|
-|Na Lopukhina|National Research University Higher School of Economics (Moscow, Russia)|alopukhina@hse.ru|
 |Naigles, Letitia|University of Connecticut|letitia.naigles@uconn.edu|
 |Narasimhan, Bhuvana|University of Colorado, Boulder, USA|bhuvana.narasimhan@colorado.edu|
 |Nardy, Aurélie|LIDILEM – University of Grenoble-Alpes|aurelie.nardy@univ-grenoble-alpes.fr|
