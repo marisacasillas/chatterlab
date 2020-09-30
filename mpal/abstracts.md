@@ -352,7 +352,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_han
 
 #### 22 October 13.15 - 14.15
 
-#### Predicting lexical processing efficiency at 9 Months from the home language environment: Child-directed vs. ambient speech
+#### Predicting lexical processing efficiency at 9 months from the home language environment: Child-directed vs. ambient speech
 
 [*Jayde E. Homer, Abbie Thompson, Jill Lany*](./authors.md)
 
