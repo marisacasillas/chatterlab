@@ -11,17 +11,37 @@
 
 11.30 - 12.30 &nbsp;&nbsp;&nbsp; **Parallel talk session 1:**
 
-&nbsp;&nbsp;&nbsp; Room A. [Language development in non-WEIRD contexts](./mpal/abstracts.md#language-development-in-non-weird-contexts)
+Time|Authors|Room A: [Language development in non-WEIRD contexts](./mpal/abstracts.md#language-development-in-non-weird-contexts)| Live Q&A availability|
+|---|---|---|---|
+|11.30–11.50|Lutzenberger et al.|[Universal and language-specific patterns in the acquisition of sign language phonology](./mpal/abstracts.md#universal-and-language-specific-patterns-in-the-acquisition-of-sign-language-phonology)|
+|11.50–12.10|Loukatou et al.|[Amount and quality of input across speakers: analysing Sesotho and French corpora](./mpal/abstracts.md#amount-and-quality-of-input-across-speakers-analysing-sesotho-and-french-corpora)|
+|12.10–12.30|de León|[Child-directed speech of multiple socializes in Mayan Tsotsil acquisition: A qualitative and interactional look](./mpal/abstracts.md#child-directed-speech-of-multiple-socializers-in-mayan-tsotsil-acquisition-a-qualitative-and-interactional-look)|
+<!--{: .my-class }-->
 
-&nbsp;&nbsp;&nbsp; Room B. [Disorders and delays in language development](./mpal/abstracts.md#disorders-and-delays-in-language-development)
+|Time|Authors|Room B: [Disorders and delays in language development](./mpal/abstracts.md#disorders-and-delays-in-language-development)| Live Q&A availability|
+|---|---|---|---|
+|11.30–11.50|Campbell et al.|[Naturalistic language input to Blind, Deaf/Hard-of Hearing, and typically-developing infants: A quantitative and qualitative analysis](./mpal/abstracts.md#naturalistic-language-input-to-blind-deafhard-of-hearing-and-typically-developing-infants-a-quantitative-and-qualitative-analysis)|
+|11.50–12.10|Hamrick et al.|[Task-dependent impact of adult words on vocalization patterns in Angelman and Down Syndromes](./mpal/abstracts.md#task-dependent-impact-of-adult-words-on-vocalization-patterns-in-angelman-and-down-syndromes)|
+|12.10–12.30|Romeo et al.|[Varying relationships between parent input and the neural mechanisms of language development in infants at high and low risk for Autism](./mpal/abstracts.md#varying-relationships-between-parent-input-and-the-neural-mechanisms-of-language-development-in-infants-at-high-and-low-risk-for-autism)|
 
 12.30 - 13.15 &nbsp;&nbsp;&nbsp; Lunch break
 
 13.15 - 14.15 &nbsp;&nbsp;&nbsp; **Parallel talk session 2:**
 
-&nbsp;&nbsp;&nbsp; Room A. [Complexity in child-directed speech](./mpal/abstracts.md#complexity-in-child-directed-speech)
+|Time|Authors|Room A: [Complexity in child-directed speech](./mpal/abstracts.md#complexity-in-child-directed-speech)| Live Q&A availability|
+|---|---|---|---|
+|13.15–13.35|Wei et al.|[Parents' talk about conceptual categories with infants: Stability, variability, and implications for expressive language development](./mpal/abstracts.md#parents-talk-about-conceptual-categories-with-infants-stability-variability-and-implications-for-expressive-language-development)|
+|13.35–13.55|Nguyen et al.|[Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1 acquisition](./mpal/abstracts.md#testing-syntactic-simplicity-wh-in-situ-vs-fronted-wh-questions-in-l1-acquisition)|
+|13.55–14.15|Dawson et al.|[Characterising lexical richness in the language of children’s books](./mpal/abstracts.md#characterising-lexical-richness-in-the-language-of-childrens-books)|
+<!--{: .my-class }-->
 
-&nbsp;&nbsp;&nbsp; Room B. [Language processing across age and input characteristics](./mpal/abstracts.md#language-processing-across-age-and-input-characteristics)
+|Time|Authors|Room B: [Language processing across age and input characteristics](./mpal/abstracts.md#language-processing-across-age-and-input-characteristics)| Live Q&A availability|
+|---|---|---|---|
+|13.15–13.35|Horner et al.|[Predicting lexical processing efficiency at 9 Months from the home language environment: Child-directed vs. ambient speech](./mpal/abstracts.md#predicting-lexical-processing-efficiency-at-9-months-from-the-home-language-environment-child-directed-vs-ambient-speech)|
+|13.35–13.55|Egger et al.|[Investigating the interplay between parental speech input, speed of processing and vocabulary development](./mpal/abstracts.md#investigating-the-interplay-between-parental-speech-input-speed-of-processing-and-vocabulary-development)|
+|13.55–14.15|Garcia et al.|[Developmental effects in the on-line use of morphosyntactic markers: Evidence from Tagalog.](./mpal/abstracts.md#developmental-effects-in-the-on-line-use-of-morphosyntactic-markers-evidence-from-tagalog)|
+
+&nbsp;&nbsp;&nbsp; Room B. 
 
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -40,17 +60,35 @@
 
 11.15 - 12.15 &nbsp;&nbsp;&nbsp; **Parallel talk session 3:**
 
-&nbsp;&nbsp;&nbsp; Room A. [Socioeconomic status and language development](./mpal/abstracts.md#socioeconomic-status-and-language-development)
+Time|Authors|Room A: [Socioeconomic status and language development](./mpal/abstracts.md#socioeconomic-status-and-language-development)| Live Q&A availability|
+|---|---|---|---|
+|11.15–11.35|Gonzalez-Gomez et al.|[The effects of prematurity and socioeconomic deprivation on early speech perception: A story of two different delays](./mpal/abstracts.md#the-effects-of-prematurity-and-socioeconomic-deprivation-on-early-speech-perception-a-story-of-two-different-delays)|
+|11.35–11.55|Avelar et al.|[Reading practices and behaviors of Hispanic parents during shared book reading](./mpal/abstracts.md#reading-practices-and-behaviors-of-hispanic-parents-during-shared-book-reading)|
+|11.55–12.15|Schneider et al.|[Reading ability as a protective factor for word learning among school-aged low socioeconomic status children](./mpal/abstracts.md#reading-ability-as-a-protective-factor-for-word-learning-among-school-aged-low-socioeconomic-status-children)|
+<!--{: .my-class }-->
 
-&nbsp;&nbsp;&nbsp; Room B. [Multilingual language development](./mpal/abstracts.md#multilingual-language-development)
+|Time|Authors|Room B: [Multilingual language development](./mpal/abstracts.md#multilingual-language-development)| Live Q&A availability|
+|---|---|---|---|
+|11.15–11.35|Childers et al.|[Examining verb-action co-occurrences in everyday contexts in Spanish-speaking and English-speaking families](./mpal/abstracts.md#examining-verb-action-co-occurrences-in-everyday-contexts-in-spanish-speaking-and-english-speaking-families)|
+|11.35–11.55|D'Souza et al.|[Bilingual infants disengage faster and switch attention more frequently than monolingual infants](./mpal/abstracts.md#bilingual-infants-disengage-faster-and-switch-attention-more-frequently-than-monolingual-infants)|
+|11.55–12.15|Levy & Hanulíková|[Spot it and learn it! A novel paradigm to examine word learning in school-aged children](./mpal/abstracts.md#spot-it-and-learn-it-a-novel-paradigm-to-examine-word-learning-in-school-aged-children)|
 
 12.15 - 13.00 &nbsp;&nbsp;&nbsp; Lunch break
 
 13.00 - 14.00 &nbsp;&nbsp;&nbsp; **Parallel talk session 4:**
 
-&nbsp;&nbsp;&nbsp; Room A. [Influences on language and literacy](./mpal/abstracts.md#influences-on-language-and-literacy)
+Time|Authors|Room A: [Influences on language and literacy](./mpal/abstracts.md#influences-on-language-and-literacy)| Live Q&A availability|
+|---|---|---|---|
+|13.00–13.20|Scheiber et al.|[Parental Mental Health, Socioeconomic Status, and Children’s Verbal Abilities](./mpal/abstracts.md#parental-mental-health-socioeconomic-status-and-childrens-verbal-abilities)|
+|13.20–13.40|Nelson et al.|[ Sources of Plasticty in Preterm Children's Vocabulary Acquisition: Interacting roles of gestational age and parent-child interactions](./mpal/abstracts.md#sources-of-plasticity-in-preterm-childrens-vocabulary-acquisition-interacting-roles-of-gestational-age-and-parent-child-interactions)|
+|13.40–14.00|Shapland et al.|[ The Multivariate Genetic Architecture of Language- and Literacy-related Abilities: Genetic evidence for different cognitive skill sets](./mpal/abstracts.md#the-multivariate-genetic-architecture-of-language--and-literacy-related-abilities-genetic-evidence-for-different-cognitive-skill-sets)|
+<!--{: .my-class }-->
 
-&nbsp;&nbsp;&nbsp; Room B. [Prosody and phonology in early infancy](./mpal/abstracts.md#prosody-and-phonology-in-early-infancy)
+|Time|Authors|Room B: [Prosody and phonology in early infancy](./mpal/abstracts.md#prosody-and-phonology-in-early-infancy)| Live Q&A availability|
+|---|---|---|---|
+|13.00–13.20|Laing|[Measuring phonological systematicity in infants’ early words](./mpal/abstracts.md#measuring-phonological-systematicity-in-infants-early-words)|
+|13.20–13.40|Snijders|[Individual variability in infants’ cortical tracking of speech rhythm relates to their word segmentation performance](./mpal/abstracts.md#individual-variability-in-infants-cortical-tracking-of-speech-rhythm-relates-to-their-word-segmentation-performance)|
+|13.40–14.00|Tsui et al.|[Opportunities and challenges of setting up global large-scale replications: ManyBabies1-Africa](./mpal/abstracts.md#opportunities-and-challenges-of-setting-up-global-large-scale-replications-manybabies1-africa)|
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
