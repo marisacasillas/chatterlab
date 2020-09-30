@@ -36,6 +36,10 @@ A potentially important characteristic of sequential babbling is the degree of v
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants
 
 [*Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein*](./authors.md)
@@ -62,6 +66,10 @@ Our data suggest that the modality (vocal v. nonvocal) and sensitivity (sensitiv
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists
 
 [*Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia*](./authors.md)
@@ -83,6 +91,10 @@ We conclude by discussing the implications of these findings in a broader cross-
 Figure 1. The proportion of different block types as a function of the focal child's age
 
 ![Attachment](attachments/6-1.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -134,6 +146,10 @@ The evidence suggests communication disorders influence language environments an
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Neurodevelopmental Differences in Autism Spectrum Disorder Applied to Language Learning
 
 [*Kelly L. Coburn, Diane L. Williams*](./authors.md)
@@ -152,6 +168,10 @@ Conclusion:  Implications of known neural differences can be extended to languag
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Relative clause production abilities of children with ASD
 
 [*Nufar Sukenik*](./authors.md)
@@ -159,6 +179,10 @@ Conclusion:  Implications of known neural differences can be extended to languag
 nufar.sukenik@biu.ac.il
 
 Relative clauses (RCs) are complex syntactic structures because they are grammatical constructions that consist of multiple clauses and also involve syntactic movement. They have been previously found as reliable indicative markers of syntactic impairment in different languages. Children with Autism Spectrum Disorders (ASD) have been found to struggle with comprehension and production of RCs, and it remains unclear whether these difficulties stem from a pragmatic or a syntactic deficit. Furthermore, most previous studies were conducted with English-speaking participants. The current study tested Hebrew-speaking children—37 children with ASD (age 8–17 years) and 24 typically developing children (age 8 years)—on a semi-structured definition task. Typically developing children were found to produce more RCs than children with ASD. Children with ASD produced mainly pronoun errors and productions of single words instead of sentences. The current study contributes to the discussion regarding whether the syntactic differences seen in the production of some children with ASD are a specific form of language deficit, or merely a delay in language acquisition
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -182,6 +206,10 @@ Figure 2. Mean values and standard errors for the four measures of Variation Set
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Co-development of language and social action in a child with Down Syndrome
 
 [*Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou*](./authors.md)
@@ -199,6 +227,10 @@ Our first results suggest that, at the first time point, Felicity's vocalisation
 With time, in visits two and three we can see an expansion of the repertoire of vocalisations, with different sounds and voice modulation, as well as one-word utterances (such as "yes", "floor"). The repertoire of actions correspondingly widens. Other actions start to emerge, such as assessments, which allow the child to go beyond communicating about how to play the game and share with the adult what might be noteworthy 'about' the ongoing action. Finally, we see that play itself becomes less fragmented and more stretched as a narrative. The child can now plan and perform a series of events and, with the use of vocalisations, gaze and pointing, create what seems to be a narrative about it.
 
 Our data suggest that language development is shaped by the interdependence of the increasing complexity of how the child constructs the play, her ability to perform more differentiated social actions, and the need for her to use more specific linguistic resources to navigate interactions.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -248,6 +280,10 @@ In short, we showed that Malay-speaking children can use syntactic cues to disam
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### The Effect of Temperamental Differences on Language Acquisition
 
 [*Liesl Melnick, Sarah C. Kucker*](./authors.md)
@@ -261,6 +297,10 @@ Methods: A total of 300 parents of 17- through 37-months-old children participat
 Results: The results demonstrated that effortful control was inversely related to the number of sound words known, r(299)=-.181, p< .001, suggesting that since children with low effortful control typically have a lower vocabulary size (Usai et al 2009), they may instead express themselves through sounds. The results also showed that effortful control was inversely correlated with the number of negative words known, r(299) =-.123, p=.006, which could be related to their typical controlled behavior, leading their parents to use fewer negative words when addressing them. Finally, negative affect was found to be inversely related to the number of mass nouns known, r(299)=-.089, p=.045, suggesting that a fussy nature may influence how frequently children interact with nonsolid objects. Other relationships examined were statistically insignificant. 
 
 Conclusion: Taken together, these findings suggest that variability in the child's temperament may lead to differences in the child's vocabulary. This indication demonstrates the importance for future research studies to be cognizant of these differences. In particular, there are important implications for incorporating sources of individual variability in vocabulary for speech therapy and education.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -285,6 +325,10 @@ This work will extend previous research on cross-linguistic patterns of early la
 ![Attachment](attachments/27-1.png)
 
 ![Attachment](attachments/27-2.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -330,7 +374,11 @@ Discussion. Language-related skills can be organized around three well-different
 
 ---
 
-#### DYNAMIC-SYSTEMS REFINEMENTS  & INSIGHTS INTO LANGUAGE AQUISITION FROM MULTIPLE INTERVENTIONS WHERE SIGNIFICANT LANGUAGE ADVANCES WERE TRIGGERED ACROSS 4 MONTHS OR MORE
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
+#### Dynamic-systems refinements & insights into language acquisition from multiple interventions where significant language advances were triggered across 4 months or more
 
 [*Keith E. Nelson*](./authors.md)
 
@@ -354,6 +402,10 @@ A key problem for fields of language acquisition and language intervention is th
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Intervention for word-finding difficulty for Arabic preschool children starting to use English as additional language
 
 [*Roaa Alsulaiman, Peter Howell*](./authors.md)
@@ -367,6 +419,10 @@ Methods: Twenty two Arabic typically-developing children (Mage = 5.5; 15 female)
 Results: Results supported the overall effectiveness of the intervention; this was indicated by a significant reduction in reaction time (RT) in the picture-naming task, (F (1, 50) = 5.32; p =.02), significant reduction in %SS (F(1,50) = 4.17; p=.04) and a significant increase in NWR performance (F(1,50) = 7.8 ; p<.000).  A slight (non-significant) reduction occurred in WFD. Additional analyses were conducted across school-groups to determine similarities and differences in patterns between them. Repeated-measures ANOVA were conducted with one within-group factor (two levels, before and after the intervention) and one between group factor (school) and RT as the dependent variable. A main effect was found for occasion (F (1, 49) = 7.04; p = .01), and for the school, (F (1, 49) = 12; p < .000), There was also a significant interaction between time and school, (F (1, 49) = 4.5; p < .04), so RT varied between the two schools.  
 
 Discussion: The preliminary results reveal that this rapid and easy-to-score phonological training task has promise for addressing WFD for Arabic children with EAL. This is in line with previous findings by Howell et al. (2017) on the effectiveness of phonological training in treating WFD. The improvements relative to baseline occurred immediately post-intervention. In ongoing analysis, we process data from follow-up tests to examine whether there are sustained improvements and determine why schools differed.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -412,6 +468,10 @@ Of the 12 hours of video recording, there was only 38 minutes of talking -- the 
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Trivers-Willard hypothesis tested using daylong recordings
 
 [*Valentin Thouzeau, Alejandrina Cristia, Coralie Chevallier*](./authors.md)
@@ -421,6 +481,10 @@ valentin.thouzeau@gmail.com
 The amount of speech produced by adults varies between families, and its determinants are still poorly understood (Ellwood-Lowe et al., 2020). Speech quantity can be construed as a type of investment in children because 1. parents who talk more to their children are spending some effort on the child, and 2. the child can benefit from this effort, since studies have shown over the past years that children with more plentiful language environments subsequently show better language skills (Huttenlocher et. al. 1991; Rowe, 2006; Grantham-McGregor & Smith, 2016). Evolutionary biology, which has been trying to determine trends in parental investment for several decades, provides a novel perspective on the question of why some parents talk more to their child than others. Specifically, the Trivers-Willard hypothesis proposes differences in investment from parents to their sons and daughters as a function of the parental social status and resources. We test this hypothesis reusing data archived in Homebank (Warlaumont et. al.; 2016, Bergelson, 2017). We drew 14 measures of speech quantity and derived the first principal component as a measure of parental investment. The means of language investment were higher for higher SES compared to lower SES, regardless of the gender of the children (Figure 1). The mean difference between the language investment was larger for male children than for female children for higher SES, and was larger for female children than for male children for lower SES. Kruskal-Wallis test was significant (chi-squared = 13.273, p-value = 0.004), indicating that the repartition of the language investment across the sex-SES groups differ. The pairwise-wilcoxon test indicated one significant difference between higher SES males and lower SES males after correction for multiple comparisons (p-value = 0.001). These results align with Trivers-Willard's predictions. They were not pre-registered and remain preliminary because of small sample size, futur extensions with larger dataset and pre-registration could be necessary for further investigations.
 
 ![Attachment](attachments/30-1.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -480,6 +544,10 @@ Due to null findings when analyzing children's performance on the full test tria
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### "How Individual Difference Measures Inform Event Processing in Monolingual and Early and Late Bilingual Spanish Speakers"
 
 [*Cloe Zeidan, Eleonora Rossi*](./authors.md)
@@ -491,6 +559,10 @@ Seminal work on language prediction processes has demonstrated that speakers' la
 
 
 The innovative aspect of this project was to understand how individual differences in bilingual language use and cognitive function modulate event processing. This research produced important preliminary findings showing that prediction and cognitive control abilities modulate real-time event processing in native speakers. In addition, contrary to previous findings, the results demonstrated that early and late- bilinguals were also able to predict as accurately as their monolingual counterparts.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -507,6 +579,10 @@ We tested 36 monolingual, 17 bidialectal and 23 bilingual children in a child-fr
 Results revealed that monolingual children were less likely to choose the correct meaning for the ideophones compared to bidialectal and bilingual children (estimate = 0.374, SE = 0.175, p = 0.033) and that boys were more likely than girls (estimate = 0.506, SE = 0.177, p = 0.004). In the animal label questionnaire, we found that bilinguals used more animal sounds compared to monolinguals (estimate = 1.900, SE = 0.511, p < 0.001) and bidialectals used animal sounds comparable to monolinguals (estimate = - 0.562, SE = 0.525, p = 0.284). 
 
 Taken together, the results confirm that being exposed to two very close languages results in a similar language acquisition as in monolinguals in the domain of animal labels (Bosch & Ramon-Casas, 2014). Beyond, they provide evidence that even a small variation in input as with two dialects and being a boy associated with smaller vocabulary prolongs the sensitivity to sound symbolism and goes hand in hand with a better guessing of ideophones at the age of three years. The findings indicate the assumption that smaller vocabulary and exposure to slightly different languages support symbolic flexibility.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -543,6 +619,10 @@ Preliminary inspection of the data (data collection ongoing; N=51 of a pre-regis
 ![Attachment](attachments/23-1.png)
 
 ![Attachment](attachments/23-2.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -592,6 +672,10 @@ Segmentation of the target words will be inferred by looking at the ERP word fam
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### How does language experience support language development? Short-term priming and long-term learning.
 
 [*Leone Buckle, Katherine Messenger, Holly Branigan, Laura Lindsay*](./authors.md)
@@ -616,6 +700,10 @@ At present, Experiment 1 data show larger priming effects for relative clauses i
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### The changing contributions of prior knowledge and offline processes to vocabulary learning across development
 
 [*Emma James, Gareth Gaskell, Lisa Henderson*](./authors.md)
@@ -631,6 +719,10 @@ We taught participants pseudowords that varied in their number of English phonol
 
 
 In conclusion, phonological neighbour benefits can be reduced following offline consolidation in some circumstances, suggesting that related lexical knowledge and offline processes play complementary—rather than interacting—roles in supporting vocabulary acquisition. However, phonological neighbours have a limited role in accounting for individual variability in word learning, and we consider alternative ways in which learners' prior knowledge might drive differences in vocabulary learning. We highlight the capacity of the developing brain to consolidate new language, and the importance of examining the longevity of prior knowledge influences on new word acquisition.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -663,6 +755,10 @@ Floccia, C., Delle Luche, C., Lepadatu, I., Chow, J., Ratnage, P., & Plunkett, K
 Kroll, J.F., Bobb, S. & Wodniecka, Z. (2006). Language selectivity is the exception, not the rule: Arguments against a fixed locus of language selection in bilingual speech. Bilingualism: Language and Cognition, 9, 119-35.
 Van Hell, J.G. & Tanner, D. (2012). Second language proficiency and cross-language lexical activation. Language Learning, 62 Supplement 2, 148-171.
 Von Holzen, K. & Mani, N. (2012). Language nonselective lexical access in bilingual toddlers. Journal of Experimental Child Psychology, 113, 569-586.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -722,6 +818,10 @@ We trained the RNN on the the child-directed speech data from Study 1. Since thi
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### A computational study of the mechanisms underlying infant speed of processing and vocabulary development
 
 [*Andrew Jessop, Gary Jones, Caroline Rowland*](./authors.md)
@@ -729,6 +829,10 @@ We trained the RNN on the the child-directed speech data from Study 1. Since thi
 andrew.jessop@mpi.nl
 
 During their second year, infants experience rapid vocabulary growth while simultaneously becoming faster and more efficient at processing familiar words (Fernald et al., 2006). Longitudinal studies have found that children with the fastest language processing speeds tend to have larger concurrent vocabularies and faster vocabulary growth throughout development (Peter et al., 2019). However, there is currently no concrete mechanistic account that explains why some children are fast or slow at processing language, and how this speed of processing is related to vocabulary development. The present work used computational models to test two theories of speed of processing. As it is often assumed that there are individual differences in children's intrinsic processing abilities that shape their vocabulary development, the first theory was an intrinsic processing account where speed of processing stems from endogenous differences in the child's ability to process language input. Another possibility is that individual differences in speed of processing reflect variance in the infant's language knowledge, so we also considered whether a more parsimonious experience-only account could capture the findings of previous behavioural studies. These two theories were tested in the CLASSIC model (Jones et al., 2014), which uses chunk-based learning to acquire vocabulary by binding adjacent sequences in the input and learning them as larger chunks. At first, the model needs many small chunks to represent the input, but it gradually shifts to using fewer and larger chunks with experience (e.g., /w/e/n/t/ → /we/nt/ → /went/). We tested the intrinsic processing theory by varying the number of chunks CLASSIC can process at any one time (2-7 chunks on average) while keeping the language input constant. Increasing this limit allows the learner to process more of the input in the same period, thus models that can retain six chunks are faster processors than those limited to three. To test the experience-only theory, this processing limit was held constant and we measured the average number of chunks the model used to process the input, which varied in quantity (5000-30,000 utterances). Here, learners that need fewer chunks are faster, as each chunk incurs a cost and consumes a portion of the limited resources available. The results showed that raising the number of chunks the learner could process led to a larger vocabulary and faster growth, consistent with the intrinsic theory. Furthermore, the models that received the most language input used fewer chunks and tended to have larger concurrent vocabulary sizes, consistent with the experience-only theory. This work represents one of the first mechanistic studies of individual differences in speed of processing and vocabulary development. The results demonstrate that, while this relationship can be modelled by manipulating the learner's intrinsic processing abilities, it can also be observed through a purely emergent process.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -752,6 +856,10 @@ We will recruit 60 participants from each of the following five groups: L1 Engli
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### How the Empirical Distribution of Words Solves the Variability Problem in Child-Directed Speech
 
 [*Maja Linke, Michael Ramscar*](./authors.md)
@@ -769,6 +877,10 @@ To examine whether support for this model of probabilistic alignment could also 
 The results of these analyses show how the distributions of forms in child/caregiver speech solve the problem of random variance in the sampling process. Moreover, the distributions observed in the sample provide further support for the suggestion that human communicative codes are structured in a way that maintains alignment between speakers independent of the time and the rate at which they are exposed to speech (Fig. 1).
 
 ![Attachment](attachments/28-1.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -793,6 +905,10 @@ Next, we considered alternative hypotheses about the integration process itself.
 This research shows that children flexibly integrate multiple information sources during language learning. To answer the question of how children integrate information, we presented a formal cognitive model that assumes that information sources are rationally integrated via Bayesian inference.
 
 ![Attachment](attachments/98-1.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -863,6 +979,10 @@ The results confirmed our predictions of written language being more grammatical
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Teachers interventions and vocabulary development in kindergarten in Argentina
 
 [*Sebastián Carignano, Alejandra Menti, María Patricia Paolantonio, María Paula Dutari*](./authors.md)
@@ -886,6 +1006,10 @@ Green. J. L. & Weade, R. (1987). In search of meaning: A sociolinguistic perspec
 Green, J. L., Weade, R. & Graham, K. (1988). Lesson construction and student participation: A sociolinguistic analysis. En J. Green y J. O. Harke (Eds.), Multiple perspective analysis of classroom discourse (pp. 11-47). Norwood, New Jersey: Ablex Publishing Corporation.
 
 Nash, H. & Snowling, M. (2006). Teaching new words to children with poor existing vocabulary knowledge: a controlled evaluation of the definition and context methods. International Journal of Language and Communication Disorders, 41(3), 335-354. doi: 10.1080/13682820600602295
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -917,6 +1041,10 @@ Prediger, S., & Wessels, S. (2011). Relating registers for fractions — multili
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Day-by-day vocabulary learning through reading aloud at home
 
 [*Kirsten Read*](./authors.md)
@@ -932,6 +1060,10 @@ Findings indicate that after five days of reading, children retained the novel m
 In addition, we have found that the amount and diversity of conversational elements varied much more across parent-child pairs than within pairs over time -- pairs tended to adopt a consistent reading style, even as the book became more familiar over 5 days. The results from this study also indicate that the effects for some pairs of employing more dialogic reading strategies (e.g., more extra-textual commentary and use of highlighting devices) have a stronger impact on children's ability to recall and produce the novel words compared to the effect these strategies have on children's simple retention and identification of the words, which was often at ceiling after five days of hearing the story. Finally, children in this study were overall more successful at remembering the novel words than in previous studies using the same monster books, likely because here in this study they had the opportunity to participate in more natural "every day" interactions through repeated readings at home. 
 
 In sum, this work explores deeply the range of ways that parents use the text of a book and their own intuitions to help children engage with and learn new vocabulary. Because this work takes into account both simple controlled book-level differences as well as the spontaneous highlighting strategies that parents employ, we are able to see how book type (rhymed or unrhymed) may act as a moderator, as well as which highlighting strategies are most useful for children's later novel word retention in natural, ecologically valid contexts. Findings from this work will help us more fully understand how shared reading is such fertile ground for young children's vocabulary growth.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -953,6 +1085,10 @@ Odlin, T. (1989). Language Transfer. Cross-Linguistic Influence in Language Lear
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Bilingual Learning in Infant Education Centers in Madrid: The Effects of Poverty
 
 [*Wenjun Ma, Patricia K. Kuhl, Naja Ferjan Ramirez*](./authors.md)
@@ -970,6 +1106,10 @@ Infants' English production was assessed using the LENA recorders placed in the 
 Our previous research has shown that infants, across SES, have the capacity to begin acquiring two languages in the context of early education centers, if the environment is social and engages them through high-quality and quantity language input. The present findings extend our previous results to infants living in extreme poverty and support the idea of the overall robustness of infants' ability to learn two languages if high-quality input is provided.
 
 ![Attachment](attachments/55-1.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1003,6 +1143,10 @@ Among the US families, preliminary results show other children used a higher pro
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Toddlers raised in multi-dialectal families learn words better in accented speech than those raised in monodialectal families
 
 [*Natalia Kartushina, Audun Rosslund, Julien Mayor*](./authors.md)
@@ -1014,6 +1158,10 @@ Many infants grow up in multi-accent environments, which offer rich but inconsis
 The current study examined whether multi-accent variability affects infants' ability to learn words and whether toddlers' prior experience with accents modulates learning. To address these questions, we designed a child-friendly audiovisual tablet-based e-storybook 'Krokko og Grynte på fisketur" and embedded four novel pseudowords into the story, each referring to a novel object. Two audio conditions were created: in the multi-accent condition, the audio narration was recorded in three distinct Norwegian accents, whereas in the single-accent condition, it was in one Norwegian accent. The e-book was presented, twice per day, to thirty 2.5-year-old Norwegian toddlers, in their kindergarten, for one week. Half of them were assigned to multi-accent and the other half to single-accent condition. Toddlers' age, gender and vocabulary size were matched between groups. Word learning was assessed in a four-alternative forced-choice identification. 
 
 The results revealed no differences between conditions, suggesting that multi-accent variability did not hinder toddlers' word learning. Yet, in the multi-accent condition, toddlers exposed to dialects at home showed significantly larger improvements than toddlers growing up in uniformly-accented families, suggesting that accent exposure benefits learning in multi-accent environments, and thus revealing, for the first time, advantages of bi-accent home exposure on language development in an ecological setting.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1035,6 +1183,10 @@ We conducted a pilot study with sixteen bi- and trilingual children (mean age 5;
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Properties of child-directed speech in bilingual parents: A study of partial repetitions
 
 [*Luca Onnis, Yezhou Li*](./authors.md)
@@ -1046,6 +1198,10 @@ How parents talk to young children matters to language and cognitive development
 Figure 1. An excerpt from the questionnaire demonstrating to parents how they should respond to the questions on their relative language proficiency: for each aspect of language usage, namely reading, writing, listening and speaking, they would rate their relative ability of the languages they know, summing to 100% across the known languages.
 
 ![Attachment](attachments/21-1.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1125,6 +1281,10 @@ Integrating across studies is difficult as any divergence in results may relate 
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Mother-baby interactions: prosody variations according to maternal depression and infant age.
 
 [*María Patricia Paolantonio, Laura M. V. Manoiloff, Ana E. Faas*](./authors.md)
@@ -1146,6 +1306,10 @@ These findings showed that IDS used in mothers with PPD loses the melodic qualit
 The results are discussed in relation to those guidelines of the interactionist theories of language acquisition that relate the quality of the early link in the first months of children's life with their environment and its incidence on prelinguistic development and subjective construction.
 
 Furthermore, the results could lead us to a diagnosis method that facilitates the detection of maladjustments during mother-infant communicative interactions based on prosodic and verbal production objective patterns.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1171,6 +1335,10 @@ An analysis of the frequency of Tseltal consonant types can be seen in Figure 1,
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### C[l]V is not a good enough C/ɾ/V, even if you say so: Asymmetric mispronunciation detection of liquids in Brazilian Portuguese
 
 [*Andressa Toni*](./authors.md)
@@ -1182,6 +1350,10 @@ This study investigates the role of syllable structure on the production and per
 ![Attachment](attachments/96-1.png)
 
 ![Attachment](attachments/96-2.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1225,6 +1397,10 @@ References: [1] O'Neill (2007). The Language Use Inventory: A parent-report meas
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Individual variability in children's assessment of ironic speaker motivations
 
 [*Vera Hukker, Simone Sprenger, Petra Hendriks*](./authors.md)
@@ -1242,6 +1418,10 @@ The ironic interpretation of an utterance such as "Great weather!" requires comp
 ![Attachment](attachments/19-1.png)
 
 ![Attachment](attachments/19-2.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1303,6 +1483,11 @@ Schwartz M., Minkov M. 2014. Russian case system acquisition among russian–heb
 
 ---
 
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Acquiring the Dutch plural in a bilingual setting: Cross-linguistic influence from English to Dutch
 
 [*Darlene Keydeniers, Suzanne Aalberse, Sible Andringa, Folkert Kuiken*](./authors.md)
@@ -1361,6 +1546,11 @@ Moro, F. R. (2016). Dynamics of Ambon Malay: Comparing Ambon and the Netherlands
 
 ---
 
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### An Assessment of Functional Categories in Hindi-English Bilingually Developing Young Children
 
 [*Rita Mathur*](./authors.md)
@@ -1384,6 +1574,11 @@ Data were coded and entered in a Microsoft Excel spreadsheet. All statistical an
 The result of the assessment provided the evidence that children have acquired parameters of two languages.  The study also concludes that early grammar of bilingually developing children was well structured. We have got evidence that the knowledge about Agreement Phrase (AgrP), Tense phrase (TP) and Complementizer phrase (CP) was available with children in early years.  Children have comprehended Person, Number and Gender (PNG) markers in both the languages with right values. Both the languages differ in word order parameter. English is head initial language where as Hindi is head final language. More over Hindi is a prodrop language where English is not. The results have provided the evidence that children's utterances were error free as far as word order and prodrop parameter was concerned. It may be concluded that bilingually developing children acquire two grammatical systems. 
 
 X2 test was used to assess bivariate association between categorical variables. If probability associated with the X2 test was <0.05; we asserted that correlation between variables was significant.
+
+---
+
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1419,6 +1614,10 @@ Children make few pronoun case errors.  There is considerable variability in err
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### The acquisition of optionality in Akan wh-questions
 
 [*Paul O. Omane, Barbara Höhle*](./authors.md)
@@ -1428,6 +1627,10 @@ omaneokyere@hotmail.com
 Previous research on the acquisition of wh-questions over the years suggests that children are constrained in the derivation of wh-questions as a consequence of complex syntactic movement operations. Hence, for languages that offer variations to its speakers (e.g. French), children may favour the less complex structure that is available in their input. In previous spontaneous speech analyses (Crisma, 19992; Hamann 2000, 2006) and experimental studies (see Zuckerman & Hulk, 2001; Hamann, 2006), it has been shown that children acquiring French use the in-situ wh-questions whereas wh-questions that require inversions and overt movement are initially absent. This indicates that children initially have a preference for in-situ wh-questions over ex-situ questions. These findings provide evidence for the role of the Derivational Complexity Hypothesis (DCH)/Derivational Complexity Metric (DCM) in the acquisition of French. The DCH (Jakubowicz, 2004) claims that during language development, less complex derivations are input convergent, that is, correctly spelled out or pronounced before more complex ones. The assumptions of the DCM (Jakubowicz, 2005) are that, merging αi n times gives rise to a less complex derivation than merging αi (n+1) times. Also, internal merging of α gives rise to a less complex derivation than internal merge of α+β. We tested the predictions of the DCH and the DCM in another language, Akan – a language spoken in Ghana belonging to the Kwa, Niger-Congo group - that offers variation in the formation of wh-questions. We tested 44 Akan-speaking children (ages 4;0 – 4;11, N=21, M: 53.24 months, SD=3.30 and 5;0 – 5;11, N=23, M=64.65 months, SD=3.64) and 22 adults in a sentence repetition task. Participants were asked to imitate grammatical and ungrammatical who, what and where-questions. Stimuli were presented auditorily by the researcher. The grammatical question condition included both ex-situ and in-situ questions. An ex-situ grammatical sentence has an obligatory morpheme na which occurs after the fronted wh-word. For ex-situ who-questions, there is always an overt pronoun (resumptive pronoun (RP)) that replaces the fronted wh-word at the extracted site. However, there is no such overt RP at the extracted site in ex-situ where and what-questions.  In-situ grammatical sentences followed the SVO word order of the Akan language. The wh-word remains in its canonical position (at sentence final) without any movement. In the ungrammatical sentence condition, we used only the ex-situ structure but left out the obligatory clitic morpheme and the resumptive pronoun. This made it possible for us to test whether children would switch from the more complex ex-situ structure to the less complex in-situ structure or whether they would maintain the provided structure and fill in the obligatory missing morphemes in their corrections in the ungrammatical questions. Our findings showed that 4-and 5-year-olds as well as adults preferred to maintain the more complex ex-situ structure and inserted the missing obligatory morphemes rather than switching to the less complex in-situ question structure. Both child groups and adults make a difference between grammatical and ungrammatical sentences. They produced more exact repetitions in the grammatical sentences than in the ungrammatical sentences. We discuss our findings in the light of the DCH and DCM.
 
 Keywords: Acquisition, wh-questions, Akan, in-situ structure, ex-situ structure, Derivational complexity.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1503,6 +1706,10 @@ Discussion. The similarities and differences over time between children, parents
 
 ---
 
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+
+---
+
 #### Quantifying the nature of vocal and gestural activity in infants across the first year
 
 [*Helen L. Long, Megan M. Burkhardt-Reed, Dale D. Bowman, Kimbrough D. Oller*](./authors.md)
@@ -1518,6 +1725,10 @@ Overall, infants used about three times as many endogenous protophones as social
 ![Attachment](attachments/17-1.png)
 
 ![Attachment](attachments/17-2.png)
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1538,6 +1749,10 @@ For this study, we analyzed interpersonal interaction using a video that was pre
 For both episodes, we investigated the attunement of velocity and acceleration of child's and mentor's hand movements. First, we visualized and described the velocity and acceleration of hand movements over time, across the episodes. Second, we applied Cross-Recurrence Quantification Analysis (CRQA) on the timeseries of the velocity and acceleration of child's and mentor's hand movements. CRQA informs about the stability, strength and dynamics of coordination between two coupled dynamical systems, in this case the child and their mentor. We found that the movement profiles in the disharmonious interaction were more capricious than in the harmonious interaction. Furthermore, we found a more evenly balanced leader-follower pattern and more attunement in the harmonious interaction, compared to the disharmonious interaction. Our results thus show that the way in which the child with congenital deafblindness and their mentor move their hands together from moment to moment is closely related to the global nature of their interpersonal interaction. 
 
 Our study is the first to apply a combination of detailed motion tracking and coordination dynamics analysis with more qualitative methods to investigate the interpersonal interactions between children with deafblindness and significant others. Using these methods, we found that harmonicity of the interaction is evident from the coupling and attunement between the child and their environment over time. Similarly, opportunities for language development arise from coordination between the child and their environment – and in fact are intertwined with harmonicity itself. We therefore believe that more studies on coordination between children and their environment will lead to a better understanding of the many paths leading to language for children with deafblindness.
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
@@ -1562,6 +1777,10 @@ We conducted repeated measures ANOVA on the proportions of iconic gestures (as a
 We found support for our hypothesis, according to which the amount and types of children's iconic gesture use differ depending on the interactive demands of the genre. Overall, we found a trend suggesting that gestures occur less during Retelling that in other genres. When looking at the correlation of the different types, we found more similarity between Retelling and Illustration (with the pattern of hand-as-hand correlating with hand-as-object) than in Explanation, which latter genre gave rise to more gestures of the type hand-as-neutral and a correlation between this type and hand-as-hand. The genres seem thus to raise specific interactive demands reflected by the differences in gestural occurrence.
 
 With respect to the cognitive demands, we found that children gesture more when they recall a story from a video in comparison to a picture book that was read to them—a finding that lines up with previous literature (Hostetter & Alibali, 2008). 
+
+---
+
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
 ---
 
