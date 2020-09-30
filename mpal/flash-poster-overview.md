@@ -1,6 +1,7 @@
 # Many Paths to Language
 
-Go to [Main page](../MPaL_handbook.md)
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))
+
 
 ---
 
@@ -34,4 +35,4 @@ The role of experience in shaping language processing: Insights from non-industr
 
 ---
 
-Go to [Main page](../MPaL_handbook.md)
+Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](MPaL_handbook_Paris.md)/[Singapore](MPaL_handbook_Singapore.md))

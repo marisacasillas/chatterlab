@@ -1,6 +1,7 @@
 # Many Paths to Language Handbook
 
-## Program Overview: San Francisco time (GMT -7)
+## Program Overview: Singapore time (GMT +8)
+Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
@@ -67,3 +68,4 @@
 18.00 &nbsp;&nbsp;&nbsp; End program day 2
 
 ---
+Go to the [Welcome page](MPaL_handbook.md) to see other timezones

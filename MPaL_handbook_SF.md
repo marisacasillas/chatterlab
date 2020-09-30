@@ -1,6 +1,7 @@
 # Many Paths to Language Handbook
 
 ## Program Overview: San Francisco time (GMT -7)
+Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 ### Thursday, 22 October 2020
 10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks**
@@ -68,3 +69,4 @@
 
 ---
 
+Go to the [Welcome page](MPaL_handbook.md) to see other timezones
