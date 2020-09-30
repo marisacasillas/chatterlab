@@ -175,31 +175,6 @@ Go to [Main page](../MPaL_handbook.md)
 
 #### 22 October 11.30 - 12.30
 
-#### Varying relationships between parent input and the neural mechanisms of language development in infants at high and low risk for Autism
-
-[*Rachel R. Romeo, April Boin Choi, Laurel J. Gabard-Durnam, Carol L. Wilkinson, April R. Levin, Helen Tager-Flusberg, Charles A. Nelson III*](./authors.md)
-
-rachelromeo@gmail.com
-
-Introduction: Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterized by general impairments in social communication skills, though children with ASD vary greatly in the development of other receptive and expressive language skills. Because early language skills predict later functioning in individuals with ASD, it is critical to better understand factors that influence language development in this population, how this may differ from typically developing children, and the neurobiological mechanisms by which these factors influence early development. 
-
-Methods: We investigated these questions in a subsample of infant-mother dyads from a longitudinal, prospective study of ASD biomarkers in 218 infants at either high familial risk of ASD (HRA) due to having an older sibling with ASD, or low risk controls (LRC) who have no family history of ASD. The present subsample (n=48) included 25 LRC and 23 HRA infants, of whom 12 received ASD diagnoses (HRA+, oversampled) and 11 did not (HRA-). At 18 months of age, dyads engaged in 10 minutes of free-play with a set of experimenter-provided toys. Videos were transcribed verbatim and three measures of parent language input were extracted, including quantitative measures (word tokens) and qualitative measures of lexical diversity (word types) and grammatical complexity (mean length of utterance [MLU] in morphemes). At 24 months, standardized assessments of receptive and expressive language skills (Mullen Scales of Early Learning) and high-density resting-state electroencephalography (EEG) were collected. The EEG measure of interest is power in the gamma band (30-50 Hz) over the frontal scalp region, which has previously been found to relate to children's development of language and higher cognitive skills. 
-
-Results: In the sample as a whole, all three input measures (types, tokens, and MLU) were positively correlated with expressive MSEL scores, indicating that infants exposed to greater quantity and quality of input at 18 months exhibited greater expressive language scores 6 months later. Only tokens correlated with receptive MSEL scores. A group-by-input interaction indicated that HRA infants showed stronger input-skill relationships than LRC infants, and within the HRA group, HRA+ infants showed stronger input-skill relationships than HRA- infants (Figure 1). Furthermore, in high risk infants, greater/higher quality input was correlated with lower baseline frontal gamma power, which significantly mediated relationships between input and later expressive language scores (Figure 2).
-
-Conclusion: Results indicate frontal gamma power as a mechanism linking quantitative and qualitative measures of language input to language development in infants at elevated risk of ASD, and importantly, suggest that neural mechanisms underlying language input-output relationships vary depending on ASD risk and diagnosis. Furthermore, findings of a moderation by group suggest that infants at familial risk of ASD may be even more sensitive to the quantity and quality of their language environments. This has important implications for early intervention to support language development in high-risk children.
-
-![Attachment](attachments/20-1.png)
-
-![Attachment](attachments/20-2.png)
-
----
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 #### Naturalistic language input to Blind, Deaf/Hard-of Hearing, and typically-developing infants: A quantitative and qualitative analysis
 
 [*Erin E. Campbell, Sarp Uner, Elika Bergelson*](./authors.md)
@@ -214,8 +189,6 @@ Analysis 2: We collected 30-minute video-recordings of unstructured parent-child
 
 Taken together, these results suggest that (1) blind, DHH, and typically-developing infants are exposed to approximately the same amount of linguistic input but that (2) the content of this input may be tailored to the child's sensory experience, particularly for DHH infants. Notably, speech in the environment of DHH infants may misrepresent speech heard by these children; our qualitative result of fewer hearing-related adjectives said to DHH infants highlights a further difference in their input. In contrast, while Ns are low, blind infants appear to hear similar speech input as sighted peers, with more work needed. These results provide initial data on how much parents talk to blind, DHH, and typically-developing infants, and how modality-specific this language input may be. This in turn has implications for the language learning trajectories and lexicons of infants with differing sensory experiences.
 
-
-
 \* In US/Europe: Incidence of blindness in children is 3/10,000; incidence of DHH (>40 dB) is ~10/10,000 (Gilbert 2003; CDC, n.d.). This difference is reflected in our sample sizes; recruitment is ongoing.
 
 ![Attachment](attachments/95-1.png)
@@ -223,6 +196,11 @@ Taken together, these results suggest that (1) blind, DHH, and typically-develop
 ![Attachment](attachments/95-2.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Task-dependent impact of adult words on vocalization patterns in Angelman and Down Syndromes
 
@@ -241,6 +219,31 @@ Conclusion: We found that children in both groups tend to vocalize at higher rat
 ![Attachment](attachments/72-01.png)
 
 ![Attachment](attachments/72-02.png)
+
+---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### Varying relationships between parent input and the neural mechanisms of language development in infants at high and low risk for Autism
+
+[*Rachel R. Romeo, April Boin Choi, Laurel J. Gabard-Durnam, Carol L. Wilkinson, April R. Levin, Helen Tager-Flusberg, Charles A. Nelson III*](./authors.md)
+
+rachelromeo@gmail.com
+
+Introduction: Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterized by general impairments in social communication skills, though children with ASD vary greatly in the development of other receptive and expressive language skills. Because early language skills predict later functioning in individuals with ASD, it is critical to better understand factors that influence language development in this population, how this may differ from typically developing children, and the neurobiological mechanisms by which these factors influence early development. 
+
+Methods: We investigated these questions in a subsample of infant-mother dyads from a longitudinal, prospective study of ASD biomarkers in 218 infants at either high familial risk of ASD (HRA) due to having an older sibling with ASD, or low risk controls (LRC) who have no family history of ASD. The present subsample (n=48) included 25 LRC and 23 HRA infants, of whom 12 received ASD diagnoses (HRA+, oversampled) and 11 did not (HRA-). At 18 months of age, dyads engaged in 10 minutes of free-play with a set of experimenter-provided toys. Videos were transcribed verbatim and three measures of parent language input were extracted, including quantitative measures (word tokens) and qualitative measures of lexical diversity (word types) and grammatical complexity (mean length of utterance [MLU] in morphemes). At 24 months, standardized assessments of receptive and expressive language skills (Mullen Scales of Early Learning) and high-density resting-state electroencephalography (EEG) were collected. The EEG measure of interest is power in the gamma band (30-50 Hz) over the frontal scalp region, which has previously been found to relate to children's development of language and higher cognitive skills. 
+
+Results: In the sample as a whole, all three input measures (types, tokens, and MLU) were positively correlated with expressive MSEL scores, indicating that infants exposed to greater quantity and quality of input at 18 months exhibited greater expressive language scores 6 months later. Only tokens correlated with receptive MSEL scores. A group-by-input interaction indicated that HRA infants showed stronger input-skill relationships than LRC infants, and within the HRA group, HRA+ infants showed stronger input-skill relationships than HRA- infants (Figure 1). Furthermore, in high risk infants, greater/higher quality input was correlated with lower baseline frontal gamma power, which significantly mediated relationships between input and later expressive language scores (Figure 2).
+
+Conclusion: Results indicate frontal gamma power as a mechanism linking quantitative and qualitative measures of language input to language development in infants at elevated risk of ASD, and importantly, suggest that neural mechanisms underlying language input-output relationships vary depending on ASD risk and diagnosis. Furthermore, findings of a moderation by group suggest that infants at familial risk of ASD may be even more sensitive to the quantity and quality of their language environments. This has important implications for early intervention to support language development in high-risk children.
+
+![Attachment](attachments/20-1.png)
+
+![Attachment](attachments/20-2.png)
 
 ---
 <br/>
@@ -281,6 +284,11 @@ We found that individual differences in parent GL use were stable over time, whe
 ![Attachment](attachments/50-2.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1 acquisition
 
@@ -305,6 +313,11 @@ The comprehension results confirm that children can use prosody to aid comprehen
 ![Attachment](attachments/85-2.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Characterising lexical richness in the language of children's books
 
@@ -339,6 +352,27 @@ Go to [Main page](../MPaL_handbook.md)
 
 #### 22 October 13.15 - 14.15
 
+#### Predicting lexical processing efficiency at 9 Months from the home language environment: Child-directed vs. ambient speech
+
+[*Jayde E. Homer, Abbie Thompson, Jill Lany*](./authors.md)
+
+jaydehomer@wustl.edu
+
+By 18 months of age, lexical-processing efficiency (LPE), or the speed and accuracy with which infants comprehend familiar words, leverages subsequent gains in language development (Marchman & Fernald, 2008). At this age, LPE is more strongly driven by child-directed speech (CDS) than by the sheer quantity of words heard in the home (Weisleder & Fernald, 2013). While this suggests that only speech directed to children supports language development, the aspects of the language environment that matter most can change across development (Rowe, 2012). Infants begin to comprehend words by 6 months, likely supported by advances in speech-sound perception and word segmentation. Both speech-sound perception and word segmentation rely on extracting statistical regularities, and are likely to be impacted by experience with ambient speech. Thus, we asked whether the total amount of speech that young infants hear is relevant to their developing LPE. We assessed 38 infants (primarily White and learning American English) at 9 months of age on their home language environment (HLE) and LPE. HLE was assessed by collecting 16 hours of audio recordings via LENA devices. LENA software provides automatic estimates of adult-produced word counts (AWC16). We identified two non-consecutive hours containing the most speech an infant heard across the two days (AWC2). We transcribed all the audible speech within those segments and annotated each utterance as CDS or Overheard Speech (OHS). Using these codes, we computed specific measures of HLE: tokens (total word count), types (number of unique words), and the type-to-token ratio (TTR; reflects both the amount of speech and its repetitiveness) for total speech, CDS, and OHS. These common measures provided estimates of language input that go beyond counts by telling us whether infants hear many of the same words repeated, or instead hear a diverse set of words.
+
+LPE was assessed using a looking-while-listening task, in which infants saw images of two familiar items taken from a set of four early-learned items (i.e., dog, kitty, milk, banana) and heard the label for one of them. Infants' received an accuracy score reflecting the average proportion of time spent looking at the labelled item between 300ms and 3,300ms post label-onset. Replicating Bergelson and Swingley (2012), infants showed evidence of comprehension (M = .53, SD = .09) above chance (t(37) = 2.42, p < .05). Measures of the HLE revealed that the average AWC16 was 20395.03 words (SD = 10717.30), and AWC2 was 6080.66 words (SD = 2712.04), as shown in Figure 1. The word count of the transcribed two-hours recordings yielded slightly higher word counts than the LENA measures on that same sample (i.e. AWC2). In our transcriptions (Figure 2), infants heard 8213.79 words on average (SD = 3787.36), 26% of which was classified as CDS. Separate linear regressions revealed that AWC16 significantly predicted greater LPE (p < .05) while AWC2 did not. CDS tokens and types also did not significantly predict LPE (p = .78). In a multiple regression, AWC16 significantly predicted greater LPE (p < .05), while CDS tokens did not (p = .62). Thus, the only significant predictor was AWC16. Note that AWC16 was positively correlated (r = .38, p < .05) with maternal education (M = 16.42, SD = 2.57), while CDS token counts were not (p = .13). Maternal education was also correlated with LPE  (r = .41, p < .01), supporting the possibility that the AWC16 captures important variance that is associated with LPE. These results suggest that in the first year of life, the sheer amount of language infants hear may be more important to shaping lexical-processing skills than more fine-grained measures of smaller HLE samples, like CDS, or more specific features of the CDS, e.g. lexical diversity and repetitiveness. Thus, while CDS plays a stronger role in shaping toddlers' language development, the importance of ambient speech in early language development should not be discounted.
+
+![Attachment](attachments/13-1.png)
+
+![Attachment](attachments/13-2.png)
+
+---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 #### Investigating the interplay between parental speech input, speed of processing and vocabulary development
 
 [*Julia Egger, Caroline Rowland, Christina Bergmann*](./authors.md)
@@ -362,22 +396,12 @@ To be able to both quantify support for the alternative and the null hypothesis,
 ![Attachment](attachments/1-1.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-#### Predicting lexical processing efficiency at 9 Months from the home language environment: Child-directed vs. ambient speech
-
-[*Jayde E. Homer, Abbie Thompson, Jill Lany*](./authors.md)
-
-jaydehomer@wustl.edu
-
-By 18 months of age, lexical-processing efficiency (LPE), or the speed and accuracy with which infants comprehend familiar words, leverages subsequent gains in language development (Marchman & Fernald, 2008). At this age, LPE is more strongly driven by child-directed speech (CDS) than by the sheer quantity of words heard in the home (Weisleder & Fernald, 2013). While this suggests that only speech directed to children supports language development, the aspects of the language environment that matter most can change across development (Rowe, 2012). Infants begin to comprehend words by 6 months, likely supported by advances in speech-sound perception and word segmentation. Both speech-sound perception and word segmentation rely on extracting statistical regularities, and are likely to be impacted by experience with ambient speech. Thus, we asked whether the total amount of speech that young infants hear is relevant to their developing LPE. We assessed 38 infants (primarily White and learning American English) at 9 months of age on their home language environment (HLE) and LPE. HLE was assessed by collecting 16 hours of audio recordings via LENA devices. LENA software provides automatic estimates of adult-produced word counts (AWC16). We identified two non-consecutive hours containing the most speech an infant heard across the two days (AWC2). We transcribed all the audible speech within those segments and annotated each utterance as CDS or Overheard Speech (OHS). Using these codes, we computed specific measures of HLE: tokens (total word count), types (number of unique words), and the type-to-token ratio (TTR; reflects both the amount of speech and its repetitiveness) for total speech, CDS, and OHS. These common measures provided estimates of language input that go beyond counts by telling us whether infants hear many of the same words repeated, or instead hear a diverse set of words.
-
-LPE was assessed using a looking-while-listening task, in which infants saw images of two familiar items taken from a set of four early-learned items (i.e., dog, kitty, milk, banana) and heard the label for one of them. Infants' received an accuracy score reflecting the average proportion of time spent looking at the labelled item between 300ms and 3,300ms post label-onset. Replicating Bergelson and Swingley (2012), infants showed evidence of comprehension (M = .53, SD = .09) above chance (t(37) = 2.42, p < .05). Measures of the HLE revealed that the average AWC16 was 20395.03 words (SD = 10717.30), and AWC2 was 6080.66 words (SD = 2712.04), as shown in Figure 1. The word count of the transcribed two-hours recordings yielded slightly higher word counts than the LENA measures on that same sample (i.e. AWC2). In our transcriptions (Figure 2), infants heard 8213.79 words on average (SD = 3787.36), 26% of which was classified as CDS. Separate linear regressions revealed that AWC16 significantly predicted greater LPE (p < .05) while AWC2 did not. CDS tokens and types also did not significantly predict LPE (p = .78). In a multiple regression, AWC16 significantly predicted greater LPE (p < .05), while CDS tokens did not (p = .62). Thus, the only significant predictor was AWC16. Note that AWC16 was positively correlated (r = .38, p < .05) with maternal education (M = 16.42, SD = 2.57), while CDS token counts were not (p = .13). Maternal education was also correlated with LPE  (r = .41, p < .01), supporting the possibility that the AWC16 captures important variance that is associated with LPE. These results suggest that in the first year of life, the sheer amount of language infants hear may be more important to shaping lexical-processing skills than more fine-grained measures of smaller HLE samples, like CDS, or more specific features of the CDS, e.g. lexical diversity and repetitiveness. Thus, while CDS plays a stronger role in shaping toddlers' language development, the importance of ambient speech in early language development should not be discounted.
-
-![Attachment](attachments/13-1.png)
-
-![Attachment](attachments/13-2.png)
-
----
 
 #### Developmental effects in the on-line use of morphosyntactic markers: Evidence from Tagalog
 
@@ -416,6 +440,31 @@ Go to [Main page](../MPaL_handbook.md)
 
 #### 23 October 11.15 - 12.15
 
+#### The effects of prematurity and socioeconomic deprivation on early speech perception: A story of two different delays.
+
+[*Nayeli Gonzalez-Gomez, France O'Brien, Margaret Harris*](./authors.md)
+
+ngonzalez-gomez@brookes.ac.uk
+
+Two major developmental trajectories have been identified as markers of infants' specialisation on their native language. First, there is an increase in infants' ability to process native sounds and consequently, a preference emerges for the sequences that are either legal or have a high frequency of occurrence in their native language (e.g., Jusczyk, Cutler, & Redanz, 1993; Jusczyk, Luce, & Charles-Luce,  1994; Höhle,  Bijeljac-Babic, Herold, Weissenborn, & Nazzi, T. 2009). Second, infants' ability to process non-native sounds decreases over time, a process known as perceptual narrowing (e.g., Werker, & Tees, 1984; Mattock, & Burnham, 2006). These processes of learning have been assumed to be “universal” (Arnett, 2008). However, the vast majority of developmental studies have relied on “convenience samples”, consisting of infants born full term and from higher-SES families, which are, for the most part, unrepresentative of the larger population (Henrich, Heine, & Norenzayan, 2010). There is thus no evidence as to how much the time course of learning is affected by maturational and environmental factors. 
+
+The present project addresses this issue. To do so, we investigated early phonological development in cases where: a) maturation is following an altered timetable: infants born preterm; and b) the environment is different: infants from lower-socio-economic status families. The linguistic abilities of both populations have been found to lag well behind their advantaged peers during the school years. Preterm children and children from low-SES families show poorer auditory discrimination and memory, reading difficulties, poor vocabulary, a specific delay in verbal processing and reasoning, less complex expressive language and lower receptive understanding than their matched controls (e.g., for data on preterm children see: Jansson-Verkasalo et al., 2004; Guarini et al., 2009; 2010; Sansavini  et al., 2010; for data on low SES children see: Fernald, Marchman, & Weisleder, 2013; Farkas, & Beron, 2004; Halle, et al., 2009). 
+
+Three longitudinal studies using the head-turn preference procedure and the Intermodal Preferential looking explored 76 English-learning infants' phonetic, prosodic and phonotactic development at 7.5, 9, 10.5 and 12 months of age. The sample included 20 preterm infants from higher-SES families; 18 preterm infants from lower-SES families; 20 full-term infants from higher-SES and 18 full-term infants from lower-SES. Infants' sensitivity to non-native Cantonese tones (i.e., Tones 25 and 33 instantiated on a CV syllable pronounced ‘‘chee”) and a consonant Hindi Contrast (i.e., /t̪/ dental stop vs /t/ retroflex stop, instantiated on a CV syllable pronounced “t̪a”') were used to explore prosodic and phonetic development, respectively (see Fig. 1). Phonotactic development was explored using CVC English pseudo-words with either a high-probability or a low-probability of occurrence in the language. 
+
+Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType + (Age\|SubjectID) + (1\|StimName))  showed no significant differences between the phonetic or the phonotactic development of the preterm and the full-term infants (see Fig. 2). However, a time-lag between preterm and full-term developmental timing for prosody was found. Socioeconomic status didn't have a significant effect on prosodic development. Nevertheless, phonetic and phonotactic development were both affected by SES, infants from lower SES showed discrimination of non-native contrast and a preference for high-frequency sequences later than their more advantaged peers. Overall these results suggest that different constraints apply to the acquisition of different phonological subcomponents.
+
+![Attachment](attachments/78-1.png)
+
+![Attachment](attachments/78-2.png)
+
+---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 #### Reading practices and behaviors of Hispanic parents during shared book reading
 
 [*Daniela Avelar, Adriana Weisleder, Maritza Marquez, Roberta M. Golinkoff*](./authors.md)
@@ -437,6 +486,11 @@ These results provide novel information about reading practices in US Hispanic f
 ![Attachment](attachments/48-2.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Reading ability as a protective factor for word learning among school-aged low socioeconomic status children
 
@@ -453,26 +507,6 @@ Multiple regression analyses indicated that SES was a significant predictor of w
 Our findings replicate previous research demonstrating a positive relationship between SES and language outcomes but extends this work to focus upon the school years. Vocabulary is a critical predictor of word learning ability for all children and having stronger reading abilities early on serves as a protective factor for word learning ability in low-mid SES, young school-aged children. These findings point to different paths by which children's word learning abilities may be impacted by differences in the early home environment.
 
 ![Attachment](attachments/82-1.png)
-
----
-
-#### The effects of prematurity and socioeconomic deprivation on early speech perception: A story of two different delays.
-
-[*Nayeli Gonzalez-Gomez, France O'Brien, Margaret Harris*](./authors.md)
-
-ngonzalez-gomez@brookes.ac.uk
-
-Two major developmental trajectories have been identified as markers of infants' specialisation on their native language. First, there is an increase in infants' ability to process native sounds and consequently, a preference emerges for the sequences that are either legal or have a high frequency of occurrence in their native language (e.g., Jusczyk, Cutler, & Redanz, 1993; Jusczyk, Luce, & Charles-Luce,  1994; Höhle,  Bijeljac-Babic, Herold, Weissenborn, & Nazzi, T. 2009). Second, infants' ability to process non-native sounds decreases over time, a process known as perceptual narrowing (e.g., Werker, & Tees, 1984; Mattock, & Burnham, 2006). These processes of learning have been assumed to be “universal” (Arnett, 2008). However, the vast majority of developmental studies have relied on “convenience samples”, consisting of infants born full term and from higher-SES families, which are, for the most part, unrepresentative of the larger population (Henrich, Heine, & Norenzayan, 2010). There is thus no evidence as to how much the time course of learning is affected by maturational and environmental factors. 
-
-The present project addresses this issue. To do so, we investigated early phonological development in cases where: a) maturation is following an altered timetable: infants born preterm; and b) the environment is different: infants from lower-socio-economic status families. The linguistic abilities of both populations have been found to lag well behind their advantaged peers during the school years. Preterm children and children from low-SES families show poorer auditory discrimination and memory, reading difficulties, poor vocabulary, a specific delay in verbal processing and reasoning, less complex expressive language and lower receptive understanding than their matched controls (e.g., for data on preterm children see: Jansson-Verkasalo et al., 2004; Guarini et al., 2009; 2010; Sansavini  et al., 2010; for data on low SES children see: Fernald, Marchman, & Weisleder, 2013; Farkas, & Beron, 2004; Halle, et al., 2009). 
-
-Three longitudinal studies using the head-turn preference procedure and the Intermodal Preferential looking explored 76 English-learning infants' phonetic, prosodic and phonotactic development at 7.5, 9, 10.5 and 12 months of age. The sample included 20 preterm infants from higher-SES families; 18 preterm infants from lower-SES families; 20 full-term infants from higher-SES and 18 full-term infants from lower-SES. Infants' sensitivity to non-native Cantonese tones (i.e., Tones 25 and 33 instantiated on a CV syllable pronounced ‘‘chee”) and a consonant Hindi Contrast (i.e., /t̪/ dental stop vs /t/ retroflex stop, instantiated on a CV syllable pronounced “t̪a”') were used to explore prosodic and phonetic development, respectively (see Fig. 1). Phonotactic development was explored using CVC English pseudo-words with either a high-probability or a low-probability of occurrence in the language. 
-
-Linear mixed-effects models (i.e., lmer(TotalLook ~ SES * Term * Age * StimType + (Age\|SubjectID) + (1\|StimName))  showed no significant differences between the phonetic or the phonotactic development of the preterm and the full-term infants (see Fig. 2). However, a time-lag between preterm and full-term developmental timing for prosody was found. Socioeconomic status didn't have a significant effect on prosodic development. Nevertheless, phonetic and phonotactic development were both affected by SES, infants from lower SES showed discrimination of non-native contrast and a preference for high-frequency sequences later than their more advantaged peers. Overall these results suggest that different constraints apply to the acquisition of different phonological subcomponents.
-
-![Attachment](attachments/78-1.png)
-
-![Attachment](attachments/78-2.png)
 
 ---
 <br/>
@@ -510,6 +544,11 @@ In sum, empirical studies of children's verb learning usually present children w
 ![Attachment](attachments/73-2.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Bilingual infants disengage faster and switch attention more frequently than monolingual infants
 
@@ -540,10 +579,15 @@ In sum, we found that infants exposed to bilingual environments disengage attent
 ![Attachment](attachments/16-2.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Spot it and learn it! A novel paradigm to examine word learning in school-aged children
 
-[*Helena Levy, Adriana Hanulíková](./authors.md)
+[*Helena Levy, Adriana Hanulíková*](./authors.md)
 
 helena.levy@frequenz.uni-freiburg.de
 
@@ -584,6 +628,52 @@ Go to [Main page](../MPaL_handbook.md)
 
 #### 23 October 13.00 - 14.00
 
+#### Parental mental health, socioeconomic status, and children's verbal abilities
+
+[*Francesca Scheiber, Allison Momany, Paige Nelson, Kelli Ryckman, Ece Demir-Lira*](./authors.md)
+
+francesca-scheiber@uiowa.edu
+
+Previous research has suggested that parental mental health disturbances and socioeconomic status (SES) may influence children's outcomes, including children's cognitive outcomes. Specifically, children of depressed parents and children of low-income parents tend to perform more poorly on measures of academically-relevant skills, like language and math, than their respective counterparts (Hart & Risley, 1995; Weisleder & Fernald, 2013; Pan et al., 2005; Yu & Wilcox-Gok, 2015). Research combining these two variables has suggested that affluence may act as a buffer against the negative effects of parental depression on children's outcomes (Petterson & Albers, 2001). 
+
+In the present study, we sought to extend the literature on the role of parental mental health and SES in children's cognitive abilities in three ways. First, we examined whether prior findings could be replicated. Second, there is a paucity of research on parental mental health disturbances beyond maternal depression; we addressed this by both measuring anxiety in addition to depression and including fathers in our study. Third, little is known about the relationship between parental mental health, SES, and children's outcomes beyond general cognitive ability and verbal abilities; we addressed this by analyzing visual-spatial abilities in addition to verbal abilities.
+
+Participants included 102 children, between the ages of 3 and 5 years, and their parents. Overall, families in this study came from high-SES backgrounds; the average annual household income was $115,761, and 77% of parents had at least a bachelor's degree. Children's verbal and visual-spatial abilities were represented by the Verbal Comprehension Index (VCI) and Block Design subscale on the Wechsler Preschool and Primary Scale of Intelligence (WPPSI-IV), respectively. Parental depression and anxiety were represented by the General Depression and Social Anxiety subscales on the Inventory of Depression and Anxiety Symptoms (IDAS-II), respectively. SES was represented by a composite variable including parental education and family income. 
+
+Results indicated that: 1) parental depression was negatively associated with children's verbal abilities (r(82)= -.303, p = .005) but not visual-spatial abilities (r(86)= -.183, p = .088), 2) parental anxiety was negatively associated with children's verbal abilities (r(89) = -.353, p = .001) but not visual-spatial abilities (r(93)= -.058, p = .579), 3) symptoms of depression predicted children's verbal abilities, even when controlling for SES (Table 1), 4) symptoms of anxiety predicted children's verbal abilities, even when controlling for SES (Table 2), 5) SES neither moderated the effect of symptoms of depression nor of anxiety on children's verbal comprehension.
+
+These results are consistent with previous findings that parental depression may influence children's verbal abilities. This was true even within a relatively high-SES sample. These results also show that parental anxiety, in addition to depression, may influence children's verbal abilities. Additionally, verbal abilities may be more sensitive to parental mental health symptoms than other cognitive domains. Future research should examine the mechanisms through which parental mental health may influence children's cognitive abilities.
+
+![Attachment](attachments/61-1.png)
+
+![Attachment](attachments/61-2.png)
+
+---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### Sources of plasticity in preterm children's vocabulary acquisition: Interacting roles of gestational age and parent-child interactions
+
+[*Paige Nelson, Francesca Scheiber, Allison Momany, Kelli Ryckman, Ece Demir-Lira*](./authors.md)
+
+paige-nelson@uiowa.edu
+
+Children born preterm (< 37 weeks gestational age) risk suffering from delays in their cognitive development compared to their Term peers. Previous literature on Preterm children's development primarily focused on the role of biological factors, e.g. neurological injury. Recently, literature focusing on parental socioeconomic status (SES) has shown that SES might moderate the relationship between prematurity and cognitive outcomes – where negative cognitive outcomes are higher in Preterm children from disadvantaged SES backgrounds compared to those from advantaged backgrounds. However, parental SES is a composite factor consisting of various subcomponents. Studies on Term children highlight the role of more immediate parent-child interactions for children's cognitive development, over and above SES (Demir, Rowe, Heller, Goldin-Meadow, & Levine 2015). Here, we examined the role of parent-child language/literacy activities in Preterm and Term children's language development, in addition to parental SES. Considering the vast literature on the role of gestational age on children's outcomes, we also asked whether parent-child interactions plays the same or a different role for children born at different gestational ages (GA).
+
+We administered two questionnaires to parents – one assessing language/literacy activities, one assessing child vocabulary skill. To assess parent-child language/literacy activities, we asked parents questions about how often they engage in various language/literacy activities with their children. For example, parents were asked how often they identify names of written alphabet letters with their children. To assess children's vocabulary skill, parents were administered the DVAP (Developmental Vocabulary Assessment for Parents) (Libertus, Odic, Feigenson, & Halberda 2015). 59 children 3 to 5 years of age were studied (M = 4.54 years, SD= 0.56) and were divided into four groups based on their gestational age across the full spectrum: 8 Early Preterm children (GA < 32.6 weeks), 10 Late Preterm children (GA 33 - 36.6 weeks), 11 Early Term children (GA 37 - 38.6 weeks), and 30 Term children (GA 39-41.6 weeks). 
+
+We ran a two-way ANOVA with Group (Early Preterm, Late Preterm, Early Term, and Term), Language/literacy activities, and Group X Language/literacy activities interaction to predict DVAP, while controlling for children's age at testing and parent education. Controlling for age at testing and education, there was a trend in the direction of Language/literacy activities varying by group (F (3, 49) = 2.388, p = .08). Follow-up analyses showed that language/literacy activities were more predictive of DVAP for Late Preterm children than other GA groups. There was no significant effect of Group controlling for language/literacy activities. To sum, the results showed that parental cognitive stimulation might predict outcomes more than broad factors, such as parental SES. Further, parent-child interactions might play a larger role for Preterm children – specifically for Late Preterm children. Our results are consistent with the hypothesis that prematurity might exhibit a heightened case of plasticity where environmental influences might play a larger role in children's outcomes than Term (DeMaster, Bick, Johnson, Landry, & Duncan 2019). Further, late prematurity may be at the optimum point for plasticity, which could possibly explain the greater role of input for this group of children.
+
+---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 #### The multivariate genetic architecture of language- and literacy-related abilities: Genetic evidence for different cognitive skill sets
 
 [*Chin Yang Shapland, Ellen Verhoef, George Davey Smith, Simon E. Fisher, Bradley Verhulst, Philip Dale, Beate St Pourcain*](./authors.md)
@@ -607,42 +697,6 @@ Conclusions
 Our findings suggest a spectrum of interrelated, but aetiologically different cognitive skill sets contributing to language, literacy and PWM performance. The pattern of identified genetic and residual structures is consistent with mediated pleiotropy implicating, predominantly, effects of language on literacy.
 
 ---
-
-#### Parental mental health, socioeconomic status, and children's verbal abilities
-
-[*Francesca Scheiber, Allison Momany, Paige Nelson, Kelli Ryckman, Ece Demir-Lira*](./authors.md)
-
-francesca-scheiber@uiowa.edu
-
-Previous research has suggested that parental mental health disturbances and socioeconomic status (SES) may influence children's outcomes, including children's cognitive outcomes. Specifically, children of depressed parents and children of low-income parents tend to perform more poorly on measures of academically-relevant skills, like language and math, than their respective counterparts (Hart & Risley, 1995; Weisleder & Fernald, 2013; Pan et al., 2005; Yu & Wilcox-Gok, 2015). Research combining these two variables has suggested that affluence may act as a buffer against the negative effects of parental depression on children's outcomes (Petterson & Albers, 2001). 
-
-In the present study, we sought to extend the literature on the role of parental mental health and SES in children's cognitive abilities in three ways. First, we examined whether prior findings could be replicated. Second, there is a paucity of research on parental mental health disturbances beyond maternal depression; we addressed this by both measuring anxiety in addition to depression and including fathers in our study. Third, little is known about the relationship between parental mental health, SES, and children's outcomes beyond general cognitive ability and verbal abilities; we addressed this by analyzing visual-spatial abilities in addition to verbal abilities.
-
-Participants included 102 children, between the ages of 3 and 5 years, and their parents. Overall, families in this study came from high-SES backgrounds; the average annual household income was $115,761, and 77% of parents had at least a bachelor's degree. Children's verbal and visual-spatial abilities were represented by the Verbal Comprehension Index (VCI) and Block Design subscale on the Wechsler Preschool and Primary Scale of Intelligence (WPPSI-IV), respectively. Parental depression and anxiety were represented by the General Depression and Social Anxiety subscales on the Inventory of Depression and Anxiety Symptoms (IDAS-II), respectively. SES was represented by a composite variable including parental education and family income. 
-
-Results indicated that: 1) parental depression was negatively associated with children's verbal abilities (r(82)= -.303, p = .005) but not visual-spatial abilities (r(86)= -.183, p = .088), 2) parental anxiety was negatively associated with children's verbal abilities (r(89) = -.353, p = .001) but not visual-spatial abilities (r(93)= -.058, p = .579), 3) symptoms of depression predicted children's verbal abilities, even when controlling for SES (Table 1), 4) symptoms of anxiety predicted children's verbal abilities, even when controlling for SES (Table 2), 5) SES neither moderated the effect of symptoms of depression nor of anxiety on children's verbal comprehension.
-
-These results are consistent with previous findings that parental depression may influence children's verbal abilities. This was true even within a relatively high-SES sample. These results also show that parental anxiety, in addition to depression, may influence children's verbal abilities. Additionally, verbal abilities may be more sensitive to parental mental health symptoms than other cognitive domains. Future research should examine the mechanisms through which parental mental health may influence children's cognitive abilities.
-
-![Attachment](attachments/61-1.png)
-
-![Attachment](attachments/61-2.png)
-
----
-
-#### Sources of plasticity in preterm children's vocabulary acquisition: Interacting roles of gestational age and parent-child interactions
-
-[*Paige Nelson, Francesca Scheiber, Allison Momany, Kelli Ryckman, Ece Demir-Lira*](./authors.md)
-
-paige-nelson@uiowa.edu
-
-Children born preterm (< 37 weeks gestational age) risk suffering from delays in their cognitive development compared to their Term peers. Previous literature on Preterm children's development primarily focused on the role of biological factors, e.g. neurological injury. Recently, literature focusing on parental socioeconomic status (SES) has shown that SES might moderate the relationship between prematurity and cognitive outcomes – where negative cognitive outcomes are higher in Preterm children from disadvantaged SES backgrounds compared to those from advantaged backgrounds. However, parental SES is a composite factor consisting of various subcomponents. Studies on Term children highlight the role of more immediate parent-child interactions for children's cognitive development, over and above SES (Demir, Rowe, Heller, Goldin-Meadow, & Levine 2015). Here, we examined the role of parent-child language/literacy activities in Preterm and Term children's language development, in addition to parental SES. Considering the vast literature on the role of gestational age on children's outcomes, we also asked whether parent-child interactions plays the same or a different role for children born at different gestational ages (GA).
-
-We administered two questionnaires to parents – one assessing language/literacy activities, one assessing child vocabulary skill. To assess parent-child language/literacy activities, we asked parents questions about how often they engage in various language/literacy activities with their children. For example, parents were asked how often they identify names of written alphabet letters with their children. To assess children's vocabulary skill, parents were administered the DVAP (Developmental Vocabulary Assessment for Parents) (Libertus, Odic, Feigenson, & Halberda 2015). 59 children 3 to 5 years of age were studied (M = 4.54 years, SD= 0.56) and were divided into four groups based on their gestational age across the full spectrum: 8 Early Preterm children (GA < 32.6 weeks), 10 Late Preterm children (GA 33 - 36.6 weeks), 11 Early Term children (GA 37 - 38.6 weeks), and 30 Term children (GA 39-41.6 weeks). 
-
-We ran a two-way ANOVA with Group (Early Preterm, Late Preterm, Early Term, and Term), Language/literacy activities, and Group X Language/literacy activities interaction to predict DVAP, while controlling for children's age at testing and parent education. Controlling for age at testing and education, there was a trend in the direction of Language/literacy activities varying by group (F (3, 49) = 2.388, p = .08). Follow-up analyses showed that language/literacy activities were more predictive of DVAP for Late Preterm children than other GA groups. There was no significant effect of Group controlling for language/literacy activities. To sum, the results showed that parental cognitive stimulation might predict outcomes more than broad factors, such as parental SES. Further, parent-child interactions might play a larger role for Preterm children – specifically for Late Preterm children. Our results are consistent with the hypothesis that prematurity might exhibit a heightened case of plasticity where environmental influences might play a larger role in children's outcomes than Term (DeMaster, Bick, Johnson, Landry, & Duncan 2019). Further, late prematurity may be at the optimum point for plasticity, which could possibly explain the greater role of input for this group of children.
-
----
 <br/>
 <br/>
 <br/>
@@ -656,6 +710,27 @@ Go to [Main page](../MPaL_handbook.md)
 ### Prosody and phonology in early infancy
 
 #### 23 October 13.00 - 14.00
+
+#### Measuring phonological systematicity in infants' early words
+
+[*Catherine Laing*](./authors.md)
+
+laingc@cardiff.ac.uk
+
+Early in development, infants' words are often very simple in structure: Early productions are phonologically systematic (Laing, 2019; Vihman, 2016), and reliant on phonological structures that are simple to produce, such as consonant harmony (/beibi/ to represent baby) and open CV syllables (/da/ to represent dog). Furthermore, many of infants' earliest words are phonologically similar: in data from their bilingual (English-Spanish) daughter's early word acquisition, Deuchar and Quay (2000) show that 13 of her first 20 words are produced with a CV structure, and many words are phonologically identical: she produces car, clock, casa ‘house' and cat as /ka/, and papa ‘daddy', pájaro ‘bird' and panda as /pa/. This points to continuity in the transition from babble to words; Vihman (2017) proposes that infants draw on what is most accessible to them in early word production, with earliest words matching the simple structures and stop consonants produced in babble.
+
+Here I analyse the phonological similarity of infants' developing lexicon. Using data from the Providence corpus (Demuth et al., 2006), I analyse over 140,000 word productions from 5 infants (2 males) between ages 0;11 to 3;10. Measures of phonological distance determine the similarity of each word in a recording session with each other word in the same session, and network analysis methodologies are used to identify clusters of phonologically -similar productions. Higher connectivity/similarity within a session suggests systematicity within that given session; this indicates that the infant is drawing on a smaller number of phonological resources (fewer consonant types, more similar phonological structures) in early word production. I hypothesise that systematicity will be higher in earlier sessions, as infants over-generalise well-rehearsed consonants and structures by adapting or simplifying target word forms to these. In later sessions, I expect to see a reduction in systematicity – indicated by lower connectivity and smaller clusters – as infants move towards a more target-like set of lexical items.
+
+Segmental and phonological distance is quantified using methods adopted from Monaghan and colleagues (2010). Preliminary analyses draw on variability-based neighbourhood clustering models (outlined by Gries and Stoll, 2009) and growth curve models: models testing segmental and phonological systematicity over time show a significant effect for the kinds of consonants and structures in infants' early words (Consonants: χ2(2)=12.25, p<.01; Structures: χ2(2)=112.76, p<.001; generated via nested model comparisons). Closer inspection of the results shows a significant decrease in the use of early-learned consonants such as /b/ over time (β=-6.78, t=-3.29; see Figure 1), and a significant increase in the production of closed syllables over time (β=.001, t=5.4). Findings reveal preliminary evidence towards early systematicity giving way to wider phonological variability in infants' developing lexicons.
+
+![Attachment](attachments/101-1.png)
+
+---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Individual variability in infants' cortical tracking of speech rhythm relates to their word segmentation performance
 
@@ -678,6 +753,11 @@ To conclude, infant brains synchronise to the rhythm of both simple beeps and sp
 ![Attachment](attachments/58-2.png)
 
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### Opportunities and challenges of setting up global large-scale replications: ManyBabies1-Africa
 
@@ -696,22 +776,11 @@ In sum, this study will measure the generalizability of a key infancy finding �
 ![Attachment](attachments/99-2.png)
 
 ---
-
-#### Measuring phonological systematicity in infants' early words
-
-[*Catherine Laing*](./authors.md)
-
-laingc@cardiff.ac.uk
-
-Early in development, infants' words are often very simple in structure: Early productions are phonologically systematic (Laing, 2019; Vihman, 2016), and reliant on phonological structures that are simple to produce, such as consonant harmony (/beibi/ to represent baby) and open CV syllables (/da/ to represent dog). Furthermore, many of infants' earliest words are phonologically similar: in data from their bilingual (English-Spanish) daughter's early word acquisition, Deuchar and Quay (2000) show that 13 of her first 20 words are produced with a CV structure, and many words are phonologically identical: she produces car, clock, casa ‘house' and cat as /ka/, and papa ‘daddy', pájaro ‘bird' and panda as /pa/. This points to continuity in the transition from babble to words; Vihman (2017) proposes that infants draw on what is most accessible to them in early word production, with earliest words matching the simple structures and stop consonants produced in babble.
-
-Here I analyse the phonological similarity of infants' developing lexicon. Using data from the Providence corpus (Demuth et al., 2006), I analyse over 140,000 word productions from 5 infants (2 males) between ages 0;11 to 3;10. Measures of phonological distance determine the similarity of each word in a recording session with each other word in the same session, and network analysis methodologies are used to identify clusters of phonologically -similar productions. Higher connectivity/similarity within a session suggests systematicity within that given session; this indicates that the infant is drawing on a smaller number of phonological resources (fewer consonant types, more similar phonological structures) in early word production. I hypothesise that systematicity will be higher in earlier sessions, as infants over-generalise well-rehearsed consonants and structures by adapting or simplifying target word forms to these. In later sessions, I expect to see a reduction in systematicity – indicated by lower connectivity and smaller clusters – as infants move towards a more target-like set of lexical items.
-
-Segmental and phonological distance is quantified using methods adopted from Monaghan and colleagues (2010). Preliminary analyses draw on variability-based neighbourhood clustering models (outlined by Gries and Stoll, 2009) and growth curve models: models testing segmental and phonological systematicity over time show a significant effect for the kinds of consonants and structures in infants' early words (Consonants: χ2(2)=12.25, p<.01; Structures: χ2(2)=112.76, p<.001; generated via nested model comparisons). Closer inspection of the results shows a significant decrease in the use of early-learned consonants such as /b/ over time (β=-6.78, t=-3.29; see Figure 1), and a significant increase in the production of closed syllables over time (β=.001, t=5.4). Findings reveal preliminary evidence towards early systematicity giving way to wider phonological variability in infants' developing lexicons.
-
-![Attachment](attachments/101-1.png)
-
----
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Go to [Main page](../MPaL_handbook.md)
 
