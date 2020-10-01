@@ -185,7 +185,7 @@ Quantifying the role of rhythm in infants’ language discrimination abilities: 
 
 ### Discourse and pragmatics
 
-Pragmatic language assessment and development in children before the age of 4: Crosslinguistic insights using the Language Use Inventory, *Daniela O'Neill, Diane Pesco, Anabela Cruz-Santos, Cristiana Guimarães* [abstract](./poster-abstracts.md#pragmatic-language-assessment-and-development-in-children-before-the-age-of-4-crosslinguistic-insights-using-the-language-use-inventory) **Live Q&A: [Paris]**
+Pragmatic language assessment and development in children before the age of 4: Crosslinguistic insights using the Language Use Inventory, *Cristiana Guimarães, Daniela O'Neill, Diane Pesco, Anabela Cruz-Santos* [abstract](./poster-abstracts.md#pragmatic-language-assessment-and-development-in-children-before-the-age-of-4-crosslinguistic-insights-using-the-language-use-inventory) **Live Q&A: [Paris]**
 
 Individual variability in children’s assessment of ironic speaker motivations, *Vera Hukker, Simone Sprenger, Petra Hendriks* [abstract](./poster-abstracts.md#individual-variability-in-childrens-assessment-of-ironic-speaker-motivations) **Live Q&A: [SF] [Paris]**
 

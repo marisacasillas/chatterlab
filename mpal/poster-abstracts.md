@@ -1383,9 +1383,9 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Pragmatic language assessment and development in children before the age of 4: Crosslinguistic insights using the Language Use Inventory
 
-[*Daniela O'Neill, Diane Pesco, Anabela Cruz-Santos, Cristiana Guimarães*](./authors.md)
+[*Cristiana Guimarães, Daniela O'Neill, Diane Pesco, Anabela Cruz-Santos*](./authors.md)
 
-doneill@uwaterloo.ca
+tf.cristiana.guimaraes@gmail.com
 
 This presentation will bring together recent findings (published and in progress) stemming from studies of the original English Language Use Inventory (LUI) [1, 2], and of five translations, namely the LUI-Arabic [3], LUI-Polish [4], LUI-Portuguese [5], LUI-Italian [6] and LUI-French [7]. The LUI, a standardized parent-report measure, assesses pragmatic language functioning across a broad variety of everyday settings, including the purposes for which 18- to 47-month-old children use language (e.g., to ask for help, to share something of interest, to direct others in play), their conversational topics, and how they adapt communication to context. 
 
