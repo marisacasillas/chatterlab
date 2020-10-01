@@ -1,6 +1,6 @@
 # Many Paths to Language Handbook
 
-## Program Overview: Singapore time (GMT +8)
+## Program Overview: Singapore local time
 Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 <br/>

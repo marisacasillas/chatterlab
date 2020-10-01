@@ -17,11 +17,11 @@ _NOTE: All 27 talks will be provided with captioning and an International Sign t
 
 MPaL 2020 is offering this year's workshop on three schedules. Click on the one that suits you best to see what's planned.
 
-[San Francisco time (GMT -7)](./MPaL_handbook_SF.md)
+[San Francisco local time](./MPaL_handbook_SF.md)
 
-[Paris time (GMT +1)](./MPaL_handbook_Paris.md)
+[Paris local time](./MPaL_handbook_Paris.md)
 
-[Singapore time (GMT +8)](./MPaL_handbook_Singapore.md)
+[Singapore local time](./MPaL_handbook_Singapore.md)
 
 ## See you there!
 For all queries, please contact us at [mpal@mpi.nl](mailto:mpal@mpi.nl).

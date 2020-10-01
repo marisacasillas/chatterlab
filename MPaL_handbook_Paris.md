@@ -1,6 +1,6 @@
 # Many Paths to Language Handbook
 
-## Program Overview: Paris time (GMT +1)
+## Program Overview: Paris local time
 Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 <br/>
