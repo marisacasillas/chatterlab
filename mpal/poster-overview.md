@@ -6,7 +6,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 **Hey there! Want to ONLY see posters for which presenters are available live to chat in your timezone?**
 
-Look here: [San Francisco](poster-overview-liveSFonly.md) [Paris](poster-overview-liveParisonly.md) [Singapore](poster-overview-liveSingaporeonly.md)
+Look here: [San Francisco](poster-overview-liveSFonly.md)/ [Paris](poster-overview-liveParisonly.md)/ [Singapore](poster-overview-liveSingaporeonly.md)
 
 ---
 
