@@ -39,7 +39,7 @@ Parental Speech to Typical and Atypical Populations: A Study on Linguistic Parti
 
 Co-development of language and social action in a child with Down Syndrome, *Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou* [abstract](./poster-abstracts.md#co-development-of-language-and-social-action-in-a-child-with-down-syndrome) **Live Q&A: [Paris]**
 
-Do older children with ASD continue to show lack of a right-hand bias for gesturing?, *Nevena Dimitrova, Christine Mohr, Sandra Pache, Seyda Ozcaliskan* [abstract](./poster-abstracts.md#do-older-children-with-asd-continue-to-show-lack-of-a-right-hand-bias-for-gesturing) **Live Q&A: [Paris]**
+Do older children with ASD continue to show lack of a right-hand bias for gesturing? *Nevena Dimitrova, Christine Mohr, Sandra Pache, Seyda Ozcaliskan* [abstract](./poster-abstracts.md#do-older-children-with-asd-continue-to-show-lack-of-a-right-hand-bias-for-gesturing) **Live Q&A: [Paris]**
 
 
 ---
