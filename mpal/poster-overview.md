@@ -50,7 +50,7 @@ Children learn new words with the help of classifiers, *Ming Yean Sia, Julien Ma
 
 The Effect of Temperamental Differences on Language Acquisition, *Liesl Melnick, Sarah C. Kucker* [abstract](./poster-abstracts.md#the-effect-of-temperamental-differences-on-language-acquisition) **Live Q&A: [SF] [Paris]**
 
-Exploring item-level variability in the Communicative Development Inventory (CDI) across monolingual and bilingual populations, *Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder* [abstract](./poster-abstracts.md#exploring-item-level-variability-in-the-communicative-development-inventory-cdi-across-monolingual-and-bilingual-populations) **Live Q&A: not yet known**
+Exploring item-level variability in the Communicative Development Inventory (CDI) across monolingual and bilingual populations, *Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder* [abstract](./poster-abstracts.md#exploring-item-level-variability-in-the-communicative-development-inventory-cdi-across-monolingual-and-bilingual-populations) **Live Q&A: [SF]**
 
 Determinants of lexical development in Dutch toddlers, *Josje Verhagen, Mees van Stiphout, Elma Blom* [abstract](./poster-abstracts.md#determinants-of-lexical-development-in-dutch-toddlers) **Live Q&A: [Paris]**
 
