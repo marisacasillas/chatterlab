@@ -61,7 +61,7 @@ Determinants of lexical development in Dutch toddlers, *Josje Verhagen, Mees van
 
 An online scale for the Assessment of Language in Adults using Self-reported Skills (ALASS), *Hannah Joyce, Javier Aguado-Orea* [abstract](./poster-abstracts.md#an-online-scale-for-the-assessment-of-language-in-adults-using-self-reported-skills-alass) **Live Q&A: [Paris]**
 
-Dynamic-systems refinements & insights into language acquisition from multiple interventions where significant language advances were triggered across 4 months or more, *Keith E. Nelson* [abstract](./poster-abstracts.md#dynamic-systems-refinements---insights-into-language-aquisition-from-multiple-interventions-where-significant-language-advances-were-triggered-across-4-months-or-more) **Live Q&A: [SF]**
+Dynamic-systems refinements & insights into language acquisition from multiple interventions where significant language advances were triggered across 4 months or more, *Keith E. Nelson* [abstract](./poster-abstracts.md#dynamic-systems-refinements-insights-into-language-aquisition-from-multiple-interventions-where-significant-language-advances-were-triggered-across-4-months-or-more) **Live Q&A: [SF]**
 
 Intervention for word-finding difficulty for Arabic preschool children starting to use English as additional language, *Roaa Alsulaiman, Peter Howell* [abstract](./poster-abstracts.md#intervention-for-word-finding-difficulty-for-arabic-preschool-children-starting-to-use-english-as-additional-language) **Live Q&A: [Paris]**
 
