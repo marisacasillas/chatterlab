@@ -488,7 +488,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### Efficient estimation of bilingual children's language  exposure from daylong audio recordings
+#### Efficient estimation of bilingual children's language exposure from daylong audio recordings
 
 [*Margaret Cychosz, Anele Villanueva, Adriana Weisleder*](./authors.md)
 
