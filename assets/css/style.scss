@@ -1,0 +1,18 @@
+---
+---
+
+// @import "";
+
+h3[id^="thursday"] ~ table {
+  tr, th, td {
+    border: none;
+  }
+
+  td:nth-child(1) {
+    width: 120px;
+  }
+
+  td:nth-child(2) {
+    width: 150px;
+  }
+}
