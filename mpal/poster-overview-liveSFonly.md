@@ -32,7 +32,7 @@ The Effect of Temperamental Differences on Language Acquisition, *Liesl Melnick,
 
 ### Assessments and interventions for developmental disorders
 
-Dynamic-systems refinements & insights into language acquisition from multiple interventions where significant language advances were triggered across 4 months or more, *Keith E. Nelson* [abstract](./poster-abstracts.md#dynamic-systems-refinements---insights-into-language-aquisition-from-multiple-interventions-where-significant-language-advances-were-triggered-across-4-months-or-more) 
+Dynamic-systems refinements & insights into language acquisition from multiple interventions where significant language advances were triggered across 4 months or more, *Keith E. Nelson* [abstract](./poster-abstracts.md#dynamic-systems-refinements--insights-into-language-acquisition-from-multiple-interventions-where-significant-language-advances-were-triggered-across-4-months-or-more) 
 
 ---
 
