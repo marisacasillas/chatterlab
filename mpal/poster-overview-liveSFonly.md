@@ -28,6 +28,8 @@ Neurodevelopmental Differences in Autism Spectrum Disorder Applied to Language L
 
 The Effect of Temperamental Differences on Language Acquisition, *Liesl Melnick, Sarah C. Kucker* [abstract](./poster-abstracts.md#the-effect-of-temperamental-differences-on-language-acquisition) 
 
+Exploring item-level variability in the Communicative Development Inventory (CDI) across monolingual and bilingual populations, *Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder* [abstract](./poster-abstracts.md#exploring-item-level-variability-in-the-communicative-development-inventory-cdi-across-monolingual-and-bilingual-populations)
+
 ---
 
 ### Assessments and interventions for developmental disorders

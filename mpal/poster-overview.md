@@ -6,7 +6,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 **Hey there! Want to ONLY see posters for which presenters are available live to chat in your timezone?**
 
-Look here: [San Francisco](poster-overview-liveSFonly.md) [Paris](poster-overview-liveParisonly.md) [Singapore](poster-overview-liveSingaporeonly.md)
+Look here: [San Francisco](poster-overview-liveSFonly.md)/[Paris](poster-overview-liveParisonly.md)/[Singapore](poster-overview-liveSingaporeonly.md)
 
 ---
 
@@ -22,7 +22,7 @@ Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants
 
 Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists, *Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia* [abstract](./poster-abstracts.md#exploring-conversational-exchanges-and-addressees-among-tsimane-forager-horticulturalists) **Live Q&A: [Paris]**
 
-When do children most resemble their parents?, *Virginia Valian, Paul Feitzinger, Martin Chodorow* [abstract](./poster-abstracts.md#when-do-children-most-resemble-their-parents) **Live Q&A: not yet known**
+When do children most resemble their parents?, *Virginia Valian, Paul Feitzinger, Martin Chodorow* [abstract](./poster-abstracts.md#when-do-children-most-resemble-their-parents) **Live Q&A: [Paris]**
 
 
 ---
@@ -39,7 +39,7 @@ Parental Speech to Typical and Atypical Populations: A Study on Linguistic Parti
 
 Co-development of language and social action in a child with Down Syndrome, *Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou* [abstract](./poster-abstracts.md#co-development-of-language-and-social-action-in-a-child-with-down-syndrome) **Live Q&A: [Paris]**
 
-Do older children with ASD continue to show lack of a right-hand bias for gesturing?, *Nevena Dimitrova, Christine Mohr, Sandra Pache, Seyda Ozcaliskan* [abstract](./poster-abstracts.md#do-older-children-with-asd-continue-to-show-lack-of-a-right-hand-bias-for-gesturing) **Live Q&A: [Paris]**
+Do older children with ASD continue to show lack of a right-hand bias for gesturing? *Nevena Dimitrova, Christine Mohr, Sandra Pache, Seyda Ozcaliskan* [abstract](./poster-abstracts.md#do-older-children-with-asd-continue-to-show-lack-of-a-right-hand-bias-for-gesturing) **Live Q&A: [Paris]**
 
 
 ---
@@ -50,7 +50,7 @@ Children learn new words with the help of classifiers, *Ming Yean Sia, Julien Ma
 
 The Effect of Temperamental Differences on Language Acquisition, *Liesl Melnick, Sarah C. Kucker* [abstract](./poster-abstracts.md#the-effect-of-temperamental-differences-on-language-acquisition) **Live Q&A: [SF] [Paris]**
 
-Exploring item-level variability in the Communicative Development Inventory (CDI) across monolingual and bilingual populations, *Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder* [abstract](./poster-abstracts.md#exploring-item-level-variability-in-the-communicative-development-inventory-cdi-across-monolingual-and-bilingual-populations) **Live Q&A: not yet known**
+Exploring item-level variability in the Communicative Development Inventory (CDI) across monolingual and bilingual populations, *Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder* [abstract](./poster-abstracts.md#exploring-item-level-variability-in-the-communicative-development-inventory-cdi-across-monolingual-and-bilingual-populations) **Live Q&A: [SF]**
 
 Determinants of lexical development in Dutch toddlers, *Josje Verhagen, Mees van Stiphout, Elma Blom* [abstract](./poster-abstracts.md#determinants-of-lexical-development-in-dutch-toddlers) **Live Q&A: [Paris]**
 
