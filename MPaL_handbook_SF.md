@@ -80,7 +80,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 |11.15–11.30|Childers et al.|[Examining verb-action co-occurrences in everyday contexts in Spanish-speaking and English-speaking families](./mpal/abstracts.md#examining-verb-action-co-occurrences-in-everyday-contexts-in-spanish-speaking-and-english-speaking-families)|
 |11.30–11.45|D'Souza et al.|[Bilingual infants disengage faster and switch attention more frequently than monolingual infants](./mpal/abstracts.md#bilingual-infants-disengage-faster-and-switch-attention-more-frequently-than-monolingual-infants)|
 |11.45–12.00|Levy & Hanulíková|[Spot it and learn it! A novel paradigm to examine word learning in school-aged children](./mpal/abstracts.md#spot-it-and-learn-it-a-novel-paradigm-to-examine-word-learning-in-school-aged-children)|
-|12.00–12.15| -- | Live Q&A featuring: Childers|
+|12.00–12.15| -- | Live Q&A featuring: D'Souza and Childers|
 
 12.15 - 13.00 &nbsp;&nbsp;&nbsp; Lunch break
 
