@@ -22,7 +22,7 @@ Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants
 
 Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists, *Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia* [abstract](./poster-abstracts.md#exploring-conversational-exchanges-and-addressees-among-tsimane-forager-horticulturalists) **Live Q&A: [Paris]**
 
-When do children most resemble their parents?, *Virginia Valian, Paul Feitzinger, Martin Chodorow* [abstract](./poster-abstracts.md#when-do-children-most-resemble-their-parents) **Live Q&A: [Paris]**
+When do children most resemble their parents?, *Virginia Valian, Paul Feitzinger, Martin Chodorow* [abstract](./poster-abstracts.md#when-do-children-most-resemble-their-parents) **Live Q&A: [SF] [Paris]**
 
 
 ---
