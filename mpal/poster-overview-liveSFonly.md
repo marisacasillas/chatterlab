@@ -14,6 +14,8 @@ The function of infants’ prelinguistic vocal sequences: implications for early
 
 Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants, *Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein* [abstract](./poster-abstracts.md#caregiver-behavior-that-facilitates-vocal-turn-taking-with-prelinguistic-infants) 
 
+When do children most resemble their parents?, *Virginia Valian, Paul Feitzinger, Martin Chodorow* [abstract](./poster-abstracts.md#when-do-children-most-resemble-their-parents) 
+
 ---
 
 ### Developmental disorders and delays
