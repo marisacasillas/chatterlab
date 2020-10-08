@@ -9,13 +9,15 @@ Looking for [tools](./tools.md)?
 
 ## in press/accepted
 
-**Casillas, M.**, Brown, P., & Levinson, S. C. (accepted). Early language experience in a Papuan community. Journal of Child Language. [[ms](./lab-publications/Casillas_et_al_accepted_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_accepted_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
+Roete, I., Frank, S., Fikkert, P., & Casillas, M. (accepted). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, XX_. [[ms](./lab-publications/Roete_et_al_accepted_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_accepted_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
 
 Brown, P., & **Casillas, M.** (accepted). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
-Rasanen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (in press). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. Behavior Research Methods. [[ms](./lab-publications/Rasanen_et_al_inpress_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
-
 ## 2020
+
+**Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Papuan community. Journal of Child Language. [[ms](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
+
+Rasanen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (2020). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. Behavior Research Methods. [[ms](./lab-publications/Rasanen_et_al_inpress_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
 
 **Casillas, M.**, & Hilbrink, E. (2020). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), Developmental and Clinical Pragmatics (pp. 61-88). De Gruyter Mouton. [[ms](./lab-publications/Casillas_Hilbrink_inpress_Communicative_act_development_DCPragmaticsHandbook.pdf)]
 
