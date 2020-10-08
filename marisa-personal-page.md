@@ -9,7 +9,7 @@ Broadly speaking, I am interested in exploring how cognitive and social processe
 
 Much of my work focuses in particular on how communicative and linguistic skills co-develop during in the first few years of life with the hope of better understanding how our capacity to produce, understand, and transmit language across generations is shaped by interactive needs.
 
-I am currently a post-doctoral researcher working in the Language Development Department at the Max Planck Institute for Psycholinguistics in Nijmegen, The Netherlands. My current project, funded by the Netherlands Organization for Scientific Research (NWO) compares how children's early interactive experience influences their communicative development in two rural indigenous communities, one in Papua New Guinea and the other in Southern Mexico.
+I am currently a post-doctoral researcher working in the Language Development Department at the Max Planck Institute for Psycholinguistics in Nijmegen, The Netherlands. My current project, funded by the Netherlands Organization for Scientific Research (NWO) compares how children's early interactive experience influences their communicative development in two rural Indigenous communities, one in Papua New Guinea and the other in Southern Mexico.
 
 I will join the department of Comparative Human Development as an assistant professor in January 2021.
 
@@ -17,13 +17,13 @@ I will join the department of Comparative Human Development as an assistant prof
 You can find a recent CV [here](https://docs.google.com/document/d/1hWEHXhlJ_VYXOmvjuOQlSOqgiCmt_eeVc6TvExBpC80/edit?usp=sharing), and lab-related publications can be found on our [Publications](./publications.md) page.
 
 ### My work
-My research into children's everyday language environments in both Western urban contexts and Indigenous rural contexts has demonstrated that, while there is indeed immense variation both within and across linguistic communities in how much language children hear, utterances directly and exclusively addressed to young children is relatively rare. Following on this discovery, our group is now investigating differences in features of child-centered interactions in these communities while also exploring other ways in which children capitalize on other linguistic information in their environment.
+My research into children's everyday language environments in Western urban contexts and in two Indigenous rural contexts demonstrates that, across these communities, utterances directly and exclusively addressed to young children are relatively rare. Following on this discovery, we are now investigating differences in features of child-centered interactions in these communities while also exploring other ways in which children may capitalize on linguistic information in their environment.
 
-This work on children's language environments has resulted in a secondary line of research on the methods and tools critical for collecting and analyzing long-format at-home recordings of children's language environments; for more on that, see [the ACLEW project](https://sites.google.com/view/aclewdid/home).
+This work has resulted in a secondary line of research on the methods and tools critical for collecting and analyzing long-format at-home recordings of children's language environments; for more on that, see [the ACLEW project](https://sites.google.com/view/aclewdid/home).
 
-My research into children's development of turn-taking skills has shown that, from age one onward, children spontaneously track the current speaker when watching a conversation; and from age two they spontaneously predict upcoming responses following questions, using linguistic cues to recognize when a response is requested. We also find that, in their conversations with caregivers, children display an early awareness of the need to respond with minimal inter-turn gap, despite the fact that their responses look slow on the surface. Following on this work, our group is now investigating how and when children begin attending to the need for response in interaction, focusing on the linguistic and non-linguistic cues that allow them to predict the need for a response, and linkint their predictive behaviors to their own linguistic development and turn-taking behaviors.
+My research into children's development of turn-taking skills shows that even very young children predictively track the structure of human converstion, using linguistic cues to do so from age two onward. Following on this work, we are now investigating precisely how and when children begin attending to the need for response in conversation, focusing on the linguistic and non-linguistic cues that allow them to make online predictions.
 
-I also have a number of smaller projects relating to linguistic and cultural phenomena of special relevance to the two Indigenous communities I work with, a Tseltal Mayan community in Chiapas, Mexico and the rural Rossel Island community in Milne Bay Province, Papua New Guinea.
+I also work on a number of smaller projects relating to linguistic and cultural phenomena of special relevance to the two Indigenous communities I work with, a Tseltal Mayan community in Chiapas, Mexico and the rural Rossel Island community in Milne Bay Province, Papua New Guinea.
 
 ### Courses at UChicago
 
