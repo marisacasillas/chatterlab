@@ -22,11 +22,17 @@ Bilingual Learning in Infant Education Centers in Madrid: The Effects of Poverty
 
 ---
 
-
 ### Prosody and phonology
 
 Quantifying the role of rhythm in infants’ language discrimination abilities: A meta-analysis, *Loretta Gasparini, Alan Langus, Sho Tsuji, Natalie Boll-Avetisyan* [abstract](./poster-abstracts.md#quantifying-the-role-of-rhythm-in-infants-language-discrimination-abilities-a-meta-analysis)
 
 ---
+
+### 23 October
+
+### Discourse and pragmatics
+
+Individual variability in children’s assessment of ironic speaker motivations, *Vera Hukker, Simone Sprenger, Petra Hendriks* [abstract](./poster-abstracts.md#individual-variability-in-childrens-assessment-of-ironic-speaker-motivations) 
+
 
 Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
