@@ -38,7 +38,6 @@ The Effect of Temperamental Differences on Language Acquisition, *Liesl Melnick,
 
 Determinants of lexical development in Dutch toddlers, *Josje Verhagen, Mees van Stiphout, Elma Blom* [abstract](./poster-abstracts.md#determinants-of-lexical-development-in-dutch-toddlers) 
 
-
 ---
 
 ### Assessments and interventions for developmental disorders
@@ -48,7 +47,6 @@ An online scale for the Assessment of Language in Adults using Self-reported Ski
 Intervention for word-finding difficulty for Arabic preschool children starting to use English as additional language, *Roaa Alsulaiman, Peter Howell* [abstract](./poster-abstracts.md#intervention-for-word-finding-difficulty-for-arabic-preschool-children-starting-to-use-english-as-additional-language) 
 
 Impact of an early auditory training on the electrophysiological functioning underlying language acquisition: evidence from typically developing infants, *Chiara Cantiani, Chiara Dondena, Massimo Molteni, Valentina Riva* [abstract](./poster-abstracts.md#impact-of-an-early-auditory-training-on-the-electrophysiological-functioning-underlying-language-acquisition-evidence-from-typically-developing-infants) 
-
 
 ---
 
@@ -71,7 +69,6 @@ Different developmental trajectories in Dutch and Turkish children’s acquisiti
 Investigating the relationship between infant learning and measured effect size in preferential looking paradigms, *Martin Zettersten, Alexis K. Black, Christina Bergmann, Desia Bacon, Haley Weaver, Jenny Saffran* [abstract](./poster-abstracts.md#investigating-the-relationship-between-infant-learning-and-measured-effect-size-in-preferential-looking-paradigms) 
 
 Towards a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome, *Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium* [abstract](./poster-abstracts.md#towards-a-large-scale-collaboration-for-infant-online-testing-introducing-manybabies-athome) 
-
 
 ---
 
@@ -102,7 +99,6 @@ How the Empirical Distribution of Words Solves the Variability Problem in Child 
 How young children integrate information during word learning, *Manuel Bohn, Michael Henry Tessler, Megan Merrick, Michael C. Frank* [abstract](./poster-abstracts.md#how-young-children-integrate-information-during-word-learning) 
 
 Children’s Acquisition of Morphosyntactic Variation, *Naomi L. Shin, Karen Miller* [abstract](./poster-abstracts.md#childrens-acquisition-of-morphosyntactic-variation) 
-
 
 ---
 
@@ -155,7 +151,6 @@ An Assessment of Functional Categories in Hindi-English Bilingually Developing Y
 The acquisition of optionality in Akan wh-questions, *Paul O. Omane, Barbara Höhle* [abstract](./poster-abstracts.md#the-acquisition-of-optionality-in-akan-wh-questions) 
 
 The acquisition of possession in Inuktitut: insight from child and caregiver speech, *Leah D. Doroski, Heather Littlefield, Shanley E. M. Allen* [abstract](./poster-abstracts.md#the-acquisition-of-possession-in-inuktitut-insight-from-child-and-caregiver-speech) 
-
 
 ---
 
