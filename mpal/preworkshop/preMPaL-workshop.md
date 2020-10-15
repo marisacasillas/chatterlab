@@ -20,11 +20,7 @@ The four invited presentations will focus on studies relating to the standard mo
 * Review the activities on the Standard Meeting Agenda below.
 * Watch the invited talks and discussions before joining the meeting. Please watch:
     * The 5-minute introductory video on the context of the workshop **[link to be added]**
-    * The four 10-minute invited presentations:
-    	* [Styles](https://www.dropbox.com/s/el9gh926ufcpq1g/Pre-MPaL2020-langVIEW-Styles.mp4?dl=0)
-    	* [Kidd et al.](https://www.dropbox.com/s/55yf4e26mtf9m4z/Pre-MPaL2020-langVIEW-Kidd.mp4?dl=0)
-    	* [Cristia](https://www.dropbox.com/s/4b6866mysgc72y5/Pre-MPaL2020-langVIEW-Cristia.mp4?dl=0)
-    	* Fernald et al. **[link to be added]**
+    * The four 10-minute invited presentations from [Styles](https://www.dropbox.com/s/el9gh926ufcpq1g/Pre-MPaL2020-langVIEW-Styles.mp4?dl=0), [Kidd et al.](https://www.dropbox.com/s/55yf4e26mtf9m4z/Pre-MPaL2020-langVIEW-Kidd.mp4?dl=0), [Cristia](https://www.dropbox.com/s/4b6866mysgc72y5/Pre-MPaL2020-langVIEW-Cristia.mp4?dl=0), and Fernald et al. **[link to be added]**
     * The [5-minute discussion video](https://www.dropbox.com/s/mhnb7e3jp6pvbmb/Pre-MPaL2020-langVIEW-Rowland.mp4?dl=0) on emerging themes
     * Take any notes you have on references and/or ideas useful for the meeting activities.
     * Once the meeting begins, be ready for active whole- and small-group discussion—we’re looking forward to hearing your thoughts!
