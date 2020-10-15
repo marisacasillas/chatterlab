@@ -53,7 +53,7 @@ Each meeting is 1.5 hours long. You are only expected to attend one meeting—wh
 
 The point of these 10-minute talks is not only to report on research, but more centrally to raise questions useful for discussion within the live meetings. Presenters should think of this opportunity as one of using their research experiences to underscore or make more concrete the issues most pertinent to equitably and strongly testing models of language development across cultural and linguistic contexts.
 
-### Design thinking for data collection in multilingual environments
+### [Design thinking for data collection in multilingual environments](https://www.dropbox.com/s/el9gh926ufcpq1g/Pre-MPaL2020-langVIEW-Styles.mp4?dl=0)
 
 Suzy Styles (Psychology, School of Social Sciences and Centre for Research Learning and Development (CRADLE), Nanyang Technological University, Singapore; Singapore Institute for Clinical Sciences, Agency for Science, Technology & Research (A*STAR), Singapore)
 
@@ -61,7 +61,7 @@ SUZY.STYLES@ntu.edu.sg
  
 **Abstract:** Measures designed for monolingual environments are hard to reverse engineer for multilingual contexts. While translating a standardized tool (e.g., a vocabulary checklist) provides parallel measurements across languages of interest, if the languages are in contact they may have shared vocabulary that is better characterized without reference to a particular language. If measurement tools guide participants to respond separately for their languages, researchers may elicit responses that do not align with community translanguaging practices. Similar problems arise in transcription and/or language-tagging of child-directed speech, and automated measures of language exposure. Designing new tools using emerging technologies may help overcome these challenges.
  
-### A working model for the study of endangered and minority languages
+### [A working model for the study of endangered and minority languages](https://www.dropbox.com/s/55yf4e26mtf9m4z/Pre-MPaL2020-langVIEW-Kidd.mp4?dl=0)
 
 Evan Kidd (Max Planck Institute for Psycholinguistics, Netherlands, The Australian National University, Australia, ARC Centre of Excellence for the Dynamics of Language), Shanley Allen (University of Kaiserslautern, Germany), Lucy Davidson (ARC Centre of Excellence for the Dynamics of Language, The University of Melbourne, Australia), Rebecca Defina (ARC Centre of Excellence for the Dynamics of Language, The University of Melbourne, Australia), Birgit Hellwig (University of Köln), & Barbara Kelly (ARC Centre of Excellence for the Dynamics of Language, The University of Melbourne, Australia)
  
@@ -81,7 +81,7 @@ MacWhinney, B., & Bates, E. (1989). The crosslinguistic study of sentence proces
 
 Slobin, D. I. (1985–1997). The crosslinguistic study of language acquisition (Vols. 1–5). Hillsdale, NJ: Lawrence Erlbaum.
  
-### Daylong recordings in diverse societies and cultures
+### [Daylong recordings in diverse societies and cultures](https://www.dropbox.com/s/4b6866mysgc72y5/Pre-MPaL2020-langVIEW-Cristia.mp4?dl=0)
 
 Alejandrina Cristia (Laboratoire de Sciences Cognitives et de Psycholinguistique, Département d’études cognitives, ENS, EHESS, CNRS, PSL University);
  
@@ -89,7 +89,7 @@ alecristia@gmail.com
  
 **Abstract:** Daylong recordings from wearables could provide a unique view on the user’s spontaneous speech use. The long time scale facilitates habituation, leading to more ecological measures, and the collection of massive data for studying intra- and inter-individual differences. Daylong recordings promise to help answer questions like: What kinds of spoken interactions impact early language acquisition? Is this child developing normally? Is this intervention increasing social language use? I draw from interdisciplinary collaborations across anthropology, psychology, linguistics, and speech technology to discuss the unique technical opportunities and challenges that such recordings offer in the study of varied cultures and languages.
  
-### Integrating qualitative and quantitative methods in research on early language development in diverse populations and cultures
+### Integrating qualitative and quantitative methods in research on early language development in diverse populations and cultures (link to be added)
 
 Anne Fernald (Stanford University), Yatma Diop (Michigan State University), Ann Weber (University of Nevada, Reno), Virginia A. Marchman (Stanford University), Janet Y. Bang (San Jose State University)
  
@@ -99,10 +99,10 @@ afernald@stanford.edu, diopyatm@msu.edu, annweber@unr.edu, marchman@stanford.edu
  
 ### Book-end commentaries
 
-#### Context of the workshop: Testing the “standard model”
+#### Context of the workshop: Testing the “standard model” (link to be added)
 Michael C. Frank (Stanford University); mcfrank@stanford.edu
 
-#### Emerging themes: How can we address the challenges before us?
+#### [Emerging themes: How can we address the challenges before us?](https://www.dropbox.com/s/mhnb7e3jp6pvbmb/Pre-MPaL2020-langVIEW-Rowland.mp4?dl=0)
 Caroline Rowland (Max Planck Institute for Psycholinguistics); Caroline.Rowland@mpi.nl
 
 ---
