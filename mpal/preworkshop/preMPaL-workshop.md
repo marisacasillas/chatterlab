@@ -19,7 +19,7 @@ The four invited presentations will focus on studies relating to the standard mo
     * You will receive the Zoom link and meeting password soon after.
 * Review the activities on the Standard Meeting Agenda below.
 * Watch the invited talks and discussions before joining the meeting. Please watch:
-    * The 5-minute introductory video on the context of the workshop **[link to be added]**
+    * The [5-minute introductory video](https://www.dropbox.com/s/iggzp5d9ng7ugt0/Pre-MPaL2020-langVIEW-Frank.mp4?dl=0) on the context of the workshop
     * The four 10-minute invited presentations from [Styles](https://www.dropbox.com/s/el9gh926ufcpq1g/Pre-MPaL2020-langVIEW-Styles.mp4?dl=0), [Kidd et al.](https://www.dropbox.com/s/55yf4e26mtf9m4z/Pre-MPaL2020-langVIEW-Kidd.mp4?dl=0), [Cristia](https://www.dropbox.com/s/4b6866mysgc72y5/Pre-MPaL2020-langVIEW-Cristia.mp4?dl=0), and Fernald et al. **[link to be added]**
     * The [5-minute discussion video](https://www.dropbox.com/s/mhnb7e3jp6pvbmb/Pre-MPaL2020-langVIEW-Rowland.mp4?dl=0) on emerging themes
     * Take any notes you have on references and/or ideas useful for the meeting activities.
@@ -99,7 +99,7 @@ afernald@stanford.edu, diopyatm@msu.edu, annweber@unr.edu, marchman@stanford.edu
  
 ### Book-end commentaries
 
-#### Context of the workshop: Testing the “standard model” (link to be added)
+#### [Context of the workshop: Testing the “standard model”](https://www.dropbox.com/s/iggzp5d9ng7ugt0/Pre-MPaL2020-langVIEW-Frank.mp4?dl=0)
 Michael C. Frank (Stanford University); mcfrank@stanford.edu
 
 #### [Emerging themes: How can we address the challenges before us?](https://www.dropbox.com/s/mhnb7e3jp6pvbmb/Pre-MPaL2020-langVIEW-Rowland.mp4?dl=0)
