@@ -40,7 +40,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 |Time|Authors|Room A: [Complexity in child-directed speech](./mpal/abstracts.md#complexity-in-child-directed-speech)| Video | (CC + ISL) |
 |---|---|---|---|---|
-|13.15–13.30|Wei et al.|[Parents' talk about conceptual categories with infants: Stability, variability, and implications for expressive language development](./mpal/abstracts.md#parents-talk-about-conceptual-categories-with-infants-stability-variability-and-implications-for-expressive-language-development)| [[vid](https://uchicago.box.com/v/MPaL2020-Wei)] | [[cc_isl](./mpal/whoops.md)] |
+|13.15–13.30|Wei et al.|[Parents' talk about conceptual categories with infants: Stability, variability, and implications for expressive language development](./mpal/abstracts.md#parents-talk-about-conceptual-categories-with-infants-stability-variability-and-implications-for-expressive-language-development)| [[vid](https://uchicago.box.com/v/MPaL2020-Wei)] | [[cc_isl](https://uchicago.box.com/v/MPaL2020-Wei-cc-isl)] |
 |13.30–13.45|Nguyen et al.|[Testing syntactic simplicity: wh-in-situ vs. fronted wh-questions in L1 acquisition](./mpal/abstracts.md#testing-syntactic-simplicity-wh-in-situ-vs-fronted-wh-questions-in-l1-acquisition)| [[vid](https://uchicago.box.com/v/MPaL2020-Nguyen)] | [[cc_isl](./mpal/whoops.md)] |
 |13.45–14.00|Dawson et al.|[Characterising lexical richness in the language of children’s books](./mpal/abstracts.md#characterising-lexical-richness-in-the-language-of-childrens-books)| [[vid](https://uchicago.box.com/v/MPaL2020-Dawson)] | [[cc_isl](./mpal/whoops.md)] |
 |14.00–14.15| -- | Live Q&A featuring: Wei and Dawson |
@@ -84,7 +84,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 |---|---|---|---|---|
 |11.15–11.30|Childers et al.|[Examining verb-action co-occurrences in everyday contexts in Spanish-speaking and English-speaking families](./mpal/abstracts.md#examining-verb-action-co-occurrences-in-everyday-contexts-in-spanish-speaking-and-english-speaking-families)| [[vid](https://uchicago.box.com/v/MPaL2020-Childers)] | [[cc_isl](./mpal/whoops.md)] |
 |11.30–11.45|D'Souza et al.|[Bilingual infants disengage faster and switch attention more frequently than monolingual infants](./mpal/abstracts.md#bilingual-infants-disengage-faster-and-switch-attention-more-frequently-than-monolingual-infants)| [[vid](https://uchicago.box.com/v/MPaL2020-DSouza)] | [[cc_isl](./mpal/whoops.md)] |
-|11.45–12.00|Levy & Hanulíková|[Spot it and learn it! A novel paradigm to examine word learning in school-aged children](./mpal/abstracts.md#spot-it-and-learn-it-a-novel-paradigm-to-examine-word-learning-in-school-aged-children)| [[vid](https://uchicago.box.com/v/MPaL2020-Levy)] | [[cc_isl](./mpal/whoops.md)] |
+|11.45–12.00|Levy & Hanulíková|[Spot it and learn it! A novel paradigm to examine word learning in school-aged children](./mpal/abstracts.md#spot-it-and-learn-it-a-novel-paradigm-to-examine-word-learning-in-school-aged-children)| [[vid](https://uchicago.box.com/v/MPaL2020-Levy)] | [[cc_isl](https://uchicago.box.com/v/MPaL2020-Levy-cc-isl)] |
 |12.00–12.15| -- | Live Q&A featuring: D'Souza and Levy|
 
 12.15 - 13.00 &nbsp;&nbsp;&nbsp; Lunch break
