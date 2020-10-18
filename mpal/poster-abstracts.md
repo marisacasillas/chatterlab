@@ -186,30 +186,6 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### Parental Speech to Typical and Atypical Populations: A Study on Linguistic Partial Repetition
-
-[*Luca Onnis, Gianluca Esposito, Paola Venuti, Shimon Edelman*](./authors.md)
-
-luca.onnis@unige.it
-
-Parents naturally speak utterances containing partial self-repetitions with variation in successive utterances (e.g., Want to get your ball? Get your ball? Do you want to get your ball?). Such 'variation sets' contain latent distributional information about the building blocks of language and are predictive of children's lexical and grammatical structures. Because these properties in parents of atypically developing children are virtually unknown, we compared for the first time variation sets in parental speech directed to toddlers with Autistic Spectrum Disorders (ASD, n=25), Down Syndrome (DS, n=25), and a baseline group of Typically Developing toddlers TD, n=31). In Study 1 (Figure 1), we analysed transcripts of mothers' child-directed utterances during naturalistic dyadic play interactions. While children's mean developmental age was the same across the three groups, we found that measures of partial repetitions in child-directed speech were larger in the ASD than in the DS and typical groups. 
-
-In Study 2 (Figure 2) we also found that these larger measures in the ASD group were mainly driven by the mother, as opposed to the father. Because partial repetitions decrease with chronological age of the child in typical groups, and the atypical children were older than the TD group, our findings suggest compensating modes of communication in parental speech to atypical populations, especially the ASD group. The study validates the extension of structural/statistical analyses of language to compare parental communication to typical and atypical populations.
-
-Figure 1. Mean values and standard errors for the four measures of parental variation sets (`Varsets` in the figure) across experimental group, gap and n-gram, in Study 1. First row: Proportion of utterances in variation sets. Second row: Proportion of unique words in variation sets. Third row: Diameter of variation sets. Fourth row: Length of variation sets.
-
-Figure 2. Mean values and standard errors for the four measures of Variation Sets across parent, gap and n-gram, in Study 2. First row: Proportion of utterances in variation sets. Second row: Proportion of unique words in variation sets. Third row: Diameter of variation sets. Fourth row: Length of variation sets.
-
-![Attachment](attachments/22-1.png)
-
-![Attachment](attachments/22-2.png)
-
----
-
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
-
----
-
 #### Co-development of language and social action in a child with Down Syndrome
 
 [*Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou*](./authors.md)
@@ -808,7 +784,7 @@ In this work, we investigated how typological variability influences the acquisi
 
 Study 1 used naturalistic data from the English and Italian corpora in CHILDES (McWhinney, 2000). Using the lemmatized version of the words, we analyzed the statistical dependencies between descriptive adjectives and nouns. This required annotation of syntactic categories, which was conducted using an automatic part-of-speech tagger, followed by additional manual revision. We then computed the transitional probabilities (TPs) between adjectives and nouns, and between nouns and adjectives (the latter only in the case of Italian). Figure 1 shows that, whereas forward TPs better predict the adjectives occurring in the Italian canonical N-Adj ordering, the opposite is the case for English. In the case of the Adj-N order in Italian, both forward and backward probabilities are equally informative, possibly due to the highly formulaic nature of this syntactic pattern. 
 
-Typological effects on statistical dependencies have been previously identified (Onnis&Thiessen, 2013), but discussion of them in models of distributional language learning is sparse. To this end, Study 2 aimed to establish whether a Recurrent Neural Network (RNN), a well established account of language learning and processing, is sensitive to these cross-linguistic differences. An analysis of the Age of Acquisition (AoA) norms in Wordbank (Frank et al. 2017) revealed no statistically significant difference in the acquisition of adjectives in Italian and English; therefore, if the RNN can capture both types of dependencies, it should learn adjectives in each language equally well. 
+Typological effects on statistical dependencies have been previously identified (Onnis & Thiessen, 2013), but discussion of them in models of distributional language learning is sparse. To this end, Study 2 aimed to establish whether a Recurrent Neural Network (RNN), a well established account of language learning and processing, is sensitive to these cross-linguistic differences. An analysis of the Age of Acquisition (AoA) norms in Wordbank (Frank et al. 2017) revealed no statistically significant difference in the acquisition of adjectives in Italian and English; therefore, if the RNN can capture both types of dependencies, it should learn adjectives in each language equally well. 
 
 We trained the RNN on the the child-directed speech data from Study 1. Since this model processes language incrementally in the forward direction, we expected this model to favor forward over backward dependencies. To test this, we also implemented a variant of the RNN that experiences language in the reverse direction (we refer to it as bwRNN). Although this model is not cognitively plausible, its relative success in the prediction of adjectives would provide an indication for the necessity of extending the standard RNN model to account for retrodiction during language learning.  As can be seen in Figure 2, at the end of training, the standard RNN is less successful in learning English than Italian (where success is quantified by low entropy), suggesting that the standard RNN is not capturing the backward dependencies in English. In contrast, the bwRNN performed much better for English –consistent with the reliability of backward over forward dependencies in this language– and had greater variability for Italian. These results suggest a full account of language acquisition will have to account for typological influences on distributional information, which likely require children to attend to statistical dependencies that both predict and retrodict.
 
