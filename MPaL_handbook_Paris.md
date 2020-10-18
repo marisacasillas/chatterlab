@@ -12,7 +12,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 <br/>
 
 ### Thursday, 22 October 2020
-10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks** [[vid]()] [[cc_isl](./mpal/whoops.md)]
+10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks** [[vid](https://uchicago.box.com/s/pebo43hfpynt366jfi0glr3wzwlqids8)] [[cc_isl](./mpal/whoops.md)]
 
 10.15 - 11.15 &nbsp;&nbsp;&nbsp; **Invited talk and live Q&A:** Gabriella Vigliocco. [Ecological learning: Characterising the multimodal cues available to children in real-world communication](./mpal/abstracts.md#gabriella-vigliocco-university-college-london) [[vid](./mpal/whoops.md)] [[cc_isl](./mpal/whoops.md)]
 
@@ -115,7 +115,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 16.30 - 17.30 &nbsp;&nbsp;&nbsp; **Live workshop on parallel session 3 themes** (pre-registration required)
 
-17.30 - 17.45 &nbsp;&nbsp;&nbsp; **Closing remarks & poster prizes** [[vid]()] [[cc_isl](./mpal/whoops.md)]
+17.30 - 17.45 &nbsp;&nbsp;&nbsp; **Closing remarks & poster prizes** [[vid](./mpal/whoops.md)] [[cc_isl](./mpal/whoops.md)]
 
 18.00 &nbsp;&nbsp;&nbsp; End program day 2
 
