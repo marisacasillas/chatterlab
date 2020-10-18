@@ -67,7 +67,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 <br/>
 
 ### Friday, 23 October 2020
-10.00 - 10.45 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Linguistic diversity and the origin of exact algorithms](./mpal/abstracts.md#david-barner-university-of-california-san-diego) [[vid](https://uchicago.box.com/v/MPaL2020-Barner)] [[cc_isl](./mpal/whoops.md)] _*NOTE: This talk has no live Q&A in this timezone_
+10.00 - 10.45 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Linguistic diversity and the origin of exact algorithms](./mpal/abstracts.md#david-barner-university-of-california-san-diego) [[vid](https://uchicago.box.com/v/MPaL2020-Barner)] [[cc_isl](./mpal/whoops.md)] [[HD\_version\_nocaptions](https://uchicago.box.com/v/MPaL2020-Barner-HD)] _*NOTE: This talk has no live Q&A in this timezone_
 
 10.45 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
