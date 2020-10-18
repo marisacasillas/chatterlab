@@ -2,36 +2,41 @@
 
 Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
 
-
 ---
+**Watching presentations on your own schedule?**
+
+[vid] = presentation video recording
+
+[cc_isl] = version of presentation with captions and ISL translation
+
 
 ## Flash Poster Presentations
 
 ### 22 October
 
-The function of infants’ prelinguistic vocal sequences: implications for early communication and language, *Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein* [abstract](./poster-abstracts.md#the-function-of-infants-prelinguistic-vocal-sequences-implications-for-early-communication-and-language)
+The function of infants’ prelinguistic vocal sequences: implications for early communication and language, *Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein* [abstract](./poster-abstracts.md#the-function-of-infants-prelinguistic-vocal-sequences-implications-for-early-communication-and-language) [[vid]()] [[cc_isl]()]
 
-Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants, *Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein* [abstract](./poster-abstracts.md#caregiver-behavior-that-facilitates-vocal-turn-taking-with-prelinguistic-infants)
+Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants, *Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein* [abstract](./poster-abstracts.md#caregiver-behavior-that-facilitates-vocal-turn-taking-with-prelinguistic-infants) [[vid]()] [[cc_isl]()]
 
-Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists, *Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia* [abstract](./poster-abstracts.md#exploring-conversational-exchanges-and-addressees-among-tsimane-forager-horticulturalists)
+Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists, *Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia* [abstract](./poster-abstracts.md#exploring-conversational-exchanges-and-addressees-among-tsimane-forager-horticulturalists) [[vid]()] [[cc_isl]()]
 
-Language environments are influenced by communication disorders, *Hillary V. Ganek, Karen A. Gordon* [abstract](./poster-abstracts.md#language-environments-are-influenced-by-communication-disorders)
+Language environments are influenced by communication disorders, *Hillary V. Ganek, Karen A. Gordon* [abstract](./poster-abstracts.md#language-environments-are-influenced-by-communication-disorders) [[vid]()] [[cc_isl]()]
 
-Children learn new words with the help of classifiers, *Ming Yean Sia, Julien Mayor* [abstract](./poster-abstracts.md#children-learn-new-words-with-the-help-of-classifiers)
+Children learn new words with the help of classifiers, *Ming Yean Sia, Julien Mayor* [abstract](./poster-abstracts.md#children-learn-new-words-with-the-help-of-classifiers) [[vid]()] [[cc_isl]()]
 
 ---
 
 ### 23 October
 
-‘Long nose’ and ‘naso lungo’: establishing the need for retrodiction in computational models of word learning, *Francesca Zermiani, Atiqah Khaliq, Raquel G. Alhama* [abstract](./poster-abstracts.md#long-nose-and-naso-lungo-establishing-the-need-for-retrodiction-in-computational-models-of-word-learning)
+‘Long nose’ and ‘naso lungo’: establishing the need for retrodiction in computational models of word learning, *Francesca Zermiani, Atiqah Khaliq, Raquel G. Alhama* [abstract](./poster-abstracts.md#long-nose-and-naso-lungo-establishing-the-need-for-retrodiction-in-computational-models-of-word-learning) [[vid]()] [[cc_isl]()]
 
-A computational study of the mechanisms underlying infant speed of processing and vocabulary development, *Andrew Jessop, Gary Jones, Caroline Rowland* [abstract](./poster-abstracts.md#a-computational-study-of-the-mechanisms-underlying-infant-speed-of-processing-and-vocabulary-development)
+A computational study of the mechanisms underlying infant speed of processing and vocabulary development, *Andrew Jessop, Gary Jones, Caroline Rowland* [abstract](./poster-abstracts.md#a-computational-study-of-the-mechanisms-underlying-infant-speed-of-processing-and-vocabulary-development) [[vid]()] [[cc_isl]()]
 
-The nature and frequency of relative clauses in the language children hear and the language children read: a developmental cross-corpus analysis of English complex grammar, *Yaling Hsiao, Nicola Dawson, Nilanjana Banerji, Kate Nation* [abstract](./poster-abstracts.md#the-nature-and-frequency-of-relative-clauses-in-the-language-children-hear-and-the-language-children-read-a-developmental-cross-corpus-analysis-of-english-complex-grammar)
+The nature and frequency of relative clauses in the language children hear and the language children read: a developmental cross-corpus analysis of English complex grammar, *Yaling Hsiao, Nicola Dawson, Nilanjana Banerji, Kate Nation* [abstract](./poster-abstracts.md#the-nature-and-frequency-of-relative-clauses-in-the-language-children-hear-and-the-language-children-read-a-developmental-cross-corpus-analysis-of-english-complex-grammar) [[vid]()] [[cc_isl]()]
 
-Dual Language Input from Adults and Older Children in Two Communities, *Anele Villanueva, Margaret Cychosz, Adriana Weisleder* [abstract](./poster-abstracts.md#dual-language-input-from-adults-and-older-children-in-two-communities)
+Dual Language Input from Adults and Older Children in Two Communities, *Anele Villanueva, Margaret Cychosz, Adriana Weisleder* [abstract](./poster-abstracts.md#dual-language-input-from-adults-and-older-children-in-two-communities) [[vid]()] [[cc_isl]()]
 
-The role of experience in shaping language processing: Insights from non-industrial communities in Bolivia and Papua New Guinea, *Alejandrina Cristia, Gianmatteo Farabolini, Camila Scaff, Naomi Havron, Jonathan Stieglitz, Marisa Casillas* [abstract](./poster-abstracts.md#the-role-of-experience-in-shaping-language-processing-insights-from-non-industrial-communities-in-bolivia-and-papua-new-guinea)
+The role of experience in shaping language processing: Insights from non-industrial communities in Bolivia and Papua New Guinea, *Alejandrina Cristia, Gianmatteo Farabolini, Camila Scaff, Naomi Havron, Jonathan Stieglitz, Marisa Casillas* [abstract](./poster-abstracts.md#the-role-of-experience-in-shaping-language-processing-insights-from-non-industrial-communities-in-bolivia-and-papua-new-guinea) [[vid]()] [[cc_isl]()]
 
 ---
 
