@@ -9,6 +9,8 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 [cc_isl] = version of presentation with captions and ISL translation
 
+**Many thanks to [those who make the 2020 Many Paths to Language workhop possible](./mpal/acknowledgements.md)!**
+
 <br/>
 
 ### Thursday, 22 October 2020

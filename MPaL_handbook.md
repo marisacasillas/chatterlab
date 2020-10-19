@@ -23,6 +23,10 @@ MPaL 2020 is offering this year's workshop on three schedules. Click on the one 
 
 [Singapore local time](./MPaL_handbook_Singapore.md)
 
+## 3. Check out the acknowledgements
+MPaL2020 has been made possible by the contributions of [_scores_ of generous volunteers](./mpal/acknowledgements.md). We are so grateful for their help!
+
+
 ## See you there!
 For all queries, please contact us at [mpal@mpi.nl](mailto:mpal@mpi.nl).
 
