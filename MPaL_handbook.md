@@ -9,7 +9,7 @@ Children show astonishing variation in the way they acquire their native languag
 ---
 ## 1. Register
 
-Registration is **free of charge (€0)**. You can sign up [here](https://www.mpi.nl/page/mpal-registration-remote-attendance)—we'll contact you later with more information via email on how to join. Be sure to let us know if you need any accommodations.
+Registration is now closed.
 
 _NOTE: All 27 talks will be provided with captioning and an International Sign translation. In contrast, ONLY captioning is available for posters. If you would like interpretation for posters, please contact us individually at [mpal@mpi.nl](mailto:mpal@mpi.nl)._
 
