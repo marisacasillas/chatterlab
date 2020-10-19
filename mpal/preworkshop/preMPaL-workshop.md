@@ -20,7 +20,7 @@ The four invited presentations will focus on studies relating to the standard mo
 * Review the activities on the Standard Meeting Agenda below.
 * Watch the invited talks and discussions before joining the meeting. Please watch:
     * The [5-minute introductory video](https://www.dropbox.com/s/iggzp5d9ng7ugt0/Pre-MPaL2020-langVIEW-Frank.mp4?dl=0) on the context of the workshop
-    * The four 10-minute invited presentations from [Styles](https://www.dropbox.com/s/el9gh926ufcpq1g/Pre-MPaL2020-langVIEW-Styles.mp4?dl=0), [Kidd et al.](https://www.dropbox.com/s/55yf4e26mtf9m4z/Pre-MPaL2020-langVIEW-Kidd.mp4?dl=0), [Cristia](https://www.dropbox.com/s/4b6866mysgc72y5/Pre-MPaL2020-langVIEW-Cristia.mp4?dl=0), and Fernald et al. **[link to be added]**
+    * The four 10-minute invited presentations from [Styles](https://www.dropbox.com/s/el9gh926ufcpq1g/Pre-MPaL2020-langVIEW-Styles.mp4?dl=0), [Kidd et al.](https://www.dropbox.com/s/55yf4e26mtf9m4z/Pre-MPaL2020-langVIEW-Kidd.mp4?dl=0), [Cristia](https://www.dropbox.com/s/4b6866mysgc72y5/Pre-MPaL2020-langVIEW-Cristia.mp4?dl=0), and [Fernald et al.](https://www.dropbox.com/s/8vvhca2hd7nb7mk/Pre-MPaL2020-langVIEW-Fernald.mp4?dl=0).
     * The [5-minute discussion video](https://www.dropbox.com/s/mhnb7e3jp6pvbmb/Pre-MPaL2020-langVIEW-Rowland.mp4?dl=0) on emerging themes
     * Take any notes you have on references and/or ideas useful for the meeting activities.
     * Once the meeting begins, be ready for active whole- and small-group discussion—we’re looking forward to hearing your thoughts!
@@ -89,7 +89,7 @@ alecristia@gmail.com
  
 **Abstract:** Daylong recordings from wearables could provide a unique view on the user’s spontaneous speech use. The long time scale facilitates habituation, leading to more ecological measures, and the collection of massive data for studying intra- and inter-individual differences. Daylong recordings promise to help answer questions like: What kinds of spoken interactions impact early language acquisition? Is this child developing normally? Is this intervention increasing social language use? I draw from interdisciplinary collaborations across anthropology, psychology, linguistics, and speech technology to discuss the unique technical opportunities and challenges that such recordings offer in the study of varied cultures and languages.
  
-### Integrating qualitative and quantitative methods in research on early language development in diverse populations and cultures (link to be added)
+### [Integrating qualitative and quantitative methods in research on early language development in diverse populations and cultures](https://www.dropbox.com/s/8vvhca2hd7nb7mk/Pre-MPaL2020-langVIEW-Fernald.mp4?dl=0)
 
 Anne Fernald (Stanford University), Yatma Diop (Michigan State University), Ann Weber (University of Nevada, Reno), Virginia A. Marchman (Stanford University), Janet Y. Bang (San Jose State University)
  
