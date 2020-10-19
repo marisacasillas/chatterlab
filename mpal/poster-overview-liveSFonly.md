@@ -96,8 +96,6 @@ Abstract 2. Parental Responses to Child Code-Switching in 3 and 4-year-old Spani
 
 ### Prosody and phonology
 
-Abstract 59. Mother-baby interactions: prosody variations according to maternal depression and infant age, *María Patricia Paolantonio, Laura M. V. Manoiloff, Ana E. Faas* [abstract](./poster-abstracts.md#mother-baby-interactions-prosody-variations-according-to-maternal-depression-and-infant-age) [[vid](https://uchicago.box.com/s/460wllag1xgdbm6nlkwecf1wzhizwjez)] [[cc](https://uchicago.box.com/s/8selzr9uicu09gq960tscyb1bej14bxh)] 
-
 Abstract 96. C[l]V is not a good enough C/ɾ/V, even if you say so: Asymmetric mispronunciation detection of liquids in Brazilian Portuguese, *Andressa Toni* [abstract](./poster-abstracts.md#clv-is-not-a-good-enough-cɾv-even-if-you-say-so-asymmetric-mispronunciation-detection-of-liquids-in-brazilian-portuguese) [[vid](https://uchicago.box.com/s/71f0qwfl75wg2hxnk2i75chbx77f2jf4)] [[cc](https://uchicago.box.com/s/roao22o0ntsq6j22w9cn4hnxneeuc2lb)] 
 
 Abstract 46. Quantifying the role of rhythm in infants’ language discrimination abilities: A meta-analysis, *Loretta Gasparini, Alan Langus, Sho Tsuji, Natalie Boll-Avetisyan* [abstract](./poster-abstracts.md#quantifying-the-role-of-rhythm-in-infants-language-discrimination-abilities-a-meta-analysis) [[vid](https://uchicago.box.com/s/8nf0b6yik0ha9lgtwqvjeqt3t8d57cuo)] [[cc](./whoops.md)]
