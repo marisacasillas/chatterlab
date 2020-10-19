@@ -105,7 +105,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 |13.00–13.15|Laing|[Measuring phonological systematicity in infants’ early words](./mpal/abstracts.md#measuring-phonological-systematicity-in-infants-early-words)| [[vid](https://uchicago.box.com/v/MPaL2020-Laing)] | [[cc_isl](./mpal/whoops.md)] |
 |13.15–13.30|Snijders|[Individual variability in infants’ cortical tracking of speech rhythm relates to their word segmentation performance](./mpal/abstracts.md#individual-variability-in-infants-cortical-tracking-of-speech-rhythm-relates-to-their-word-segmentation-performance)| [[vid](https://uchicago.box.com/v/MPaL2020-Snijders)] | [[cc_isl](./mpal/whoops.md)] |
 |13.30–13.45|Tsui et al.|[Opportunities and challenges of setting up global large-scale replications: ManyBabies1-Africa](./mpal/abstracts.md#opportunities-and-challenges-of-setting-up-global-large-scale-replications-manybabies1-africa)| [[vid](https://uchicago.box.com/v/MPaL2020-Tsui)] | [[cc_isl](./mpal/whoops.md)] |
-|13.45–14.00| -- | Live Q&A featuring: Laing and Snijders|
+|13.45–14.00| -- | Live Q&A featuring: Laing, Snijders, and Bergmann (Tsui et al., talk)|
 
 14.00 - 14.15 &nbsp;&nbsp;&nbsp; Coffee break
 
