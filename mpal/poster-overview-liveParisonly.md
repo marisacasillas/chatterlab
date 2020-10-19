@@ -133,6 +133,8 @@ Abstract 21. Properties of child-directed speech in bilingual parents: A study o
 
 ### Prosody and phonology
 
+Abstract 59. Mother-baby interactions: prosody variations according to maternal depression and infant age, *María Patricia Paolantonio, Laura M. V. Manoiloff, Ana E. Faas* [abstract](./poster-abstracts.md#mother-baby-interactions-prosody-variations-according-to-maternal-depression-and-infant-age) [[vid](https://uchicago.box.com/s/460wllag1xgdbm6nlkwecf1wzhizwjez)] [[cc](https://uchicago.box.com/s/8selzr9uicu09gq960tscyb1bej14bxh)] 
+
 Abstract 67. The role of experience in shaping language processing: Insights from non-industrial communities in Bolivia and Papua New Guinea, *Alejandrina Cristia, Gianmatteo Farabolini, Camila Scaff, Naomi Havron, Jonathan Stieglitz, Marisa Casillas* [abstract](./poster-abstracts.md#the-role-of-experience-in-shaping-language-processing-insights-from-non-industrial-communities-in-bolivia-and-papua-new-guinea) [[vid](https://uchicago.box.com/s/64ki8oayypficy0bo2jh72e9rxrsfkmb)] [[cc](./whoops.md)] 
 
 Abstract 25. The Development of Consonants in Canonical Babble - Language Acquisition in Yélî Dnye and Tseltal, *Abram A. K. Peute, Marisa Casillas* [abstract](./poster-abstracts.md#the-development-of-consonants-in-canonical-babble---language-acquisition-in-yélî-dnye-and-tseltal) [[vid](https://uchicago.box.com/s/vcsng9col06u1extaugyx9rronfsz7em)] [[cc](./whoops.md)] 
