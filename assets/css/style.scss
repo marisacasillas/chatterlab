@@ -20,4 +20,12 @@ h3[id^="thursday"] ~ table {
   td:nth-child(2) {
     width: 150px;
   }
+
+  td:nth-child(4) {
+    width: 80px;
+  }
+
+  td:nth-child(5) {
+    width: 100px;
+  }
 }
