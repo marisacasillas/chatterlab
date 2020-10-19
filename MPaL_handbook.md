@@ -23,6 +23,8 @@ MPaL 2020 is offering this year's workshop on three schedules. Click on the one 
 
 [Singapore local time](./MPaL_handbook_Singapore.md)
 
+More local timezone conversions are provided [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdjeqCBd_KGm8qgIab-Ui3o4ccp_MBTEkQ578Qo_9aZ2YBe_ktXo-0B74pIfsOHyXrvTtmZVj1hICl/pubhtml) for all three live runs—but note that all links to videos are still on the official program pages above.
+
 ## 3. Check out the acknowledgements
 MPaL2020 has been made possible by the contributions of [_scores_ of generous volunteers](./mpal/acknowledgements.md). We are so grateful for their help!
 
