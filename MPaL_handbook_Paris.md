@@ -52,7 +52,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 |13.15–13.30|Homer et al.|[Predicting lexical processing efficiency at 9 months from the home language environment: Child-directed vs. ambient speech](./mpal/abstracts.md#predicting-lexical-processing-efficiency-at-9-months-from-the-home-language-environment-child-directed-vs-ambient-speech)| [[vid](https://uchicago.box.com/v/MPaL2020-Homer)] | [[cc_isl](./mpal/whoops.md)] |
 |13.30–13.45|Egger et al.|[Investigating the interplay between parental speech input, speed of processing and vocabulary development](./mpal/abstracts.md#investigating-the-interplay-between-parental-speech-input-speed-of-processing-and-vocabulary-development)| [[vid](https://uchicago.box.com/v/MPaL2020-Egger)] | [[cc_isl](./mpal/whoops.md)] |
 |13.45–14.00|Garcia et al.|[Developmental effects in the on-line use of morphosyntactic markers: Evidence from Tagalog](./mpal/abstracts.md#developmental-effects-in-the-on-line-use-of-morphosyntactic-markers-evidence-from-tagalog)| [[vid](https://uchicago.box.com/v/MPaL2020-Garcia)] | [[cc_isl](./mpal/whoops.md)] |
-|14.00–14.15| -- | Live Q&A featuring: Homer, Egger, and Garcia|
+|14.00–14.15| -- | Live Q&A featuring: Egger, and Garcia|
 
 14.15 - 14.30 &nbsp;&nbsp;&nbsp; Coffee break
 
