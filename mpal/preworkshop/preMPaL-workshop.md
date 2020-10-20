@@ -15,8 +15,8 @@ The four invited presentations will focus on studies relating to the standard mo
 
 ## How to participate
 * Select one of the meetings below.
-* [Register](https://forms.gle/8yAznEQ5RVFPG6r26) for your selected meeting
-    * You will receive the Zoom link and meeting password soon after.
+* **!! Registration is now closed !!** <!--[Register](https://forms.gle/8yAznEQ5RVFPG6r26) for your selected meeting-->
+    * If you registered, you should have received Zoom link and meeting password; let us know if you did not.
 * Review the activities on the Standard Meeting Agenda below.
 * Watch the invited talks and discussions before joining the meeting. Please watch:
     * The [5-minute introductory video](https://www.dropbox.com/s/iggzp5d9ng7ugt0/Pre-MPaL2020-langVIEW-Frank.mp4?dl=0) on the context of the workshop
