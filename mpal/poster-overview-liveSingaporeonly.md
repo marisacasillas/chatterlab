@@ -10,7 +10,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ### Processing and learning
 
-Abstract 89. The Relation between 9-month-olds' Neural Sensitivity to the Rhythm of Speech and their Word Segmentation ERP response, *Fleur M. H. G. Vissers, Lisa Rommers, Sophie Arana, Anne Kösem, Tineke M. Snijders* [abstract](./poster-abstracts.md#the-relation-between-9-month-olds-neural-sensitivity-to-the-rhythm-of-speech-and-their-word-segmentation-erp-response) [[vid](https://uchicago.box.com/s/coiwrqck939r9023it7i3ll3bhec7leb)] [[cc](https://uchicago.box.com/s/dvof5cyu48ppnznda7kv174z58nfzjb6)]
+Abstract 89. Rhythm-Based Word Segmentation and its Relation to Speech-Brain Coherence in Dutch 9-Month-Olds, *Fleur M. H. G. Vissers, Lisa Rommers, Sophie Arana, Anne Kösem, Tineke M. Snijders* [abstract](./poster-abstracts.md#rhythm-based-word-segmentation-and-its-relation-to-speech-brain-coherence-in-dutch-9-month-olds) [[vid](https://uchicago.box.com/s/coiwrqck939r9023it7i3ll3bhec7leb)] [[cc](https://uchicago.box.com/s/dvof5cyu48ppnznda7kv174z58nfzjb6)]
 
 ---
 

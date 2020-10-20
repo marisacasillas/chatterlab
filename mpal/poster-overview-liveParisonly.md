@@ -31,7 +31,7 @@ Abstract 3. When do children most resemble their parents?, *Virginia Valian, Pau
 
 Abstract 87. Neurodevelopmental Differences in Autism Spectrum Disorder Applied to Language Learning, *Kelly L. Coburn, Diane L. Williams* [abstract](./poster-abstracts.md#neurodevelopmental-differences-in-autism-spectrum-disorder-applied-to-language-learning) [[vid](https://uchicago.box.com/s/tlcwz9f4rxvanrfdpc5eb6bw8355cxhf)] [[cc](https://uchicago.box.com/s/ondsdep4xdta3bd00fi8njm63wniw5wd)]
 
-Abstract 79. Relative clause production abilities of children with ASD, *Nufar Sukenik* [abstract](./poster-abstracts.md#relative-clause-production-abilities-of-children-with-asd) [[vid](https://uchicago.box.com/s/guthqtyg3ec28heqw72028bfqzecp43j)] [[cc](https://uchicago.box.com/s/1dol3n0mmbmt2y5xpdm5kkyrs2dq0hrs)] 
+Abstract 79. Relative clause production abilities of Hebrew-speaking children with ASD, *Nufar Sukenik* [abstract](./poster-abstracts.md#relative-clause-production-abilities-of-hebrew-speaking-children-with-asd) [[vid](https://uchicago.box.com/s/guthqtyg3ec28heqw72028bfqzecp43j)] [[cc](https://uchicago.box.com/s/1dol3n0mmbmt2y5xpdm5kkyrs2dq0hrs)]
 
 Abstract 12. Co-development of language and social action in a child with Down Syndrome, *Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou* [abstract](./poster-abstracts.md#co-development-of-language-and-social-action-in-a-child-with-down-syndrome) [[vid](https://uchicago.box.com/s/7eflfarf38pzdlo272fjszhovaut6wm6)] [[cc](https://uchicago.box.com/s/9erlcp7wruzmutyjgg2h4xu5zdl6gz5k)] 
 
@@ -51,9 +51,9 @@ Abstract 36. Determinants of lexical development in Dutch toddlers, *Josje Verha
 
 ### Assessments and interventions for developmental disorders
 
-Abstract 26. An online scale for the Assessment of Language in Adults using Self-reported Skills (ALASS), *Hannah Joyce, Javier Aguado-Orea* [abstract](./poster-abstracts.md#an-online-scale-for-the-assessment-of-language-in-adults-using-self-reported-skills-alass) [[vid](https://uchicago.box.com/s/live741qgu8lwc7pxyzn0yop4pu5axu4)] [[cc](https://uchicago.box.com/s/chm5iidvsyxw2gnysqjzojpt5sw5danh)] 
+Abstract 26. An online scale for the Assessment of Language in Adults using Self-reported Skills, *Hannah Joyce, Javier Aguado-Orea* [abstract](./poster-abstracts.md#an-online-scale-for-the-assessment-of-language-in-adults-using-self-reported-skills) [[vid](https://uchicago.box.com/s/live741qgu8lwc7pxyzn0yop4pu5axu4)] [[cc](https://uchicago.box.com/s/chm5iidvsyxw2gnysqjzojpt5sw5danh)]
 
-Abstract 52. Intervention for word-finding difficulty for Arabic preschool children starting to use English as additional language, *Roaa Alsulaiman, Peter Howell* [abstract](./poster-abstracts.md#intervention-for-word-finding-difficulty-for-arabic-preschool-children-starting-to-use-english-as-additional-language) [[vid](https://uchicago.box.com/s/qjy0nt6jat9wes2wodcnnnoe00niaqbm)] [[cc](https://uchicago.box.com/s/djl93emy82dptufk2uyelpn7u6ie21th)] 
+Abstract 52. Treating Word-finding difficulty in Arabic Children with English as Additional Language, *Roa'a Alsulaiman, John Harris, Peter Howell* [abstract](./poster-abstracts.md#treating-word-finding-difficulty-in-arabic-children-with-english-as-additional-language) [[vid](https://uchicago.box.com/s/qjy0nt6jat9wes2wodcnnnoe00niaqbm)] [[cc](https://uchicago.box.com/s/djl93emy82dptufk2uyelpn7u6ie21th)]
 
 Abstract 62. Impact of an early auditory training on the electrophysiological functioning underlying language acquisition: evidence from typically developing infants, *Chiara Cantiani, Chiara Dondena, Massimo Molteni, Valentina Riva* [abstract](./poster-abstracts.md#impact-of-an-early-auditory-training-on-the-electrophysiological-functioning-underlying-language-acquisition-evidence-from-typically-developing-infants) [[vid](https://uchicago.box.com/s/k1mw5scquicek83j2vm8ajc1a77g8k54)] [[cc](https://uchicago.box.com/s/olvl6qrca8p9qo5lppbepwqatacfu66f)] 
 
@@ -77,15 +77,16 @@ Abstract 15. Different developmental trajectories in Dutch and Turkish children�
 
 Abstract 23. Investigating the relationship between infant learning and measured effect size in preferential looking paradigms, *Martin Zettersten, Alexis K. Black, Christina Bergmann, Desia Bacon, Haley Weaver, Jenny Saffran* [abstract](./poster-abstracts.md#investigating-the-relationship-between-infant-learning-and-measured-effect-size-in-preferential-looking-paradigms) [[vid](https://uchicago.box.com/s/di5z6of6eozyexong0kr3xak8votr41s)] [[cc](https://uchicago.box.com/s/kugreu62mi6bo6vx9t37p20hu29simym)]
 
-Abstract 39. Towards a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome, *Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium* [abstract](./poster-abstracts.md#towards-a-large-scale-collaboration-for-infant-online-testing-introducing-manybabies-athome) [[vid](https://uchicago.box.com/s/cxitu4l45qmn2o7131rgt7k0sp5znbkk)] [[cc](https://uchicago.box.com/s/gdigvfzjsodg3nnh05qmeouo4adcofqp)]
+Abstract 39. Toward a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome, *Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium* [abstract](./poster-abstracts.md#toward-a-large-scale-collaboration-for-infant-online-testing-introducing-manybabies-athome) [[vid](https://uchicago.box.com/s/cxitu4l45qmn2o7131rgt7k0sp5znbkk)] [[cc](https://uchicago.box.com/s/gdigvfzjsodg3nnh05qmeouo4adcofqp)]
+
 
 ---
 
 ### Processing and learning
 
-Abstract 89. The Relation between 9-month-olds' Neural Sensitivity to the Rhythm of Speech and their Word Segmentation ERP response, *Fleur M. H. G. Vissers, Lisa Rommers, Sophie Arana, Anne Kösem, Tineke M. Snijders* [abstract](./poster-abstracts.md#the-relation-between-9-month-olds-neural-sensitivity-to-the-rhythm-of-speech-and-their-word-segmentation-erp-response) [[vid](https://uchicago.box.com/s/coiwrqck939r9023it7i3ll3bhec7leb)] [[cc](https://uchicago.box.com/s/dvof5cyu48ppnznda7kv174z58nfzjb6)]
+Abstract 89. Rhythm-Based Word Segmentation and its Relation to Speech-Brain Coherence in Dutch 9-Month-Olds, *Fleur M. H. G. Vissers, Lisa Rommers, Sophie Arana, Anne Kösem, Tineke M. Snijders* [abstract](./poster-abstracts.md#rhythm-based-word-segmentation-and-its-relation-to-speech-brain-coherence-in-dutch-9-month-olds) [[vid](https://uchicago.box.com/s/coiwrqck939r9023it7i3ll3bhec7leb)] [[cc](https://uchicago.box.com/s/dvof5cyu48ppnznda7kv174z58nfzjb6)]
 
-Abstract 18. How does language experience support language development? Short-term priming and long-term learning, *Leone Buckle, Katherine Messenger, Holly Branigan, Laura Lindsay* [abstract](./poster-abstracts.md#how-does-language-experience-support-language-development-short-term-priming-and-long-term-learning) [[vid](https://uchicago.box.com/s/lt7c09vjupvvtwse2vmt34t7sw1z4jtp)] [[cc](https://uchicago.box.com/s/evvfarwet1sp601mxw8epszz3kpguzlk)]
+Abstract 18. How does language experience support language development? Short-term priming and long-term learning, *Leone Buckle, Katherine Messenger, Holly Branigan, Laura Lindsay, Gemma Catchpole* [abstract](./poster-abstracts.md#how-does-language-experience-support-language-development-short-term-priming-and-long-term-learning) [[vid](https://uchicago.box.com/s/lt7c09vjupvvtwse2vmt34t7sw1z4jtp)] [[cc](https://uchicago.box.com/s/evvfarwet1sp601mxw8epszz3kpguzlk)]
 
 Abstract 38. The changing contributions of prior knowledge and offline processes to vocabulary learning across development, *Emma James, Gareth Gaskell, Lisa Henderson* [abstract](./poster-abstracts.md#the-changing-contributions-of-prior-knowledge-and-offline-processes-to-vocabulary-learning-across-development) [[vid](https://uchicago.box.com/s/l07yhcdpi3u7r7dwv8axpfwwy6b0hjiv)] [[cc](https://uchicago.box.com/s/eaa4ne2gh6zggj9zzrbftxab3qqlivkn)]
 
@@ -101,7 +102,7 @@ Abstract 14. ‘Long nose’ and ‘naso lungo’: establishing the need for ret
 
 Abstract 75. A computational study of the mechanisms underlying infant speed of processing and vocabulary development, *Andrew Jessop, Gary Jones, Caroline Rowland* [abstract](./poster-abstracts.md#a-computational-study-of-the-mechanisms-underlying-infant-speed-of-processing-and-vocabulary-development) [[vid](https://uchicago.box.com/s/oc2rr21xfnjda56q1gpu5nbw3yuoz0xt)] [[cc](https://uchicago.box.com/s/4mgvzc4u74qgt4xl8kvicszfyhxfszk9)] 
 
-Abstract 66. Syntax acquisition in children and bilingual speakers: A pre-registered syntactic priming study, *Sophie M. Hardy, Ema Ushioda, Katherine Messenger* [abstract](./poster-abstracts.md#syntax-acquisition-in-children-and-bilingual-speakers-a-pre-registered-syntactic-priming-study) [[vid](https://uchicago.box.com/s/o62oq5740sad6fej1a7c3r8gmf9vcfoc)] [[cc](https://uchicago.box.com/s/bng6mykgx3zlo52z6ec6rhhhu4qbt6s7)]
+Abstract 66. Syntax acquisition in children and bilingual speakers: A pre-registered (and ongoing) syntactic priming study, *Sophie M. Hardy, Ema Ushioda, Katherine Messenger* [abstract](./poster-abstracts.md#syntax-acquisition-in-children-and-bilingual-speakers-a-pre-registered-and-ongoing-syntactic-priming-study) [[vid](https://uchicago.box.com/s/o62oq5740sad6fej1a7c3r8gmf9vcfoc)] [[cc](https://uchicago.box.com/s/bng6mykgx3zlo52z6ec6rhhhu4qbt6s7)]
 
 Abstract 28. How the Empirical Distribution of Words Solves the Variability Problem in Child Directed Speech, *Maja Linke, Michael Ramscar* [abstract](./poster-abstracts.md#how-the-empirical-distribution-of-words-solves-the-variability-problem-in-child-directed-speech) [[vid](https://uchicago.box.com/s/gr6pr3jhmre8vuypdwo9c0w7nmy05f78)] [[cc](https://uchicago.box.com/s/foptdiu0qams9ueomn11bd46w1xzwuyt)]
 
@@ -127,17 +128,17 @@ Abstract 9. Toddlers raised in multi-dialectal families learn words better in ac
 
 Abstract 74. Not all simultaneous bilinguals are dominant in the community language and not all code-mix: Catalan as a heritage language in Hamburg, *Laia Arnaus, Amelia Jiménez-Gaspar* [abstract](./poster-abstracts.md#not-all-simultaneous-bilinguals-are-dominant-in-the-community-language-and-not-all-code-mix-catalan-as-a-heritage-language-in-hamburg) [[vid](https://uchicago.box.com/s/x1to8yt6sx8i3qx3640hkie0atbw28d3)] [[cc](https://uchicago.box.com/s/xrho5eg6axop76r81lagd7uksyzr2mcf)]
 
-Abstract 21. Properties of child-directed speech in bilingual parents: A study of partial repetitions, *Luca Onnis, Yezhou Li* [abstract](./poster-abstracts.md#properties-of-child-directed-speech-in-bilingual-parents-a-study-of-partial-repetitions) [[vid](https://uchicago.box.com/s/stq2rqb91hoxyap47i297tkyduyf6kdp)] [[cc](https://uchicago.box.com/s/odjyyclg8k6udk1a05js85zq87un0j2i)]
+Abstract 21. Bilingual CDS: A study of parental partial repetitions, *Luca Onnis, Yezhou Li* [abstract](./poster-abstracts.md#bilingual-cds-a-study-of-parental-partial-repetitions) [[vid](https://uchicago.box.com/s/stq2rqb91hoxyap47i297tkyduyf6kdp)] [[cc](https://uchicago.box.com/s/odjyyclg8k6udk1a05js85zq87un0j2i)]
 
 ---
 
 ### Prosody and phonology
 
-Abstract 59. Mother-baby interactions: prosody variations according to maternal depression and infant age, *María Patricia Paolantonio, Laura M. V. Manoiloff, Ana E. Faas* [abstract](./poster-abstracts.md#mother-baby-interactions-prosody-variations-according-to-maternal-depression-and-infant-age) [[vid](https://uchicago.box.com/s/460wllag1xgdbm6nlkwecf1wzhizwjez)] [[cc](https://uchicago.box.com/s/8selzr9uicu09gq960tscyb1bej14bxh)] 
+Abstract 59. Mother-baby interactions: prosody variations according to maternal depression (PPD) and infant age, *María Patricia Paolantonio, Laura M. V. Manoiloff, Ana E. Faas* [abstract](./poster-abstracts.md#mother-baby-interactions-prosody-variations-according-to-maternal-depression-ppd-and-infant-age) [[vid](https://uchicago.box.com/s/460wllag1xgdbm6nlkwecf1wzhizwjez)] [[cc](https://uchicago.box.com/s/8selzr9uicu09gq960tscyb1bej14bxh)]
 
 Abstract 67. The role of experience in shaping language processing: Insights from non-industrial communities in Bolivia and Papua New Guinea, *Alejandrina Cristia, Gianmatteo Farabolini, Camila Scaff, Naomi Havron, Jonathan Stieglitz, Marisa Casillas* [abstract](./poster-abstracts.md#the-role-of-experience-in-shaping-language-processing-insights-from-non-industrial-communities-in-bolivia-and-papua-new-guinea) [[vid](https://uchicago.box.com/s/64ki8oayypficy0bo2jh72e9rxrsfkmb)] [[cc](https://uchicago.box.com/s/s7d9mary80v0fizdxytgenrexsp6m0be)]
 
-Abstract 25. The Development of Consonants in Canonical Babble - Language Acquisition in Yélî Dnye and Tseltal, *Abram A. K. Peute, Marisa Casillas* [abstract](./poster-abstracts.md#the-development-of-consonants-in-canonical-babble---language-acquisition-in-yélî-dnye-and-tseltal) [[vid](https://uchicago.box.com/s/vcsng9col06u1extaugyx9rronfsz7em)] [[cc](https://uchicago.box.com/s/9qzcyt6bhm1xyvgnrhpj7pcls3nj6uqz)]
+Abstract 25. Development of Consonants in Canonical Babble - Language Acquisition in Yélî Dnye and Tseltal, *Abram A. K. Peute, Marisa Casillas* [abstract](./poster-abstracts.md#development-of-consonants-in-canonical-babble---language-acquisition-in-yélî-dnye-and-tseltal) [[vid](https://uchicago.box.com/s/vcsng9col06u1extaugyx9rronfsz7em)] [[cc](https://uchicago.box.com/s/9qzcyt6bhm1xyvgnrhpj7pcls3nj6uqz)]
 
 ---
 
@@ -169,11 +170,11 @@ Abstract 100. The acquisition of possession in Inuktitut: insight from child and
 
 Abstract 76. Interactional style in child-parent multimodal interaction during the first three years of life, *Tove Nilsson Gerholm, Gláucia Laís Salomaõ, Petter Kallioinen* [abstract](./poster-abstracts.md#interactional-style-in-child-parent-multimodal-interaction-during-the-first-three-years-of-life) [[vid](https://uchicago.box.com/s/8842ei4eggyld9e5gp5fhnsabpf07d16)] [[cc](https://uchicago.box.com/s/5bdr7cv5jcscbe5a1ibmkwd9iwtqpmvs)]
 
-Abstract 53. Can you feel my rhythm? Interpersonal coordination between a child with deafblindness and their mentor, *Lisette de Jonge-Hoekstra, Marleen Janssen, Ralf F. A. Cox, Trees van Nunen* [abstract](./poster-abstracts.md#can-you-feel-my-rhythm-interpersonal-coordination-between-a-child-with-deafblindness-and-their-mentor) [[vid](https://uchicago.box.com/s/kbt1wzizmuqcjjzkj0a2haf99x3xp5c6)] [[cc](https://uchicago.box.com/s/42c4llpir3ztnlwgx0v867yiasqszrwe)]
+Abstract 53. Can you feel my rhythm? Interpersonal coordination between a child with deafblindness and their mentor, *Lisette de Jonge-Hoekstra, Marleen Janssen, Ralf F. A. Cox, Trees van Nuunen* [abstract](./poster-abstracts.md#can-you-feel-my-rhythm-interpersonal-coordination-between-a-child-with-deafblindness-and-their-mentor) [[vid](https://uchicago.box.com/s/kbt1wzizmuqcjjzkj0a2haf99x3xp5c6)] [[cc](https://uchicago.box.com/s/42c4llpir3ztnlwgx0v867yiasqszrwe)]
 
 Abstract 65. Through the lens of a communicative genre: Differences in use of iconic co-speech gestures by 4-years-old children, *Katharina J. Rohlfing, Ulrich Mertens, Sofia Koutalidis, Olga Abramov, Stefan Kopp, Friederike Kern* [abstract](./poster-abstracts.md#through-the-lens-of-a-communicative-genre-differences-in-use-of-iconic-co-speech-gestures-by-4-years-old-children) [[vid](https://uchicago.box.com/s/r7vntfg42i2aq40zps5lsjpvtptqr2nv)] [[cc](https://uchicago.box.com/s/3rs87znkh5ju4ewwl0ltknir591i0tiq)] 
 
-Abstract 42. The Many Colours of Dolphins: Functional colour knowledge across development, *Christina Bergmann, Teun van Gils, Lena Ackermann, Markus Ostarek, Jeroen van Paridon, Guillermo Montero-Melis* [abstract](./poster-abstracts.md#the-many-colours-of-dolphins-functional-colour-knowledge-across-development) [[vid](https://uchicago.box.com/s/taio83m7d0p0r4er80g3vkum9k07gonc)] [[cc](https://uchicago.box.com/s/j0nbwr9jayvdlgeq2phd4n624r88kpam)]
+Abstract 42. The many colours of dolphins: Colour knowledge across development, *Christina Bergmann, Teun van Gils, Lena Ackermann, Markus Ostarek, Jeroen van Paridon, Guillermo Montero-Melis* [abstract](./poster-abstracts.md#the-many-colours-of-dolphins-colour-knowledge-across-development) [[vid](https://uchicago.box.com/s/taio83m7d0p0r4er80g3vkum9k07gonc)] [[cc](https://uchicago.box.com/s/j0nbwr9jayvdlgeq2phd4n624r88kpam)]
 
 ---
 

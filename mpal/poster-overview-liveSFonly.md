@@ -10,7 +10,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ### Child-caregiver interaction
 
-Abstract 49. The function of infants’ prelinguistic vocal sequences: implications for early communication and language, *Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein* [abstract](./poster-abstracts.md#the-function-of-infants-prelinguistic-vocal-sequences-implications-for-early-communication-and-language) [[vid](https://uchicago.box.com/s/5fvdli4it46g3an8atovz9p5huihn0qh)] [[cc](https://uchicago.box.com/s/9b6b34lnia1qfgg7qbs0yeb06c6443l8)]
+Abstract 49. The Development of Prelinguistic vocal Sequences, *Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein* [abstract](./poster-abstracts.md#the-development-of-prelinguistic-vocal-sequences) [[vid](https://uchicago.box.com/s/5fvdli4it46g3an8atovz9p5huihn0qh)] [[cc](https://uchicago.box.com/s/9b6b34lnia1qfgg7qbs0yeb06c6443l8)]
 
 Abstract 29. Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants, *Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein* [abstract](./poster-abstracts.md#caregiver-behavior-that-facilitates-vocal-turn-taking-with-prelinguistic-infants) [[vid](https://uchicago.box.com/s/cmr3eeb4ncm9htf74ilijryci2bcslfk)] [[cc](https://uchicago.box.com/s/2wvgamn1fqudfqral1n0tu2n821tepwu)]
 
@@ -52,7 +52,7 @@ Abstract 63. Efficient estimation of bilingual children’s language exposure fr
 
 Abstract 64. Language Highlights Event Components: Japanese Ground-Path Categories, *Alexus G. Ramirez, Dani Levine, Hannah Puttre, Kathy Hirsh-Pasek, Roberta Golinkoff* [abstract](./poster-abstracts.md#language-highlights-event-components-japanese-ground-path-categories) [[vid](https://uchicago.box.com/s/mn4pmhaotow09zruc79qnh6xuypjovuf)] [[cc](https://uchicago.box.com/s/iewch8ar9y1c9g56h4mahoo3qj8c59jd)]
 
-Abstract 60. How Individual Difference Measures Inform Event Processing in Monolingual and Early and Late Bilingual Spanish Speakers, *Cloe Zeidan, Eleonora Rossi* [abstract](./poster-abstracts.md#how-individual-difference-measures-inform-event-processing-in-monolingual-and-early-and-late-bilingual-spanish-speakers) [[vid](https://uchicago.box.com/s/2gkj9ek6l2vxkc2btkb9czk2ahlhxtl7)] [[cc](https://uchicago.box.com/s/hm7npudoyv6m350gspfry26h1epn4x15)]
+Abstract 60. How individual difference measures inform event processing in monolingual and early and late bilingual speakers, *Cloe Zeidan, Kyra Krass, Megan Zirstein, Gerry Altmann, Eleonora Rossi* [abstract](./poster-abstracts.md#how-individual-difference-measures-inform-event-processing-in-monolingual-and-early-and-late-bilingual-speakers) [[vid](https://uchicago.box.com/s/2gkj9ek6l2vxkc2btkb9czk2ahlhxtl7)] [[cc](https://uchicago.box.com/s/hm7npudoyv6m350gspfry26h1epn4x15)]
 
 ---
 
@@ -64,7 +64,7 @@ Abstract 23. Investigating the relationship between infant learning and measured
 
 ### Processing and learning
 
-Abstract 44. Syntactic variation due to processing factors in Mandarin child-caregiver speech, *Jidong Chen, Gan Fu, Shu Yang, Bhuvana Narasimhan* [abstract](./poster-abstracts.md#syntactic-variation-due-to-processing-factors-in-mandarin-child-caregiver-speech) [[vid](https://uchicago.box.com/s/flwp8mt0gnjp6mgo6wdyw1e40ciqolgt)] [[cc](https://uchicago.box.com/s/3wh9todknd1azt6j2rn1lemyf664s7tl)]
+Abstract 44. A longitudinal study of syntactic variation in Mandarin child and caregiver speech, *Jidong Chen, Gan Fu, Shu Yang, Bhuvana Narasimhan* [abstract](./poster-abstracts.md#a-longitudinal-study-of-syntactic-variation-in-mandarin-child-and-caregiver-speech) [[vid](https://uchicago.box.com/s/flwp8mt0gnjp6mgo6wdyw1e40ciqolgt)] [[cc](https://uchicago.box.com/s/3wh9todknd1azt6j2rn1lemyf664s7tl)]
 
 ---
 
@@ -110,7 +110,7 @@ Abstract 8. Revisiting Children's Pronoun Case Errors: A Comprehensive Corpus An
 
 ### Language in multiple modalities
 
-Abstract 17. Quantifying the nature of vocal and gestural activity in infants across the first year, *Helen L. Long, Megan M. Burkhardt-Reed, Dale D. Bowman, Kimbrough D. Oller* [abstract](./poster-abstracts.md#quantifying-the-nature-of-vocal-and-gestural-activity-in-infants-across-the-first-year) [[vid](https://uchicago.box.com/s/aiqp6pjhtwj8xtjy93n8jkljnk431svr)] [[cc](https://uchicago.box.com/s/mzznr9flcpvfsn1sfxacmwt1ppd1xztu)]
+Abstract 17. Quantifiying the nature of vocal and gestural activity in infants across the first year of life, *Helen L. Long, Megan M. Burkhardt-Reed, Dale D. Bowman, Kimbrough D. Oller* [abstract](./poster-abstracts.md#quantifiying-the-nature-of-vocal-and-gestural-activity-in-infants-across-the-first-year-of-life) [[vid](https://uchicago.box.com/s/aiqp6pjhtwj8xtjy93n8jkljnk431svr)] [[cc](https://uchicago.box.com/s/mzznr9flcpvfsn1sfxacmwt1ppd1xztu)]
 
 ---
 
