@@ -10,7 +10,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ### Child-caregiver interaction
 
-#### The function of infants' prelinguistic vocal sequences: implications for early communication and language
+#### The development of prelinguistic vocal sequences
 
 **Abstract 49** [[vid](https://uchicago.box.com/s/5fvdli4it46g3an8atovz9p5huihn0qh)] [[cc](https://uchicago.box.com/s/9b6b34lnia1qfgg7qbs0yeb06c6443l8)]
 
@@ -184,7 +184,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### Relative clause production abilities of children with ASD
+#### Relative clause production abilities of Hebrew-speaking children with ASD
 
 **Abstract 79** [[vid](https://uchicago.box.com/s/guthqtyg3ec28heqw72028bfqzecp43j)] [[cc](https://uchicago.box.com/s/1dol3n0mmbmt2y5xpdm5kkyrs2dq0hrs)]
 
@@ -350,7 +350,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ### Assessments and interventions for developmental disorders
 
-#### An online scale for the Assessment of Language in Adults using Self-reported Skills (ALASS)
+#### An online scale for the Assessment of Language in Adults using Self-reported Skills
 
 **Abstract 26** [[vid](https://uchicago.box.com/s/live741qgu8lwc7pxyzn0yop4pu5axu4)] [[cc](https://uchicago.box.com/s/chm5iidvsyxw2gnysqjzojpt5sw5danh)]
 
@@ -412,11 +412,11 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### Intervention for word-finding difficulty for Arabic preschool children starting to use English as additional language
+#### Treating Word-finding difficulty in Arabic Children with English as Additional Language
 
 **Abstract 52** [[vid](https://uchicago.box.com/s/qjy0nt6jat9wes2wodcnnnoe00niaqbm)] [[cc](https://uchicago.box.com/s/djl93emy82dptufk2uyelpn7u6ie21th)]
 
-[*Roaa Alsulaiman, Peter Howell*](./authors.md)
+[*Roa'a Alsulaiman, John Harris, Peter Howell*](./authors.md)
 
 roaa.al-sulaiman.17@ucl.ac.uk
 
@@ -566,11 +566,11 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### "How Individual Difference Measures Inform Event Processing in Monolingual and Early and Late Bilingual Spanish Speakers"
+#### How individual difference measures inform event processing in monolingual and early and late bilingual speakers
 
 **Abstract 60** [[vid](https://uchicago.box.com/s/2gkj9ek6l2vxkc2btkb9czk2ahlhxtl7)] [[cc](https://uchicago.box.com/s/hm7npudoyv6m350gspfry26h1epn4x15)]
 
-[*Cloe Zeidan, Eleonora Rossi*](./authors.md)
+[*Cloe Zeidan, Kyra Krass, Megan Zirstein, Gerry Altmann, Eleonora Rossi*](./authors.md)
 
 czeidan@ufl.edu
 
@@ -652,7 +652,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### Towards a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome
+#### Toward a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome
 
 **Abstract 39** [[vid](https://uchicago.box.com/s/cxitu4l45qmn2o7131rgt7k0sp5znbkk)] [[cc](https://uchicago.box.com/s/gdigvfzjsodg3nnh05qmeouo4adcofqp)]
 
@@ -684,7 +684,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ### Processing and learning
 
-#### The Relation between 9-month-olds' Neural Sensitivity to the Rhythm of Speech and their Word Segmentation ERP response
+#### Rhythm-Based Word Segmentation and its Relation to Speech-Brain Coherence in Dutch 9-Month-Olds
 
 **Abstract 89** [[vid](https://uchicago.box.com/s/coiwrqck939r9023it7i3ll3bhec7leb)] [[cc](https://uchicago.box.com/s/dvof5cyu48ppnznda7kv174z58nfzjb6)]
 
@@ -710,7 +710,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 **Abstract 18** [[vid](https://uchicago.box.com/s/lt7c09vjupvvtwse2vmt34t7sw1z4jtp)] [[cc](https://uchicago.box.com/s/evvfarwet1sp601mxw8epszz3kpguzlk)]
 
-[*Leone Buckle, Katherine Messenger, Holly Branigan, Laura Lindsay*](./authors.md)
+[*Leone Buckle, Katherine Messenger, Holly Branigan, Laura Lindsay, Gemma Catchpole*](./authors.md)
 
 Leone.Buckle@warwick.ac.uk
 
@@ -798,7 +798,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### Syntactic variation due to processing factors in Mandarin child-caregiver speech
+#### A longitudinal study of syntactic variation in Mandarin child and caregiver speech
 
 **Abstract 44** [[vid](https://uchicago.box.com/s/flwp8mt0gnjp6mgo6wdyw1e40ciqolgt)] [[cc](https://uchicago.box.com/s/3wh9todknd1azt6j2rn1lemyf664s7tl)]
 
@@ -872,7 +872,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### Syntax acquisition in children and bilingual speakers: A pre-registered syntactic priming study
+#### Syntax acquisition in children and bilingual speakers: A pre-registered (and ongoing) syntactic priming study
 
 **Abstract 66** [[vid](https://uchicago.box.com/s/o62oq5740sad6fej1a7c3r8gmf9vcfoc)] [[cc](https://uchicago.box.com/s/bng6mykgx3zlo52z6ec6rhhhu4qbt6s7)]
 
@@ -1249,7 +1249,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### Properties of child-directed speech in bilingual parents: A study of partial repetitions
+#### Bilingual CDS: A study of parental partial repetitions
 
 **Abstract 21** [[vid](https://uchicago.box.com/s/stq2rqb91hoxyap47i297tkyduyf6kdp)] [[cc](https://uchicago.box.com/s/odjyyclg8k6udk1a05js85zq87un0j2i)]
 
@@ -1353,7 +1353,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### Mother-baby interactions: prosody variations according to maternal depression and infant age.
+#### Mother-baby interactions: prosody variations according to maternal depression (PPD) and infant age
 
 **Abstract 59** [[vid](https://uchicago.box.com/s/460wllag1xgdbm6nlkwecf1wzhizwjez)] [[cc](https://uchicago.box.com/s/8selzr9uicu09gq960tscyb1bej14bxh)]
 
@@ -1383,7 +1383,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### The Development of Consonants in Canonical Babble - Language Acquisition in Yélî Dnye and Tseltal
+#### Development of Consonants in Canonical Babble - Language Acquisition in Yélî Dnye and Tseltal
 
 **Abstract 25** [[vid](https://uchicago.box.com/s/vcsng9col06u1extaugyx9rronfsz7em)] [[cc](https://uchicago.box.com/s/9qzcyt6bhm1xyvgnrhpj7pcls3nj6uqz)]
 
@@ -1806,7 +1806,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### Quantifying the nature of vocal and gestural activity in infants across the first year
+#### Quantifiying the nature of vocal and gestural activity in infants across the first year of life
 
 **Abstract 17** [[vid](https://uchicago.box.com/s/aiqp6pjhtwj8xtjy93n8jkljnk431svr)] [[cc](https://uchicago.box.com/s/mzznr9flcpvfsn1sfxacmwt1ppd1xztu)]
 
@@ -1834,7 +1834,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 **Abstract 53** [[vid](https://uchicago.box.com/s/kbt1wzizmuqcjjzkj0a2haf99x3xp5c6)] [[cc](https://uchicago.box.com/s/42c4llpir3ztnlwgx0v867yiasqszrwe)]
 
-[*Lisette de Jonge-Hoekstra, Marleen Janssen, Ralf F. A. Cox, Trees van Nunen*](./authors.md)
+[*Lisette de Jonge-Hoekstra, Marleen Janssen, Ralf F. A. Cox, Trees van Nuunen*](./authors.md)
 
 lisette.hoekstra@rug.nl
 
@@ -1886,7 +1886,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ---
 
-#### The Many Colours of Dolphins: Functional colour knowledge across development
+#### The many colours of dolphins: Colour knowledge across development
 
 **Abstract 42** [[vid](https://uchicago.box.com/s/taio83m7d0p0r4er80g3vkum9k07gonc)] [[cc](https://uchicago.box.com/s/j0nbwr9jayvdlgeq2phd4n624r88kpam)]
 
