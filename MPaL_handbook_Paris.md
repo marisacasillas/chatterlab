@@ -14,7 +14,9 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 <br/>
 
 ### Thursday, 22 October 2020
-10.00 - 10.15 &nbsp;&nbsp;&nbsp; **Opening remarks** [[vid](https://uchicago.box.com/s/pebo43hfpynt366jfi0glr3wzwlqids8)] [[cc_isl](./mpal/whoops.md)]
+10.00 - 10.05 &nbsp;&nbsp;&nbsp; **Opening remarks** [[vid](https://uchicago.box.com/s/pebo43hfpynt366jfi0glr3wzwlqids8)] [[cc_isl](./mpal/whoops.md)]
+
+10.05 - 10.15 &nbsp;&nbsp;&nbsp; **Program navigation tips** [[vid](https://uchicago.box.com/s/kj0mt22bg1gze1gm5j79llfquxajm15y)] [[cc_isl](./mpal/whoops.md)]
 
 10.15 - 11.15 &nbsp;&nbsp;&nbsp; **Invited talk and live Q&A:** Gabriella Vigliocco. [Ecological learning: Characterising the multimodal cues available to children in real-world communication](./mpal/abstracts.md#gabriella-vigliocco-university-college-london) [[vid](https://uchicago.box.com/v/MPaL2020-Vigliocco)] [[cc_isl](./mpal/whoops.md)]
 
@@ -69,7 +71,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 <br/>
 
 ### Friday, 23 October 2020
-10.00 - 10.45 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Linguistic diversity and the origin of exact algorithms](./mpal/abstracts.md#david-barner-university-of-california-san-diego) [[vid](https://uchicago.box.com/v/MPaL2020-Barner)] [[cc_isl](./mpal/whoops.md)] [[HD\_version\_nocaptions](https://uchicago.box.com/v/MPaL2020-Barner-HD)] _*NOTE: This talk has no live Q&A in this timezone_
+10.00 - 10.45 &nbsp;&nbsp;&nbsp; **Invited talk:** David Barner. [Linguistic diversity and the origin of exact algorithms](./mpal/abstracts.md#david-barner-university-of-california-san-diego) [[vid](https://uchicago.box.com/v/MPaL2020-Barner)] [[cc_isl](https://uchicago.box.com/v/MPaL2020-Barner-cc-isl)] [[HD\_version\_nocaptions](https://uchicago.box.com/v/MPaL2020-Barner-HD)] _*NOTE: This talk has no live Q&A in this timezone_
 
 10.45 - 11.15 &nbsp;&nbsp;&nbsp; Coffee break
 
@@ -85,7 +87,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 |Time|Authors|Room B: [Multilingual language development](./mpal/abstracts.md#multilingual-language-development)| Video | (CC + ISL) |
 |---|---|---|---|---|
 |11.15–11.30|Childers et al.|[Examining verb-action co-occurrences in everyday contexts in Spanish-speaking and English-speaking families](./mpal/abstracts.md#examining-verb-action-co-occurrences-in-everyday-contexts-in-spanish-speaking-and-english-speaking-families)| [[vid](https://uchicago.box.com/v/MPaL2020-Childers)] | [[cc_isl](./mpal/whoops.md)] |
-|11.30–11.45|D'Souza et al.|[Bilingual infants disengage faster and switch attention more frequently than monolingual infants](./mpal/abstracts.md#bilingual-infants-disengage-faster-and-switch-attention-more-frequently-than-monolingual-infants)| [[vid](https://uchicago.box.com/v/MPaL2020-DSouza)] | [[cc_isl](./mpal/whoops.md)] |
+|11.30–11.45|D'Souza et al.|[Bilingual infants disengage faster and switch attention more frequently than monolingual infants](./mpal/abstracts.md#bilingual-infants-disengage-faster-and-switch-attention-more-frequently-than-monolingual-infants)| [[vid](https://uchicago.box.com/v/MPaL2020-DSouza)] | [[cc_isl](https://uchicago.box.com/s/jnyzdf6shqpk9628h5igokk9zcbkupg2)] |
 |11.45–12.00|Levy & Hanulíková|[Spot it and learn it! A novel paradigm to examine word learning in school-aged children](./mpal/abstracts.md#spot-it-and-learn-it-a-novel-paradigm-to-examine-word-learning-in-school-aged-children)| [[vid](https://uchicago.box.com/v/MPaL2020-Levy)] | [[cc_isl](https://uchicago.box.com/v/MPaL2020-Levy-cc-isl)] |
 |12.00–12.15| -- | Live Q&A featuring: D'Souza and Levy|
 
@@ -117,7 +119,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 16.30 - 17.30 &nbsp;&nbsp;&nbsp; **Live workshop on parallel session 3 themes** (pre-registration required)
 
-17.30 - 17.45 &nbsp;&nbsp;&nbsp; **Closing remarks & poster prizes** [[vid](./mpal/whoops.md)] [[cc_isl](./mpal/whoops.md)]
+17.30 - 17.45 &nbsp;&nbsp;&nbsp; **Closing remarks & poster prizes** [[vid](https://uchicago.box.com/s/r42j9ls2rasfvkupej4fwmdj508ha2ef)] [[cc_isl](./mpal/whoops.md)]
 
 18.00 &nbsp;&nbsp;&nbsp; End program day 2
 
