@@ -21,7 +21,7 @@ Look here: [San Francisco](poster-overview-liveSFonly.md)/[Paris](poster-overvie
 
 ### 22 October
 
-**NEW!** Language Development Research journal poster. *Ben Ambridge* [[vid](https://uchicago.box.com/s/ohyh1m8436wpk8oobp53lphgijxpiukq)] [[cc](https://uchicago.box.com/s/oeg4bbhlo2n8scjtby7fzmxg9lzvtd1d)]
+**NEW!** Language Development Research journal poster. *Ben Ambridge* [[vid](https://uchicago.box.com/s/ohyh1m8436wpk8oobp53lphgijxpiukq)] [[cc](https://uchicago.box.com/s/oeg4bbhlo2n8scjtby7fzmxg9lzvtd1d)] **Live Q&A: [Paris]**
 
 ### Child-caregiver interaction
 
