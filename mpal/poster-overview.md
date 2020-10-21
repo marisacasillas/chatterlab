@@ -103,7 +103,7 @@ Abstract 15. Different developmental trajectories in Dutch and Turkish childrenâ
 
 Abstract 23. Investigating the relationship between infant learning and measured effect size in preferential looking paradigms, *Martin Zettersten, Alexis K. Black, Christina Bergmann, Desia Bacon, Haley Weaver, Jenny Saffran* [abstract](./poster-abstracts.md#investigating-the-relationship-between-infant-learning-and-measured-effect-size-in-preferential-looking-paradigms) [[vid](https://uchicago.box.com/s/di5z6of6eozyexong0kr3xak8votr41s)] [[cc](https://uchicago.box.com/s/kugreu62mi6bo6vx9t37p20hu29simym)] **Live Q&A: [SF] [Paris]**
 
-Abstract 39. Toward a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome, *Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium* [abstract](./poster-abstracts.md#toward-a-large-scale-collaboration-for-infant-online-testing-introducing-manybabies-athome) [[vid](https://uchicago.box.com/s/cxitu4l45qmn2o7131rgt7k0sp5znbkk)] [[cc](https://uchicago.box.com/s/gdigvfzjsodg3nnh05qmeouo4adcofqp)] **Live Q&A: [Paris]**
+Abstract 39. Toward a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome, *Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium* [abstract](./poster-abstracts.md#toward-a-large-scale-collaboration-for-infant-online-testing-introducing-manybabies-athome) [[vid](https://uchicago.box.com/s/cxitu4l45qmn2o7131rgt7k0sp5znbkk)] [[cc](https://uchicago.box.com/s/gdigvfzjsodg3nnh05qmeouo4adcofqp)] **Live Q&A: [SF] [Paris] [Singapore]**
 
 
 ---

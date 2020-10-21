@@ -22,13 +22,20 @@ Abstract 55. Bilingual Learning in Infant Education Centers in Madrid: The Effec
 
 ---
 
+### Methodological advances
+
+Abstract 39. Toward a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome, *Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium* [abstract](./poster-abstracts.md#toward-a-large-scale-collaboration-for-infant-online-testing-introducing-manybabies-athome) [[vid](https://uchicago.box.com/s/cxitu4l45qmn2o7131rgt7k0sp5znbkk)] [[cc](https://uchicago.box.com/s/gdigvfzjsodg3nnh05qmeouo4adcofqp)]
+
+
+---
+
+### 23 October
+
 ### Prosody and phonology
 
 Abstract 46. Quantifying the role of rhythm in infants’ language discrimination abilities: A meta-analysis, *Loretta Gasparini, Alan Langus, Sho Tsuji, Natalie Boll-Avetisyan* [abstract](./poster-abstracts.md#quantifying-the-role-of-rhythm-in-infants-language-discrimination-abilities-a-meta-analysis) [[vid](https://uchicago.box.com/s/8nf0b6yik0ha9lgtwqvjeqt3t8d57cuo)] [[cc](https://uchicago.box.com/s/i6vhe7t6m6u2cnmuc55x71e0cb8okazs)]
 
 ---
-
-### 23 October
 
 ### Discourse and pragmatics
 
