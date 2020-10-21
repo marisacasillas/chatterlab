@@ -121,9 +121,9 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 
 16.30 - 17.30 &nbsp;&nbsp;&nbsp; **Live workshop on parallel session 3 themes** (pre-registration required)
 
-17.30 - 17.45 &nbsp;&nbsp;&nbsp; **Closing remarks & poster prizes** [[vid](https://uchicago.box.com/s/r42j9ls2rasfvkupej4fwmdj508ha2ef)] [[cc_isl](./mpal/whoops.md)]
+17.30 &nbsp;&nbsp;&nbsp; End program day 2
 
-18.00 &nbsp;&nbsp;&nbsp; End program day 2
+**Make sure to watch the: Closing remarks & poster prizes (not live)** [[vid](https://uchicago.box.com/s/r42j9ls2rasfvkupej4fwmdj508ha2ef)] [[cc_isl](./mpal/whoops.md)]
 
 ---
 
