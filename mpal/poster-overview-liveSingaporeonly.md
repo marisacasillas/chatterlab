@@ -8,11 +8,20 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 ### 22 October
 
+### Methodological advances
+
+Abstract 39. Toward a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome, *Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium* [abstract](./poster-abstracts.md#toward-a-large-scale-collaboration-for-infant-online-testing-introducing-manybabies-athome) [[vid](https://uchicago.box.com/s/cxitu4l45qmn2o7131rgt7k0sp5znbkk)] [[cc](https://uchicago.box.com/s/gdigvfzjsodg3nnh05qmeouo4adcofqp)]
+
+---
+
 ### Processing and learning
 
 Abstract 89. Rhythm-Based Word Segmentation and its Relation to Speech-Brain Coherence in Dutch 9-Month-Olds, *Fleur M. H. G. Vissers, Lisa Rommers, Sophie Arana, Anne Kösem, Tineke M. Snijders* [abstract](./poster-abstracts.md#rhythm-based-word-segmentation-and-its-relation-to-speech-brain-coherence-in-dutch-9-month-olds) [[vid](https://uchicago.box.com/s/coiwrqck939r9023it7i3ll3bhec7leb)] [[cc](https://uchicago.box.com/s/dvof5cyu48ppnznda7kv174z58nfzjb6)]
 
+
 ---
+
+### 23 October
 
 ### Literacy and education
 
@@ -21,15 +30,6 @@ Abstract 80. Day-by-day vocabulary learning through reading aloud at home, *Kirs
 Abstract 55. Bilingual Learning in Infant Education Centers in Madrid: The Effects of Poverty, *Wenjun Ma, Patricia K. Kuhl, Naja Ferjan Ramirez* [abstract](./poster-abstracts.md#bilingual-learning-in-infant-education-centers-in-madrid-the-effects-of-poverty) [[vid](https://uchicago.box.com/s/rbdfb3go0auhkjyp4h1lm5gmzn52vul6)] [[cc](https://uchicago.box.com/s/6f5shr72hxndqm4gi95r8wlbf4yzmch6)]
 
 ---
-
-### Methodological advances
-
-Abstract 39. Toward a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome, *Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium* [abstract](./poster-abstracts.md#toward-a-large-scale-collaboration-for-infant-online-testing-introducing-manybabies-athome) [[vid](https://uchicago.box.com/s/cxitu4l45qmn2o7131rgt7k0sp5znbkk)] [[cc](https://uchicago.box.com/s/gdigvfzjsodg3nnh05qmeouo4adcofqp)]
-
-
----
-
-### 23 October
 
 ### Prosody and phonology
 
