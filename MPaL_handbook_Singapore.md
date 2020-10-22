@@ -32,6 +32,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 |12.15–12.30| -- | _Free period:_ No presenters available for live Q&A in this timezone, sorry! |
 
 |Time|Authors|Room B: [Disorders and delays in language development](./mpal/abstracts.md#disorders-and-delays-in-language-development)| Video | (CC + ISL) |
+|---|---|---|---|---|
 |11.30–11.45|Campbell et al.|[Naturalistic language input to Blind, Deaf/Hard-of Hearing, and typically-developing infants: A quantitative and qualitative analysis](./mpal/abstracts.md#naturalistic-language-input-to-blind-deafhard-of-hearing-and-typically-developing-infants-a-quantitative-and-qualitative-analysis)| [[vid](https://uchicago.box.com/v/MPaL2020-Campbell)] | [[cc_isl](https://uchicago.box.com/s/erscvt47yuu8t5389iovcdjoieooot2o)] |
 |11.45–12.00|Hamrick et al.|[Task-dependent impact of adult words on vocalization patterns in Angelman and Down Syndromes](./mpal/abstracts.md#task-dependent-impact-of-adult-words-on-vocalization-patterns-in-angelman-and-down-syndromes)| [[vid](https://uchicago.box.com/v/MPaL2020-Hamrick)] | [[cc_isl](https://uchicago.box.com/s/xl4citddvcmw0n1vptk6lbpy5bc1i061)] |
 |12.00–12.15|Romeo et al.|[Varying relationships between parent input and the neural mechanisms of language development in infants at high and low risk for Autism](./mpal/abstracts.md#varying-relationships-between-parent-input-and-the-neural-mechanisms-of-language-development-in-infants-at-high-and-low-risk-for-autism)| [[vid](https://uchicago.box.com/v/MPaL2020-Romeo)] | [[cc_isl](https://uchicago.box.com/s/vu2z1zgjn5uw0owch3zwchpd7222ycg0)] |
@@ -77,6 +78,7 @@ Go to the [Welcome page](MPaL_handbook.md) to see other timezones
 11.15 - 12.15 &nbsp;&nbsp;&nbsp; **Parallel talk session 3:**
 
 |Time|Authors|Room A: [Socioeconomic status and language development](./mpal/abstracts.md#socioeconomic-status-and-language-development)| Video | (CC + ISL) |
+|---|---|---|---|---|
 |11.15–11.30|Gonzalez-Gomez et al.|[The effects of prematurity and socioeconomic deprivation on early speech perception: A story of two different delays](./mpal/abstracts.md#the-effects-of-prematurity-and-socioeconomic-deprivation-on-early-speech-perception-a-story-of-two-different-delays)| [[vid](https://uchicago.box.com/v/MPaL2020-GonzalezGomez)] | [[cc_isl](https://uchicago.box.com/s/z42yv6b4l6r40fj1n6p5rtjbmfvwk8gu)] |
 |11.30–11.45|Avelar et al.|[Reading practices and behaviors of Hispanic parents during shared book reading](./mpal/abstracts.md#reading-practices-and-behaviors-of-hispanic-parents-during-shared-book-reading)| [[vid](https://uchicago.box.com/v/MPaL2020-Avelar)] | [[cc_isl](https://uchicago.box.com/s/cusmxrz6wkvxhkmxelqbbzd1egciqy5j)] |
 |11.45–12.00|Schneider et al.|[Reading ability as a protective factor for word learning among school-aged low socioeconomic status children](./mpal/abstracts.md#reading-ability-as-a-protective-factor-for-word-learning-among-school-aged-low-socioeconomic-status-children)| [[vid](https://uchicago.box.com/v/MPaL2020-Schneider)] | [[cc_isl](https://uchicago.box.com/s/vrauz68j5doknbyegq9eox6nj6xe5x4e)] |
