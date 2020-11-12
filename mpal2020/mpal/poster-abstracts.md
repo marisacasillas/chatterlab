@@ -1,6 +1,6 @@
 # Many Paths to Language
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
   
@@ -12,7 +12,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### The development of prelinguistic vocal sequences
 
-**Abstract 49** [[vid](https://uchicago.box.com/s/5fvdli4it46g3an8atovz9p5huihn0qh)] [[cc](https://uchicago.box.com/s/9b6b34lnia1qfgg7qbs0yeb06c6443l8)]
+**Abstract 49**
 
 [*Steven L. Elmlinger, Jennifer A. Schwade, Michael H. Goldstein*](./authors.md)
 
@@ -38,13 +38,13 @@ A potentially important characteristic of sequential babbling is the degree of v
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Caregiver behavior that facilitates vocal turn-taking with prelinguistic infants
 
-**Abstract 29** [[vid](https://uchicago.box.com/s/cmr3eeb4ncm9htf74ilijryci2bcslfk)] [[cc](https://uchicago.box.com/s/2wvgamn1fqudfqral1n0tu2n821tepwu)]
+**Abstract 29**
 
 [*Hanwen Vivian Zhang, Steven L. Elmlinger, Rachel R. Albert, Michael H. Goldstein*](./authors.md)
 
@@ -70,13 +70,13 @@ Our data suggest that the modality (vocal v. nonvocal) and sensitivity (sensitiv
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists
 
-**Abstract 6** [[vid](https://uchicago.box.com/s/5vxa246anr8rdpehc74kc5ayftcch2hv)] [[cc](https://uchicago.box.com/s/67v42vdqtkmiizonaxq0gpvf29uo78n4)]
+**Abstract 6**
 
 [*Camila Scaff, Marisa Casillas, Jonathan Stieglitz, Alejandrina Cristia*](./authors.md)
 
@@ -100,13 +100,13 @@ Figure 1. The proportion of different block types as a function of the focal chi
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### When do children most resemble their parents?
 
-**Abstract 3** [[vid](https://uchicago.box.com/s/kg3jukg7g3wntw6lo801drs8l3zhsx47)] [[cc](https://uchicago.box.com/s/0aueajktctvx4wn70ashi3x5vusa9rbx)]
+**Abstract 3**
 
 [*Virginia Valian, Paul Feitzinger, Martin Chodorow*](./authors.md)
 
@@ -124,7 +124,7 @@ When we filter the child's and parent's vocabulary so that only words that they 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -132,7 +132,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Language environments are influenced by communication disorders
 
-**Abstract 77** [[vid](https://uchicago.box.com/s/2baw8ev1qi2q82r53yfilqzji82dqc85)] [[cc](https://uchicago.box.com/s/2bmjv149vn5j478doueemavkv9o2de45)]
+**Abstract 77**
 
 [*Hillary V. Ganek, Karen A. Gordon*](./authors.md)
 
@@ -156,13 +156,13 @@ The evidence suggests communication disorders influence language environments an
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Neurodevelopmental Differences in Autism Spectrum Disorder Applied to Language Learning
 
-**Abstract 87** [[vid](https://uchicago.box.com/s/tlcwz9f4rxvanrfdpc5eb6bw8355cxhf)] [[cc](https://uchicago.box.com/s/ondsdep4xdta3bd00fi8njm63wniw5wd)]
+**Abstract 87**
 
 [*Kelly L. Coburn, Diane L. Williams*](./authors.md)
 
@@ -180,13 +180,13 @@ Conclusion:  Implications of known neural differences can be extended to languag
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Relative clause production abilities of Hebrew-speaking children with ASD
 
-**Abstract 79** [[vid](https://uchicago.box.com/s/guthqtyg3ec28heqw72028bfqzecp43j)] [[cc](https://uchicago.box.com/s/1dol3n0mmbmt2y5xpdm5kkyrs2dq0hrs)]
+**Abstract 79**
 
 [*Nufar Sukenik*](./authors.md)
 
@@ -196,13 +196,13 @@ Relative clauses (RCs) are complex syntactic structures because they are grammat
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Co-development of language and social action in a child with Down Syndrome
 
-**Abstract 12** [[vid](https://uchicago.box.com/s/7eflfarf38pzdlo272fjszhovaut6wm6)] [[cc](https://uchicago.box.com/s/9erlcp7wruzmutyjgg2h4xu5zdl6gz5k)]
+**Abstract 12**
 
 [*Iris Nomikou, Alessandra Fasulo, Joanna Nye, Leanne Chrisostomou*](./authors.md)
 
@@ -222,13 +222,13 @@ Our data suggest that language development is shaped by the interdependence of t
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Do older children with ASD continue to show lack of a right-hand bias for gesturing?
 
-**Abstract 10** [[vid](https://uchicago.box.com/s/rgcvjqgfe2dv0x2dh6i0yo7bqz14wk8h)] [[cc](https://uchicago.box.com/s/dmi9ous5nmy4c9hcob8qurz3ft40udeo)]
+**Abstract 10**
 
 [*Nevena Dimitrova, Christine Mohr, Sandra Pache, Seyda Ozcaliskan*](./authors.md)
 
@@ -244,7 +244,7 @@ These results thus suggest that even though children with ASD continue to show a
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -252,7 +252,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Children learn new words with the help of classifiers
 
-**Abstract 43** [[vid](https://uchicago.box.com/s/b6bkfeobt8bxombz2ccddzerxc1weflc)] [[cc](https://uchicago.box.com/s/82xr8pf0t7184zh2fc3xestdqsnrsi0y)]
+**Abstract 43**
 
 [*Ming Yean Sia, Julien Mayor*](./authors.md)
 
@@ -276,13 +276,13 @@ In short, we showed that Malay-speaking children can use syntactic cues to disam
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### The Effect of Temperamental Differences on Language Acquisition
 
-**Abstract 70** [[vid](https://uchicago.box.com/s/zizd2q5jyuiqeochhytfg0juv67rqrs4)] [[cc](https://uchicago.box.com/s/o45o0nuh3twuw9vky745f3ngje5nbvfz)]
+**Abstract 70**
 
 [*Liesl Melnick, Sarah C. Kucker*](./authors.md)
 
@@ -298,13 +298,13 @@ Conclusion: Taken together, these findings suggest that variability in the child
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Exploring item-level variability in the Communicative Development Inventory (CDI) across monolingual and bilingual populations
 
-**Abstract 27** [[vid](https://uchicago.box.com/s/ztlp77x2fqqkpwf3at1zid565f225p0n)] [[cc](https://uchicago.box.com/s/nu49nfevklqoeoe6bng05v1fti16pv0i)]
+**Abstract 27**
 
 [*Ancelma Vazquez, Helena Wippick, Elizabeth B. Miller, Caitlin F. Canfield, Daniel S. Shaw, Pamela A. Morris, Alan L. Mendelsohn, Adriana Weisleder*](./authors.md)
 
@@ -328,13 +328,13 @@ This work will extend previous research on cross-linguistic patterns of early la
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Determinants of lexical development in Dutch toddlers
 
-**Abstract 36** [[vid](https://uchicago.box.com/s/shdaj3tw4jsebayxpp1lecwjvx40hm6n)] [[cc](https://uchicago.box.com/s/mk7acy1l246xspab0b9fq4u1bjl1ybgb)]
+**Abstract 36**
 
 [*Josje Verhagen, Mees van Stiphout, Elma Blom*](./authors.md)
 
@@ -344,7 +344,7 @@ Children typically acquire words like "mommy" and "banana" before "interesting" 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -352,7 +352,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### An online scale for the Assessment of Language in Adults using Self-reported Skills
 
-**Abstract 26** [[vid](https://uchicago.box.com/s/live741qgu8lwc7pxyzn0yop4pu5axu4)] [[cc](https://uchicago.box.com/s/chm5iidvsyxw2gnysqjzojpt5sw5danh)]
+**Abstract 26**
 
 [*Hannah Joyce, Javier Aguado-Orea*](./authors.md)
 
@@ -378,13 +378,13 @@ Discussion. Language-related skills can be organized around three well-different
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Dynamic-systems refinements & insights into language acquisition from multiple interventions where significant language advances were triggered across 4 months or more
 
-**Abstract 51** [[vid-original has no audio](https://uchicago.box.com/s/8a5o7muw4236u3p3vm0e7u2wxxap9bfu)]
+**Abstract 51**
 
 [*Keith E. Nelson*](./authors.md)
 
@@ -408,13 +408,13 @@ A key problem for fields of language acquisition and language intervention is th
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Treating Word-finding difficulty in Arabic Children with English as Additional Language
 
-**Abstract 52** [[vid](https://uchicago.box.com/s/qjy0nt6jat9wes2wodcnnnoe00niaqbm)] [[cc](https://uchicago.box.com/s/djl93emy82dptufk2uyelpn7u6ie21th)]
+**Abstract 52**
 
 [*Roa'a Alsulaiman, John Harris, Peter Howell*](./authors.md)
 
@@ -430,13 +430,13 @@ Discussion: The preliminary results reveal that this rapid and easy-to-score pho
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Impact of an early auditory training on the electrophysiological functioning underlying language acquisition: evidence from typically developing infants
 
-**Abstract 62** [[vid](https://uchicago.box.com/s/k1mw5scquicek83j2vm8ajc1a77g8k54)] [[cc](https://uchicago.box.com/s/olvl6qrca8p9qo5lppbepwqatacfu66f)]
+**Abstract 62**
 
 [*Chiara Cantiani, Chiara Dondena, Massimo Molteni, Valentina Riva*](./authors.md)
 
@@ -454,7 +454,7 @@ Taken together, these results provide some preliminary evidence on the efficacy 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -462,7 +462,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Optimal Learning from Minimal Input: How Pirahã Infants Acquire Language
 
-**Abstract 5** [[vid](https://uchicago.box.com/s/shlgoyox4ahcpgdaj3zq3qt89vp709uh)] [[cc](https://uchicago.box.com/s/z843jmnz4foakme4uebgwv48heyd2iyp)]
+**Abstract 5**
 
 [*Peter Gordon, Zhongyu Li, Stasha Medeiros, Jean Ee Tang, Nick Bisbee, Erin Kirby, Daniel Everett*](./authors.md)
 
@@ -480,13 +480,13 @@ Of the 12 hours of video recording, there was only 38 minutes of talking -- the 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Trivers-Willard hypothesis tested using daylong recordings
 
-**Abstract 30** [[vid](https://uchicago.box.com/s/jkqdh14gb3nhszhqm1eds6ueyuttp8nv)] [[cc](https://uchicago.box.com/s/9fpdycaqppfks6jnwo4c2jwm7g7pe974)]
+**Abstract 30**
 
 [*Valentin Thouzeau, Alejandrina Cristia, Coralie Chevallier*](./authors.md)
 
@@ -498,13 +498,13 @@ The amount of speech produced by adults varies between families, and its determi
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Efficient estimation of bilingual children's language exposure from daylong audio recordings
 
-**Abstract 63** [[vid](https://uchicago.box.com/s/77ces265in28gkflqygz98pabj4kuran)] [[cc](https://uchicago.box.com/s/08nugdtm0kvxsshz978w0f3tm3mq4t9r)]
+**Abstract 63**
 
 [*Margaret Cychosz, Anele Villanueva, Adriana Weisleder*](./authors.md)
 
@@ -536,7 +536,7 @@ Largescale audio recordings permit close observation of naturalistic language be
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -544,7 +544,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Language Highlights Event Components: Japanese Ground-Path Categories
 
-**Abstract 64** [[vid](https://uchicago.box.com/s/mn4pmhaotow09zruc79qnh6xuypjovuf)] [[cc](https://uchicago.box.com/s/iewch8ar9y1c9g56h4mahoo3qj8c59jd)]
+**Abstract 64**
 
 [*Alexus G. Ramirez, Dani Levine, Hannah Puttre, Kathy Hirsh-Pasek, Roberta Golinkoff*](./authors.md)
 
@@ -562,13 +562,13 @@ Due to null findings when analyzing children's performance on the full test tria
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### How individual difference measures inform event processing in monolingual and early and late bilingual speakers
 
-**Abstract 60** [[vid](https://uchicago.box.com/s/2gkj9ek6l2vxkc2btkb9czk2ahlhxtl7)] [[cc](https://uchicago.box.com/s/hm7npudoyv6m350gspfry26h1epn4x15)]
+**Abstract 60**
 
 [*Cloe Zeidan, Kyra Krass, Megan Zirstein, Gerry Altmann, Eleonora Rossi*](./authors.md)
 
@@ -582,13 +582,13 @@ The innovative aspect of this project was to understand how individual differenc
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Children's linguistic environment and their use of sound symbolism in language acquisition
 
-**Abstract 68** [[vid](https://uchicago.box.com/s/u7wb3ftdmsxqukk5hmy6dgf5ervmt4du)] [[cc](https://uchicago.box.com/s/a59fdff092ack8nbty2v0k7hpnkmynpp)]
+**Abstract 68**
 
 [*Anja Gampe, Jan Schaltegger, Moritz M. Daum*](./authors.md)
 
@@ -604,13 +604,13 @@ Taken together, the results confirm that being exposed to two very close languag
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Different developmental trajectories in Dutch and Turkish children's acquisition of space-pitch terminology
 
-**Abstract 15** [[vid](https://uchicago.box.com/s/lpwwxa1iqkg4j5rl63124bemv0icxrzh)] [[cc](https://uchicago.box.com/s/pwo6ekw94npfwqtp2p9n56byr0zo9a9o)]
+**Abstract 15**
 
 [*Sarah Dolscheid, Simge Çelik, Hasan Erkan, Aylin Küntay, Asifa Majid*](./authors.md)
 
@@ -620,7 +620,7 @@ Languages vary considerably in how they describe sensory experiences like colors
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -628,7 +628,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Investigating the relationship between infant learning and measured effect size in preferential looking paradigms
 
-**Abstract 23** [[vid](https://uchicago.box.com/s/di5z6of6eozyexong0kr3xak8votr41s)] [[cc](https://uchicago.box.com/s/kugreu62mi6bo6vx9t37p20hu29simym)]
+**Abstract 23**
 
 [*Martin Zettersten, Alexis K. Black, Christina Bergmann, Desia Bacon, Haley Weaver, Jenny Saffran*](./authors.md)
 
@@ -648,13 +648,13 @@ Preliminary inspection of the data (data collection ongoing; N=51 of a pre-regis
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Toward a large-scale collaboration for infant online testing: Introducing ManyBabies-AtHome
 
-**Abstract 39** [[vid](https://uchicago.box.com/s/cxitu4l45qmn2o7131rgt7k0sp5znbkk)] [[cc](https://uchicago.box.com/s/gdigvfzjsodg3nnh05qmeouo4adcofqp)]
+**Abstract 39**
 
 [*Christina Bergmann, Helen Buckler, Rhodri Cusack, Sho Tsuji, Lorijn Zaadnoordijk, The Manybabies-AtHome Consortium*](./authors.md)
 
@@ -678,7 +678,7 @@ In this presentation, we will address the conceptual, ethical, and practical cha
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -686,7 +686,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Rhythm-Based Word Segmentation and its Relation to Speech-Brain Coherence in Dutch 9-Month-Olds
 
-**Abstract 89** [[vid](https://uchicago.box.com/s/coiwrqck939r9023it7i3ll3bhec7leb)] [[cc](https://uchicago.box.com/s/dvof5cyu48ppnznda7kv174z58nfzjb6)]
+**Abstract 89**
 
 [*Fleur M. H. G. Vissers, Lisa Rommers, Sophie Arana, Anne Kösem, Tineke M. Snijders*](./authors.md)
 
@@ -702,13 +702,13 @@ Segmentation of the target words will be inferred by looking at the ERP word fam
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### How does language experience support language development? Short-term priming and long-term learning.
 
-**Abstract 18** [[vid](https://uchicago.box.com/s/lt7c09vjupvvtwse2vmt34t7sw1z4jtp)] [[cc](https://uchicago.box.com/s/evvfarwet1sp601mxw8epszz3kpguzlk)]
+**Abstract 18**
 
 [*Leone Buckle, Katherine Messenger, Holly Branigan, Laura Lindsay, Gemma Catchpole*](./authors.md)
 
@@ -732,13 +732,13 @@ At present, Experiment 1 data show larger priming effects for relative clauses i
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### The changing contributions of prior knowledge and offline processes to vocabulary learning across development
 
-**Abstract 38** [[vid](https://uchicago.box.com/s/l07yhcdpi3u7r7dwv8axpfwwy6b0hjiv)] [[cc](https://uchicago.box.com/s/eaa4ne2gh6zggj9zzrbftxab3qqlivkn)]
+**Abstract 38**
 
 [*Emma James, Gareth Gaskell, Lisa Henderson*](./authors.md)
 
@@ -756,13 +756,13 @@ In conclusion, phonological neighbour benefits can be reduced following offline 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Language co-activation in the simultaneous bilingual child's lexicon: A primed picture selection and eye-tracking study
 
-**Abstract 24** [[vid](https://uchicago.box.com/s/wnzj9ejswy55wmptosp661y4zehvhzll)] [[cc](https://uchicago.box.com/s/edkzo26ow4cun0l5l3t49jgppzs0s9r2)]
+**Abstract 24**
 
 [*Elly Koutamanis, Gerrit Jan Kootstra, Ton Dijkstra, Sharon Unsworth*](./authors.md)
 
@@ -794,13 +794,13 @@ Von Holzen, K. & Mani, N. (2012). Language nonselective lexical access in biling
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### A longitudinal study of syntactic variation in Mandarin child and caregiver speech
 
-**Abstract 44** [[vid](https://uchicago.box.com/s/flwp8mt0gnjp6mgo6wdyw1e40ciqolgt)] [[cc](https://uchicago.box.com/s/3wh9todknd1azt6j2rn1lemyf664s7tl)]
+**Abstract 44**
 
 [*Jidong Chen, Gan Fu, Shu Yang, Bhuvana Narasimhan*](./authors.md)
 
@@ -820,7 +820,7 @@ Our study demonstrates that the same processing factors that influence adult Man
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -830,7 +830,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### 'Long nose' and 'naso lungo': establishing the need for retrodiction in computational models of word learning
 
-**Abstract 14** [[vid](https://uchicago.box.com/s/6v99ce4ms17yvuyugwlj7zvizz3uoma4)] [[cc](https://uchicago.box.com/s/gqub42eiwd64jifhjttrlgibhnxou3vg)]
+**Abstract 14**
 
 [*Francesca Zermiani, Atiqah Khaliq, Raquel G. Alhama*](./authors.md)
 
@@ -852,13 +852,13 @@ We trained the RNN on the the child-directed speech data from Study 1. Since thi
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### A computational study of the mechanisms underlying infant speed of processing and vocabulary development
 
-**Abstract 75** [[vid](https://uchicago.box.com/s/oc2rr21xfnjda56q1gpu5nbw3yuoz0xt)] [[cc](https://uchicago.box.com/s/4mgvzc4u74qgt4xl8kvicszfyhxfszk9)]
+**Abstract 75**
 
 [*Andrew Jessop, Gary Jones, Caroline Rowland*](./authors.md)
 
@@ -868,13 +868,13 @@ During their second year, infants experience rapid vocabulary growth while simul
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Syntax acquisition in children and bilingual speakers: A pre-registered (and ongoing) syntactic priming study
 
-**Abstract 66** [[vid](https://uchicago.box.com/s/o62oq5740sad6fej1a7c3r8gmf9vcfoc)] [[cc](https://uchicago.box.com/s/bng6mykgx3zlo52z6ec6rhhhu4qbt6s7)]
+**Abstract 66**
 
 [*Sophie M. Hardy, Ema Ushioda, Katherine Messenger*](./authors.md)
 
@@ -894,13 +894,13 @@ We will recruit 60 participants from each of the following five groups: L1 Engli
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### How the Empirical Distribution of Words Solves the Variability Problem in Child-Directed Speech
 
-**Abstract 28** [[vid](https://uchicago.box.com/s/gr6pr3jhmre8vuypdwo9c0w7nmy05f78)] [[cc](https://uchicago.box.com/s/foptdiu0qams9ueomn11bd46w1xzwuyt)]
+**Abstract 28**
 
 [*Maja Linke, Michael Ramscar*](./authors.md)
 
@@ -920,13 +920,13 @@ The results of these analyses show how the distributions of forms in child/careg
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### How young children integrate information during word learning
 
-**Abstract 98** [[vid](https://uchicago.box.com/s/6km1qzyvtwtm9nu2rk5tgd8ax0azsb7m)] [[cc](https://uchicago.box.com/s/06677o4hmge061ft3j200toakjhqrq4f)]
+**Abstract 98**
 
 [*Manuel Bohn, Michael Henry Tessler, Megan Merrick, Michael C. Frank*](./authors.md)
 
@@ -950,13 +950,13 @@ This research shows that children flexibly integrate multiple information source
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Children's Acquisition of Morphosyntactic Variation
 
-**Abstract 91** [[vid](https://uchicago.box.com/s/ywtlg3qij3occ7hi59qoxu0ggtqzsx9q)] [[cc](https://uchicago.box.com/s/u7p00dh7n6u6hji3aa1wrrxxpnyc74kf)]
+**Abstract 91**
 
 [*Naomi L. Shin, Karen Miller*](./authors.md)
 
@@ -985,7 +985,7 @@ Tagliamonte, Sali. 2012. Variationist sociolinguistics: Change, observation, and
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -993,7 +993,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### The nature and frequency of relative clauses in the language children hear and the language children read: a developmental cross-corpus analysis of English complex grammar
 
-**Abstract 33** [[vid](https://uchicago.box.com/s/9ty6zaxx7agiw41njg5130lec19jsi6g)] [[cc](https://uchicago.box.com/s/v48xcqj3mthbn132tdc62mmznyoqpsxf)]
+**Abstract 33**
 
 [*Yaling Hsiao, Nicola Dawson, Nilanjana Banerji, Kate Nation*](./authors.md)
 
@@ -1025,13 +1025,13 @@ The results confirmed our predictions of written language being more grammatical
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Teachers interventions and vocabulary development in kindergarten in Argentina
 
-**Abstract 31** [[vid](https://uchicago.box.com/s/8otv9ut933h2nrxzancwgaveqj7znt1k)] [[cc](https://uchicago.box.com/s/dsfiegreh8aa0s2mwtmt64pgjcp60c8g)]
+**Abstract 31**
 
 [*Sebastián Carignano, Alejandra Menti, María Patricia Paolantonio, María Paula Dutari*](./authors.md)
 
@@ -1057,13 +1057,13 @@ Nash, H. & Snowling, M. (2006). Teaching new words to children with poor existin
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Negotiating tensions in language diverse Dutch mathematics classrooms
 
-**Abstract 90** [[vid](https://uchicago.box.com/s/ofzrlja148jc51mrtu7rgpja4ttvoycr)] [[cc](https://uchicago.box.com/s/61zgcjwaifdk36ebcfrndxlqjyz5qgtp)]
+**Abstract 90**
 
 [*Jana Dean*](./authors.md)
 
@@ -1091,13 +1091,13 @@ Prediger, S., & Wessels, S. (2011). Relating registers for fractions — multili
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Day-by-day vocabulary learning through reading aloud at home
 
-**Abstract 80** [[vid](https://uchicago.box.com/s/7w4xx7rf2864qyewuogmnk7pryr8maka)] [[cc](https://uchicago.box.com/s/mqzgnowtj27td7i3mypsvyoh0im8m88v)]
+**Abstract 80**
 
 [*Kirsten Read*](./authors.md)
 
@@ -1115,13 +1115,13 @@ In sum, this work explores deeply the range of ways that parents use the text of
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Cross-linguistic Influence and the Acquisition of English as a Third Language in the Tunisian Context
 
-**Abstract 11** [[vid](https://uchicago.box.com/s/xxr6crtsl7eq7922ki39xv0ltht2i6qi)] [[cc](https://uchicago.box.com/s/ltbjkovnn5qdwkd4qo17coqawcbb3w6z)]
+**Abstract 11**
 
 [*Aicha Rahal*](./authors.md)
 
@@ -1139,13 +1139,13 @@ Odlin, T. (1989). Language Transfer. Cross-Linguistic Influence in Language Lear
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Bilingual Learning in Infant Education Centers in Madrid: The Effects of Poverty
 
-**Abstract 55** [[vid](https://uchicago.box.com/s/rbdfb3go0auhkjyp4h1lm5gmzn52vul6)] [[cc](https://uchicago.box.com/s/6f5shr72hxndqm4gi95r8wlbf4yzmch6)]
+**Abstract 55**
 
 [*Wenjun Ma, Patricia K. Kuhl, Naja Ferjan Ramirez*](./authors.md)
 
@@ -1165,11 +1165,11 @@ Our previous research has shown that infants, across SES, have the capacity to b
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -1177,7 +1177,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Dual Language Input from Adults and Older Children in Two Communities
 
-**Abstract 47** [[vid](https://uchicago.box.com/s/es1rxkji5jqiurni2uaflveeplcswcp2)] [[cc](https://uchicago.box.com/s/k53r4a72pwkaiy5w3jb4712qpblxy1kb)]
+**Abstract 47**
 
 [*Anele Villanueva, Margaret Cychosz, Adriana Weisleder*](./authors.md)
 
@@ -1201,13 +1201,13 @@ Among the US families, preliminary results show other children used a higher pro
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Toddlers raised in multi-dialectal families learn words better in accented speech than those raised in monodialectal families
 
-**Abstract 9** [[vid](https://uchicago.box.com/s/fp2hy8uy8pskw2pj9e6dddhwk0x0q9di)] [[cc](https://uchicago.box.com/s/arai8xndjeafjgl7cwdh1a1icor1omca)]
+**Abstract 9**
 
 [*Natalia Kartushina, Audun Rosslund, Julien Mayor*](./authors.md)
 
@@ -1221,13 +1221,13 @@ The results revealed no differences between conditions, suggesting that multi-ac
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Not all simultaneous bilinguals are dominant in the community language and not all code-mix: Catalan as a heritage language in Hamburg
 
-**Abstract 74** [[vid](https://uchicago.box.com/s/x1to8yt6sx8i3qx3640hkie0atbw28d3)] [[cc](https://uchicago.box.com/s/xrho5eg6axop76r81lagd7uksyzr2mcf)]
+**Abstract 74**
 
 [*Laia Arnaus, Amelia Jiménez-Gaspar*](./authors.md)
 
@@ -1245,13 +1245,13 @@ We conducted a pilot study with sixteen bi- and trilingual children (mean age 5;
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Bilingual CDS: A study of parental partial repetitions
 
-**Abstract 21** [[vid](https://uchicago.box.com/s/stq2rqb91hoxyap47i297tkyduyf6kdp)] [[cc](https://uchicago.box.com/s/odjyyclg8k6udk1a05js85zq87un0j2i)]
+**Abstract 21**
 
 [*Luca Onnis, Yezhou Li*](./authors.md)
 
@@ -1265,13 +1265,13 @@ Figure 1. An excerpt from the questionnaire demonstrating to parents how they sh
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Parental Responses to Child Code-Switching in 3 and 4-year-old Spanish-speaking Dual Language Learners
 
-**Abstract 2** [[vid](https://uchicago.box.com/s/cycp70prcskctzu95bjc2bgafisl5xf1)] [[cc](https://uchicago.box.com/s/x07yp3h2wps9h36e9dhob8nqpgpc94lb)]
+**Abstract 2**
 
 [*Sarah Surrain, Ali Mcafee, Meredith Rowe, Gigi Luk*](./authors.md)
 
@@ -1307,7 +1307,7 @@ Oxford University Press.
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -1315,7 +1315,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### The role of experience in shaping language processing: Insights from non-industrial communities in Bolivia and Papua New Guinea
 
-**Abstract 67** [[vid](https://uchicago.box.com/s/64ki8oayypficy0bo2jh72e9rxrsfkmb)] [[cc](https://uchicago.box.com/s/s7d9mary80v0fizdxytgenrexsp6m0be)]
+**Abstract 67**
 
 [*Alejandrina Cristia, Gianmatteo Farabolini, Camila Scaff, Naomi Havron, Jonathan Stieglitz, Marisa Casillas*](./authors.md)
 
@@ -1349,13 +1349,13 @@ Integrating across studies is difficult as any divergence in results may relate 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Mother-baby interactions: prosody variations according to maternal depression (PPD) and infant age
 
-**Abstract 59** [[vid](https://uchicago.box.com/s/460wllag1xgdbm6nlkwecf1wzhizwjez)] [[cc](https://uchicago.box.com/s/8selzr9uicu09gq960tscyb1bej14bxh)]
+**Abstract 59**
 
 [*María Patricia Paolantonio, Laura M. V. Manoiloff, Ana E. Faas*](./authors.md)
 
@@ -1379,13 +1379,13 @@ Furthermore, the results could lead us to a diagnosis method that facilitates th
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Development of Consonants in Canonical Babble - Language Acquisition in Yélî Dnye and Tseltal
 
-**Abstract 25** [[vid](https://uchicago.box.com/s/vcsng9col06u1extaugyx9rronfsz7em)] [[cc](https://uchicago.box.com/s/9qzcyt6bhm1xyvgnrhpj7pcls3nj6uqz)]
+**Abstract 25**
 
 [*Abram A. K. Peute, Marisa Casillas*](./authors.md)
 
@@ -1407,13 +1407,13 @@ An analysis of the frequency of Tseltal consonant types can be seen in Figure 1,
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### C[l]V is not a good enough C/ɾ/V, even if you say so: Asymmetric mispronunciation detection of liquids in Brazilian Portuguese
 
-**Abstract 96** [[vid](https://uchicago.box.com/s/71f0qwfl75wg2hxnk2i75chbx77f2jf4)] [[cc](https://uchicago.box.com/s/roao22o0ntsq6j22w9cn4hnxneeuc2lb)]
+**Abstract 96**
 
 [*Andressa Toni*](./authors.md)
 
@@ -1427,13 +1427,13 @@ This study investigates the role of syllable structure on the production and per
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Quantifying the role of rhythm in infants' language discrimination abilities: A meta-analysis
 
-**Abstract 46** [[vid](https://uchicago.box.com/s/8nf0b6yik0ha9lgtwqvjeqt3t8d57cuo)] [[cc](https://uchicago.box.com/s/i6vhe7t6m6u2cnmuc55x71e0cb8okazs)]
+**Abstract 46**
 
 [*Loretta Gasparini, Alan Langus, Sho Tsuji, Natalie Boll-Avetisyan*](./authors.md)
 
@@ -1451,7 +1451,7 @@ The results suggest that there is insufficient evidence that language discrimina
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -1459,7 +1459,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Pragmatic language assessment and development in children before the age of 4: Crosslinguistic insights using the Language Use Inventory
 
-**Abstract 57** [[vid](https://uchicago.box.com/s/j6xek9568aih8r56zvstxft5srca3orw)] [[cc](https://uchicago.box.com/s/5qqarmox97z38a34ve4pliw5zuc2ngwe)]
+**Abstract 57**
 
 [*Cristiana Guimarães, Daniela O'Neill, Diane Pesco, Anabela Cruz-Santos*](./authors.md)
 
@@ -1475,13 +1475,13 @@ References: [1] O'Neill (2007). The Language Use Inventory: A parent-report meas
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Individual variability in children's assessment of ironic speaker motivations
 
-**Abstract 19** [[vid](https://uchicago.box.com/s/8av70vtvd2yof58yviw5fzgqxjho8t7s)] [[cc](https://uchicago.box.com/s/xinyu16qmapfd3azmw7k1wdw44r3b2gn)]
+**Abstract 19**
 
 [*Vera Hukker, Simone Sprenger, Petra Hendriks*](./authors.md)
 
@@ -1501,13 +1501,13 @@ Children do not perform better on understanding irony based on social norm viola
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### You and I: Using epistemic cues to predict who will talk next in conversation
 
-**Abstract 97** [[vid](https://uchicago.box.com/s/3mzvgdtbn0k0c8b4o1g7tz6pg9jhdz15)] [[cc](https://uchicago.box.com/s/zli1tt5s3nh8plrhh36966r5dux14dnu)]
+**Abstract 97**
 
 [*Imme Lammertink, Maartje de Vries, Caroline Rowland, Marisa Casillas*](./authors.md)
 
@@ -1527,7 +1527,7 @@ Despite the reliable distributional link between subject pronoun person and ques
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -1535,7 +1535,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Acquisition of noun case inflections by Russian monolingual and Russian-English bilingual children
 
-**Abstract 92** [[vid](https://uchicago.box.com/s/he6i2rrs8ftrykoqf8c5oi8j83q40h0d)] [[cc](https://uchicago.box.com/s/y26y5uhqvxavkbq4ljic7z4bq9lviiku)]
+**Abstract 92**
 
 [*Ladinskaya N. S., Chrabaszcz A. V., Lopukhina А. А.*](./authors.md)
 
@@ -1568,13 +1568,13 @@ Schwartz M., Minkov M. 2014. Russian case system acquisition among russian–heb
 ---
 
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Acquiring the Dutch plural in a bilingual setting: Cross-linguistic influence from English to Dutch
 
-**Abstract 32** [[vid](https://uchicago.box.com/s/l5djjxko166rbljoy1ykxptw2pnp40aa)] [[cc](https://uchicago.box.com/s/atchmc4ljq68f09n1j2q1nn75kayn17z)]
+**Abstract 32**
 
 [*Darlene Keydeniers, Suzanne Aalberse, Sible Andringa, Folkert Kuiken*](./authors.md)
 
@@ -1633,13 +1633,13 @@ Moro, F. R. (2016). Dynamics of Ambon Malay: Comparing Ambon and the Netherlands
 ---
 
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### An Assessment of Functional Categories in Hindi-English Bilingually Developing Young Children
 
-**Abstract 41** [[vid](https://uchicago.box.com/s/oxb76sbtw0kufzl908fs0gz9cpem1r46)] [[cc](https://uchicago.box.com/s/aqzql8guafz79r9z0jms9zx2jivcvk1j)]
+**Abstract 41**
 
 [*Rita Mathur*](./authors.md)
 
@@ -1666,13 +1666,13 @@ X2 test was used to assess bivariate association between categorical variables. 
 ---
 
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Revisiting Children's Pronoun Case Errors: A Comprehensive Corpus Analysis
 
-**Abstract 8** [[vid](https://uchicago.box.com/s/kzzu54w80ix4lb9phhjxqbemseon0g6a)] [[cc](https://uchicago.box.com/s/8pgbagtge57g5fk5mwp4cdpahlza9p5z)]
+**Abstract 8**
 
 [*Xiaomeng Ma, Virginia Valian, Martin Chodorow*](./authors.md)
 
@@ -1704,13 +1704,13 @@ Children make few pronoun case errors.  There is considerable variability in err
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### The acquisition of optionality in Akan wh-questions
 
-**Abstract 34** [[vid](https://uchicago.box.com/s/4ztf5pxhr9jf08gaspv6e7yuxmjm2yc8)] [[cc](https://uchicago.box.com/s/5r7ulzrqy1m3fuhysscbdkfjh6ghpolz)]
+**Abstract 34**
 
 [*Paul O. Omane, Barbara Höhle*](./authors.md)
 
@@ -1722,13 +1722,13 @@ Keywords: Acquisition, wh-questions, Akan, in-situ structure, ex-situ structure,
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### The acquisition of possession in Inuktitut: insight from child and caregiver speech
 
-**Abstract 100** [[vid](https://uchicago.box.com/s/jn6molmxxhpusfdmmo49whuzcxaqh1o5)] [[cc](https://uchicago.box.com/s/361v0psru8y8q2o1ny67k2fmmg85zx8d)]
+**Abstract 100**
 
 [*Leah D. Doroski, Heather Littlefield, Shanley E. M. Allen*](./authors.md)
 
@@ -1776,7 +1776,7 @@ Marinis, T. (2016). Acquiring possessives. In Jeffrey L. Lidz, William Snyder & 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
@@ -1784,7 +1784,7 @@ Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_
 
 #### Interactional style in child-parent multimodal interaction during the first three years of life
 
-**Abstract 76** [[vid](https://uchicago.box.com/s/8842ei4eggyld9e5gp5fhnsabpf07d16)] [[cc](https://uchicago.box.com/s/5bdr7cv5jcscbe5a1ibmkwd9iwtqpmvs)]
+**Abstract 76**
 
 [*Tove Nilsson Gerholm, Gláucia Laís Salomaõ, Petter Kallioinen*](./authors.md)
 
@@ -1802,13 +1802,13 @@ Discussion. The similarities and differences over time between children, parents
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Quantifiying the nature of vocal and gestural activity in infants across the first year of life
 
-**Abstract 17** [[vid](https://uchicago.box.com/s/aiqp6pjhtwj8xtjy93n8jkljnk431svr)] [[cc](https://uchicago.box.com/s/mzznr9flcpvfsn1sfxacmwt1ppd1xztu)]
+**Abstract 17**
 
 [*Helen L. Long, Megan M. Burkhardt-Reed, Dale D. Bowman, Kimbrough D. Oller*](./authors.md)
 
@@ -1826,13 +1826,13 @@ Overall, infants used about three times as many endogenous protophones as social
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Can you feel my rhythm? Interpersonal coordination between a child with deafblindness and their mentor
 
-**Abstract 53** [[vid](https://uchicago.box.com/s/kbt1wzizmuqcjjzkj0a2haf99x3xp5c6)] [[cc](https://uchicago.box.com/s/42c4llpir3ztnlwgx0v867yiasqszrwe)]
+**Abstract 53**
 
 [*Lisette de Jonge-Hoekstra, Marleen Janssen, Ralf F. A. Cox, Trees van Nuunen*](./authors.md)
 
@@ -1852,13 +1852,13 @@ Our study is the first to apply a combination of detailed motion tracking and co
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### Through the lens of a communicative genre: Differences in use of iconic co-speech gestures by 4-years-old children
 
-**Abstract 65** [[vid](https://uchicago.box.com/s/r7vntfg42i2aq40zps5lsjpvtptqr2nv)] [[cc](https://uchicago.box.com/s/3rs87znkh5ju4ewwl0ltknir591i0tiq)]
+**Abstract 65**
 
 [*Katharina J. Rohlfing, Ulrich Mertens, Sofia Koutalidis, Olga Abramov, Stefan Kopp, Friederike Kern*](./authors.md)
 
@@ -1882,13 +1882,13 @@ With respect to the cognitive demands, we found that children gesture more when 
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
 
 ---
 
 #### The many colours of dolphins: Colour knowledge across development
 
-**Abstract 42** [[vid](https://uchicago.box.com/s/taio83m7d0p0r4er80g3vkum9k07gonc)] [[cc](https://uchicago.box.com/s/j0nbwr9jayvdlgeq2phd4n624r88kpam)]
+**Abstract 42**
 
 [*Christina Bergmann, Teun van Gils, Lena Ackermann, Markus Ostarek, Jeroen van Paridon, Guillermo Montero-Melis*](./authors.md)
 
@@ -1912,4 +1912,4 @@ More broadly, our data suggest that linguistic and visual input interact in comp
 
 ---
 
-Go to the Main Program ([San Francisco](../MPaL_handbook_SF.md)/[Paris](../MPaL_handbook_Paris.md)/[Singapore](../MPaL_handbook_Singapore.md))
+Go to the [Main Program](../MPaL_handbook-PostWorkshop.md)
