@@ -9,18 +9,16 @@ PhD applicants interested in working with Dr. Casillas should [contact her](./co
 
 [Natalie Dowling](https://voices.uchicago.edu/goldinmeadowlab/people/graduate-assistants/)
 
-<!--
 Erika Prado
--->
 
 ### Student members
 
 Aditya Badlani
 
+Mary Elliott
+
 <!--
 Bram Peute
-
-Mary Elliott
 -->
 
 ### Recent and frequent collaborators
