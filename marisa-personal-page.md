@@ -14,7 +14,7 @@ I am currently a post-doctoral researcher working in the Language Development De
 I will join the department of Comparative Human Development as an assistant professor in January 2021.
 
 ### Curriculum Vitae
-You can find a recent CV [here](https://docs.google.com/document/d/1hWEHXhlJ_VYXOmvjuOQlSOqgiCmt_eeVc6TvExBpC80/edit?usp=sharing), and lab-related publications can be found on our [Publications](./publications.md) page.
+You can find a recent CV [here](https://docs.google.com/document/d/1hWEHXhlJ_VYXOmvjuOQlSOqgiCmt_eeVc6TvExBpC80/edit?usp=sharing). Lab-related publications can be found on our [Publications](./publications.md) page.
 
 ### My work
 My research into children's everyday language environments in Western urban contexts and in two Indigenous rural contexts demonstrates that, across these communities, utterances directly and exclusively addressed to young children are relatively rare. Following on this discovery, we are now investigating differences in features of child-centered interactions in these communities while also exploring other ways in which children may capitalize on linguistic information in their environment.

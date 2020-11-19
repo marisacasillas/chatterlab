@@ -3,7 +3,7 @@
 The chatter lab is currently under construction, so does not yet have a physical address or phone number.
 
 ## email
-Please send your questions, comments, and suggestions to [Dr. Marisa Casillas](mcasillas@uchicago.edu).
+Please send your questions, comments, and suggestions to [Dr. Marisa Casillas](mailto:mcasillas@uchicago.edu).
 
 
 <!--
