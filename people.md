@@ -17,9 +17,7 @@ Aditya Badlani
 
 Mary Elliott
 
-<!--
 Bram Peute
--->
 
 ### Recent and frequent collaborators
 
