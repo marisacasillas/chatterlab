@@ -19,12 +19,12 @@ Mary Elliott
 
 Bram Peute
 
-### Recent and frequent collaborators
+### Some recent and frequent collaborators
 
 
 #### Turn taking
 
-[Imme Lammertink](https://nl.linkedin.com/in/imme-lammertink-15804685) and [Connie de Vos](https://research.tilburguniversity.edu/en/persons/connie-de-vos)
+[Imme Lammertink](https://sites.google.com/site/immelammertink/home), [Connie de Vos](https://research.tilburguniversity.edu/en/persons/connie-de-vos), and [Sara Bögels](https://research.tilburguniversity.edu/en/persons/sara-b%C3%B6gels).
 
 #### Early language environment
 
@@ -33,6 +33,7 @@ Bram Peute
 #### Tseltal/Rossel language research
 
 [Penny Brown](https://www.mpi.nl/people/brown-penelope), [Steve Levinson](https://www.mpi.nl/people/levinson-stephen), and [Gabriela Garrido Rodriguez](https://www.researchgate.net/profile/Gabriela_Garrido_Rodriguez)
+
 
 ----
 The chatter lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, and particularly encourage those coming from marginalized groups to reach out if interested in working with the lab.
