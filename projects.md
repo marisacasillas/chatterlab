@@ -1,10 +1,37 @@
-# chatter projects and methods
+# chatter lab projects and methods
 
-### Xcult comparison
+As an interdisciplinary lab, we work on a rather diverse array of topics using an even broader set of methodological approaches. We give a short introduction here to three of these research topics, giving some examples of methods for each:
 
-### Multimodal exchange
+[Language development across cultural contexts]
 
-### learning to take turns
+[Real-time language use in interaction]
+
+[Multimodal conversational coordination]
+
+### Language development across cultural contexts
+
+_We conduct quantitative investigations into the early language environments and language development of children growing up in a variety of cultural and linguistic contexts. Much of this work takes a comparative perspective on a topic that is relevant to two or more populations. However some of the work we do focuses on special topics unique to a particular community._
+
+One method we use in this work is **daylong audio recordings**: that is, young children wear audio-photo recording vests while they spend a full day at home; we then transcribe and annotate parts of the resulting 9–11-hour recordings to measure aspects of their interactional environment. Together with [Penny Brown](https://www.mpi.nl/people/brown-penelope) and [Steve Levinson](https://www.mpi.nl/people/levinson-stephen), we recently used this approach to study how much speech children under age three are exposed to (and from whom) in two unrelated rural Indigenous communities (the Tseltal Maya of Chiapas, Mexico and the Yélî people of Rossel Island, Milne Bay, Papua New Guinea), finding that young children were rarely directly addressed, but were exposed to quite a lot of speech directed to others. They also heard more speech from other children than children in urban, Western households typically do. Despite some differences between the two populations, these children reach early linguistic milestones at similar rates to each other and to previously studied Western children (read more [here]() and [here]()).
+
+Another method we use for this work is **gaze-based experiments**, such as looking-while-listening, central fixation habituation, and observer gaze. In these experiments, the child and one of their caregivers step into an experiment tent and sit on a small stool in front of a laptop. We then begin playing visual stimuli, usually audio-visual video stimuli, on the laptop and continuously record children's head and eye movements with a video camera mounted above the laptop, an eyetracker, or both. This method can be used with infants, children, and adults alike. We make sure to use the same experiment tent everywhere we test, even when testing in Chicago! Initial results to be posted here soon.
+
+We also use a variety of other experimental tasks that require an overt response from the participant, either by asking for them to respond linguistically or by asking them to point or press a button on a tablet. For example, together with [Alex Cristia](https://sites.google.com/site/acrsta/) we are investigating how children on Rossel Island learn the language's elaborate sound system by asking them to listen to and repeat novel words (**non-word repetition**). Another example is in our investigation of how these children learn about kinship terms like 'uncle' and 'grandmother', which we are conducting with [Steve Levinson](https://www.mpi.nl/people/levinson-stephen). In this study we ask children to name their ancestral kin on their mother's and father's sides of the family and also to define each kin type so that we can understand how their linguistic and conceptual knowledge of kinship develops. In both of these examples, we are finding that children are still developing some mastery of sounds and words of their language well into their early teens. Intial results to be posted here soon.
+
+### Real-time language use in interaction
+
+_We use a variety of quantitative psycholinguistic methods to explore how interactional demands influence in-the-moment language production and language understanding during conversation._
+
+One method we use in this work is **observer gaze**, which is a gaze-based experimental task in which the participant watches a video of a two-person conversation between two people, puppets, or drawn characters. We track participants' eye movements while they watch the videos, either using an automated computer system or by manually annotating a video of their eye movements. We then estimate when and how often participants look anticipatorily at the person who will take the next turn. We are interested in finding out how these spontaneous predictions by participants are driven by the linguistic cues present in the unfolding speech. For example, by running observer gaze experiments with adults and children in the US, the UK, and the Netherlands we have discovered that, when participants ages two and above hear a question, they are much more likely to look at the addressee in anticipation of the answer. Together with [Imme Lammertink](https://sites.google.com/site/immelammertink/home), Maartje de Vries, and [Caroline Rowland](https://www.mpi.nl/people/rowland-caroline), we are now conducting a very large study of Dutch speakers in the Netherlands to find out whether participants need to understand the whole question to make their prediction, or if they are just scanning the speech signal for 'key' words like "where" and "who" and "you" (read more [here]() and [here]()).
+
+Another method we use is **quantitative corpus study**. For example, we have carefully annotated the timing of turn transitions during parent-child conversation in English; to do this we count measure the number of milliseconds that pass between the end of a parent's question and the start of a child's answer. When we conducted a study like this on children learning American English together with [Susan Bobb](https://www.gordon.edu/susanbobb) and [Eve Clark](https://web.stanford.edu/~eclark/), we found that even very young children were capable of producing some fast responses, but only if what they wanted to say was easy to plan (e.g., "yes!"). If they wanted to answer with something more complicated (e.g., "no, that one!") they took longer to respond. These results suggest that the real "cost" when children are slow to respond is in how they plan their answers and _not_ in their ability to rapidly recognize what is being asked of them (read more [here]() and [here]()).
+
+We have used a range of other experimental methods to investigate online language processing for conversation. For example, with [Connie de Vos](https://research.tilburguniversity.edu/en/persons/connie-de-vos) and colleagues, we developed a novel button-press measure of turn-end prediction for Sign Language of the Netherlands (NGT) to test where signed utterances are perceived to end and to understand whether predictions were affected by whether the turn was a question or not (read more [here]()). With [Sara Bögels](https://research.tilburguniversity.edu/en/persons/sara-b%C3%B6gels) and colleagues we have used a neural imaging method called electroencephalography (EEG) with Dutch speakers to investigate when during a question addressees begin to plan their response and to understand how their speech planning affects their ability to simultaneously listen (read more [here]()).
+
+
+### Multimodal conversational coordination
+
+More information to come here!
 
 ----
 The chatter lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, and particularly encourage those coming from marginalized groups to reach out if interested in working with the lab.
