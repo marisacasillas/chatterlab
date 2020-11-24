@@ -3,7 +3,6 @@
 ## Dr. Marisa Casillas
 
 ### About
-<!--I am interested in learning how patterns of everyday language guide the ways in which language is learned by children, processed by adults. -->
 
 Broadly speaking, I am interested in exploring how cognitive and social processes shape the ways in which we learn, perceive, and produce language. My primary research examines the relationship between communicative skills and linguistic processing in children and adults. I use a combination of experimental- and observation-based methods to investigate these processes.
 
@@ -28,6 +27,14 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 ### Courses at UChicago
 
 [The Emergence of Communicative Competence](./Casillas-DevCommComp-Spring2020-Syllabus.md) (Spring 2020).
+
+### Professional organizations (co-)led
+
+[Daylong Audio Recordings of Children's Linguistic Environments (DARCLE) Consortium](https://darcle.org/)
+
+[Language Variation in Input Environments around the World (LangVIEW)](https://groups.google.com/forum/#!forum/langview)
+
+[Ethical Study of Language Development (ESLD)](https://groups.google.com/forum/#!forum/esld)
 
 ### Contact
 
