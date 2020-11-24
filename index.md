@@ -8,6 +8,15 @@ The chatter lab is part of the [Comparative Human Development department](https:
 
 [[People](./people.md)] [[Projects and methods](./projects.md)] [[Publications](./publications.md)] [[Contact](./contact.md)]
 
+## Presenting...
+
+Check out these poster presentations of lab-related work from Bram Peute, [Imme Lammertink](https://sites.google.com/site/immelammertink/home), and [Camila Scaff](https://camilascaff.com/). All three scholars presented their work at [MPaL 2020](./MPaL_handbook.md) (each video has captions in English).
+
+* [Development of Consonants in Canonical Babble - Language Acquisition in Yélî Dnye and Tseltal.](https://uchicago.box.com/s/57yqhzxpzubseyv8h3v7ucqv98c4sa4w) _By Abram A. K. Peute & Marisa Casillas_
+* [You and I: Using epistemic cues to predict who will talk next in conversation.](https://uchicago.box.com/s/321kil7wz696ok08tk0tcjmy5xjmuu80) _By Imme Lammertink, Maartje de Vries, Caroline Rowland, & Marisa Casillas_
+* [Exploring conversational exchanges and addressees among Tsimane forager-horticulturalists.](https://uchicago.box.com/s/n8zs3aa7s2tijmalj8sf50m9fu65ptvp) _By Camila Scaff, Marisa Casillas, Jonathan Stieglitz, and Alejandrina Cristia_
+
+
 ## News
 
 * **1 January 2021:** The chatter lab is coming to University of Chicago! Official start date is January 1st, but Dr. Casillas will be available to take your (remote) questions before then [here](./contact.md).
