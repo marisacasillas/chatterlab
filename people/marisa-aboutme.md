@@ -46,7 +46,7 @@ Email: mcasillas@uchicago.edu
 
 Other: [GitHub](https://github.com/marisacasillas/), [Google Scholar](https://scholar.google.com/citations?user=12yVanIAAAAJ&hl=en), and [Twitter](https://twitter.com/middycasillas?lang=en)
 
-<img src="./marisa-image.JPG" width="100%">
+<img src="./images/marisa-casillas.JPG" width="100%">
 Dr. Casillas in the Bemmelse Waard, Nijmegen, The Netherlands
 
 ----

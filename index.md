@@ -2,7 +2,7 @@
 
 The chatter lab investigates the cognition of everyday human language. We explore how communicative needs impact the ways in which language is learned and used by both children and adults. To that end, we employ experimental and observational methods in multiple sites around the world to analyze the production and comprehension of conversational language.
 
-Principal Investigator: [Dr. Marisa Casillas](./marisa-personal-page.md)
+Principal Investigator: [Dr. Marisa Casillas](./people/marisa-aboutme.md)
 
 The chatter lab is part of the [Comparative Human Development department](https://humdev.uchicago.edu/) at the University of Chicago.
 
