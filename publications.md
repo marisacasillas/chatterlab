@@ -39,7 +39,7 @@ Rasanen, O., Seshadri, S., Karadayi, J., Riebling, E., Bunce, J., Cristia, A., M
 
 ## 2018
 
-Bögels, S., **Casillas, M.**, & Levinson, S. C. (2018). Planning versus comprehension in turn-taking: Fast responders show reduced anticipatory processing of the question. Neuropsychologia, 109, 295-310. doi:10.1016/j.neuropsychologia.2017.12.028. [[ms](./lab-publications/Bögels_et_al_2018_Planning_versus_comprehension_in_turn_taking_Neuropsychologia.pdf)] [[sm](./lab-publications/Bögels_et_al_2018_Planning_versus_comprehension_in_turn_taking_SuppMat_Neuropsychologia.pdf)]
+Bögels, S., **Casillas, M.**, & Levinson, S. C. (2018). Planning versus comprehension in turn-taking: Fast responders show reduced anticipatory processing of the question. Neuropsychologia, 109, 295-310. doi:10.1016/j.neuropsychologia.2017.12.028. [[ms](./lab-publications/Bogels_et_al_2018_Planning_versus_comprehension_in_turn_taking_Neuropsychologia.pdf)] [[sm](./lab-publications/Bogels_et_al_2018_Planning_versus_comprehension_in_turn_taking_SuppMat_Neuropsychologia.pdf)]
 
 Cristia, A., Ganesh, S., **Casillas, M.**, & Ganapathy, S. (2018). Talker diarization in the wild: The case of child-centered daylong audio-recordings. In Proceedings of Interspeech 2018 (pp. 2583-2587). doi:10.21437/Interspeech.2018-2078. [[ms](./lab-publications/Cristia_et_al_2018_Talker_diarization_in_the_wild_Interspeech.pdf)]
 
