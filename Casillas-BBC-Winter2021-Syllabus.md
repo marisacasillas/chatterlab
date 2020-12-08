@@ -50,7 +50,7 @@ Students enrolled in this course will be graded on the following basis:
 
 Students are expected to submit digital notes summarizing and reacting to each assigned reading (~1/2 pages each). Marisa will evaluate each student's notes for each reading on a pass/fail basis (guidelines [here](./course-instructions/reading_notes.md)). There are a total of 36 required readings, but notes are only required for 30 of them (if you are an undergraduate) or for 20 of them (if you are a graduate), and students may pick which of the readings they would like to submit notes for (i.e., students earn 1% for each reading with satisfactory notes).
 
-* 1 point for every [reading with notes](./course-instructions/reading_notes.md) _(max 30 points for undergraduate students and max20 points for graduate students)_
+* 1 point for every [reading with notes](./course-instructions/reading_notes.md) _(max 30 points for undergraduate students and max 20 points for graduate students)_
 
 ### Participation
 

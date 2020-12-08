@@ -35,5 +35,4 @@ To still earn participation credit for a missed session, you can do the followin
 Unless otherwise noted, you must send these questions and comments to Marisa **within 2 days** of the missed session (i.e., missed a Tuesday = send by Thursday; missed a Thursday = send by Monday).
 
 ## Can I make up attendance credit?
-Yes! If you get a zero for a session and you'd like to make up the missed credit, you can watch the recording of the session and send Marisa two questions and two comments within two days of the missed session, as instructed above for those who were unable to attend.
-
+Yes! If you get a zero for a class session and you'd like to make up the missed credit, you can watch the recording of the session and send Marisa two questions and two comments within two days of the missed session, as instructed above for those who were unable to attend.
