@@ -5,7 +5,7 @@ Winter 2021: CHDV 23010
 
 Tuesdays and Thursdays 12:30pm-1:50pm Chicago time
 
-Office hours: Wednesday and Friday 4:00pm–6:00pm Chicago time, or by appointment.
+Office hours: Wednesdays 4:00pm–5:00pm Chicago time, or by appointment.
 
 NOTE: This course is taking place **remotely**; email the instructor if you need access to the relevant meeting and coursework links.
 
@@ -39,52 +39,33 @@ Students enrolled in this course will be graded on the following basis:
 
 | Component | Undergraduates | Graduates |
 |-----------|----------------|-----------|
-| Reading notes | 30% | 20% |
-| Participation | 20% | 20% |
-| Mini essay exams | 30% | - |
-| Squibs | - | 30% |
-| Methods presentation | 20% | 30% |
+| [Reading notes](./course-instructions/reading_notes.md) | 30% | 30% |
+| [Participation](./course-instructions/participation.md) | 20% | 20% |
+| [Mini essay exams](./course-instructions/mini_essay_exams.md) | 30% | - |
+| [Squibs](./course-instructions/squibs.md) | - | 30% |
+| [Methods presentations](./course-instructions/methods_presentations.md) | 20% | 20% |
 
 
 ### Reading notes
 
-Students are expected to submit digital notes summarizing and reacting to each assigned reading (~1/2 pages each). Marisa will evaluate each student's notes for each reading on a pass/fail basis (guidelines [here](./course-instructions/reading_notes.md)). There are a total of 36 required readings, but notes are only required for 30 of them (if you are an undergraduate) or for 20 of them (if you are a graduate), and students may pick which of the readings they would like to submit notes for (i.e., students earn 1% for each reading with satisfactory notes).
-
-* 1 point for every [reading with notes](./course-instructions/reading_notes.md) _(max 30 points for undergraduate students and max 20 points for graduate students)_
+Students are expected to submit digital notes summarizing and reacting to a subset of the assigned readings. Marisa will evaluate each submission of reading notes according to a set rubric (see the [guidelines](./course-instructions/reading_notes.md) for details).
 
 ### Participation
 
-Class discussion is an important component of this course. Students are generally expected to come to class and actively participate in discussion. That said, the unpredictability and multi-timezone nature of coursework this academic year may make it difficult for students to attend some classes, so **please stay in touch with Marisa about your limits regarding live participation**. Details on participation points are [here](./course-instructions/participation.md), but in brief, students can earn a maximum of 20 participation points (i.e. 20% of their total grade) using some combination of the following:
-
-* 18 x 1 point for [active attendance at each class](https://marisacasillas.github.io/chatterlab/course-instructions/participation#what-is-active-attendance)
-* 2 x 2 points for [an office hours discussion with Marisa](https://marisacasillas.github.io/chatterlab/course-instructions/participation#how-should-i-prepare-for-office-hours-participation) _(max 4 points)_
-
+Students are generally expected to come to class and actively participate in discussion. That said, please stay in touch with Marisa about your limitations regarding live participation. Details on participation points are [here](./course-instructions/participation.md), but in brief, students can earn participation credit using some combination of [active attendance in class](https://marisacasillas.github.io/chatterlab/course-instructions/participation#what-is-active-attendance) and [discussion of course content in office hours](https://marisacasillas.github.io/chatterlab/course-instructions/participation#how-should-i-prepare-for-office-hours-participation).
 
 ### Mini essay exams
 
-Undergraduate students are expected to complete three mini essay exams: one in week 4, one in week 7, and one during finals week. For each exam, students will give two short (~500 word) responses to take-home prompts. The exam will be graded following a the instructions [here](./course-instructions/mini_essay_exams.md). Each response is worth 5% of the student's total grade (summing to 30% in total).
-
-* 2 x 5 points for each response in the week 4 exam
-* 2 x 5 points for each response in the week 7 exam
-* 2 x 5 points for each response in the finals week exam
+Undergraduate students are expected to complete three mini essay exams: one in week 4, one in week 7, and one during finals week. For each exam, students will have one week to give two short (~500 word) responses to take-home prompts. The exam will be graded following a the instructions [here](./course-instructions/mini_essay_exams.md).
 
 ### Squibs
 
-Graduate students are expected to submit six (~2500–3000 word) [squibs](./course-instructions/squibs.md) (i.e., short theoretical papers) over the course of the quarter (see schedule).
+Graduate students are expected to submit six [squibs](./course-instructions/squibs.md) (i.e., very short theoretical papers) over the course of the quarter on topics of their choice related to course content.
 
-* 6 * 5 points for each squib
+### Methods presentations
 
-### Methods presentation
+Each student is expected to participate in a total of two methods presentations. Methods presentations are group projects. Groups will interview a researcher with expertise in the assigned method and then: (1) create a 20-minute pre-recorded mini lecture introducing and giving some demonstration of the assigned research method and (2) elicit and answer questions from the class (~10-15 minutes). Group members will also give a short evaluation of their and their peers' contributions to the project. Graduate students are expected to take a leadership role in their groups (see the [guidelines](./course-instructions/methods_presentations.md) for details).
 
-Each student (graduate and undergraduate) is expected to participate in a total of two methods presentations. Methods presentations include two components: (1) a 20-minute pre-recorded mini lecture introducing and giving some demonstration of a specific research method and (2) answering questions from the class about the method (~10 minutes). Each presentation will be prepared by a small group of students; the assignment of students to methods will take place at the beginning of the quarter. Graduate students are expected to take a leading role in their groups. More information about grading the methods presentations can be found [here](./course-instructions/methods_presentations.md).
-
-Undergraduate students:
-
-* 2 * 10 points for each presentation
-
-Graduate students:
-
-* 2 * 15 points for each presentation
 
 ----
 
