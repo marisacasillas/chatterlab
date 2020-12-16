@@ -9,7 +9,9 @@ Looking for [tools](./tools.md)?
 
 ## in press/accepted
 
-Roete, I., Frank, S., Fikkert, P., & Casillas, M. (accepted). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, XX_. [[ms](./lab-publications/Roete_et_al_accepted_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_accepted_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
+**Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. *Research on Children and Social Interaction, XX.*
+
+Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (accepted). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, XX_. [[ms](./lab-publications/Roete_et_al_accepted_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_accepted_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
 
 Brown, P., & **Casillas, M.** (accepted). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
