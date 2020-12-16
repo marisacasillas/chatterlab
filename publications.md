@@ -9,7 +9,7 @@ Looking for [tools](./tools.md)?
 
 ## in press/accepted
 
-**Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. *Research on Children and Social Interaction, XX.*
+**Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. *Research on Children and Social Interaction, XX.* [[ms](./lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
 
 Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (accepted). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, XX_. [[ms](./lab-publications/Roete_et_al_accepted_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_accepted_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
 
