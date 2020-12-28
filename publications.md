@@ -11,11 +11,13 @@ Looking for [tools](./tools.md)?
 
 **Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. *Research on Children and Social Interaction, XX.* [[ms](./lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
 
-Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (accepted). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, XX_. [[ms](./lab-publications/Roete_et_al_accepted_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_accepted_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
+Frost, R. L. A. & **Casillas, M.** (in press). Investigating statistical learning of nonadjacent dependencies: Running statistical learning tasks in non-WEIRD populations. _SAGE Methods, XX_. [[ms](./lab-publications/Frost_Casillas_preprint_investigating_statistical_learning_of_nonadjacent_dependencies_SAGEMethods.pdf)]
 
 Brown, P., & **Casillas, M.** (accepted). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
 ## 2020
+
+Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (2020). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, XX_. [[ms](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
 
 **Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Papuan community. Journal of Child Language. [[ms](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
 
