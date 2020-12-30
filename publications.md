@@ -17,7 +17,7 @@ Brown, P., & **Casillas, M.** (accepted). Childrearing through social interactio
 
 ## 2020
 
-Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (2020). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, XX_. [[ms](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
+Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (2020). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, 44:e12924_. [[ms](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
 
 **Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Papuan community. Journal of Child Language. [[ms](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
 
