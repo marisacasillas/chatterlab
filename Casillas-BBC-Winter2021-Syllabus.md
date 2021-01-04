@@ -70,28 +70,73 @@ Each student is expected to participate in a total of two methods presentations.
 ----
 
 # Course schedule
-**Coming soon...**
 
-<!--
-Origin of course title
-http://www.gutenberg.org/files/57628/57628-h/57628-h.htm#CHAPTER_XIII
--->
+## Module 1: Pattern recognition
 
-<!--
-## Module
-
-### Week XX: Xday, XX XX 2021
+### Week 1: Tuesday, 12 January 2021
 
 #### Pre-class reading
+None!
 
-\* = Required
+#### Pre-class video
+[[syllabus review](https://uchicago.zoom.us/rec/share/9fERgWagBngPhL5DhX632vnEITk3alcsk5If7OCZJlI72w-4l2jEN3Xz7gwK7m_d.ogzAdK-6kIAxt_PK)] — 11 min ([slides](https://docs.google.com/presentation/d/1KhSE8SnjAeFsQizVtMzHDkTJYXIcXRqGEF8xrqdZ574/edit?usp=sharing))
 
-[[lecture]()]
+[[reading notes review](https://uchicago.zoom.us/rec/play/S7ar7LiFmtxdR35dMCZnZdR5GimDPg8tmxJSWha4fDnIiNM8INQ3RqvDiJ38ktPqmbc5VqqxQitGV4tz.9XGarVp6UdWaNjBI)] — 8 min ([slides](https://docs.google.com/presentation/d/1qLdrYi-ocHWtIWblLLbADv9DYgdbLAeUC6Af8oFS0ns/edit?usp=sharing))
 
-[[slides]()]
+[[lecture](https://uchicago.zoom.us/rec/share/m5vPGtbEpLo-FKeNgQp06YIRoTQFZ0UrCWpv5FBvleqPB-2vdPLGFrdrhfHZhvhU.Ve8SKn_xlbPuBu_e)] — 22 min ([slides](https://docs.google.com/presentation/d/1Mu_f2eNXyj_Kt54tIxQ3e_xW_Wd4NXtwntJhuahHFa8/edit?usp=sharing))
 
-#### Assignments due
--->
+#### Assignments due today
+None!
+
+### Week 1: Thursday, 14 January 2021
+
+#### Pre-class reading
+Saffran et al. (1996). Statistical learning by 8-month-old infants. _Science 274_(5294), 1926–1928. ([pdf](https://www.dropbox.com/s/fctbdtdox19iv2h/saffran1996statistical.pdf?dl=0)) ([MC's notes](./course-notes/saffran1996science.pdf))
+
+Saffran (2020). Statistical language learning in infancy. _Child Development Perspectives 14_(1), 49–54. ([pdf](https://www.dropbox.com/s/iigih7tf9yrsc9t/saffran2020statistical.pdf?dl=0)) ([MC's notes](./course-notes/saffran2020chidevperspectives.pdf))
+
+** R. Frost et al. (2019). Statistical learning research: A critical review and possible new directions. _Psychological Bulletin 145_(12), 1128–1153. ([pdf](https://www.dropbox.com/s/da9h4d0iaboqomc/rfrost2019critical.pdf?dl=0)) ([MC's notes](./course-notes/rfrost2019psybull.pdf))
+
+\** = Required for graduate students only
+
+#### Pre-class video
+[[lecture](https://uchicago.zoom.us/rec/share/lGAZpQIVaVxUUNwtZX-pWJtXKwtuNkgWcZg74stJYYQDufDItfHlGtb2abREaaD1.HiIrP5s8lF0WMhdj)] — 54 min ([slides](https://docs.google.com/presentation/d/1gEHC7mM-V23aqG4Fz87aM4-6JrhdLSnUtvVVNrU79Eg/edit?usp=sharing))
+
+#### Assignments due today
+None!
+
+### Week 2: Tuesday, 19 January 2021
+
+#### Pre-class reading
+Maye et al. (2002). Infant sensitivity to distributional information can affect phonetic discrimination. _Cognition 82_, B101–B111. ([pdf](https://www.dropbox.com/s/jcwf77nn4vb1rkw/maye2002distributional.pdf?dl=0)) ([MC's notes](./course-notes/maye2002cognition.pdf))
+
+Smith & Yu (2008). Infants rapidly learn word-referent mappings via cross-situational statistics. _Cognition 106_, 1558–1568. ([pdf](https://www.dropbox.com/s/mh4d3urdlp1j9ke/smith2008crosssituational.pdf?dl=0)) ([MC's notes](./course-notes/smith2008cognition.pdf))
+
+** R. L. A. Frost & Monaghan (2020). Insights from studying statistical learning. In C. F. Rowland, A. L. Theakston, B. Ambridge, & K. E. Twomey (Eds.), _Current Perspectives on Child Language Acquisition: How children use their environment to learn_ (pp. 65–89). Amsterdam: John Benjamins. ([pdf](https://www.dropbox.com/s/jv3pp3lbvwhhmgo/rlafrost2020insights.pdf?dl=0)) ([MC's notes](./course-notes/rlafrost2020tilar.pdf))
+
+\** = Required for graduate students only
+
+#### Pre-class video
+[[lecture](https://uchicago.zoom.us/rec/share/5HgwoYFFwxj_y_LTcGIIJMBSK1Rqifc6ieqcOyancYTIPrSnr_C56uRolkLKSDPN.pG8QBwQn8Vix1kRp)] — 52 min ([slides](https://docs.google.com/presentation/d/1wnf2mLh6N0bnHdKkX5-eS2sHuLvItOyLvWVG8NJMpZs/edit?usp=sharing))
+
+#### Assignments due today
+None!
+
+### Week 2: Thursday, 21 January 2021
+
+#### Pre-class reading
+None!
+
+#### Pre-class video
+First round of student methods presentations (to be posted!)
+
+#### Assignments due today
+None, unless you're doing a methods presentation today!
+
+
+### Weeks 3 and beyond...
+_**To be posted soon!**_
+
 
 # Contact
 **Email:** mcasillas@uchicago.edu
