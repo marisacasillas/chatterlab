@@ -30,7 +30,37 @@ Add link to this page.-->
 
 # Up this week:
 
-Nothing! :) The quarter will begin on 11 January 2021.
+### Week 1: Tuesday, 12 January 2021
+
+#### Pre-class reading
+None!
+
+#### Pre-class video
+[[syllabus review](https://uchicago.zoom.us/rec/share/9fERgWagBngPhL5DhX632vnEITk3alcsk5If7OCZJlI72w-4l2jEN3Xz7gwK7m_d.ogzAdK-6kIAxt_PK)] — 11 min ([slides](https://docs.google.com/presentation/d/1KhSE8SnjAeFsQizVtMzHDkTJYXIcXRqGEF8xrqdZ574/edit?usp=sharing))
+
+[[reading notes review](https://uchicago.zoom.us/rec/play/S7ar7LiFmtxdR35dMCZnZdR5GimDPg8tmxJSWha4fDnIiNM8INQ3RqvDiJ38ktPqmbc5VqqxQitGV4tz.9XGarVp6UdWaNjBI)] — 8 min ([slides](https://docs.google.com/presentation/d/1qLdrYi-ocHWtIWblLLbADv9DYgdbLAeUC6Af8oFS0ns/edit?usp=sharing))
+
+[[lecture](https://uchicago.zoom.us/rec/share/m5vPGtbEpLo-FKeNgQp06YIRoTQFZ0UrCWpv5FBvleqPB-2vdPLGFrdrhfHZhvhU.Ve8SKn_xlbPuBu_e)] — 22 min ([slides](https://docs.google.com/presentation/d/1Mu_f2eNXyj_Kt54tIxQ3e_xW_Wd4NXtwntJhuahHFa8/edit?usp=sharing))
+
+#### Assignments due today
+None!
+
+### Week 1: Thursday, 14 January 2021
+
+#### Pre-class reading
+Saffran et al. (1996). Statistical learning by 8-month-old infants. _Science 274_(5294), 1926–1928. ([pdf](https://www.dropbox.com/s/fctbdtdox19iv2h/saffran1996statistical.pdf?dl=0)) ([MC's notes](./course-notes/saffran1996science.pdf))
+
+Saffran (2020). Statistical language learning in infancy. _Child Development Perspectives 14_(1), 49–54. ([pdf](https://www.dropbox.com/s/iigih7tf9yrsc9t/saffran2020statistical.pdf?dl=0)) ([MC's notes](./course-notes/saffran2020chidevperspectives.pdf))
+
+** R. Frost et al. (2019). Statistical learning research: A critical review and possible new directions. _Psychological Bulletin 145_(12), 1128–1153. ([pdf](https://www.dropbox.com/s/da9h4d0iaboqomc/rfrost2019critical.pdf?dl=0)) ([MC's notes](./course-notes/rfrost2019psybull.pdf))
+
+\** = Required for graduate students only
+
+#### Pre-class video
+[[lecture](https://uchicago.zoom.us/rec/share/lGAZpQIVaVxUUNwtZX-pWJtXKwtuNkgWcZg74stJYYQDufDItfHlGtb2abREaaD1.HiIrP5s8lF0WMhdj)] — 54 min ([slides](https://docs.google.com/presentation/d/1gEHC7mM-V23aqG4Fz87aM4-6JrhdLSnUtvVVNrU79Eg/edit?usp=sharing))
+
+#### Assignments due today
+None!
 
 # Grading
 
