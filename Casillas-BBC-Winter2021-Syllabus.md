@@ -188,7 +188,7 @@ Graduate students: Squib (optional)
 #### Pre-class reading
 Scholl & Tremoulet (2000). Perceptual causality and animacy. _Trends in Cognitive Sciences, 4_(8), 299-309. ([pdf](https://www.dropbox.com/s/vrb1hmbbv6tk9lb/scholl2000causalityanimacy.pdf?dl=0)) ([MC's notes](./course-notes/scholl2003tics.pdf))
 
-Gergely & Csibra (2003). Teleological reasoning in infancy: The naïve theory of rational action. _Trends in Cognitive Sciences, 7_(7), 287-292. ([pdf](https://www.dropbox.com/s/6mf7o4d5r81nmkj/gergeley2003teleological.pdf?dl=0)) ([MC's notes](./course-notes/gergely2003tics.pdf))
+Gergely & Csibra (2003). Teleological reasoning in infancy: The naïve theory of rational action. _Trends in Cognitive Sciences, 7_(7), 287-292. ([pdf](https://www.dropbox.com/s/6mf7o4d5r81nmkj/gergeley2003teleological.pdf?dl=0)) ([relevant twitter thread](https://twitter.com/vhsouthgate/status/1344649833471160322)) ([MC's notes](./course-notes/gergely2003tics.pdf))
 
 ** The ManyBabies Consortium (2020). Quantifying sources of variability in infancy research using the infant-directed-speech preference. _Advances in Methods and Practices in Psychological Science, 3_(1), 24-52. ([pdf](https://www.dropbox.com/s/2yvni3v7ovk44wx/manybabies2020ids.pdf?dl=0)) ([MC's notes](./manybabies2020ampps.pdf))
 
