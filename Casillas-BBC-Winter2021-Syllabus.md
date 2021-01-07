@@ -314,7 +314,9 @@ None!
 Third round of student methods presentations (to be posted!)
 
 #### Assignments due today
-None, unless you're doing a methods presentation today!
+Graduate students: Squib (optional)
+
+Nothing more, unless you're doing a methods presentation today!
 
 
 ## Module 4: Environment
