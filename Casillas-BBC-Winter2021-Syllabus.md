@@ -163,9 +163,251 @@ First round of student methods presentations (to be posted!)
 #### Assignments due today
 None, unless you're doing a methods presentation today!
 
+## Module 2: Cognitive biases
 
-### Weeks 3 and beyond...
-_**To be posted soon!**_
+### Week 3: Tuesday, 26 January 2021
+
+#### Pre-class reading
+Goldstone & Hendrickson (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science, 1_(1), 69-78. ([pdf](https://www.dropbox.com/s/dg7b4n1x90sqv18/goldstone2010categorical.pdf?dl=0)) ([MC's notes](./course-notes/goldstone2010wires.pdf))
+
+Bowerman (1980). The structure and origin of semantic categories in the language learning child. In _Symbol as Sense_ (pp. 277-299). Academic Press. ([pdf](https://www.dropbox.com/s/br01uqtpizwkon5/bowerman1980semantic.pdf?dl=0)) ([MC's notes](./course-notes/bowerman1980symbolassense.pdf))
+
+** Kuhl et al. (2003). Foreign-language experience in infancy: Effects of short-term exposure and social interaction on phonetic learning. _Proceedings of the National Academy of Sciences, 100_(15), 9096-9101. ([pdf](https://www.dropbox.com/s/obp9288e5jo2hp8/kuhl2003foreignlanguage.pdf?dl=0)) ([MC's notes](./course-notes/kuhl2003pnas.pdf))
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+Graduate students: Squib (optional)
+
+### Week 3: Thursday, 28 January 2021
+
+#### Pre-class reading
+Scholl & Tremoulet (2000). Perceptual causality and animacy. _Trends in Cognitive Sciences, 4_(8), 299-309. ([pdf](https://www.dropbox.com/s/vrb1hmbbv6tk9lb/scholl2000causalityanimacy.pdf?dl=0)) ([MC's notes](./course-notes/scholl2003tics.pdf))
+
+Gergely & Csibra (2003). Teleological reasoning in infancy: The naïve theory of rational action. _Trends in Cognitive Sciences, 7_(7), 287-292. ([pdf](https://www.dropbox.com/s/6mf7o4d5r81nmkj/gergeley2003teleological.pdf?dl=0)) ([MC's notes](./course-notes/gergely2003tics.pdf))
+
+** The ManyBabies Consortium (2020). Quantifying sources of variability in infancy research using the infant-directed-speech preference. _Advances in Methods and Practices in Psychological Science, 3_(1), 24-52. ([pdf](https://www.dropbox.com/s/2yvni3v7ovk44wx/manybabies2020ids.pdf?dl=0)) ([MC's notes](./manybabies2020ampps.pdf))
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+None!
+
+### Week 4: Tuesday, 2 February 2021
+
+#### Pre-class reading
+He & Arunachalam (2017). Word learning mechanisms. _Wiley Interdisciplinary Reviews: Cognitive Science, 8_(4), e1435. ([pdf](https://www.dropbox.com/s/6c8bbiq<!--([MC's notes](./course-notes/))-->9b4j45t3/he2017wordlearning.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Ota et al. (2018). Why _choo‐choo_ is better than _train_: The role of register‐specific words in early vocabulary growth. _Cognitive Science, 42_(6), 1974-1999. ([pdf](https://www.dropbox.com/s/bhtbya9p9vdb6ph/ota2018choochoo.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Nielsen & Dingemanse (2020). Iconicity in word learning and beyond: A critical review. _Language and Speech_, 0023830920914339. ([pdf](https://www.dropbox.com/s/146fv2nq1rf412g/nielsen2020iconicity.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+Graduate students: Squib (optional)
+
+### Week 4: Thursday, 4 February 2021
+
+#### Pre-class reading
+Braginsky et al. (2019). Consistency and variability in children’s word learning across languages. _Open Mind, 3_, 52-67. ([pdf](https://www.dropbox.com/s/0wbxep83p4pekub/braginsky2019consistency.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Frank et al. (2020) _Variability and Consistency in Early Language Learning: The Wordbank Project_ (Ch 11). Cambridge, MA: MIT Press.  ([html](https://langcog.github.io/wordbank-book/categories-syntactic.html)) <!--([MC's notes](./course-notes/))-->
+
+** Blythe et al. (2020). Acquiring the lexicon and grammar of universal kinship. _Language, 96_(3), 661-695. ([pdf](https://www.dropbox.com/s/tt19ttmr4aai78f/blythe2020kinship.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+Undergraduate students: Mini essay exam 1
+
+### Week 5: Tuesday, 9 February 2021
+
+#### Pre-class reading
+Bergelson & Aslin (2017). Semantic specificity in one-year-olds' word comprehension. _Language Learning and Development, 13_(4), 481-501.([pdf](https://www.dropbox.com/s/zx7vw8r4tak7guj/bergelson2017specificity.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Kidd et al. (2011). Toddlers use speech disfluencies to predict speakers' referential intentions. _Developmental Science, 14_(4), 925-934. ([pdf](https://www.dropbox.com/s/h1jzq2xqn55j6p3/kidd2011disfluencies.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Shatz (1978). On the development of communicative understandings: An early strategy for interpreting and responding to messages. _Cognitive Psychology, 10_(3), 271-301. ([pdf](https://www.dropbox.com/s/8wyj05b35w1g06u/shatz1978development.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+Graduate students: Squib (optional)
+
+### Week 5: Thursday, 11 February 2021
+
+#### Pre-class reading
+None!
+
+#### Pre-class video
+Second round of student methods presentations (to be posted!)
+
+#### Assignments due today
+None, unless you're doing a methods presentation today!
+
+
+## Module 3: Maturation
+
+### Week 6: Tuesday, 16 February 2021
+
+#### Pre-class reading
+Karasik et al. (2014). Crawling and walking infants elicit different verbal responses from mothers. _Developmental Science, 17_(3), 388-395. ([pdf](https://www.dropbox.com/s/x3u06mnr7wcklfy/karasik2014crawling.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Fausey et al. (2016). From faces to hands: Changing visual input in the first two years. _Cognition, 152_, 101-107. ([pdf](https://www.dropbox.com/s/e7a0r0zx0swynsw/fausey2016faces.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Yurovsky et al. (2013). Statistical word learning at scale: The baby's view is better. _Developmental Science, 16_(6), 959-966. ([pdf](https://www.dropbox.com/s/m65r92dfez9xtut/yurovsky2013babysview.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+Graduate students: Squib (optional)
+
+### Week 6: Thursday, 18 February 2021
+
+#### Pre-class reading
+Vlach & Johnson (2013). Memory constraints on infants’ cross-situational statistical learning. _Cognition, 127_(3), 375-382. ([pdf](https://www.dropbox.com/s/jj301x8eqqldi8t/vlach2013memory.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Gómez et al. (2006). Naps promote abstraction in language-learning infants. _Psychological Science, 17_(8), 670-674. ([pdf](https://www.dropbox.com/s/v950huw9vk1e667/gomez2006naps.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Smith et al. (2018). The developing infant creates a curriculum for statistical learning. _Trends in Cognitive Sciences, 22_(4), 325-336. ([pdf](https://www.dropbox.com/s/99khsn06dh3h0ql/smith2018curriculum.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+None!
+
+### Week 7: Tuesday, 23 February 2021
+
+#### Pre-class reading
+None!
+
+#### Pre-class video
+Third round of student methods presentations (to be posted!)
+
+#### Assignments due today
+None, unless you're doing a methods presentation today!
+
+
+## Module 4: Environment
+
+### Week 7: Thursday, 25 February 2021
+
+#### Pre-class reading
+Tomasello & Carpenter (2007). Shared intentionality. _Developmental Science, 10_(1), 121-125. ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Yu & Smith (2013). Joint attention without gaze following: Human infants and their parents coordinate visual attention to objects through eye-hand coordination. _PloS one, 8_(11), e79659. ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Yu et al. (2017). Infant sustained attention but not joint attention to objects at 9 months predicts vocabulary at 12 and 15 months. _Developmental Science, 22_(1), e12735. ([pdf](https://www.dropbox.com/s/59tyyaivle8jazr/yu2017sustained.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+Undergraduate students: Mini essay exam 2
+
+### Week 8: Tuesday, 2 March 2021
+Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Unsworth (2016). Quantity and quality of language input in bilingual language development. In E. Nicoladis & S. Montanari (Eds.), _Language and the human lifespan series. Bilingualism across the lifespan: Factors moderating language proficiency_ (p. 103–121). American Psychological Association. ([pdf](https://www.dropbox.com/s/0k9iqyf9n3xgpcm/unsworth2016bilingualinput.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Brice Heath (1983). _Ways with words: Language, life and work in communities and classrooms_ (**Ch. TBA**). Cambridge University Press. <!--([pdf]()) <!--([MC's notes](./course-notes/))-->-->
+
+#### Pre-class reading
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+Graduate students: Squib (optional)
+
+### Week 8: Thursday, 4 March 2021
+
+#### Pre-class reading
+Liszkowski et al. (2012). A prelinguistic gestural universal of human communication. _Cognitive Science, 36_(4), 698-713. ([pdf](https://www.dropbox.com/s/3a8wkzo6q4jd2pm/liszkowski2012prelinguistic.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Carstensen et al. (2019). Context shapes early diversity in abstract thought. _Proceedings of the National Academy of Sciences, 116_(28), 13891-13896. ([pdf](https://www.dropbox.com/s/rb7qpt0dkf4kot5/carstensen2019context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Adolph et al. (2010). Motor Skill. In M. H. Bornstein (Ed.) _Handbook of Cultural Developmental Science_ (pp. 61-88). Psychology Press. ([pdf](https://www.dropbox.com/s/orlrpknos64f8mp/adolph2010motorskill.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+None!
+
+### Week 9: Tuesday, 9 March 2021
+
+#### Pre-class reading
+Hart and Risley (2003). The early catastrophe: The 30 million word gap by age 3. _American Educator, 27_(1), 4-9. ([pdf](https://www.dropbox.com/s/5muq6od54uejfyp/hart2003catastrophe.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Sperry et al. (2018). Reexamining the verbal environments of children from different socioeconomic backgrounds. _Child Development, 90_(4), 1303-1318. ([pdf](https://www.dropbox.com/s/pky2b07bh2jm0fx/sperry2019reexamining.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Ochs & Kremer-Sadlik (2020). Ethical blind spots in ethnographic and developmental approaches to the language gap debate. _Langage et Société, 170_(2), 39-67. ([pdf](https://www.dropbox.com/s/nlemvhd8v08k1s6/ochs2020blindspots.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+\** = Required for graduate students only
+
+#### Pre-class video
+TBA
+<!--[[lecture]()] — XX min ([slides]())-->
+
+#### Assignments due today
+Graduate students: Squib (optional)
+
+### Week 9: Thursday, 11 March 2021
+
+#### Pre-class reading
+None!
+
+#### Pre-class video
+Fourth round of student methods presentations (to be posted!)
+
+#### Assignments due today
+None, unless you're doing a methods presentation today!
+
+## Final deadline (Thursday, 18 March 2021)
+
+#### Assignments due today
+* Undergraduate students: Mini essay exam 3 due
+* Graduate students: Squib (optional)
+
 
 
 # Contact
