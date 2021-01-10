@@ -177,8 +177,7 @@ Bowerman (1980). The structure and origin of semantic categories in the language
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2465e1c-c57e-43da-a848-acac013b417c)] — 63 min ([slides](https://docs.google.com/presentation/d/1FLPLP8BjkugjK5bNH5udI4OvoGuedzPt28aXbznvkDA/edit?usp=sharing))
 
 #### Assignments due today
 Graduate students: Squib (optional)
@@ -195,8 +194,7 @@ Gergely & Csibra (2003). Teleological reasoning in infancy: The naïve theory of
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58b46a09-e0ec-4c42-a017-acac013ba259)] — 51 min ([slides](https://docs.google.com/presentation/d/1feMr0JMlf7cvLUl_7DQ6IVBZPsNXA4PbWjQ3yKTY3vg/edit?usp=sharing))
 
 #### Assignments due today
 None!
