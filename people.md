@@ -15,6 +15,8 @@ PhD applicants interested in working with Dr. Casillas should [contact her](./co
 
 Aditya Badlani
 
+[Alyssa Guillu](./people/alyssa-aboutme.md)
+
 Mary Elliott
 
 Bram Peute
