@@ -224,7 +224,7 @@ Braginsky et al. (2019). Consistency and variability in children’s word learni
 
 Frank et al. (2020) _Variability and Consistency in Early Language Learning: The Wordbank Project_ (Ch 11). Cambridge, MA: MIT Press.  ([html](https://langcog.github.io/wordbank-book/categories-syntactic.html)) <!--([MC's notes](./course-notes/))-->
 
-** Blythe et al. (2020). Acquiring the lexicon and grammar of universal kinship. _Language, 96_(3), 661-695. ([pdf](https://www.dropbox.com/s/tt19ttmr4aai78f/blythe2020kinship.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+** TBA! (but it will be on kin term acquisition)<!--([MC's notes](./course-notes/))-->
 
 \** = Required for graduate students only
 
