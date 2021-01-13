@@ -202,7 +202,7 @@ None!
 ### Week 4: Tuesday, 2 February 2021
 
 #### Pre-class reading
-He & Arunachalam (2017). Word learning mechanisms. _Wiley Interdisciplinary Reviews: Cognitive Science, 8_(4), e1435. ([pdf](https://www.dropbox.com/s/6c8bbiq<!--([MC's notes](./course-notes/))-->9b4j45t3/he2017wordlearning.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+He & Arunachalam (2017). Word learning mechanisms. _Wiley Interdisciplinary Reviews: Cognitive Science, 8_(4), e1435. ([pdf](https://www.dropbox.com/s/6c8bbiq9b4j45t3/he2017wordlearning.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 Ota et al. (2018). Why _choo‐choo_ is better than _train_: The role of register‐specific words in early vocabulary growth. _Cognitive Science, 42_(6), 1974-1999. ([pdf](https://www.dropbox.com/s/bhtbya9p9vdb6ph/ota2018choochoo.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
