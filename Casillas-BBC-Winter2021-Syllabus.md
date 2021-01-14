@@ -222,9 +222,9 @@ Graduate students: Squib (optional)
 #### Pre-class reading
 Braginsky et al. (2019). Consistency and variability in children’s word learning across languages. _Open Mind, 3_, 52-67. ([pdf](https://www.dropbox.com/s/0wbxep83p4pekub/braginsky2019consistency.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-Frank et al. (2020) _Variability and Consistency in Early Language Learning: The Wordbank Project_ (Ch 11). Cambridge, MA: MIT Press.  ([html](https://langcog.github.io/wordbank-book/categories-syntactic.html)) <!--([MC's notes](./course-notes/))-->
+Frank et al. (2020). _Variability and Consistency in Early Language Learning: The Wordbank Project_ (Ch 11). Cambridge, MA: MIT Press.  ([html](https://langcog.github.io/wordbank-book/categories-syntactic.html)) <!--([MC's notes](./course-notes/))-->
 
-** TBA! (but it will be on kin term acquisition)<!--([MC's notes](./course-notes/))-->
+** Mitchell & Jordan (to appear 2021). The ontogeny of kinship categorization. _Journal of Culture and Cognition_. ([pdf](https://www.dropbox.com/s/5y4qp7vv9rv4fsz/mitchell2021ontogeny-preprint.pdf?dl=0))<!--([MC's notes](./course-notes/))-->
 
 \** = Required for graduate students only
 
