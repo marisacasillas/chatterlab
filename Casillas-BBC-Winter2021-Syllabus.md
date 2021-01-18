@@ -205,8 +205,7 @@ Ota et al. (2018). Why _choo‐choo_ is better than _train_: The role of registe
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9c343555-c7d5-42a6-b686-acb40171b024)] — 49 min ([slides](https://docs.google.com/presentation/d/14cDE8fX9813Oucyua324i9iM2ozKPLSho0tjAR9tlcY/edit?usp=sharing))
 
 #### Assignments due today
 Graduate students: Squib (optional)
@@ -223,8 +222,7 @@ Frank et al. (2020). _Variability and Consistency in Early Language Learning: Th
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d39caac9-f17e-4778-ad7a-acb40171b8bb)] — 53 min ([slides](https://docs.google.com/presentation/d/1Gt84PicQqaAyW_fARSLzZFJfdG44ygTWGk_tF_8X9Xo/edit?usp=sharing))
 
 #### Assignments due today
 Undergraduate students: Mini essay exam 1
