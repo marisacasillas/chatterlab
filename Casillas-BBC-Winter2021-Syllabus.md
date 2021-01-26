@@ -26,33 +26,39 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-### Week 2: Tuesday, 19 January 2021
+### Week 3: Tuesday, 26 January 2021
 
 #### Pre-class reading
-Maye et al. (2002). Infant sensitivity to distributional information can affect phonetic discrimination. _Cognition 82_, B101–B111. ([pdf](https://www.dropbox.com/s/jcwf77nn4vb1rkw/maye2002distributional.pdf?dl=0)) ([MC's notes](./course-notes/maye2002cognition.pdf))
+Goldstone & Hendrickson (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science, 1_(1), 69-78. ([pdf](https://www.dropbox.com/s/dg7b4n1x90sqv18/goldstone2010categorical.pdf?dl=0)) ([MC's notes](./course-notes/goldstone2010wires.pdf))
 
-Smith & Yu (2008). Infants rapidly learn word-referent mappings via cross-situational statistics. _Cognition 106_, 1558–1568. ([pdf](https://www.dropbox.com/s/mh4d3urdlp1j9ke/smith2008crosssituational.pdf?dl=0)) ([MC's notes](./course-notes/smith2008cognition.pdf))
+Bowerman (1980). The structure and origin of semantic categories in the language learning child. In _Symbol as Sense_ (pp. 277-299). Academic Press. ([pdf](https://www.dropbox.com/s/br01uqtpizwkon5/bowerman1980semantic.pdf?dl=0)) ([MC's notes](./course-notes/bowerman1980symbolassense.pdf))
 
-** R. L. A. Frost & Monaghan (2020). Insights from studying statistical learning. In C. F. Rowland, A. L. Theakston, B. Ambridge, & K. E. Twomey (Eds.), _Current Perspectives on Child Language Acquisition: How children use their environment to learn_ (pp. 65–89). Amsterdam: John Benjamins. ([pdf](https://www.dropbox.com/s/jv3pp3lbvwhhmgo/rlafrost2020insights.pdf?dl=0)) ([MC's notes](./course-notes/rlafrost2020tilar.pdf))
+** Kuhl et al. (2003). Foreign-language experience in infancy: Effects of short-term exposure and social interaction on phonetic learning. _Proceedings of the National Academy of Sciences, 100_(15), 9096-9101. ([pdf](https://www.dropbox.com/s/obp9288e5jo2hp8/kuhl2003foreignlanguage.pdf?dl=0)) ([MC's notes](./course-notes/kuhl2003pnas.pdf))
 
 \** = Required for graduate students only
 
 #### Pre-class video
-[[lecture](https://uchicago.zoom.us/rec/share/5HgwoYFFwxj_y_LTcGIIJMBSK1Rqifc6ieqcOyancYTIPrSnr_C56uRolkLKSDPN.pG8QBwQn8Vix1kRp)] — 52 min ([slides](https://docs.google.com/presentation/d/1wnf2mLh6N0bnHdKkX5-eS2sHuLvItOyLvWVG8NJMpZs/edit?usp=sharing))
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2465e1c-c57e-43da-a848-acac013b417c)] — 63 min ([slides](https://docs.google.com/presentation/d/1FLPLP8BjkugjK5bNH5udI4OvoGuedzPt28aXbznvkDA/edit?usp=sharing))
 
 #### Assignments due today
-None!
+Graduate students: Squib (optional)
 
-### Week 2: Thursday, 21 January 2021
+### Week 3: Thursday, 28 January 2021
 
 #### Pre-class reading
-None!
+Scholl & Tremoulet (2000). Perceptual causality and animacy. _Trends in Cognitive Sciences, 4_(8), 299-309. ([pdf](https://www.dropbox.com/s/vrb1hmbbv6tk9lb/scholl2000causalityanimacy.pdf?dl=0)) ([MC's notes](./course-notes/scholl2003tics.pdf))
+
+Gergely & Csibra (2003). Teleological reasoning in infancy: The naïve theory of rational action. _Trends in Cognitive Sciences, 7_(7), 287-292. ([pdf](https://www.dropbox.com/s/6mf7o4d5r81nmkj/gergeley2003teleological.pdf?dl=0)) ([relevant twitter thread](https://twitter.com/vhsouthgate/status/1344649833471160322)) ([MC's notes](./course-notes/gergely2003tics.pdf))
+
+** The ManyBabies Consortium (2020). Quantifying sources of variability in infancy research using the infant-directed-speech preference. _Advances in Methods and Practices in Psychological Science, 3_(1), 24-52. ([pdf](https://www.dropbox.com/s/2yvni3v7ovk44wx/manybabies2020ids.pdf?dl=0)) ([MC's notes](./manybabies2020ampps.pdf))
+
+\** = Required for graduate students only
 
 #### Pre-class video
-First round of student methods presentations (to be posted!)
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58b46a09-e0ec-4c42-a017-acac013ba259)] — 51 min ([slides](https://docs.google.com/presentation/d/1feMr0JMlf7cvLUl_7DQ6IVBZPsNXA4PbWjQ3yKTY3vg/edit?usp=sharing))
 
 #### Assignments due today
-None, unless you're doing a methods presentation today!
+None!
 
 
 
