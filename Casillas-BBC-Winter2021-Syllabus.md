@@ -231,7 +231,7 @@ Frank et al. (2020). _Variability and Consistency in Early Language Learning: Th
 [[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d39caac9-f17e-4778-ad7a-acb40171b8bb)] — 53 min ([slides](https://docs.google.com/presentation/d/1Gt84PicQqaAyW_fARSLzZFJfdG44ygTWGk_tF_8X9Xo/edit?usp=sharing))
 
 #### Assignments due today
-Undergraduate students: Mini essay exam 1
+Undergraduate students: [Mini essay exam 1](https://marisacasillas.github.io/chatterlab/course-instructions/mini-essay-exam-1.html)
 
 ### Week 5: Tuesday, 9 February 2021
 
