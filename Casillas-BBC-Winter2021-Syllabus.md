@@ -26,40 +26,39 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-### Week 3: Tuesday, 26 January 2021
+### Week 4: Tuesday, 2 February 2021
 
 #### Pre-class reading
-Goldstone & Hendrickson (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science, 1_(1), 69-78. ([pdf](https://www.dropbox.com/s/dg7b4n1x90sqv18/goldstone2010categorical.pdf?dl=0)) ([MC's notes](./course-notes/goldstone2010wires.pdf))
+He & Arunachalam (2017). Word learning mechanisms. _Wiley Interdisciplinary Reviews: Cognitive Science, 8_(4), e1435. ([pdf](https://www.dropbox.com/s/6c8bbiq9b4j45t3/he2017wordlearning.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-Bowerman (1980). The structure and origin of semantic categories in the language learning child. In _Symbol as Sense_ (pp. 277-299). Academic Press. ([pdf](https://www.dropbox.com/s/br01uqtpizwkon5/bowerman1980semantic.pdf?dl=0)) ([MC's notes](./course-notes/bowerman1980symbolassense.pdf))
+Ota et al. (2018). Why _choo‐choo_ is better than _train_: The role of register‐specific words in early vocabulary growth. _Cognitive Science, 42_(6), 1974-1999. ([pdf](https://www.dropbox.com/s/bhtbya9p9vdb6ph/ota2018choochoo.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-** Kuhl et al. (2003). Foreign-language experience in infancy: Effects of short-term exposure and social interaction on phonetic learning. _Proceedings of the National Academy of Sciences, 100_(15), 9096-9101. ([pdf](https://www.dropbox.com/s/obp9288e5jo2hp8/kuhl2003foreignlanguage.pdf?dl=0)) ([MC's notes](./course-notes/kuhl2003pnas.pdf))
+** Nielsen & Dingemanse (2020). Iconicity in word learning and beyond: A critical review. _Language and Speech_, 0023830920914339. ([pdf](https://www.dropbox.com/s/146fv2nq1rf412g/nielsen2020iconicity.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 \** = Required for graduate students only
 
 #### Pre-class video
-[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2465e1c-c57e-43da-a848-acac013b417c)] — 63 min ([slides](https://docs.google.com/presentation/d/1FLPLP8BjkugjK5bNH5udI4OvoGuedzPt28aXbznvkDA/edit?usp=sharing))
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9c343555-c7d5-42a6-b686-acb40171b024)] — 49 min ([slides](https://docs.google.com/presentation/d/14cDE8fX9813Oucyua324i9iM2ozKPLSho0tjAR9tlcY/edit?usp=sharing))
 
 #### Assignments due today
 Graduate students: Squib (optional)
 
-### Week 3: Thursday, 28 January 2021
+### Week 4: Thursday, 4 February 2021
 
 #### Pre-class reading
-Scholl & Tremoulet (2000). Perceptual causality and animacy. _Trends in Cognitive Sciences, 4_(8), 299-309. ([pdf](https://www.dropbox.com/s/vrb1hmbbv6tk9lb/scholl2000causalityanimacy.pdf?dl=0)) ([MC's notes](./course-notes/scholl2003tics.pdf))
+Braginsky et al. (2019). Consistency and variability in children’s word learning across languages. _Open Mind, 3_, 52-67. ([pdf](https://www.dropbox.com/s/0wbxep83p4pekub/braginsky2019consistency.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-Gergely & Csibra (2003). Teleological reasoning in infancy: The naïve theory of rational action. _Trends in Cognitive Sciences, 7_(7), 287-292. ([pdf](https://www.dropbox.com/s/6mf7o4d5r81nmkj/gergeley2003teleological.pdf?dl=0)) ([relevant twitter thread](https://twitter.com/vhsouthgate/status/1344649833471160322)) ([MC's notes](./course-notes/gergely2003tics.pdf))
+Frank et al. (2020). _Variability and Consistency in Early Language Learning: The Wordbank Project_ (Ch 11). Cambridge, MA: MIT Press.  ([html](https://langcog.github.io/wordbank-book/categories-syntactic.html)) <!--([MC's notes](./course-notes/))-->
 
-** The ManyBabies Consortium (2020). Quantifying sources of variability in infancy research using the infant-directed-speech preference. _Advances in Methods and Practices in Psychological Science, 3_(1), 24-52. ([pdf](https://www.dropbox.com/s/2yvni3v7ovk44wx/manybabies2020ids.pdf?dl=0)) ([MC's notes](./manybabies2020ampps.pdf))
+** Mitchell & Jordan (to appear 2021). The ontogeny of kinship categorization. _Journal of Culture and Cognition_. ([pdf](https://www.dropbox.com/s/5y4qp7vv9rv4fsz/mitchell2021ontogeny-preprint.pdf?dl=0))<!--([MC's notes](./course-notes/))-->
 
 \** = Required for graduate students only
 
 #### Pre-class video
-[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58b46a09-e0ec-4c42-a017-acac013ba259)] — 51 min ([slides](https://docs.google.com/presentation/d/1feMr0JMlf7cvLUl_7DQ6IVBZPsNXA4PbWjQ3yKTY3vg/edit?usp=sharing))
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d39caac9-f17e-4778-ad7a-acb40171b8bb)] — 53 min ([slides](https://docs.google.com/presentation/d/1Gt84PicQqaAyW_fARSLzZFJfdG44ygTWGk_tF_8X9Xo/edit?usp=sharing))
 
 #### Assignments due today
-None!
-
+Undergraduate students: [Mini essay exam 1](https://marisacasillas.github.io/chatterlab/course-instructions/mini-essay-exam-1.html)
 
 
 # Grading
