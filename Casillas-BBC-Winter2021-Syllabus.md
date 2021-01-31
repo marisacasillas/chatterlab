@@ -322,7 +322,7 @@ Nothing more, unless you're doing a methods presentation today!
 #### Pre-class reading
 Tomasello & Carpenter (2007). Shared intentionality. _Developmental Science, 10_(1), 121-125. ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-Yu & Smith (2013). Joint attention without gaze following: Human infants and their parents coordinate visual attention to objects through eye-hand coordination. _PloS one, 8_(11), e79659. ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+Yu & Smith (2013). Joint attention without gaze following: Human infants and their parents coordinate visual attention to objects through eye-hand coordination. _PloS one, 8_(11), e79659. ([pdf](https://www.dropbox.com/s/rw4yz3ylllu6d52/yu2013coordinate.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 ** Yu et al. (2017). Infant sustained attention but not joint attention to objects at 9 months predicts vocabulary at 12 and 15 months. _Developmental Science, 22_(1), e12735. ([pdf](https://www.dropbox.com/s/59tyyaivle8jazr/yu2017sustained.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
