@@ -245,7 +245,7 @@ Kidd et al. (2011). Toddlers use speech disfluencies to predict speakers' refere
 
 #### Pre-class video
 TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4747704a-73d1-45aa-8a52-acb800ec3b4a)] — 38 min ([slides](https://docs.google.com/presentation/d/1E_94EE_ubP93spAnzPPkiUtvlROqTVRs__tHX50jNEU/edit?usp=sharing))
 
 #### Assignments due today
 Graduate students: Squib (optional)
