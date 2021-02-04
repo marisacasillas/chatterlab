@@ -244,7 +244,6 @@ Kidd et al. (2011). Toddlers use speech disfluencies to predict speakers' refere
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
 [[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4747704a-73d1-45aa-8a52-acb800ec3b4a)] — 38 min ([slides](https://docs.google.com/presentation/d/1E_94EE_ubP93spAnzPPkiUtvlROqTVRs__tHX50jNEU/edit?usp=sharing))
 
 #### Assignments due today
@@ -339,7 +338,7 @@ Rowe & Weisleder (2020). Language development in context. _Annual Review of Deve
 
 Unsworth (2016). Quantity and quality of language input in bilingual language development. In E. Nicoladis & S. Montanari (Eds.), _Language and the human lifespan series. Bilingualism across the lifespan: Factors moderating language proficiency_ (p. 103–121). American Psychological Association. ([pdf](https://www.dropbox.com/s/0k9iqyf9n3xgpcm/unsworth2016bilingualinput.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-** Brice Heath (1983). _Ways with words: Language, life and work in communities and classrooms_ (**Ch. TBA**). Cambridge University Press. <!--([pdf]()) <!--([MC's notes](./course-notes/))-->-->
+** Brice Heath (1983). _Ways with words: Language, life and work in communities and classrooms_ (Ch. 3 & 4). Cambridge University Press. <!--([pdf]()) <!--([MC's notes](./course-notes/))-->
 
 #### Pre-class reading
 
