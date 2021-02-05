@@ -275,8 +275,7 @@ Fausey et al. (2016). From faces to hands: Changing visual input in the first tw
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f778be69-6ccc-493b-9fde-acc6000cfef5)] — 42 min ([slides](https://docs.google.com/presentation/d/1lgXqW7vTrervwDwOB5Sua8V1XS1OrR1cvXOKi_GXrvo/edit?usp=sharing))
 
 #### Assignments due today
 Graduate students: Squib (optional)
@@ -293,8 +292,7 @@ Gómez et al. (2006). Naps promote abstraction in language-learning infants. _Ps
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45549653-3ef3-4dd9-be0f-acc6000d08fb)] — 48 min ([slides](https://docs.google.com/presentation/d/1K9N5FA0DMhC9NzQHivw080wLQDBvnBmq9OyrDgOWhbM/edit?usp=sharing))
 
 #### Assignments due today
 None!
@@ -327,8 +325,7 @@ Yu & Smith (2013). Joint attention without gaze following: Human infants and the
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=203d1f98-4fe5-4443-91fb-acc6000d134b)] — 50 min ([slides](https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing))
 
 #### Assignments due today
 Undergraduate students: Mini essay exam 2
