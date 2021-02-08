@@ -325,9 +325,9 @@ Yu & Smith (2013). Joint attention without gaze following: Human infants and the
 Undergraduate students: Mini essay exam 2
 
 ### Week 8: Tuesday, 2 March 2021
-Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-Unsworth (2016). Quantity and quality of language input in bilingual language development. In E. Nicoladis & S. Montanari (Eds.), _Language and the human lifespan series. Bilingualism across the lifespan: Factors moderating language proficiency_ (p. 103–121). American Psychological Association. ([pdf](https://www.dropbox.com/s/0k9iqyf9n3xgpcm/unsworth2016bilingualinput.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+**This counts as two readings (it's long & detailed) -- please adjust your notes so that they are equivalent to two readings of effort:** Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
 
 ** Brice Heath (1983). _Ways with words: Language, life and work in communities and classrooms_ (Ch. 3 & 4). Cambridge University Press. <!--([pdf]()) <!--([MC's notes](./course-notes/))-->
 
