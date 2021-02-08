@@ -26,39 +26,33 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-### Week 4: Tuesday, 2 February 2021
+### Week 5: Tuesday, 9 February 2021
 
 #### Pre-class reading
-He & Arunachalam (2017). Word learning mechanisms. _Wiley Interdisciplinary Reviews: Cognitive Science, 8_(4), e1435. ([pdf](https://www.dropbox.com/s/6c8bbiq9b4j45t3/he2017wordlearning.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+Bergelson & Aslin (2017). Semantic specificity in one-year-olds' word comprehension. _Language Learning and Development, 13_(4), 481-501.([pdf](https://www.dropbox.com/s/zx7vw8r4tak7guj/bergelson2017specificity.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-Ota et al. (2018). Why _choo‐choo_ is better than _train_: The role of register‐specific words in early vocabulary growth. _Cognitive Science, 42_(6), 1974-1999. ([pdf](https://www.dropbox.com/s/bhtbya9p9vdb6ph/ota2018choochoo.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+Kidd et al. (2011). Toddlers use speech disfluencies to predict speakers' referential intentions. _Developmental Science, 14_(4), 925-934. ([pdf](https://www.dropbox.com/s/h1jzq2xqn55j6p3/kidd2011disfluencies.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-** Nielsen & Dingemanse (2020). Iconicity in word learning and beyond: A critical review. _Language and Speech_, 0023830920914339. ([pdf](https://www.dropbox.com/s/146fv2nq1rf412g/nielsen2020iconicity.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+** Shatz (1978). On the development of communicative understandings: An early strategy for interpreting and responding to messages. _Cognitive Psychology, 10_(3), 271-301. ([pdf](https://www.dropbox.com/s/8wyj05b35w1g06u/shatz1978development.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 \** = Required for graduate students only
 
 #### Pre-class video
-[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9c343555-c7d5-42a6-b686-acb40171b024)] — 49 min ([slides](https://docs.google.com/presentation/d/14cDE8fX9813Oucyua324i9iM2ozKPLSho0tjAR9tlcY/edit?usp=sharing))
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4747704a-73d1-45aa-8a52-acb800ec3b4a)] — 38 min ([slides](https://docs.google.com/presentation/d/1E_94EE_ubP93spAnzPPkiUtvlROqTVRs__tHX50jNEU/edit?usp=sharing))
 
 #### Assignments due today
 Graduate students: Squib (optional)
 
-### Week 4: Thursday, 4 February 2021
+### Week 5: Thursday, 11 February 2021
 
 #### Pre-class reading
-Braginsky et al. (2019). Consistency and variability in children’s word learning across languages. _Open Mind, 3_, 52-67. ([pdf](https://www.dropbox.com/s/0wbxep83p4pekub/braginsky2019consistency.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-Frank et al. (2020). _Variability and Consistency in Early Language Learning: The Wordbank Project_ (Ch 11). Cambridge, MA: MIT Press.  ([html](https://langcog.github.io/wordbank-book/categories-syntactic.html)) <!--([MC's notes](./course-notes/))-->
-
-** Mitchell & Jordan (to appear 2021). The ontogeny of kinship categorization. _Journal of Culture and Cognition_. ([pdf](https://www.dropbox.com/s/5y4qp7vv9rv4fsz/mitchell2021ontogeny-preprint.pdf?dl=0))<!--([MC's notes](./course-notes/))-->
-
-\** = Required for graduate students only
+None!
 
 #### Pre-class video
-[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d39caac9-f17e-4778-ad7a-acb40171b8bb)] — 53 min ([slides](https://docs.google.com/presentation/d/1Gt84PicQqaAyW_fARSLzZFJfdG44ygTWGk_tF_8X9Xo/edit?usp=sharing))
+Second round of student methods presentations (to be posted!)
 
 #### Assignments due today
-Undergraduate students: [Mini essay exam 1](https://marisacasillas.github.io/chatterlab/course-instructions/mini-essay-exam-1.html)
+None, unless you're doing a methods presentation today!
 
 
 # Grading
