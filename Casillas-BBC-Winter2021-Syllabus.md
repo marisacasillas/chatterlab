@@ -329,7 +329,7 @@ Undergraduate students: Mini essay exam 2
 **This counts as two readings (it's long & detailed) -- please adjust your notes so that they are equivalent to two readings of effort:** Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 
-** Brice Heath (1983). _Ways with words: Language, life and work in communities and classrooms_ (Ch. 3 & 4). Cambridge University Press. <!--([pdf]()) <!--([MC's notes](./course-notes/))-->
+** Brice Heath (1983). _Ways with words: Language, life and work in communities and classrooms_ (Ch. 3 & 4). Cambridge University Press. ([pdf](https://www.dropbox.com/s/wcv4jk79m33zs41/briceheath1983ways_ch3and4.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 #### Pre-class reading
 
