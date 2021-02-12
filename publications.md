@@ -7,7 +7,15 @@ Looking for [tools](./tools.md)?
 
 <!--[[ms]()] [[sm]()] [[gh]()]-->
 
+## preprints submitted/under review (select)
+
+**Casillas, M.** & Scaff, C. (under review Feb 2021). Analyzing contingent interactions in R with chattr. [[ms](./lab-publications/Casillas_Scaff_underreview_Analyzing_contingent_interactions_in_R_with_chattr_v20210211.pdf)] [[gh](https://github.com/marisacasillas/chattr-basic/tree/master/CogSci2021/CogSci2021-chattr)]
+
+Cristia, A. & **Casillas, M.** (submitted Feb 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview_Nonword_repetition_in_children_learning_Yeli_Dnye_v20210211.pdf)] [[osf](https://osf.io/5qspb/)]
+
 ## in press/accepted
+
+Cychosz, M., Cristia, A., Bergelson, E., **Casillas, M.**, Baudet, G., Warlaumont, A. S., Scaff, C., Yankowitz, L., & Seidl, A. (accepted). Vocal development in a large-scale crosslinguistic corpus. _Developmental Science, XX_. [[ms](./lab-publications/Cychosz_et_al_2021forthcoming_Vocal_development_in_a_large_scale_crosslinguistic_corpus_DevSci.pdf)] [[osf](https://osf.io/ca6qu/)]
 
 **Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. *Research on Children and Social Interaction, XX.* [[ms](./lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
 
