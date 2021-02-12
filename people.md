@@ -7,7 +7,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](./co
 
 ### PhD members
 
-[Natalie Dowling](https://voices.uchicago.edu/goldinmeadowlab/people/graduate-assistants/)
+[Natalie Dowling](https://voices.uchicago.edu/ndowling/)
 
 [Erika Prado](./people/erika-aboutme.md)
 
