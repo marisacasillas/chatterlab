@@ -19,6 +19,10 @@ Aditya Badlani
 
 Mary Elliott
 
+Erica Hsieh
+
+Mary Norgan
+
 Bram Peute
 
 ### Some recent and frequent collaborators
