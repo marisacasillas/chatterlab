@@ -26,34 +26,39 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-### Week 5: Tuesday, 9 February 2021
+### Week 6: Tuesday, 16 February 2021
 
 #### Pre-class reading
-Bergelson & Aslin (2017). Semantic specificity in one-year-olds' word comprehension. _Language Learning and Development, 13_(4), 481-501.([pdf](https://www.dropbox.com/s/zx7vw8r4tak7guj/bergelson2017specificity.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+Karasik et al. (2014). Crawling and walking infants elicit different verbal responses from mothers. _Developmental Science, 17_(3), 388-395. ([pdf](https://www.dropbox.com/s/x3u06mnr7wcklfy/karasik2014crawling.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-Kidd et al. (2011). Toddlers use speech disfluencies to predict speakers' referential intentions. _Developmental Science, 14_(4), 925-934. ([pdf](https://www.dropbox.com/s/h1jzq2xqn55j6p3/kidd2011disfluencies.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+Fausey et al. (2016). From faces to hands: Changing visual input in the first two years. _Cognition, 152_, 101-107. ([pdf](https://www.dropbox.com/s/e7a0r0zx0swynsw/fausey2016faces.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-** Shatz (1978). On the development of communicative understandings: An early strategy for interpreting and responding to messages. _Cognitive Psychology, 10_(3), 271-301. ([pdf](https://www.dropbox.com/s/8wyj05b35w1g06u/shatz1978development.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+** Yurovsky et al. (2013). Statistical word learning at scale: The baby's view is better. _Developmental Science, 16_(6), 959-966. ([pdf](https://www.dropbox.com/s/m65r92dfez9xtut/yurovsky2013babysview.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 \** = Required for graduate students only
 
 #### Pre-class video
-[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4747704a-73d1-45aa-8a52-acb800ec3b4a)] — 38 min ([slides](https://docs.google.com/presentation/d/1E_94EE_ubP93spAnzPPkiUtvlROqTVRs__tHX50jNEU/edit?usp=sharing))
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f778be69-6ccc-493b-9fde-acc6000cfef5)] — 42 min ([slides](https://docs.google.com/presentation/d/1lgXqW7vTrervwDwOB5Sua8V1XS1OrR1cvXOKi_GXrvo/edit?usp=sharing))
 
 #### Assignments due today
 Graduate students: Squib (optional)
 
-### Week 5: Thursday, 11 February 2021
+### Week 6: Thursday, 18 February 2021
 
 #### Pre-class reading
-None!
+Vlach & Johnson (2013). Memory constraints on infants’ cross-situational statistical learning. _Cognition, 127_(3), 375-382. ([pdf](https://www.dropbox.com/s/jj301x8eqqldi8t/vlach2013memory.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Gómez et al. (2006). Naps promote abstraction in language-learning infants. _Psychological Science, 17_(8), 670-674. ([pdf](https://www.dropbox.com/s/v950huw9vk1e667/gomez2006naps.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Smith et al. (2018). The developing infant creates a curriculum for statistical learning. _Trends in Cognitive Sciences, 22_(4), 325-336. ([pdf](https://www.dropbox.com/s/99khsn06dh3h0ql/smith2018curriculum.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+\** = Required for graduate students only
 
 #### Pre-class video
-Second round of student methods presentations (to be posted!)
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45549653-3ef3-4dd9-be0f-acc6000d08fb)] — 48 min ([slides](https://docs.google.com/presentation/d/1K9N5FA0DMhC9NzQHivw080wLQDBvnBmq9OyrDgOWhbM/edit?usp=sharing))
 
 #### Assignments due today
-None, unless you're doing a methods presentation today!
-
+None!
 
 # Grading
 
