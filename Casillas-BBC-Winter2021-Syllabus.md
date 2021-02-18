@@ -327,7 +327,7 @@ Yu & Smith (2013). Joint attention without gaze following: Human infants and the
 [[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=203d1f98-4fe5-4443-91fb-acc6000d134b)] — 50 min ([slides](https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing))
 
 #### Assignments due today
-Undergraduate students: [Mini essay exam 2](https://marisacasillas.github.io/chatterlab/course-instructions/mini-essay-exam-1.html)
+Undergraduate students: [Mini essay exam 2](https://marisacasillas.github.io/chatterlab/course-instructions/mini-essay-exam-2.html)
 
 ### Week 8: Tuesday, 2 March 2021
 
