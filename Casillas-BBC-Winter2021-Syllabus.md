@@ -26,39 +26,38 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-### Week 6: Tuesday, 16 February 2021
+### Week 7: Tuesday, 23 February 2021
 
 #### Pre-class reading
-Karasik et al. (2014). Crawling and walking infants elicit different verbal responses from mothers. _Developmental Science, 17_(3), 388-395. ([pdf](https://www.dropbox.com/s/x3u06mnr7wcklfy/karasik2014crawling.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-Fausey et al. (2016). From faces to hands: Changing visual input in the first two years. _Cognition, 152_, 101-107. ([pdf](https://www.dropbox.com/s/e7a0r0zx0swynsw/fausey2016faces.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-** Yurovsky et al. (2013). Statistical word learning at scale: The baby's view is better. _Developmental Science, 16_(6), 959-966. ([pdf](https://www.dropbox.com/s/m65r92dfez9xtut/yurovsky2013babysview.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-\** = Required for graduate students only
+None!
 
 #### Pre-class video
-[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f778be69-6ccc-493b-9fde-acc6000cfef5)] — 42 min ([slides](https://docs.google.com/presentation/d/1lgXqW7vTrervwDwOB5Sua8V1XS1OrR1cvXOKi_GXrvo/edit?usp=sharing))
+Third round of student methods presentations (to be posted!)
 
 #### Assignments due today
 Graduate students: Squib (optional)
 
-### Week 6: Thursday, 18 February 2021
+Nothing more, unless you're doing a methods presentation today!
+
+
+## Module 4: Environment
+
+### Week 7: Thursday, 25 February 2021
 
 #### Pre-class reading
-Vlach & Johnson (2013). Memory constraints on infants’ cross-situational statistical learning. _Cognition, 127_(3), 375-382. ([pdf](https://www.dropbox.com/s/jj301x8eqqldi8t/vlach2013memory.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+Tomasello & Carpenter (2007). Shared intentionality. _Developmental Science, 10_(1), 121-125. ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-Gómez et al. (2006). Naps promote abstraction in language-learning infants. _Psychological Science, 17_(8), 670-674. ([pdf](https://www.dropbox.com/s/v950huw9vk1e667/gomez2006naps.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+Yu & Smith (2013). Joint attention without gaze following: Human infants and their parents coordinate visual attention to objects through eye-hand coordination. _PloS one, 8_(11), e79659. ([pdf](https://www.dropbox.com/s/rw4yz3ylllu6d52/yu2013coordinate.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-** Smith et al. (2018). The developing infant creates a curriculum for statistical learning. _Trends in Cognitive Sciences, 22_(4), 325-336. ([pdf](https://www.dropbox.com/s/99khsn06dh3h0ql/smith2018curriculum.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+** Yu et al. (2017). Infant sustained attention but not joint attention to objects at 9 months predicts vocabulary at 12 and 15 months. _Developmental Science, 22_(1), e12735. ([pdf](https://www.dropbox.com/s/59tyyaivle8jazr/yu2017sustained.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 \** = Required for graduate students only
 
 #### Pre-class video
-[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45549653-3ef3-4dd9-be0f-acc6000d08fb)] — 48 min ([slides](https://docs.google.com/presentation/d/1K9N5FA0DMhC9NzQHivw080wLQDBvnBmq9OyrDgOWhbM/edit?usp=sharing))
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=203d1f98-4fe5-4443-91fb-acc6000d134b)] — 50 min ([slides](https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing))
 
 #### Assignments due today
-None!
+Undergraduate students: [Mini essay exam 2](https://marisacasillas.github.io/chatterlab/course-instructions/mini-essay-exam-2.html)
 
 # Grading
 
