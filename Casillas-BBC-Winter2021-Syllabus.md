@@ -376,8 +376,7 @@ Sperry et al. (2018). Reexamining the verbal environments of children from diffe
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+**None—Please do the assigned readings carefully and come to class with your general thoughts and responses.**
 
 #### Assignments due today
 Graduate students: Squib (optional)
