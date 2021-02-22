@@ -332,7 +332,6 @@ Undergraduate students: [Mini essay exam 2](https://marisacasillas.github.io/cha
 
 **This counts as two readings (it's long & detailed) -- please adjust your notes so that they are equivalent to two readings of effort:** Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
-
 ** Brice Heath (1983). _Ways with words: Language, life and work in communities and classrooms_ (Ch. 3 & 4). Cambridge University Press. ([pdf](https://www.dropbox.com/s/wcv4jk79m33zs41/briceheath1983ways_ch3and4.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 #### Pre-class reading
@@ -340,8 +339,7 @@ Undergraduate students: [Mini essay exam 2](https://marisacasillas.github.io/cha
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70da2fc7-1c39-4b48-aefa-acd700f1974c)] — 25 min ([slides](https://docs.google.com/presentation/d/1A6HZ-ZZqOShXoQ5sXu22dJgtNlN0IpnnrG6feuGN_I0/edit?usp=sharing))
 
 #### Assignments due today
 Graduate students: Squib (optional)
@@ -358,8 +356,7 @@ Carstensen et al. (2019). Context shapes early diversity in abstract thought. _P
 \** = Required for graduate students only
 
 #### Pre-class video
-TBA
-<!--[[lecture]()] — XX min ([slides]())-->
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65728dae-261b-46c6-9f38-acd700f19d09)] — 35 min ([slides](https://docs.google.com/presentation/d/1aCRpVgD1e_anCKahXMc5e3xsqlZqNUQ8Vc2DOseyWhE/edit?usp=sharing))
 
 #### Assignments due today
 None!
@@ -376,7 +373,7 @@ Sperry et al. (2018). Reexamining the verbal environments of children from diffe
 \** = Required for graduate students only
 
 #### Pre-class video
-**None—Please do the assigned readings carefully and come to class with your general thoughts and responses.**
+**There is no pre-class video—Please do the assigned readings carefully and come to class with your general thoughts and responses.**
 
 #### Assignments due today
 Graduate students: Squib (optional)
