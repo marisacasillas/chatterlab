@@ -19,7 +19,7 @@ Aditya Badlani
 
 Mary Elliott
 
-Erica Hsieh
+[Erica Hsieh](./people/erica-aboutme.md)
 
 Mary Norgan
 
