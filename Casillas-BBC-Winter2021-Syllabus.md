@@ -26,38 +26,39 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-### Week 7: Tuesday, 23 February 2021
+### Week 8: Tuesday, 2 March 2021
+
+**This counts as two readings (it's long & detailed) -- please adjust your notes so that they are equivalent to two readings of effort:** Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Brice Heath (1983). _Ways with words: Language, life and work in communities and classrooms_ (Ch. 3 & 4). Cambridge University Press. ([pdf](https://www.dropbox.com/s/wcv4jk79m33zs41/briceheath1983ways_ch3and4.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 #### Pre-class reading
-None!
-
-#### Pre-class video
-Third round of student methods presentations (to be posted!)
-
-#### Assignments due today
-Graduate students: Squib (optional)
-
-Nothing more, unless you're doing a methods presentation today!
-
-
-## Module 4: Environment
-
-### Week 7: Thursday, 25 February 2021
-
-#### Pre-class reading
-Tomasello & Carpenter (2007). Shared intentionality. _Developmental Science, 10_(1), 121-125. ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-Yu & Smith (2013). Joint attention without gaze following: Human infants and their parents coordinate visual attention to objects through eye-hand coordination. _PloS one, 8_(11), e79659. ([pdf](https://www.dropbox.com/s/rw4yz3ylllu6d52/yu2013coordinate.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-** Yu et al. (2017). Infant sustained attention but not joint attention to objects at 9 months predicts vocabulary at 12 and 15 months. _Developmental Science, 22_(1), e12735. ([pdf](https://www.dropbox.com/s/59tyyaivle8jazr/yu2017sustained.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 \** = Required for graduate students only
 
 #### Pre-class video
-[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=203d1f98-4fe5-4443-91fb-acc6000d134b)] — 50 min ([slides](https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing))
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70da2fc7-1c39-4b48-aefa-acd700f1974c)] — 25 min ([slides](https://docs.google.com/presentation/d/1A6HZ-ZZqOShXoQ5sXu22dJgtNlN0IpnnrG6feuGN_I0/edit?usp=sharing))
 
 #### Assignments due today
-Undergraduate students: [Mini essay exam 2](https://marisacasillas.github.io/chatterlab/course-instructions/mini-essay-exam-2.html)
+Graduate students: Squib (optional)
+
+### Week 8: Thursday, 4 March 2021
+
+#### Pre-class reading
+Liszkowski et al. (2012). A prelinguistic gestural universal of human communication. _Cognitive Science, 36_(4), 698-713. ([pdf](https://www.dropbox.com/s/3a8wkzo6q4jd2pm/liszkowski2012prelinguistic.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Carstensen et al. (2019). Context shapes early diversity in abstract thought. _Proceedings of the National Academy of Sciences, 116_(28), 13891-13896. ([pdf](https://www.dropbox.com/s/rb7qpt0dkf4kot5/carstensen2019context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Adolph et al. (2010). Motor Skill. In M. H. Bornstein (Ed.) _Handbook of Cultural Developmental Science_ (pp. 61-88). Psychology Press. ([pdf](https://www.dropbox.com/s/orlrpknos64f8mp/adolph2010motorskill.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+\** = Required for graduate students only
+
+#### Pre-class video
+[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65728dae-261b-46c6-9f38-acd700f19d09)] — 35 min ([slides](https://docs.google.com/presentation/d/1aCRpVgD1e_anCKahXMc5e3xsqlZqNUQ8Vc2DOseyWhE/edit?usp=sharing))
+
+#### Assignments due today
+None!
+
 
 # Grading
 
