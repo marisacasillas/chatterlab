@@ -15,6 +15,9 @@ Cristia, A. & **Casillas, M.** (submitted Feb 2021). Nonword repetition in child
 
 ## in press/accepted
 
+Soderstrom, **Casillas, M.**, Bergelson, E., Rosemberg, C., Alam, F., Warlaumont, A. S., & Bunce, J.
+Developing a cross-cultural annotation system and MetaCorpus for studying infants’ real-world language experience. _Collabra, XX_. [[ms](https://psyarxiv.com/bf63y/)]
+
 Cychosz, M., Cristia, A., Bergelson, E., **Casillas, M.**, Baudet, G., Warlaumont, A. S., Scaff, C., Yankowitz, L., & Seidl, A. (accepted). Vocal development in a large-scale crosslinguistic corpus. _Developmental Science, XX_. [[ms](./lab-publications/Cychosz_et_al_2021forthcoming_Vocal_development_in_a_large_scale_crosslinguistic_corpus_DevSci.pdf)] [[osf](https://osf.io/ca6qu/)]
 
 **Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. *Research on Children and Social Interaction, XX.* [[ms](./lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
