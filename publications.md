@@ -40,7 +40,7 @@ Cychosz, M., Romeo, R., Soderstrom, M., Scaff, C., Ganek, H., Cristia, A., **Cas
 
 MacDonald, K., Rasanen, O., **Casillas, M.**, & Warlaumont, A. S. (2020). Measuring prosodic predictability in children’s home language environments. In S. Denison, M. Mack, Y. Xu, & B. C. Armstrong (Eds.), Proceedings of the 42nd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2020) (pp. 695-701). Montreal, QB: Cognitive Science Society. [[ms](./lab-publications/MacDonald_et_al_2020_Measuring_prosodic_predictability_in_childrens_home_language_environments_CogSci.pdf)] [[gh](https://github.com/kemacdonald/lena-pred)]
 
-**Casillas, M.**, Brown, P., & Levinson, S. C. (2019). Early language experience in a Tseltal Mayan village. Child Development, 91(5), pp. 1819–1835. [[ms](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
+**Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Tseltal Mayan village. Child Development, 91(5), pp. 1819–1835. [[ms](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
 
 
 ## 2019
