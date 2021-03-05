@@ -36,8 +36,7 @@ See [HomeBank's tools repository](https://github.com/homebankcode) for LENA-rele
 
 ## Annotating photos
 
-Coming soon...
-<!--[IMCO](): Efficiently annotate a directory of photos using a sequence of hotkeys-->
+[IMCO](https://github.com/marisacasillas/ImCo): Efficiently annotate a directory of photos using a closed set of hotkeys
 
 ## Creating video
 
