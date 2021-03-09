@@ -10,14 +10,14 @@ I am a third year undergraduate student double majoring in neuroscience and psyc
 ### Contact 
 Email: ehsieh1@uchicago.edu
 
-<span style="color:white">
-   <br> More about me:
-   <br> (current) favorite xkcd comic: xkcd.com/2196/
-   <br>       (&#92; /)   
-          ( . .)
-   <br>    C(")(")
-    
-</span>.
+### More about me:
+(current) favorite xkcd comic: [xkcd.com/2196/]()
+
+
+(\ /)   
+( . .)  
+C(")(")
+
 <!--
     More about me:
     Favorite strange planet comic:
