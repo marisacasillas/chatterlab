@@ -26,38 +26,33 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-### Week 8: Tuesday, 2 March 2021
-
-**This counts as two readings (it's long & detailed) -- please adjust your notes so that they are equivalent to two readings of effort:** Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-** Brice Heath (1983). _Ways with words: Language, life and work in communities and classrooms_ (Ch. 3 & 4). Cambridge University Press. ([pdf](https://www.dropbox.com/s/wcv4jk79m33zs41/briceheath1983ways_ch3and4.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+### Week 9: Tuesday, 9 March 2021
 
 #### Pre-class reading
+Hart and Risley (2003). The early catastrophe: The 30 million word gap by age 3. _American Educator, 27_(1), 4-9. ([pdf](https://www.dropbox.com/s/5muq6od54uejfyp/hart2003catastrophe.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+Sperry et al. (2018). Reexamining the verbal environments of children from different socioeconomic backgrounds. _Child Development, 90_(4), 1303-1318. ([pdf](https://www.dropbox.com/s/pky2b07bh2jm0fx/sperry2019reexamining.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
+
+** Ochs & Kremer-Sadlik (2020). Ethical blind spots in ethnographic and developmental approaches to the language gap debate. _Langage et Société, 170_(2), 39-67. ([pdf](https://www.dropbox.com/s/nlemvhd8v08k1s6/ochs2020blindspots.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
 
 \** = Required for graduate students only
 
 #### Pre-class video
-[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70da2fc7-1c39-4b48-aefa-acd700f1974c)] — 25 min ([slides](https://docs.google.com/presentation/d/1A6HZ-ZZqOShXoQ5sXu22dJgtNlN0IpnnrG6feuGN_I0/edit?usp=sharing))
+**There is no pre-class video—Please do the assigned readings carefully and come to class with your general thoughts and responses.**
 
 #### Assignments due today
 Graduate students: Squib (optional)
 
-### Week 8: Thursday, 4 March 2021
+### Week 9: Thursday, 11 March 2021
 
 #### Pre-class reading
-Liszkowski et al. (2012). A prelinguistic gestural universal of human communication. _Cognitive Science, 36_(4), 698-713. ([pdf](https://www.dropbox.com/s/3a8wkzo6q4jd2pm/liszkowski2012prelinguistic.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-Carstensen et al. (2019). Context shapes early diversity in abstract thought. _Proceedings of the National Academy of Sciences, 116_(28), 13891-13896. ([pdf](https://www.dropbox.com/s/rb7qpt0dkf4kot5/carstensen2019context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-** Adolph et al. (2010). Motor Skill. In M. H. Bornstein (Ed.) _Handbook of Cultural Developmental Science_ (pp. 61-88). Psychology Press. ([pdf](https://www.dropbox.com/s/orlrpknos64f8mp/adolph2010motorskill.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-\** = Required for graduate students only
+None!
 
 #### Pre-class video
-[[lecture](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65728dae-261b-46c6-9f38-acd700f19d09)] — 35 min ([slides](https://docs.google.com/presentation/d/1aCRpVgD1e_anCKahXMc5e3xsqlZqNUQ8Vc2DOseyWhE/edit?usp=sharing))
+Fourth round of student methods presentations (to be posted!)
 
 #### Assignments due today
-None!
+None, unless you're doing a methods presentation today!
 
 
 # Grading
