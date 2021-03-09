@@ -5,6 +5,10 @@ Marisa (she/her/hers) is an assistant professor in the University of Chicago's C
 
 PhD applicants interested in working with Dr. Casillas should [contact her](./contact.md) directly.
 
+### Lab manager
+
+Kennedy Casey
+
 ### PhD members
 
 [Natalie Dowling](https://voices.uchicago.edu/ndowling/)
@@ -17,11 +21,11 @@ Aditya Badlani
 
 [Alyssa Guillu](./people/alyssa-aboutme.md)
 
-Mary Elliott
+[Mary Elliott](./people/marye-aboutme.md)
 
 [Erica Hsieh](./people/erica-aboutme.md)
 
-Mary Norgan
+[Mary Norgan](./people/maryn-aboutme.md)
 
 Bram Peute
 
