@@ -388,7 +388,7 @@ None, unless you're doing a methods presentation today!
 ## Final deadline (Thursday, 18 March 2021)
 
 #### Assignments due today
-* Undergraduate students: Mini essay exam 3 due
+* Undergraduate students: [Mini essay exam 3](https://marisacasillas.github.io/chatterlab/course-instructions/mini-essay-exam-3.html) due
 * Graduate students: Squib (optional)
 
 
