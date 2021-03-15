@@ -26,33 +26,11 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 # Up this week:
 
-### Week 9: Tuesday, 9 March 2021
-
-#### Pre-class reading
-Hart and Risley (2003). The early catastrophe: The 30 million word gap by age 3. _American Educator, 27_(1), 4-9. ([pdf](https://www.dropbox.com/s/5muq6od54uejfyp/hart2003catastrophe.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-Sperry et al. (2018). Reexamining the verbal environments of children from different socioeconomic backgrounds. _Child Development, 90_(4), 1303-1318. ([pdf](https://www.dropbox.com/s/pky2b07bh2jm0fx/sperry2019reexamining.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-** Ochs & Kremer-Sadlik (2020). Ethical blind spots in ethnographic and developmental approaches to the language gap debate. _Langage et Société, 170_(2), 39-67. ([pdf](https://www.dropbox.com/s/nlemvhd8v08k1s6/ochs2020blindspots.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
-
-\** = Required for graduate students only
-
-#### Pre-class video
-**There is no pre-class video—Please do the assigned readings carefully and come to class with your general thoughts and responses.**
+## Final deadline (Thursday, 18 March 2021)
 
 #### Assignments due today
-Graduate students: Squib (optional)
-
-### Week 9: Thursday, 11 March 2021
-
-#### Pre-class reading
-None!
-
-#### Pre-class video
-Fourth round of student methods presentations (to be posted!)
-
-#### Assignments due today
-None, unless you're doing a methods presentation today!
+* Undergraduate students: [Mini essay exam 3](https://marisacasillas.github.io/chatterlab/course-instructions/mini-essay-exam-3.html) due
+* Graduate students: Squib (optional)
 
 
 # Grading
