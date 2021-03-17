@@ -15,14 +15,15 @@ Cristia, A. & **Casillas, M.** (submitted Feb 2021). Nonword repetition in child
 
 ## in press/accepted
 
-Soderstrom, **Casillas, M.**, Bergelson, E., Rosemberg, C., Alam, F., Warlaumont, A. S., & Bunce, J.
-Developing a cross-cultural annotation system and MetaCorpus for studying infants’ real-world language experience. _Collabra, XX_. [[ms](https://psyarxiv.com/bf63y/)]
+Brown, P., & **Casillas, M.** (accepted). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
 Cychosz, M., Cristia, A., Bergelson, E., **Casillas, M.**, Baudet, G., Warlaumont, A. S., Scaff, C., Yankowitz, L., & Seidl, A. (accepted). Vocal development in a large-scale crosslinguistic corpus. _Developmental Science, XX_. [[ms](./lab-publications/Cychosz_et_al_2021forthcoming_Vocal_development_in_a_large_scale_crosslinguistic_corpus_DevSci.pdf)] [[osf](https://osf.io/ca6qu/)]
 
 **Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. *Research on Children and Social Interaction, XX.* [[ms](./lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
 
-Brown, P., & **Casillas, M.** (accepted). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
+Soderstrom, M. **Casillas, M.**, Bergelson, E., Rosemberg, C., Alam, F., Warlaumont, A. S., & Bunce, J.
+Developing a cross-cultural annotation system and MetaCorpus for studying infants’ real-world language experience. _Collabra, XX_. [[ms](https://psyarxiv.com/bf63y/)]
+
 
 ## 2021
 
@@ -30,11 +31,9 @@ Frost, R. L. A. & **Casillas, M.** (2021). Investigating statistical learning of
 
 ## 2020
 
-Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (2020). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, 44:e12924_. [[ms](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
-
 **Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Papuan community. _Journal of Child Language_. [[ms](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
 
-Rasanen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (2020). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. _Behavior Research Methods_. [[ms](./lab-publications/Rasanen_et_al_inpress_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
+**Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Tseltal Mayan village. _Child Development, 91_(5), pp. 1819–1835. [[ms](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
 
 **Casillas, M.**, & Hilbrink, E. (2020). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), Developmental and Clinical Pragmatics (pp. 61-88). De Gruyter Mouton. [[ms](./lab-publications/Casillas_Hilbrink_inpress_Communicative_act_development_DCPragmaticsHandbook.pdf)]
 
@@ -42,8 +41,9 @@ Cychosz, M., Romeo, R., Soderstrom, M., Scaff, C., Ganek, H., Cristia, A., **Cas
 
 MacDonald, K., Rasanen, O., **Casillas, M.**, & Warlaumont, A. S. (2020). Measuring prosodic predictability in children’s home language environments. In S. Denison, M. Mack, Y. Xu, & B. C. Armstrong (Eds.), Proceedings of the 42nd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2020) (pp. 695-701). Montreal, QB: Cognitive Science Society. [[ms](./lab-publications/MacDonald_et_al_2020_Measuring_prosodic_predictability_in_childrens_home_language_environments_CogSci.pdf)] [[gh](https://github.com/kemacdonald/lena-pred)]
 
-**Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Tseltal Mayan village. _Child Development, 91_(5), pp. 1819–1835. [[ms](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
+Rasanen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (2020). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. _Behavior Research Methods_. [[ms](./lab-publications/Rasanen_et_al_inpress_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
 
+Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (2020). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, 44:e12924_. [[ms](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
 
 ## 2019
 
