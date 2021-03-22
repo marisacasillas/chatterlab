@@ -24,15 +24,6 @@ All course materials, including readings, grading rubrics, lecture materials, an
 
 ----
 
-# Up this week:
-
-## Final deadline (Thursday, 18 March 2021)
-
-#### Assignments due today
-* Undergraduate students: [Mini essay exam 3](https://marisacasillas.github.io/chatterlab/course-instructions/mini-essay-exam-3.html) due
-* Graduate students: Squib (optional)
-
-
 # Grading
 
 Students enrolled in this course will be graded on the following basis:
