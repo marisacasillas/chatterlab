@@ -27,7 +27,7 @@ Soderstrom, M. **Casillas, M.**, Bergelson, E., Rosemberg, C., Alam, F., Warlaum
 
 ## 2021
 
-Cychosz, M., Cristia, A., Bergelson, E., **Casillas, M.**, Baudet, G., Warlaumont, A. S., Scaff, C., Yankowitz, L., & Seidl, A. (2021). Vocal development in a large-scale crosslinguistic corpus. _Developmental Science, XX_. [[ms](./lab-publications/Cychosz_et_al_2021_Vocal_development_in_a_large_scale_crosslinguistic_corpus_DevSci.pdf)] [[osf](https://osf.io/ca6qu/)]
+Cychosz, M., Cristia, A., Bergelson, E., **Casillas, M.**, Baudet, G., Warlaumont, A. S., Scaff, C., Yankowitz, L., & Seidl, A. (2021). Vocal development in a large-scale crosslinguistic corpus. _Developmental Science, e13090_. [[ms](./lab-publications/Cychosz_et_al_2021_Vocal_development_in_a_large_scale_crosslinguistic_corpus_DevSci.pdf)] [[osf](https://osf.io/ca6qu/)]
 
 Frost, R. L. A. & **Casillas, M.** (2021). Investigating statistical learning of nonadjacent dependencies: Running statistical learning tasks in non-WEIRD populations. _SAGE Methods Case Studies_. [[ms](./lab-publications/Frost_Casillas_preprint_investigating_statistical_learning_of_nonadjacent_dependencies_SAGEMethods.pdf)]
 
