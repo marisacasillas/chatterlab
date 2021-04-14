@@ -36,7 +36,7 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 
 ### Contact
 
-Office: TBA
+Office: Rosenwald 318A
 
 Phone: TBA
 
