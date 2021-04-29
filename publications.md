@@ -7,13 +7,13 @@ Looking for [tools](./tools.md)?
 
 <!--[[ms]()] [[sm]()] [[gh]()]-->
 
-## preprints under review (select)
+## under review (selected preprints)
 
-Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (under review post-revision; March 2021). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
+Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (revision under review; March 2021). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
 
-**Casillas, M.** & Scaff, C. (under review Feb 2021). Analyzing contingent interactions in R with chattr. [[ms](./lab-publications/Casillas_Scaff_underreview_Analyzing_contingent_interactions_in_R_with_chattr_v20210211.pdf)] [[gh](https://github.com/marisacasillas/chattr-basic/tree/master/CogSci2021/CogSci2021-chattr)]
+Cristia, A. & **Casillas, M.** (under review Feb 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview_Nonword_repetition_in_children_learning_Yeli_Dnye_v20210211.pdf)] [[osf](https://osf.io/5qspb/)]
 
-Cristia, A. & **Casillas, M.** (submitted Feb 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview_Nonword_repetition_in_children_learning_Yeli_Dnye_v20210211.pdf)] [[osf](https://osf.io/5qspb/)]
+Peute, A. A. K. & **Casillas, M.** (under review Apr 2021). Early consonant production in Tseltal and Yélî Dnye. [[ms](https://psyarxiv.com/5feju/)]
 
 ## in press/accepted
 
@@ -27,9 +27,11 @@ Soderstrom, M. **Casillas, M.**, Bergelson, E., Rosemberg, C., Alam, F., Warlaum
 
 ## 2021
 
+**Casillas, M.** & Scaff, C. (2021). Analyzing contingent interactions in R with chattr. In T. Fitch, C. Lamm, H. Leder, & K. Teßmar-Raible (Eds.), Proceedings of the 43rd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2021) (pp. XX-XX). Vienna, AT: Cognitive Science Society. [[ms](./lab-publications/Casillas_Scaff_2021_Analyzing_contingent_interactions_in_R_with_chattr_CogSci.pdf)] [[gh](https://github.com/marisacasillas/chattr-basic/tree/master/CogSci2021/CogSci2021-chattr)]
+
 Cychosz, M., Cristia, A., Bergelson, E., **Casillas, M.**, Baudet, G., Warlaumont, A. S., Scaff, C., Yankowitz, L., & Seidl, A. (2021). Vocal development in a large-scale crosslinguistic corpus. _Developmental Science, e13090_. [[ms](./lab-publications/Cychosz_et_al_2021_Vocal_development_in_a_large_scale_crosslinguistic_corpus_DevSci.pdf)] [[osf](https://osf.io/ca6qu/)]
 
-Frost, R. L. A. & **Casillas, M.** (2021). Investigating statistical learning of nonadjacent dependencies: Running statistical learning tasks in non-WEIRD populations. _SAGE Methods Case Studies_. [[ms](./lab-publications/Frost_Casillas_preprint_investigating_statistical_learning_of_nonadjacent_dependencies_SAGEMethods.pdf)]
+Frost, R. L. A. & **Casillas, M.** (2021). Investigating statistical learning of nonadjacent dependencies: Running statistical learning tasks in non-WEIRD populations. _SAGE Methods Case Studies_. [[ms](./lab-publications/Frost_Casillas_2021_investigating_statistical_learning_of_nonadjacent_dependencies_SAGEMethods.pdf)]
 
 ## 2020
 
@@ -39,11 +41,11 @@ Frost, R. L. A. & **Casillas, M.** (2021). Investigating statistical learning of
 
 **Casillas, M.**, & Hilbrink, E. (2020). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), Developmental and Clinical Pragmatics (pp. 61-88). De Gruyter Mouton. [[ms](./lab-publications/Casillas_Hilbrink_inpress_Communicative_act_development_DCPragmaticsHandbook.pdf)]
 
-Cychosz, M., Romeo, R., Soderstrom, M., Scaff, C., Ganek, H., Cristia, A., **Casillas, M.**, De Barbaro, K., Bang, J. Y., & Weisleder, A. (2020). Longform recordings of everyday life: Ethics for best practices. _Behavior Research Methods_. Advance online publication. doi:10.3758/s13428-020-01365-9. [[ms](./lab-publications/Cychosz_et_al_2020_Longform_recordings_of_everyday_life_Ethics_for_best_practices_BRM.pdf)]
+Cychosz, M., Romeo, R., Soderstrom, M., Scaff, C., Ganek, H., Cristia, A., **Casillas, M.**, De Barbaro, K., Bang, J. Y., & Weisleder, A. (2020). Longform recordings of everyday life: Ethics for best practices. _Behavior Research Methods, 52_, pp. 1951–1969. [[ms](./lab-publications/Cychosz_et_al_2020_Longform_recordings_of_everyday_life_Ethics_for_best_practices_BRM.pdf)]
 
 MacDonald, K., Rasanen, O., **Casillas, M.**, & Warlaumont, A. S. (2020). Measuring prosodic predictability in children’s home language environments. In S. Denison, M. Mack, Y. Xu, & B. C. Armstrong (Eds.), Proceedings of the 42nd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2020) (pp. 695-701). Montreal, QB: Cognitive Science Society. [[ms](./lab-publications/MacDonald_et_al_2020_Measuring_prosodic_predictability_in_childrens_home_language_environments_CogSci.pdf)] [[gh](https://github.com/kemacdonald/lena-pred)]
 
-Rasanen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (2020). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. _Behavior Research Methods_. [[ms](./lab-publications/Rasanen_et_al_inpress_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
+Rasanen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (2020). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. _Behavior Research Methods, 53, 818–835_. [[ms](./lab-publications/Rasanen_et_al_2020_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
 
 Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (2020). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, 44:e12924_. [[ms](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](./lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
 
