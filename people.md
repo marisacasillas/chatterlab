@@ -7,7 +7,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](./co
 
 ### Lab manager
 
-Kennedy Casey
+[Kennedy Casey](./people/kennedy-aboutme.md)
 
 ### PhD members
 
