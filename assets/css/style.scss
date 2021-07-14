@@ -3,24 +3,6 @@
 
 @import "{{ site.theme }}";
 
-* {
-     color: black !important;
-     background-color: white !important;
-     background-image: none !important;
-}
- 
-a:link {
-    font-weight: normal;
-    text-decoration: underline;
-    color: #48a39a !important;
-}
-
-a:local-link {
-    font-weight: normal;
-    text-decoration: underline;
-    color: #48a39a !important;
-}
-
 .markdown-body a[target="_blank"]::after {
   content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
   margin: 0 3px 0 5px;
