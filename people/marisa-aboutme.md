@@ -22,9 +22,16 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 
 ### Courses at UChicago
 
+[The Development of Communicative Competence](../archived_courses/Spring2020/Casillas-DevCommComp-Spring2020-Syllabus.md) (Spring 2020; Winter 2022).
+
+From Data to Manuscript in R (Winter 2022)
+
+Human Language and Interaction (Spring 2022)
+
+Mind III (Spring 2022)
+
 [Blooming Buzzing Confusion](../Casillas-BBC-Winter2021-Syllabus.md) (Winter 2021).
 
-[The Emergence of Communicative Competence](../archived_courses/Spring2020/Casillas-DevCommComp-Spring2020-Syllabus.md) (Spring 2020).
 
 ### Professional organizations (co-)led
 
