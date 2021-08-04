@@ -7,27 +7,33 @@ Looking for [tools](./tools.md)?
 
 <!--[[ms]()] [[sm]()] [[gh]()]-->
 
-## under review (selected preprints)
+## selected preprints
 
-Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (revision under review; March 2021). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
+Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (in preparation; July 2021). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
 
-Cristia, A. & **Casillas, M.** (under review Feb 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview_Nonword_repetition_in_children_learning_Yeli_Dnye_v20210211.pdf)] [[osf](https://osf.io/5qspb/)]
+Cristia, A. & **Casillas, M.** (in revision Aug 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview_Nonword_repetition_in_children_learning_Yeli_Dnye_v20210211.pdf)] [[osf](https://osf.io/5qspb/)]
 
-Peute, A. A. K. & **Casillas, M.** (under review Apr 2021). Early consonant production in Tseltal and Yélî Dnye. [[ms](https://psyarxiv.com/5feju/)]
+Peute, A. A. K. & **Casillas, M.** (in revision July 2021). Early consonant production in Tseltal and Yélî Dnye. [[ms](https://psyarxiv.com/5feju/)]
 
 ## in press/accepted
 
+<!--De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (accepted -- need to check author order and add preprint). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language XX_. [[ms]()]-->
+
+Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
+
 Brown, P., & **Casillas, M.** (accepted). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
-**Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. *Research on Children and Social Interaction, XX.* [[ms](./lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
-
-Soderstrom, M. **Casillas, M.**, Bergelson, E., Rosemberg, C., Alam, F., Warlaumont, A. S., & Bunce, J.
-(forthcoming) Developing a cross-cultural annotation system and MetaCorpus for studying infants’ real-world language experience. _Collabra, XX_. [[ms](https://psyarxiv.com/bf63y/)]
+**Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. _Research on Children and Social Interaction, 5_(2). [[ms](./lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
 
 
 ## 2021
 
-**Casillas, M.** & Scaff, C. (2021). Analyzing contingent interactions in R with chattr. In T. Fitch, C. Lamm, H. Leder, & K. Teßmar-Raible (Eds.), Proceedings of the 43rd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2021) (pp. XX-XX). Vienna, AT: Cognitive Science Society. [[ms](./lab-publications/Casillas_Scaff_2021_Analyzing_contingent_interactions_in_R_with_chattr_CogSci.pdf)] [[gh](https://github.com/marisacasillas/chattr-basic/tree/master/CogSci2021/CogSci2021-chattr)]
+Vilà‐Giménez, I., **Dowling, N.**, Demir‐Lira, Ö. E., Prieto, P., & Goldin‐Meadow, S. (2021). The Predictive Value of Non‐Referential Beat Gestures: Early Use in Parent–Child Interactions Predicts Narrative Abilities at 5 Years of Age. _Child Development XX_. [[ms](./lab-publications/VilaGimenez_et_al-2021-The_predictive_value_of_nonreferential_beat_gestures-ChiDev.pdf)]
+
+Soderstrom, M. **Casillas, M.**, Bergelson, E., Rosemberg, C., Alam, F., Warlaumont, A. S., & Bunce, J.
+(2021) Developing a cross-cultural annotation system and MetaCorpus for studying infants’ real-world language experience. _Collabra, 7_(1). [[ms](./lab-publications/Soderstrom_et_al-2021-Developing_a_cross_cultural_annotation_system_and_metacorpus_for_studying_infants_real_world_language_experience-Collabra.pdf)]
+
+**Casillas, M.** & Scaff, C. (2021). Analyzing contingent interactions in R with chattr. In T. Fitch, C. Lamm, H. Leder, & K. Teßmar-Raible (Eds.), Proceedings of the 43rd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2021) (pp. 2540-2546). Vienna, AT: Cognitive Science Society. [[ms](./lab-publications/Casillas_Scaff_2021_Analyzing_contingent_interactions_in_R_with_chattr_CogSci.pdf)] [[gh](https://github.com/marisacasillas/chattr-basic/tree/master/CogSci2021/CogSci2021-chattr)]
 
 Cychosz, M., Cristia, A., Bergelson, E., **Casillas, M.**, Baudet, G., Warlaumont, A. S., Scaff, C., Yankowitz, L., & Seidl, A. (2021). Vocal development in a large-scale crosslinguistic corpus. _Developmental Science, e13090_. [[ms](./lab-publications/Cychosz_et_al_2021_Vocal_development_in_a_large_scale_crosslinguistic_corpus_DevSci.pdf)] [[osf](https://osf.io/ca6qu/)]
 
