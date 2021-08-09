@@ -15,6 +15,8 @@ PhD applicants interested in working with Dr. Casillas should [contact her](./co
 
 [Erika Prado](./people/erika-aboutme.md)
 
+[Isabella Di Giovanni](./people/isabella-aboutme.md)
+
 ### Student members
 
 Aditya Badlani
