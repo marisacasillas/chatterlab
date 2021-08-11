@@ -9,7 +9,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](./co
 
 [Kennedy Casey](./people/kennedy-aboutme.md)
 
-### PhD members
+### PhD students
 
 [Natalie Dowling](https://voices.uchicago.edu/ndowling/)
 
@@ -17,9 +17,11 @@ PhD applicants interested in working with Dr. Casillas should [contact her](./co
 
 [Isabella Di Giovanni](./people/isabella-aboutme.md)
 
-### Student members
+### Masters students
 
-Aditya Badlani
+Bram Peute
+
+### Undergraduate students
 
 [Alyssa Guillu](./people/alyssa-aboutme.md)
 
@@ -28,8 +30,6 @@ Aditya Badlani
 [Erica Hsieh](./people/erica-aboutme.md)
 
 [Mary Norgan](./people/maryn-aboutme.md)
-
-Bram Peute
 
 ### Some recent and frequent collaborators
 
@@ -45,6 +45,10 @@ Bram Peute
 #### Tseltal/Rossel language research
 
 [Penny Brown](https://www.mpi.nl/people/brown-penelope), [Steve Levinson](https://www.mpi.nl/people/levinson-stephen), and [Gabriela Garrido Rodriguez](https://www.researchgate.net/profile/Gabriela_Garrido_Rodriguez)
+
+### Former members
+
+Aditya Badlani
 
 
 ----
