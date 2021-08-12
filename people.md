@@ -21,6 +21,8 @@ PhD applicants interested in working with Dr. Casillas should [contact her](./co
 
 Bram Peute
 
+[Jenny Bo](./people/jenny-aboutme.md)
+
 ### Undergraduate students
 
 [Alyssa Guillu](./people/alyssa-aboutme.md)
