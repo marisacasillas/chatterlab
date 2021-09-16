@@ -17,7 +17,7 @@ Peute, A. A. K. & **Casillas, M.** (in revision July 2021). Early consonant prod
 
 ## in press/accepted
 
-<!--De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (accepted -- need to check author order and add preprint). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language XX_. [[ms]()]-->
+De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (accepted). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language XX_. [[ms](./lab-publications/DeVos_et_al_accepted_Predicting_conversational_turns_Language.pdf)]
 
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
