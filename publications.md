@@ -28,7 +28,7 @@ Brown, P., & **Casillas, M.** (accepted). Childrearing through social interactio
 
 ## 2021
 
-Soderstrom, M., **Casillas, M.**, Gornik, M., Bouchard, A., MacEwan, S., Shokrkon, A., & Bunce, J. (2021). English-speaking adults' labeling of child- and adult-directed speech across languages and its relationship to perception of affect. _Frontiers in Psychology 12_:708887. [[ms](Soderstrom_et_al_2021_English_speaking_adults_labeling_of_child_and_adult_directed_speech_across_languages_Frontiers.pdf)]
+Soderstrom, M., **Casillas, M.**, Gornik, M., Bouchard, A., MacEwan, S., Shokrkon, A., & Bunce, J. (2021). English-speaking adults' labeling of child- and adult-directed speech across languages and its relationship to perception of affect. _Frontiers in Psychology 12_:708887. [[ms](./lab-publications/Soderstrom_et_al_2021_English_speaking_adults_labeling_of_child_and_adult_directed_speech_across_languages_Frontiers.pdf)]
 
 Vilà‐Giménez, I., **Dowling, N.**, Demir‐Lira, Ö. E., Prieto, P., & Goldin‐Meadow, S. (2021). The Predictive Value of Non‐Referential Beat Gestures: Early Use in Parent–Child Interactions Predicts Narrative Abilities at 5 Years of Age. _Child Development XX_. [[ms](./lab-publications/VilaGimenez_et_al-2021-The_predictive_value_of_nonreferential_beat_gestures-ChiDev.pdf)]
 
