@@ -23,6 +23,8 @@ Bram Peute
 
 [Jenny Bo](./people/jenny-aboutme.md)
 
+[Rayski Lei](./people/rayski-aboutme.md)
+
 ### Undergraduate students
 
 [Alyssa Guillu](./people/alyssa-aboutme.md)
