@@ -37,6 +37,8 @@ Bram Peute
 
 [Anapaula Silva](./people/anapaula-aboutme.md)
 
+[Mara Duquette](./people/mara-aboutme.md)
+
 ### Some recent and frequent collaborators
 
 
