@@ -39,6 +39,8 @@ Bram Peute
 
 [Mara Duquette](./people/mara-aboutme.md)
 
+[Will Fisher](./people/will-aboutme.md)
+
 ### Some recent and frequent collaborators
 
 
