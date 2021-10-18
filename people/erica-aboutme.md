@@ -4,7 +4,7 @@
 
 <img src="./images/erica-hsieh.jpg" width="360" height="400">
 
-I am a third year undergraduate student double majoring in neuroscience and psychology at the University of Chicago. I am interested in the perception of prosody and more broadly in cross-cultural work on language and music cognition. 
+I am a fourth year undergraduate student double majoring in neuroscience and psychology at the University of Chicago. I am interested in the perception of prosody and more broadly in cross-cultural work on language and music cognition. 
 
 
 ### Contact 
