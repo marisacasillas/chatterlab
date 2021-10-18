@@ -41,6 +41,8 @@ Bram Peute
 
 [Will Fisher](./people/will-aboutme.md)
 
+[Lizzie Mickiewicz](./people/lizzie-aboutme.md)
+
 ### Some recent and frequent collaborators
 
 
