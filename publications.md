@@ -37,13 +37,13 @@ Soderstrom, M. **Casillas, M.**, Bergelson, E., Rosemberg, C., Alam, F., Warlaum
 
 **Casillas, M.** & Scaff, C. (2021). Analyzing contingent interactions in R with chattr. In T. Fitch, C. Lamm, H. Leder, & K. Teßmar-Raible (Eds.), Proceedings of the 43rd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2021) (pp. 2540-2546). Vienna, AT: Cognitive Science Society. [[ms](./lab-publications/Casillas_Scaff_2021_Analyzing_contingent_interactions_in_R_with_chattr_CogSci.pdf)] [[gh](https://github.com/marisacasillas/chattr-basic/tree/master/CogSci2021/CogSci2021-chattr)]
 
+**Casillas, M.**, Brown, P., & Levinson, S. C. (2021). Early language experience in a Papuan community. _Journal of Child Language 48_(4), 792–814. [[ms](./lab-publications/Casillas_et_al_2021_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_2021_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
+
 Cychosz, M., Cristia, A., Bergelson, E., **Casillas, M.**, Baudet, G., Warlaumont, A. S., Scaff, C., Yankowitz, L., & Seidl, A. (2021). Vocal development in a large-scale crosslinguistic corpus. _Developmental Science, e13090_. [[ms](./lab-publications/Cychosz_et_al_2021_Vocal_development_in_a_large_scale_crosslinguistic_corpus_DevSci.pdf)] [[osf](https://osf.io/ca6qu/)]
 
 Frost, R. L. A. & **Casillas, M.** (2021). Investigating statistical learning of nonadjacent dependencies: Running statistical learning tasks in non-WEIRD populations. _SAGE Methods Case Studies_. [[ms](./lab-publications/Frost_Casillas_2021_investigating_statistical_learning_of_nonadjacent_dependencies_SAGEMethods.pdf)]
 
 ## 2020
-
-**Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Papuan community. _Journal of Child Language_. [[ms](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
 
 **Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Tseltal Mayan village. _Child Development, 91_(5), pp. 1819–1835. [[ms](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
 
