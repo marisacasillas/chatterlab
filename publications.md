@@ -13,7 +13,7 @@ Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, 
 
 Cristia, A. & **Casillas, M.** (in revision Aug 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview_Nonword_repetition_in_children_learning_Yeli_Dnye_v20210211.pdf)] [[osf](https://osf.io/5qspb/)]
 
-Peute, A. A. K. & **Casillas, M.** (in revision July 2021). Early consonant production in Tseltal and Yélî Dnye. [[ms](https://psyarxiv.com/5feju/)]
+Peute, A. A. K. & **Casillas, M.** (revision under review October 2021). (Non-)effects of linguistic environment on early stable consonant production: A crosscultural case study. [[ms](https://psyarxiv.com/5feju/)]
 
 ## in press/accepted
 
