@@ -1,10 +1,10 @@
 # From Data to Manuscript in R
 
-Winter 2022: CHDV 30550, MACS 30550, MAPS 30550
+Winter 2022: CHDV 20550/30550, MACS 30550, MAPS 30550, PSYC 30550
 
-Tuesdays and Thursdays 9:30am-10:50am Chicago time
+Tuesdays and Thursdays 09.30am-10.50am Chicago time
 
-Office hours: TBA, or by appointment.
+Office hours: TBA
 
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 
@@ -14,10 +14,10 @@ This course tackles the basic skills needed to build an integrated research repo
 
 * Most required readings will be drawn from one of the following great (and free! and online!) resources:
 	* [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham.
-	* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
 	* [R Markdown for Scientists](https://rmd4sci.njtierney.com/) by Nicholas Tierney
+* Also check out [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
 
-All other course materials will be available online on Canvas and the ChatterLab course webpage.
+Any other course materials will be available online on Canvas and the ChatterLab course webpage.
 
 ----
 
@@ -35,15 +35,17 @@ Students enrolled in this course will be graded on the following basis:
 
 ### Mini assignments
 
-There are short assignments related to the readings. There is a mini assignment for each lecture, with the exception of the first one. Each assignment will involve working with your own data, data provided for that assignment, or both and is designed to give you hands-on practice with using R. Each student will be assigned to a support group of other students to help answer questions (in addition to access to help from Marisa during office hours).
+There is a mini assignment for each lecture. Each assignment will involve working with your own data, data provided for that assignment, or both and is designed to give you hands-on practice with using R. Assignments typically begin in class and may be completed after class (each one is highlighted in blue) on a pass/fail basis. Students must push their completed assignment to the appropriate GitHub repository, tagging Dr. Casillas with the assignment number so that she receives a notification.
+
+_Need help?_ We will do much of this work in class, so ask your questions while we're together. Each student will be assigned to a support group of other students to help answer questions (in addition to access to help from Dr. Casillas during office hours). Finally, you're strongly encouraged to start developing your search skills when it comes to debugging your code (look for advice and solutions from others who have faced similar problems on sites like stackoverflow and github)!
 
 ### Participation
 
-Students are generally expected to come to class prepared to practice using R together. That means: come with your charged laptop, prepared with any data you are using and any installed software that is required. Be prepared to share your screen with your support group and with the instructor. That said, please stay in touch with Marisa about your limitations regarding in-person participation. Students earn participation credit through their attendance and participation in their support group and discussion of course content in office hours.
+Students are generally expected to come to class prepared to practice using R together. That means: come with your charged laptop, prepared with any data you are using and any installed software that is required (see the 'preparation' note for each class). Be prepared to share your screen with your support group and with Dr. Casillas. That said, please stay in touch about your limitations regarding in-person participation; Please do not come to class if you are feeling at all ill. Students earn participation credit through their attendance and participation in their support group and discussion of course content in office hours.
 
 ### Scientific report
 
-Your final assignment will be a scientific report in R Markdown that: is developed via a GitHub repository; includes data read-in, pre-processing, and analysis; includes at least one figure and one table; includes references; and includes at least 1500 words of the manuscript in at least four subsections (Introductions, Methods, Results, Discussion).  **Each student must come to office hours to negotiate their manuscript plan with Marisa by the end of Week 7. Grading will be contingent on the completion of that agreed-upon plan for each individual student.**
+Your final assignment will be a scientific report in R Markdown that: is developed via a GitHub repository; includes data read-in, pre-processing, and analysis; includes at least one figure and one table with captions and in-text references; includes citations; and includes at least 1500 words of the manuscript in at least four subsections (Introductions, Methods, Results, Discussion; unless otherwise agreed with Dr. Casillas).  **Each student must come to office hours to negotiate their manuscript plan with Dr. Casillas by the end of Week 7. Grading will be contingent on the completion of that agreed-upon plan for each individual student.**
 
 ----
 
@@ -54,54 +56,230 @@ Your final assignment will be a scientific report in R Markdown that: is develop
 
 ### Tuesday, 04 January 2022 (1.1): Introduction and syllabus
 
+#### Pre-class preparation
+None!
+
+#### In-class activities
+* Presentation: Syllabus and course goals (and non-goals)
+* Presentation: Introduction to Git and GitHub
+* Laptops out:
+    * Support groups
+    * Creating a repo, sharing it, creating a .gitignore, and making your first commit
+    * [Request an education premium account](https://education.github.com/) to get free private repositories
+
 ### Thursday, 06 January 2022 (1.2): Part 1
 
+#### Pre-class preparation
+* Read the [dataset selection guidelines]() for the class <!--To do-->
+* Select a dataset for you to use in the class. Contact Dr. Casillas ASAP if you are unsure which to choose.
+ 	
+#### In-class activities
+* Share: What dataset will you be working with?
+* Laptops out:
+    * Push a README briefly describing the study/dataset you will be working with. Imagine this from the perpsective of someone visiting your repository who hopes to review your code and work with your data. **NOTE: If you intend to make this repository public, never push any private data. It will be stored in your history even if you delete it!**. Make at least three commits during this process.
+    * Manage repository settings
+
 ### Tuesday, 11 January 2022 (2.1): Part 2
+
+#### Pre-class preparation
+* All students: Confirm that your dataset is okay for the course with Dr. Casillas
+
+#### In-class activities
+* Presentation: Commit best practices, branches, and merges
+* Laptops out:
+    * Make informative commit messages, checkout a branch, merge changes, and resolve conflicts
+    * Groups: Comment on strategies for informative messages
 
 ## Module 2: Tidyverse basics
 
 ### Thursday, 13 January 2022 (2.2): Part 1
 
+#### Pre-class preparation
+* Install R and RStudio (if you're unsure how to do this, check these Appendices [A](https://rstudio-education.github.io/hopr/starting.html) and [B]() from Garrett Grolemund's _Hands-On Programming with R_)
+* Install the `tidyverse` package in RStudio (overview [here](https://tidyverse.tidyverse.org/))
+* Prepare an anonymous version of your dataset for use in class
+* Read about [tibbles](https://r4ds.had.co.nz/tibbles.html), [data import](https://r4ds.had.co.nz/data-import.html), and [pipes](https://r4ds.had.co.nz/pipes.html) in Hadley Wickham's _R for Data Science_
+
+#### In-class activities
+* Presentation: R, RStudio, packages, and tidyverse
+* Laptops out:
+    * Confirm/troubleshoot installations
+    * Hello world demo and code commenting
+* Presentation: Data tables, data classes, functions, pipes, tibbles, and readr basics
+* Laptops out:
+    * Read in and write out demo
+    * Read in and write out your own dataset; troubleshoot in small groups
+
 ### Tuesday, 18 January 2022 (3.1): Part 2
+
+#### Pre-class preparation
+* Read about [dplyr](https://r4ds.had.co.nz/transform.html) and [tidyr](https://r4ds.had.co.nz/tidy-data.html) in Hadley Wickham's _R for Data Science_
+
+#### In-class activities
+* Presentation: Basic data manipulation and preparation functions
+* Laptops out:
+    * dplyr and tidyr demo
+    * Create a mockup of your desired data format
 
 ### Thursday, 20 January 2022 (3.2): Part 3
 
+#### Pre-class preparation
+* Review the [cheatsheets](https://www.rstudio.com/resources/cheatsheets/) for tibble, readr, dplyr, and tidyr
+* Prepare any supplementary data you need for your desired format
+
+#### In-class activities
+* Laptops out:
+    * Data preparation demo
+    * Plan how you will prep your own dataset
+
 ### Tuesday, 25 January 2022 (4.1): Part 4
+
+#### Pre-class preparation
+* Continue planning how you will prep your dataset
+
+#### In-class activities
+* Laptops out:
+    * Implement your solution; troubleshoot in small groups
 
 ## Module 3: Plotting your data
 
 ### Thursday, 27 January 2022 (4.2): Part 1
 
+#### Pre-class preparation
+* Read about [ggplot](https://r4ds.had.co.nz/data-visualisation.html) in Hadley Wickham's _R for Data Science_
+* Finish implementing your data preparation if you didn't manage to complete that in class
+
+#### In-class activities
+* Presentation: Introduction to ggplot
+* Laptops out:
+    * ggplot one-variable demo
+    * group exercise: recreate this plot
+
 ### Tuesday, 01 February 2022 (5.1): Part 2
+
+#### Pre-class preparation
+* Imagine two plots you would like to see of your data
+
+#### In-class activities
+* Presentation: Plotting multiple variables at once
+* Laptops out:
+    * ggplot two- and three-variable demo
+    * group exercise: recreate this plot
 
 ### Thursday, 03 February 2022 (5.2): Part 3
 
+#### Pre-class preparation
+* Create initial drafts of your planned plots
+
+#### In-class activities
+* Presentation: Customizing: Axes, labels, and facets
+* Laptops out:
+    * ggplot customization demo
+    * group exercise: recreate this plot
+
 ### Tuesday, 08 February 2022 (6.1): Part 4
+
+#### Pre-class preparation
+* Adjust the initial drafts of your planned plots
+* Review the [cheatsheet](https://www.rstudio.com/resources/cheatsheets/) for ggplot
+* Brainstorm what else you would like to change about the figures and how you could implement that change
+
+#### In-class activities
+* Presentation: Customizing: colors, shapes, and themes
+* Laptops out:
+    * ggplot customization demo
+    * group exercise: recreate this plot
 
 ## Module 4: R Markdown and Papaja basics
 ("papaja" is a package for "**P**reparing **APA** **J**ournal **A**rticles")
 
 ### Thursday, 10 February 2022 (6.2):  Part 1
 
+#### Pre-class preparation
+* Go through your existing code and make sure you have informative comments
+* Install the `papaja` package in Rstudio (follow the instructions [here](https://github.com/crsh/papaja))
+* Read about the [basics of RMarkdown](https://r4ds.had.co.nz/r-markdown.html) in Hadley Wickham's _R for Data Science_
+
+#### In-class activities
+* Presentation: Introduction to RMarkdown, code chunks, formatting, and knitting
+* Laptops out:
+    * create and compare rmd files
+    * Insert comments into the code chunks and in the text
+
 ### Tuesday, 15 February 2022 (7.1): Part 2
+
+#### Pre-class preparation
+* Review markdown syntax for text formatting (see the rightmost column on [this cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf))
+
+#### In-class activities
+* Presentation: Introduction to Papaja
+* Laptops out:
+    * Initialize a papaja .rmd file
+    * Insert your author information, libraries, and read-in, prep, and plotting code chunks
+    * Insert a footnote
 
 ### Thursday, 17 February 2022 (7.2): Part 3
 
+#### Pre-class preparation
 **REMINDER: You must meet with Marisa by the end of this week (i.e., before Friday, February 18th at 5:00pm Chicago time) to negotiate your plan for the scientific report assignment, which is due on Tuesday of Finals Week**
+
+#### In-class activities
+* Presentation: Tables, figures, images, captions, and chunk references
+* Laptops out:
+    * group demo based on chapters [9](https://rmd4sci.njtierney.com/figures-tables-captions-.html), [10](https://rmd4sci.njtierney.com/customising-your-figures.html), and [12](https://rmd4sci.njtierney.com/start.html) of Nicholas Tierney's _RMarkdown for Scientists_
+    * Add one table, one figure, and one image to your rmd, each with captions and a chunk reference in the text.
 
 ### Tuesday, 22 February 2022 (8.1): Part 4
 
-## Module 5: Bibtex, tables, in-text references, and READMEs
+#### Pre-class preparation
+* Insert real text/[lorem ipsum](https://www.lipsum.com/)-style text/outline into your rmd, including references to your code chunks, and see whether it knits to the desired style
+* Brainstorm what else you would like to change about report and how you could implement that change
+
+#### In-class activities
+* Presentation: Sourcing code and organizing rmds for others' eyes
+* Laptops out:
+    * Brainstorm with group about how to organize code
+    * Come up with a plan for reorganizing your code and adding comments to maximize re-use potential (even if this is just for your future self)
+
+## Module 5: Bibtex and in-line references
 
 ### Thursday, 24 February 2022 (8.2): Part 1
 
+#### Pre-class preparation
+* Implement your code reorganization from the last class; ensure that it knits
+
+#### In-class activities
+* Presentation: BibTeX part 1
+* Laptops out:
+    * Create a .bib file with your references
+    * Implement in-text references
+
 ### Tuesday, 01 March 2022 (9.1): Part 2
+
+#### Pre-class preparation
+* Review [rmarkdown citation](https://rmd4sci.njtierney.com/citing-articles-bibliography-styles.html) in Nicholas Tierney's _RMarkdown for Scientists_
+
+#### In-class activities
+* Presentation: BibTeX part 2
+* Laptops out:
+    * Citation styles demo
+    * Add non-cited references
+* Brainstorm: Remaining questions
 
 ### Thursday, 03 March 2022 (9.2): Part 3
 
-## Final deadline (Tuesday, 06 March 2022)
-Scientific report due.
+#### Pre-class preparation
+None!
 
+#### In-class activities
+* Presentation: In-line code
+* Laptops out:
+	* in-line reference addition demo
+	* add some in-line references to your rmd
+* Group share: Current .rmd, goals for final version, and troubleshooting
+
+## Final deadline (Tuesday, 08 March 2022)
+Scientific report due
 
 
 # Contact
@@ -109,6 +287,6 @@ Scientific report due.
 
 **Office:** Rosenwald 318A
 
-**Office hours:** TBA or by appointment.
+**Office hours:** TBA
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.The University of Chicago is committed to ensuring the full participation of all students in its programs. If you have a documented disability (or think you may have a disability) and, as a result, need a reasonable accommodation to participate in class, complete course requirements, or benefit from the University's programs or services, you are encouraged to contact Student Disability Services as soon as possible. To receive reasonable accommodation, you must be appropriately registered with Student Disability Services.  Please contact the office at 773-834-4469/TTY 773-795-1186 or gmoorehead@uchicago.edu, or visit the website at disabilities.uchicago.edu.  Student Disability Services is located in Room 233 in the Administration Building located at 5801 S. Ellis Avenue._
