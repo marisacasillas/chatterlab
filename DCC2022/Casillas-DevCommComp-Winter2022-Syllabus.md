@@ -30,7 +30,7 @@ Students enrolled in this course will be graded on the following basis:
 
 ### Reading notes (45%)
 
-Students are expected to submit digital notes summarizing and reacting to each assigned reading (~1/2 page+ each). Marisa will evaluate each student's notes for each reading: tips for effective note-taking will be covered in the first class. There are a total of 36 assigned readings, but notes are only required for 30 of them, and students may pick which 30 readings to submit notes for (i.e., students earn 1.5% for each reading with satisfactory notes).
+Students are expected to submit digital notes summarizing and reacting to each assigned reading (~1/2 page+ each). Dr. Casillas will evaluate each student's notes for each reading: tips for effective note-taking will be covered in the first class. There are a total of 36 assigned readings, but notes are only required for 30 of them, and students may pick which 30 readings to submit notes for (i.e., students earn 1.5% for each reading with satisfactory notes).
 
 * 30 x 1.5 point for every [reading with notes](./DCC2022/course_instructions/instructions-reading_notes.md)
 
@@ -53,7 +53,7 @@ To ensure timely completion of a high-quality proposal, please take advantage of
 
 ### Participation (20%)
 
-This is a discussion-based class and students are generally expected to come to class and actively participate in discussion. By default, students are expected to attend class, ask at least one question, and respond to at least one question (max 1% per class). If the student cannot make it to class in person, but can join remotely, they should contact Dr. Casillas with a brief explanation and make use of the course Zoom link. If the student cannot join _either_ the in-person or remote class, they should contact Marisa with a brief explanation and submit one thoughtful question and response(s) to all activities and questions posed in the lecture materials to her within two days, unless noted otherwise. The last 2% of participation credit is earned by making contributions to each class debate (up to 1% each).
+This is a discussion-based class and students are generally expected to come to class and actively participate in discussion. By default, students are expected to attend class, ask at least one question, and respond to at least one question (max 1% per class). If the student cannot make it to class in person, but can join remotely, they should contact Dr. Casillas with a brief explanation and make use of the course Zoom link. If the student cannot join _either_ the in-person or remote class, they should contact Dr. Casillas with a brief explanation and submit one thoughtful question and response(s) to all activities and questions posed in the lecture materials to her within two days, unless noted otherwise. The last 2% of participation credit is earned by making contributions to each class debate (up to 1% each).
 
 * 18 x 1 point for [active attendance at each class](./DCC2022/course_instructions/participation.md)
 * 2 x 1 point for [contributions to the debate and the turn-taking "feature" presentation](./DCC2022/course_instructions/participation.md)
@@ -110,7 +110,7 @@ Dingemanse, M., Roberts, S. G., Baranova, J., Blythe, J., Drew, P., Floyd, S., G
 
 #### Assignments due
 1. Reading notes
-2. Choose/make your interaction clips for annotation; notify Marisa
+2. Choose/make your interaction clips for annotation; notify Dr. Casillas
 
 ### Week 02: Thursday, 13 January 2022
 
