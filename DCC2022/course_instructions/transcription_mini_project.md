@@ -67,7 +67,7 @@ How did your added annotations end up satisfying/not satisfying your research qu
 
 Before adding the annotation of their choice to the conversation clips (i.e., Assignment 4), students should first give a brief description of what they want to add and why. This proposal for additional annotation should be 300–500 words.
 
-Full credit for the proposal (3 points) will be given when:
+Full credit for the proposal (2 points) will be given when:
 
 1. The proposal is 300–500 words
 2. The new annotations proposed are clearly defined
@@ -79,7 +79,7 @@ Full credit for the proposal (3 points) will be given when:
 
 Students will present the findings of their additional annotation analysis (i.e., Assignment 4) to their fellow classmates.
 
-Full credit (4 points) for the presentation will be given when all of the following criteria are met:
+Full credit (1 point) for the presentation will be given when all of the following criteria are met:
 
 1. The presentation is between 2 and 3 minutes long (maximum!!)
 2. Why and how the annotations were added is clearly explained, with reference to class material as appropriate
