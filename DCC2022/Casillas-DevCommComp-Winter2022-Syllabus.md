@@ -22,41 +22,41 @@ Students enrolled in this course will be graded on the following basis:
 
 | Component | Percentage |
 |-----------|------------|
-| [Reading notes](./course-instructions/reading_notes.md) | 45% |
-| [Transcription mini-project](./course-instructions/squibs.md) | 15% |
-| [Open research proposal](./course-instructions/mini_essay_exams.md) | 20% |
-| [Participation](./course-instructions/participation.md) | 20% |
+| [Reading notes](./DCC2022/course-instructions/reading_notes.md) | 45% |
+| [Transcription mini-project](./DCC2022/course-instructions/transcription_mini_project.md) | 15% |
+| [Research proposal](./DCC2022/course-instructions/research_proposal.md) | 20% |
+| [Participation](./DCC2022/course-instructions/participation.md) | 20% |
 
 
 ### Reading notes (45%)
 
 Students are expected to submit digital notes summarizing and reacting to each assigned reading (~1/2 page+ each). Marisa will evaluate each student's notes for each reading: tips for effective note-taking will be covered in the first class. There are a total of 36 assigned readings, but notes are only required for 30 of them, and students may pick which 30 readings to submit notes for (i.e., students earn 1.5% for each reading with satisfactory notes).
 
-* 30 x 1.5 point for every [reading with notes](./course_instructions/instructions-reading_notes.md)
+* 30 x 1.5 point for every [reading with notes](./DCC2022/course_instructions/instructions-reading_notes.md)
 
 ### Transcription mini-project (15%)
 
 Students will incrementally add annotations to a small collection of interaction clips over multiple weeks. Each time they submit new annotations, they are expected to submit short written reflections on their progress (200–500 words). The submission of annotations and reflections takes place four times (up to 3% for all four submissions). Students will also propose a mini research question that can be addressed by additional annotations of the data (up to 2%) and after executing these additional annotations, will present their findings to the class (up to 1%).
 
-* 4 x 3 points for every [annotation + reflections submission](./course_instructions/instructions-annotation_reflections.md)
-* 1 x 2 points for [proposal of mini research question](./course_instructions/instructions-annotation_proposal.md)
-* 1 x 1 points for [flash presentation of findings](./course_instructions/instructions-annotation_presentation.md)
+* 4 x 3 points for every [annotation + reflections submission](./DCC2022/course_instructions/transcription_mini_project.md)
+* 1 x 2 points for [proposal of mini research question](./DCC2022/course_instructions/transcription_mini_project.md)
+* 1 x 1 points for [flash presentation of findings](./DCC2022/course_instructions/transcription_mini_project.md)
 
-### Open research proposal (20%)
+### Research proposal (20%)
 
 Students will propose a research project relevant to topics covered in class; proposals can be in the form of follow-up studies or a new line of research (10–15 single-spaced pages). Students will give a flash presentation of their proposed research in class (up to 2%). Full proposals are due the Tuesday of finals week (up to 18%).
 
 To ensure timely completion of a high-quality proposal, please take advantage of the optional deadlines in the schedule below for initial drafts of the outline, design, and literature review). Dr. Casillas will give early feedback for initial drafts submitted at these deadlines so that students can improve the proposal before their final submission.
 
-* 1 x 2 points for [flash presentation of findings](./course_instructions/instructions-annotation_presentation.md)
-* 1 x 18 points for the full [proposal of research project](./course_instructions/instructions-research_proposal.md)
+* 1 x 2 points for [flash presentation of findings](./DCC2022/course_instructions/research_proposal.md)
+* 1 x 18 points for the full [proposal of research project](./DCC2022/course_instructions/research_proposal.md)
 
 ### Participation (20%)
 
 This is a discussion-based class and students are generally expected to come to class and actively participate in discussion. By default, students are expected to attend class, ask at least one question, and respond to at least one question (max 1% per class). If the student cannot make it to class in person, but can join remotely, they should contact Dr. Casillas with a brief explanation and make use of the course Zoom link. If the student cannot join _either_ the in-person or remote class, they should contact Marisa with a brief explanation and submit one thoughtful question and response(s) to all activities and questions posed in the lecture materials to her within two days, unless noted otherwise. The last 2% of participation credit is earned by making contributions to each class debate (up to 1% each).
 
-* 18 x 1 point for [active attendance at each class](./course_instructions/instructions-active_attendance.md)
-* 2 x 1 point for [contributions to the debate and the turn-taking "feature" presentation](./course_instructions/instructions-debate_participation.md)
+* 18 x 1 point for [active attendance at each class](./DCC2022/course_instructions/participation.md)
+* 2 x 1 point for [contributions to the debate and the turn-taking "feature" presentation](./DCC2022/course_instructions/participation.md)
 
 ----
 
@@ -72,7 +72,7 @@ This is a discussion-based class and students are generally expected to come to 
 
 \*Clark, H. H. (1996). Joint Actions. In _Using Language_ (pp. 59–91). Cambridge, UK: Cambridge University Press. [pdf](https://www.dropbox.com/s/g5m0sfexh54r847/clark1996joint.pdf?dl=0)
 
-Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 39-69). Oxford: Berg. [pdf](https://www.dropbox.com/s/j3cgnuz9rik77wb/levinson2006human.pdf?dl=0)
+\*Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 39-69). Oxford: Berg. [pdf](https://www.dropbox.com/s/j3cgnuz9rik77wb/levinson2006human.pdf?dl=0)
 
 \*  = Required
 
@@ -86,7 +86,7 @@ None!
 
 \*Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd. [pdf](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
-Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language and Social Interaction, 43_(1), 3-31. [pdf](https://www.dropbox.com/s/3i7ui2obhqre0kc/stivers2010mobilizing.pdf?dl=0)
+\*Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language and Social Interaction, 43_(1), 3-31. [pdf](https://www.dropbox.com/s/3i7ui2obhqre0kc/stivers2010mobilizing.pdf?dl=0)
 
 \*  = Required
 
@@ -147,7 +147,7 @@ Fröhlich, M., Kuchenbuch, P., Müller, G., Fruth, B., Furuichi, T., Wittig, R. 
 #### Pre-class reading
 \*Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. _Frontiers in Psychology, 6_: 731. doi:10.3389/fpsyg.2015.00731. [pdf](https://www.dropbox.com/s/wc9gsga25j3co5h/levinson2015timing.pdf?dl=0)
 
-Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
+\*Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
 
 \*  = Required
 
@@ -243,8 +243,7 @@ Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A re
 \*  = Required
 
 #### Assignments due
-1. One-on-one meeting about annotation analysis project w/ Marisa
-2. Reading notes
+1. Reading notes
 
 ## Language meets interaction in development
 
@@ -273,13 +272,12 @@ Lindsay, L., Gambi, C., & Rabagliati, H. (2019). Preschoolers optimize the timin
 
 \*Clark, E. V. (2020). Conversational repair and the acquisition of language. _Discourse Processes, XX_, 1–19. [pdf](https://www.dropbox.com/s/nydxxgoy3g6jidx/clark2020conversational.pdf?dl=0)
 
-Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as negative evidence. _Journal of Child Language, 30_(3), 637-669. [pdf](https://www.dropbox.com/s/1ddj6gxqdu4w7uk/chouinard2003adult.pdf?dl=0)
+\*Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as negative evidence. _Journal of Child Language, 30_(3), 637-669. [pdf](https://www.dropbox.com/s/1ddj6gxqdu4w7uk/chouinard2003adult.pdf?dl=0)
 
 \*  = Required
 
 #### Assignments due
 1. Reading notes
-2. One-on-one meeting w/ Marisa about research proposal
 
 ## Conversational "input"
 
@@ -296,7 +294,7 @@ Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe,
 
 #### Assignments due
 1. Reading notes
-2. Draft of research proposal outline (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
+2. OPTIONAL: Draft of research proposal outline
 
 ### Week 08: Thursday, 24 February 2022
 
@@ -305,26 +303,23 @@ Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe,
 
 \*Brown, P. (2011). The cultural organization of attention. In A. Duranti, E. Ochs, & B. B. Schieffelin (Eds.), _The Handbook of Language Socialization_ (pp. 29-55). Malden, MA: Wiley-Blackwell. [pdf](https://www.dropbox.com/s/pmad9n8gdlbtkpd/brown2011cultural.pdf?dl=0)
 
-Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mother‐infant‐sibling triads. _Child Development, 62_(3), 517-529. [pdf](https://www.dropbox.com/s/qsrj0mj02v263w8/barton1991joint.pdf?dl=0)
+\*Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mother‐infant‐sibling triads. _Child Development, 62_(3), 517-529. [pdf](https://www.dropbox.com/s/qsrj0mj02v263w8/barton1991joint.pdf?dl=0)
 
 \*  = Required
 
 #### Assignments due
 1. Reading notes
-2. One-on-one meeting with Marisa
-3. Draft of research proposal study design (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
+2. OPTIONAL: Draft of research proposal study design
 
 ## Wrapping up
 
 ### Week 09: Tuesday, 01 March 2022
 
 #### Pre-class reading
-Optional reading of your choice, related to final study proposal.
+None!
 
 #### Assignments due
-1. Reading notes
-2. One-on-one meeting with Marisa
-3. Draft of research proposal literature review (see [rubric](./course_instructions/instructions-research_proposal_subparts.md))
+1. OPTIONAL: Draft of research proposal literature review
 
 ### Week 09: Thursday, 03 March 2022
 
@@ -335,7 +330,7 @@ None!
 1. Research proposal flash talks
 
 # Finals week
-**DUE MARCH 08, 2022 AT 11.59 CHICAGO TIME:** Full research proposal (10–15 pages; see [rubric](./course_instructions/instructions-research_proposal.md))
+**DUE MARCH 08, 2022 AT 11.59 CHICAGO TIME:** Full research proposal (10–15 pages; see [rubric](./DCC2022/course_instructions/research_proposal.md))
 
 
 # Contact
