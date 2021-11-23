@@ -38,9 +38,9 @@ Students are expected to submit digital notes summarizing and reacting to each a
 
 Students will incrementally add annotations to a small collection of interaction clips over multiple weeks. Each time they submit new annotations, they are expected to submit short written reflections on their progress (200–500 words). The submission of annotations and reflections takes place four times (up to 3% for all four submissions). Students will also propose a mini research question that can be addressed by additional annotations of the data (up to 2%) and after executing these additional annotations, will present their findings to the class (up to 1%).
 
-* 4 x 3 points for every [annotation + reflections submission](./course_instructions/transcription_mini_project.md)
-* 1 x 2 points for [proposal of mini research question](./course_instructions/transcription_mini_project.md)
-* 1 x 1 points for [flash presentation of findings](./course_instructions/transcription_mini_project.md)
+* 4 x 3 points for every [annotation + reflections submission](./course_instructions/transcription_mini_project.md#annotation-and-reflection-submission)
+* 1 x 2 points for [proposal of mini research question](./course_instructions/transcription_mini_project.md#proposal-of-mini-research-question)
+* 1 x 1 points for [flash presentation of findings](./course_instructions/transcription_mini_project.md#flash-presentation-of-findings)
 
 ### Research proposal (20%)
 
@@ -48,15 +48,15 @@ Students will propose a research project relevant to topics covered in class; pr
 
 To ensure timely completion of a high-quality proposal, please take advantage of the optional deadlines in the schedule below for initial drafts of the outline, design, and literature review). Dr. Casillas will give early feedback for initial drafts submitted at these deadlines so that students can improve the proposal before their final submission.
 
-* 1 x 2 points for [flash presentation of the proposed research](./course_instructions/research_proposal.md)
-* 1 x 18 points for the [full proposal of research project](./course_instructions/research_proposal.md)
+* 1 x 2 points for [flash presentation of the proposed research](./course_instructions/research_proposal.md#flash-presentation-of-the-proposed-research)
+* 1 x 18 points for the [full proposal of research project](./course_instructions/research_proposal.md#full-proposal-of-research-project)
 
 ### Participation (20%)
 
 This is a discussion-based class and students are generally expected to come to class and actively participate in discussion. By default, students are expected to attend class, ask at least one question, and respond to at least one question (max 1% per class). If the student cannot make it to class in person, but can join remotely, they should contact Dr. Casillas with a brief explanation and make use of the course Zoom link. If the student cannot join _either_ the in-person or remote class, they should contact Dr. Casillas with a brief explanation and submit one thoughtful question and response(s) to all activities and questions posed in the lecture materials to her within two days, unless noted otherwise. The last 2% of participation credit is earned by making contributions to each class debate (up to 1% each).
 
-* 18 x 1 point for [active attendance at each class](./course_instructions/participation.md)
-* 2 x 1 point for [contributions to the debate and the turn-taking "feature" presentation](./course_instructions/participation.md)
+* 18 x 1 point for [active attendance at each class](./course_instructions/participation.md#active-attendance-at-class-sessions)
+* 2 x 1 point for [contributions to the debate and the turn-taking "feature" presentation](./course_instructions/participation.md#contributions-to-the-debate-and-the-turn-taking-feature-presentation)
 
 ----
 
@@ -312,7 +312,7 @@ None!
 1. Research proposal flash talks
 
 # Finals week
-**DUE MARCH 08, 2022 AT 11.59 CHICAGO TIME:** Full research proposal (10–15 pages; see [rubric](./course_instructions/research_proposal.md))
+**DUE MARCH 08, 2022 AT 11.59 CHICAGO TIME:** Full research proposal (10–15 pages; see [rubric](./course_instructions/research_proposal.md#full-proposal-of-research-project))
 
 
 # Contact
