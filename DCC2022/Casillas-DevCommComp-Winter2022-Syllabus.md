@@ -48,8 +48,8 @@ Students will propose a research project relevant to topics covered in class; pr
 
 To ensure timely completion of a high-quality proposal, please take advantage of the optional deadlines in the schedule below for initial drafts of the outline, design, and literature review). Dr. Casillas will give early feedback for initial drafts submitted at these deadlines so that students can improve the proposal before their final submission.
 
-* 1 x 2 points for [flash presentation of findings](./DCC2022/course_instructions/research_proposal.md)
-* 1 x 18 points for the full [proposal of research project](./DCC2022/course_instructions/research_proposal.md)
+* 1 x 2 points for [flash presentation of the proposed research](./DCC2022/course_instructions/research_proposal.md)
+* 1 x 18 points for the [full proposal of research project](./DCC2022/course_instructions/research_proposal.md)
 
 ### Participation (20%)
 
