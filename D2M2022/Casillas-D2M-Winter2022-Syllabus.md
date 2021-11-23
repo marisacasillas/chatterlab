@@ -37,6 +37,9 @@ Students enrolled in this course will be graded on the following basis:
 
 There is a mini assignment for each lecture. Each assignment will involve working with your own data, data provided for that assignment, or both and is designed to give you hands-on practice with using R. Assignments typically begin in class and may be completed after class (each one is highlighted in <span style="color:blue">blue</span>) on a pass/fail basis. Students must push their completed assignment to the appropriate GitHub repository, tagging Dr. Casillas with the assignment number so that she receives a notification.
 
+_When are the assignments due?_
+Assignments listed as an 'in-class activity' are due before the start of the next class. Assignments listed as 'pre-class preparation' are due before that class begins.
+
 _Need help?_ We will do much of this work in class, so ask your questions while we're together. Each student will be assigned to a support group of other students to help answer questions (in addition to access to help from Dr. Casillas during office hours). Finally, you're strongly encouraged to start developing your search skills when it comes to debugging your code (look for advice and solutions from others who have faced similar problems on sites like stackoverflow and github)!
 
 ### Participation
@@ -76,7 +79,7 @@ None!
 #### In-class activities
 * Share: What dataset will you be working with?
 * Laptops out:
-    * <span style="color:blue">Push a README briefly describing the study/dataset you will be working with. Imagine this from the perpsective of someone visiting your repository who hopes to review your code and work with your data. **NOTE: If you intend to make this repository public, never push any private data. It will be stored in your history even if you delete it!**. Make at least three commits during this process.</span>
+    * <span style="color:blue">Push a README briefly describing the study/dataset you will be working with. Imagine this from the perpsective of someone visiting your repository who hopes to review your code and work with your data. **NOTE: If you intend to make this repository public, never push any private data. It will be stored in your history even if you delete it!** Make at least three commits during this process.</span>
     * Manage repository settings
 
 ### Tuesday, 11 January 2022 (2.1): Part 2
@@ -87,7 +90,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 #### In-class activities
 * Presentation: Commit best practices, branches, and merges
 * Laptops out:
-    * <span style="color:blue">Make informative commit messages, checkout a branch, merge changes, and resolve conflicts</span>
+    * <span style="color:blue">Demo: make informative commit messages, checkout a branch, merge changes, and resolve conflicts</span>
     * Groups: Comment on strategies for informative messages
 
 ## Module 2: Tidyverse basics
