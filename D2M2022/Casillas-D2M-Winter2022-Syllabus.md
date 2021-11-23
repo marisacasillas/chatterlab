@@ -35,7 +35,7 @@ Students enrolled in this course will be graded on the following basis:
 
 ### Mini assignments
 
-There is a mini assignment for each lecture. Each assignment will involve working with your own data, data provided for that assignment, or both and is designed to give you hands-on practice with using R. Assignments typically begin in class and may be completed after class (each one is highlighted in <span style="color:blue">blue</span>) on a pass/fail basis. Students must push their completed assignment to the appropriate GitHub repository, tagging Dr. Casillas with the assignment number so that she receives a notification.
+There is a mini assignment for each lecture. Each assignment will involve working with your own data, data provided for that assignment, or both and is designed to give you hands-on practice with using R. Assignments typically begin in class and may be completed after class (each one is highlighted in <span style="color:orange">orange</span>) on a pass/fail basis. Students must push their completed assignment to the appropriate GitHub repository, tagging Dr. Casillas with the assignment number so that she receives a notification.
 
 _When are the assignments due?_
 Assignments listed as an 'in-class activity' are due before the start of the next class. Assignments listed as 'pre-class preparation' are due before that class begins.
@@ -67,7 +67,7 @@ None!
 * Presentation: Introduction to Git and GitHub
 * Laptops out:
     * Support groups
-    * <span style="color:blue">Creating a repo, sharing it, creating a .gitignore, and making your first commit</span>
+    * <span style="color:orange">Creating a repo, sharing it, creating a .gitignore, and making your first commit</span>
     * [Request an education premium account](https://education.github.com/) to get free private repositories
 
 ### Thursday, 06 January 2022 (1.2): Part 1
@@ -79,7 +79,7 @@ None!
 #### In-class activities
 * Share: What dataset will you be working with?
 * Laptops out:
-    * <span style="color:blue">Push a README briefly describing the study/dataset you will be working with. Imagine this from the perpsective of someone visiting your repository who hopes to review your code and work with your data. **NOTE: If you intend to make this repository public, never push any private data. It will be stored in your history even if you delete it!** Make at least three commits during this process.</span>
+    * <span style="color:orange">Push a README briefly describing the study/dataset you will be working with. Imagine this from the perpsective of someone visiting your repository who hopes to review your code and work with your data. **NOTE: If you intend to make this repository public, never push any private data. It will be stored in your history even if you delete it!** Make at least three commits during this process.</span>
     * Manage repository settings
 
 ### Tuesday, 11 January 2022 (2.1): Part 2
@@ -90,7 +90,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 #### In-class activities
 * Presentation: Commit best practices, branches, and merges
 * Laptops out:
-    * <span style="color:blue">Demo: make informative commit messages, checkout a branch, merge changes, and resolve conflicts</span>
+    * <span style="color:orange">Demo: make informative commit messages, checkout a branch, merge changes, and resolve conflicts</span>
     * Groups: Comment on strategies for informative messages
 
 ## Module 2: Tidyverse basics
@@ -100,18 +100,18 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 #### Pre-class preparation
 * Install R and RStudio (if you're unsure how to do this, check these Appendices [A](https://rstudio-education.github.io/hopr/starting.html) and [B]() from Garrett Grolemund's _Hands-On Programming with R_)
 * Install the `tidyverse` package in RStudio (overview [here](https://tidyverse.tidyverse.org/))
-* <span style="color:blue">Prepare and push an anonymous version of your dataset for use in class</span>
+* <span style="color:orange">Prepare and push an anonymous version of your dataset for use in class</span>
 * Read about [tibbles](https://r4ds.had.co.nz/tibbles.html), [data import](https://r4ds.had.co.nz/data-import.html), and [pipes](https://r4ds.had.co.nz/pipes.html) in Hadley Wickham's _R for Data Science_
 
 #### In-class activities
 * Presentation: R, RStudio, packages, and tidyverse
 * Laptops out:
     * Confirm/troubleshoot installations
-    * <span style="color:blue">Hello world demo and code commenting</span>
+    * <span style="color:orange">Hello world demo and code commenting</span>
 * Presentation: Data tables, data classes, functions, pipes, tibbles, and readr basics
 * Laptops out:
     * Read in and write out demo
-    * <span style="color:blue">Read in and write out your own dataset; troubleshoot in support groups</span>
+    * <span style="color:orange">Read in and write out your own dataset; troubleshoot in support groups</span>
 
 ### Tuesday, 18 January 2022 (3.1): Part 2
 
@@ -122,7 +122,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 * Presentation: Basic data manipulation and preparation functions
 * Laptops out:
     * dplyr and tidyr demo
-    * <span style="color:blue">Create a mockup of your desired data format (push as a spreadsheet file and describe in the README)</span>
+    * <span style="color:orange">Create a mockup of your desired data format (push as a spreadsheet file and describe in the README)</span>
 
 ### Thursday, 20 January 2022 (3.2): Part 3
 
@@ -132,7 +132,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 
 #### In-class activities
 * Laptops out:
-    * <span style="color:blue">Data preparation demo</span>
+    * <span style="color:orange">Data preparation demo</span>
     * Plan how you will prep your own dataset
 
 ### Tuesday, 25 January 2022 (4.1): Part 4
@@ -142,7 +142,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 
 #### In-class activities
 * Laptops out:
-    * <span style="color:blue">Implement your solution; troubleshoot in support groups</span>
+    * <span style="color:orange">Implement your solution; troubleshoot in support groups</span>
 
 ## Module 3: Plotting your data
 
@@ -167,7 +167,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 * Presentation: Plotting multiple variables at once
 * Laptops out:
     * ggplot two- and three-variable demo
-    * <span style="color:blue">group exercise: recreate this plot</span>
+    * <span style="color:orange">group exercise: recreate this plot</span>
 
 ### Thursday, 03 February 2022 (5.2): Part 3
 
@@ -190,7 +190,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 #### In-class activities
 * Presentation: Customizing: colors, shapes, and themes
 * Laptops out:
-    * <span style="color:blue">ggplot customization demo</span>
+    * <span style="color:orange">ggplot customization demo</span>
     * group exercise: recreate this plot
 
 ## Module 4: R Markdown and Papaja basics
@@ -199,7 +199,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 ### Thursday, 10 February 2022 (6.2):  Part 1
 
 #### Pre-class preparation
-* <span style="color:blue">Go through your existing code and make sure you have informative comments</span>
+* <span style="color:orange">Go through your existing code and make sure you have informative comments</span>
 * Install the `papaja` package in Rstudio (follow the instructions [here](https://github.com/crsh/papaja))
 * Read about the [basics of RMarkdown](https://r4ds.had.co.nz/r-markdown.html) in Hadley Wickham's _R for Data Science_
 
@@ -218,8 +218,8 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 * Presentation: Introduction to Papaja
 * Laptops out:
     * Initialize a papaja .rmd file
-    * <span style="color:blue">Insert your author information, libraries, and read-in, prep, and plotting code chunks</span>
-    * <span style="color:blue">Insert a footnote</span>
+    * <span style="color:orange">Insert your author information, libraries, and read-in, prep, and plotting code chunks</span>
+    * <span style="color:orange">Insert a footnote</span>
 
 ### Thursday, 17 February 2022 (7.2): Part 3
 
@@ -230,13 +230,13 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 * Presentation: Tables, figures, images, captions, and chunk references
 * Laptops out:
     * group demo based on chapters [9](https://rmd4sci.njtierney.com/figures-tables-captions-.html), [10](https://rmd4sci.njtierney.com/customising-your-figures.html), and [12](https://rmd4sci.njtierney.com/start.html) of Nicholas Tierney's _RMarkdown for Scientists_
-    * <span style="color:blue">Add one table, one figure, and one image to your rmd, each with captions and a chunk reference in the text.</span>
+    * <span style="color:orange">Add one table, one figure, and one image to your rmd, each with captions and a chunk reference in the text.</span>
 
 ### Tuesday, 22 February 2022 (8.1): Part 4
 
 #### Pre-class preparation
-* <span style="color:blue">Insert real text/[lorem ipsum](https://www.lipsum.com/)-style text/outline into your rmd, including references to your code chunks, and see whether it knits to the desired style</span>
-* <span style="color:blue">Brainstorm what else you would like to change about report and how you could implement that change; add as a commented-out 'to-do' list in your document</span>
+* <span style="color:orange">Insert real text/[lorem ipsum](https://www.lipsum.com/)-style text/outline into your rmd, including references to your code chunks, and see whether it knits to the desired style</span>
+* <span style="color:orange">Brainstorm what else you would like to change about report and how you could implement that change; add as a commented-out 'to-do' list in your document</span>
 
 #### In-class activities
 * Presentation: Sourcing code and organizing rmds for others' eyes
@@ -254,8 +254,8 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 #### In-class activities
 * Presentation: BibTeX part 1
 * Laptops out:
-    * <span style="color:blue">Create a .bib file with your references</span>
-    * <span style="color:blue">Start implementing in-text references in your rmd</span>
+    * <span style="color:orange">Create a .bib file with your references</span>
+    * <span style="color:orange">Start implementing in-text references in your rmd</span>
 
 ### Tuesday, 01 March 2022 (9.1): Part 2
 
@@ -267,7 +267,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
 * Laptops out:
     * Citation styles demo
     * Add non-cited references
-    * <span style="color:blue">Finish implementing in-text references in your rmd</span>
+    * <span style="color:orange">Finish implementing in-text references in your rmd</span>
 
 ### Thursday, 03 March 2022 (9.2): Part 3
 
@@ -278,7 +278,7 @@ None!
 * Presentation: In-line code
 * Laptops out:
 	* in-line reference addition demo
-	* <span style="color:blue">add some in-line references to your rmd</span>
+	* <span style="color:orange">add some in-line references to your rmd</span>
 * Group share: Current .rmd, goals for final version, and troubleshooting
 
 ## Final deadline (Tuesday, 08 March 2022)
