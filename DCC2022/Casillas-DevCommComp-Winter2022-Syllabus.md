@@ -312,7 +312,7 @@ None!
 1. Research proposal flash talks
 
 # Finals week
-**DUE MARCH 08, 2022 AT 11.59 CHICAGO TIME:** Full research proposal (10–15 pages; see [rubric](./course_instructions/research_proposal.md#full-proposal-of-research-project))
+<span style="color:red">**DUE MARCH 08, 2022 AT 11.59 CHICAGO TIME:** </span> Full research proposal (10–15 pages; see [rubric](./course_instructions/research_proposal.md#full-proposal-of-research-project))
 
 
 # Contact
