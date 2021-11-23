@@ -24,7 +24,7 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 
 [The Development of Communicative Competence](../DCC2022/Casillas-DevCommComp-Winter2022-Syllabus.md) (Spring 2020; Winter 2022).
 
-[From Data to Manuscript in R]((../D2M2022/Casillas-D2M-Winter2022-Syllabus.md)) (Winter 2022)
+[From Data to Manuscript in R](../D2M2022/Casillas-D2M-Winter2022-Syllabus.md) (Winter 2022)
 
 Human Language and Interaction (Spring 2022)
 
