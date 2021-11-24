@@ -2,7 +2,7 @@
 
 Winter 2022: CHDV 20550/30550, MACS 30550, MAPS 30550, PSYC 30550
 
-Tuesdays and Thursdays 09.30am-10.50am Chicago time
+Tuesdays and Thursdays 09.30-10.50 Chicago time
 
 Office hours: TBA
 
