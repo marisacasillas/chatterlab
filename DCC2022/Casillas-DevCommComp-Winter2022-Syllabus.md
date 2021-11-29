@@ -4,7 +4,7 @@ Winter 2022: CHDV 38950, PSYC 38960, LING 38951, EDSO 38950
 
 Tuesdays and Thursdays 14.00-15.20 Chicago time
 
-Office hours: TBA
+Office hours: Thursdays 15.30–16.30 in Rosenwald 318A or by appointment
 
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 

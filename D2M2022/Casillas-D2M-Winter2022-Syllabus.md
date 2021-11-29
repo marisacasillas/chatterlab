@@ -4,7 +4,7 @@ Winter 2022: CHDV 20550/30550, MACS 30550, MAPS 30550, PSYC 30550
 
 Tuesdays and Thursdays 09.30-10.50 Chicago time
 
-Office hours: TBA
+Office hours: Tuesdays 11.00–12.30 in Rosenwald 318A or by appointment
 
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 
