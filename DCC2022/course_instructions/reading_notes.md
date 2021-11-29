@@ -21,7 +21,6 @@ For full credit (1.5 point) the notes for a reading must:
 5. Have _few_ (if any) direct quotes; reformulate thoughts in your own words—too many direct quotes of phrases or sentences will prevent full credit
 6. Mention at least one link to another paper covered in class or the student's own research interests
 
-- Notes can be made in the language of your choice, but please make sure I can use Google Translate or similar for assessing the above
 - Notes can be submitted digitally in the form of a Word .doc, a .pdf, a webpage, or a high resolution image of hand-written notes. Blurry/unreadable notes will receive one warning and, subsequently, will prevent full credit.
 - If you already have your own preferred technique for reading notes, please contact me to discuss—I can probably evaluate you on that basis.
 
