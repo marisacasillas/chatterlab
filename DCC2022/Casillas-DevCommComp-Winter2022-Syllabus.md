@@ -103,7 +103,7 @@ Dingemanse, M., Roberts, S. G., Baranova, J., Blythe, J., Drew, P., Floyd, S., G
 \*Kendrick, K. H., Brown, P., Dingemanse, M., Floyd, S., Gipper, S., Hayano, K., Hoey, E., Hoymann, G.,
 Manrique, E., Rossi, G., & Levinson, S. C. (2020). Sequence organization: A universal infrastructure for social action. _Journal of Pragmatics, 168_, 119–138. [pdf](https://www.dropbox.com/s/xc7jty54nnio0se/kendrick2020sequence.pdf?dl=0)
 
-<!--Enfield, N. J., Stivers, T., Brown, P., Englert, C., Harjunpää, K., Hayashi, M., ... & Raymond, C. W. (2019). Polar answers. _Journal of Linguistics, 55_(2), 277-304. [pdf](https://www.dropbox.com/s/75sa3tety6n6ghs/enfield2019polar.pdf?dl=0)-->
+\*Enfield, N. J., Stivers, T., Brown, P., Englert, C., Harjunpää, K., Hayashi, M., ... & Raymond, C. W. (2019). Polar answers. _Journal of Linguistics, 55_(2), 277-304. [pdf](https://www.dropbox.com/s/75sa3tety6n6ghs/enfield2019polar.pdf?dl=0)
 
 \*  = Optional
 
