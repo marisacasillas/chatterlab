@@ -21,6 +21,8 @@ PhD applicants interested in working with Dr. Casillas should [contact her](./co
 
 Bram Peute
 
+[Mary Elliott](./people/marye-aboutme.md)
+
 [Jenny Bo](./people/jenny-aboutme.md)
 
 [Rayski Lei](./people/rayski-aboutme.md)
@@ -29,11 +31,11 @@ Bram Peute
 
 [Alyssa Guillu](./people/alyssa-aboutme.md)
 
-[Mary Elliott](./people/marye-aboutme.md)
-
 [Erica Hsieh](./people/erica-aboutme.md)
 
 [Mary Norgan](./people/maryn-aboutme.md)
+
+Jack Demchak
 
 [Anapaula Silva](./people/anapaula-aboutme.md)
 
@@ -42,6 +44,8 @@ Bram Peute
 [Will Fisher](./people/will-aboutme.md)
 
 [Lizzie Mickiewicz](./people/lizzie-aboutme.md)
+
+Kimberly Shorter
 
 ### Some recent and frequent collaborators
 
