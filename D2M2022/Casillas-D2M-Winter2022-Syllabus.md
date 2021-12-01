@@ -57,7 +57,7 @@ Your final assignment will be a scientific report in R Markdown that: is develop
 
 ## Module 1: GitHub basics
 
-### Tuesday, 04 January 2022 (1.1): Introduction and syllabus
+### Tuesday, 04 January 2022 (1.1): Part 1
 
 #### Pre-class preparation
 None!
@@ -70,7 +70,7 @@ None!
     * <span style="color:orange">Creating a repo, sharing it, creating a .gitignore, and making your first commit</span>
     * [Request an education premium account](https://education.github.com/) to get free private repositories
 
-### Thursday, 06 January 2022 (1.2): Part 1
+### Thursday, 06 January 2022 (1.2): Part 2
 
 #### Pre-class preparation
 * Read the [dataset selection guidelines](./course_instructions/instructions-data_selection_guidelines.md) for the class <!--To do-->
@@ -82,38 +82,35 @@ None!
     * <span style="color:orange">Push a README briefly describing the study/dataset you will be working with. Imagine this from the perpsective of someone visiting your repository who hopes to review your code and work with your data. **NOTE: If you intend to make this repository public, never push any private data. It will be stored in your history even if you delete it!** Make at least three commits during this process.</span>
     * Manage repository settings
 
-### Tuesday, 11 January 2022 (2.1): Part 2
+## Module 2: R and tidyverse basics
+
+### Tuesday, 11 January 2022 (2.1): Part 1
 
 #### Pre-class preparation
-All students: Confirm that your dataset is okay for the course with Dr. Casillas (note: this should be done via email, not GitHub)
+* All students: Confirm that your dataset is okay for the course with Dr. Casillas (note: this should be done via email, not GitHub)
+* Install R and RStudio (if you're unsure how to do this, check these Appendices [A](https://rstudio-education.github.io/hopr/starting.html) and [B]() from Garrett Grolemund's _Hands-On Programming with R_)
+* Read about [R basics (Ch 2)](https://intro2r.com/basics_r.html) and [data types (Ch 3)](https://intro2r.com/data_r.html) in Douglas et al.'s _An Introduction to R_; if you are brand new to R, try to follow along with the example code in your RStudio console
 
 #### In-class activities
-* Presentation: Commit best practices, branches, and merges
+* Presentation: R, RStudio, packages, and first peeks at tidyverse
 * Laptops out:
-    * <span style="color:orange">Demo: make informative commit messages, checkout a branch, merge changes, and resolve conflicts</span>
-    * Groups: Comment on strategies for informative messages
+    * Confirm/troubleshoot installations
+    * <span style="color:orange">Hello world demo and code commenting</span>
 
-## Module 2: Tidyverse basics
-
-### Thursday, 13 January 2022 (2.2): Part 1
+### Thursday, 13 January 2022 (2.2): Part 2
 
 #### Pre-class preparation
-* Install R and RStudio (if you're unsure how to do this, check these Appendices [A](https://rstudio-education.github.io/hopr/starting.html) and [B]() from Garrett Grolemund's _Hands-On Programming with R_)
 * Install the `tidyverse` package in RStudio (overview [here](https://tidyverse.tidyverse.org/))
 * <span style="color:orange">Prepare and push an anonymous version of your dataset for use in class</span>
 * Read about [tibbles](https://r4ds.had.co.nz/tibbles.html), [data import](https://r4ds.had.co.nz/data-import.html), and [pipes](https://r4ds.had.co.nz/pipes.html) in Hadley Wickham's _R for Data Science_
 
 #### In-class activities
-* Presentation: R, RStudio, packages, and tidyverse
-* Laptops out:
-    * Confirm/troubleshoot installations
-    * <span style="color:orange">Hello world demo and code commenting</span>
 * Presentation: Data tables, data classes, functions, pipes, tibbles, and readr basics
 * Laptops out:
     * Read in and write out demo
     * <span style="color:orange">Read in and write out your own dataset; troubleshoot in support groups</span>
 
-### Tuesday, 18 January 2022 (3.1): Part 2
+### Tuesday, 18 January 2022 (3.1): Part 3
 
 #### Pre-class preparation
 * Read about [dplyr](https://r4ds.had.co.nz/transform.html) and [tidyr](https://r4ds.had.co.nz/tidy-data.html) in Hadley Wickham's _R for Data Science_
@@ -124,7 +121,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
     * dplyr and tidyr demo
     * <span style="color:orange">Create a mockup of your desired data format (push as a spreadsheet file and describe in the README)</span>
 
-### Thursday, 20 January 2022 (3.2): Part 3
+### Thursday, 20 January 2022 (3.2): Part 4
 
 #### Pre-class preparation
 * Review the [cheatsheets](https://www.rstudio.com/resources/cheatsheets/) for tibble, readr, dplyr, and tidyr
@@ -135,7 +132,7 @@ All students: Confirm that your dataset is okay for the course with Dr. Casillas
     * <span style="color:orange">Data preparation demo</span>
     * Plan how you will prep your own dataset
 
-### Tuesday, 25 January 2022 (4.1): Part 4
+### Tuesday, 25 January 2022 (4.1): Part 5
 
 #### Pre-class preparation
 * Continue planning how you will prep your dataset
