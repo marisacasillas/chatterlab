@@ -45,7 +45,7 @@ Jack Demchak
 
 [Lizzie Mickiewicz](./people/lizzie-aboutme.md)
 
-Kimberly Shorter
+[Kimberly Shorter](./people/kimberly-aboutme.md)
 
 ### Some recent and frequent collaborators
 
