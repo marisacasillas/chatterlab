@@ -119,7 +119,7 @@ None!
 * Presentation: Basic data manipulation and preparation functions
 * Laptops out:
     * dplyr and tidyr demo
-    * <span style="color:orange">Create a mockup of your desired data format (push as a spreadsheet file and describe in the README)</span>
+    * <span style="color:orange">Create a mockup of your desired data format (push as an image, sample spreadsheet file, and README description)</span>
 
 ### Thursday, 20 January 2022 (3.2): Part 4
 
