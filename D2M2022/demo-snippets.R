@@ -97,3 +97,68 @@ mmdata.long <- read_csv("MM Data.csv") %>%
                names_to = "Color", values_to = "Number")
 
 write_csv(mmdata.long, "MM_Data-long.csv")
+
+
+################################################################################
+# 3.1
+
+testdata <- tibble(
+    condition = c(1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2),
+    participant = c(1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6),
+    score = runif(12),
+    notes = c("glasses_none", "glasses_none", "none_none", "none_none",
+              "none_incomplete", "none_incomplete", "none_none", "none_none",
+              "glasses_none", "glasses_none", "glasses_late", "glasses_late")
+)
+
+testdata %>%
+    group_by(condition, participant) %>%
+    summarize(mean.ptcp.score = mean(score)) %>%
+    group_by(condition) %>%
+    summarize(mean.cond.score = mean(mean.ptcp.score),
+              sem.cond.score = sd(mean.ptcp.score)/sqrt(n()),
+              n = n(),
+              sd = sd(mean.ptcp.score))
+
+mmdata <- read_csv("MM Data.csv")
+
+mmdata.long <- read_csv("MM Data.csv") %>%
+  pivot_longer(cols = c("Red", "Green", "Blue", "Orange",
+                        "Yellow", "Brown"),
+               names_to = "Color", values_to = "Number")
+
+mmdata.wide <- mmdata.long %>%
+  pivot_wider(names_from = "Color",
+              values_from = "Number") %>%
+  relocate(Weight,.after = last_col())
+
+testdata.sep <- testdata %>%
+  separate(notes, c("vision_correction", "other_notes"), sep = "_")
+
+testdata.unite <- testdata.sep %>%
+  unite("semicolon_notes", "vision_correction":"other_notes", sep = ";")
+
+
+missingdata <- tibble(
+  condition = c(1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2),
+  participant = c(1, NA, NA, NA, 2, NA, NA, NA, 3, NA, NA),
+  trial = c(1, 2, 3, 4, 1, 2, 3, 4, 1, 3, 4),
+  score = c(0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1),
+)
+
+fixeddata <- missingdata %>%
+  fill(participant) %>%
+  complete(condition, trial) %>%
+  replace_na(list(participant = 3)) %>% # a HACK (will not generalize/will break)
+  arrange(condition, participant, trial) # just to make it pretty
+
+all.ptcp.trial.combos <- crossing(
+  participant = unique(missingdata$participant),
+  trial = c(1:4)) %>%
+  filter(!is.na(participant))
+
+fixeddata2 <- missingdata %>%
+  fill(participant) %>%
+  full_join(all.ptcp.trial.combos) %>%
+  # arrange(participant, trial) %>% # superstitious but harmless
+  fill(condition)
