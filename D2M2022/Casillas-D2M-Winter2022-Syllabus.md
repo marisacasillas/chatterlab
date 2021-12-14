@@ -129,17 +129,17 @@ None!
 
 #### In-class activities
 * Laptops out:
-    * <span style="color:orange">Data preparation demo</span>
-    * Plan how you will prep your own dataset
+    * Data preparation demo
+    * <span style="color:orange">Plan how you will prep your own dataset and begin prepping</span>
 
 ### Tuesday, 25 January 2022 (4.1): Part 5
 
 #### Pre-class preparation
-* Continue planning how you will prep your dataset
+* Continue working on your data prep (we will continue in class; finishing this task is today's assignment)
 
 #### In-class activities
 * Laptops out:
-    * <span style="color:orange">Implement your solution; troubleshoot in support groups</span>
+    * <span style="color:orange">Finish your data preparation; troubleshoot in support groups</span>
 
 ## Module 3: Plotting your data
 
