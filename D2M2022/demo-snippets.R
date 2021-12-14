@@ -162,3 +162,94 @@ fixeddata2 <- missingdata %>%
   full_join(all.ptcp.trial.combos) %>%
   # arrange(participant, trial) %>% # superstitious but harmless
   fill(condition)
+
+################################################################################
+# 4.1
+
+## 1994 census data 50K income split
+library(tidyverse)
+adultdata <- read_csv("adult.data.csv")
+
+# let's first just explore the sample and make
+# some data prep changes to make our plots easier to interpret
+unique(adultdata$education)
+adultdata <- adultdata %>%
+  mutate(
+    education.bins = case_when(
+      education %in% c("Preschool", "1st-4th",
+                       "5th-6th", "7th-8th", "9th", "10th", "11th") ~ 'pre-HS',
+      education %in% c("12th", "HS-grad", "Some-college") ~ 'HS',
+      education %in% c("Assoc-acdm", "Assoc-voc", "Prof-school") ~ 'Assoc',
+      education %in% c("Bachelors", "Masters", "Doctorate") ~ 'BA+',
+      TRUE ~ "uh oh"
+    ),
+    education.bins = fct_relevel(
+      education.bins, c('pre-HS', 'HS', 'Assoc', 'BA+')),
+    income = case_when(
+      grepl("<", income) ~ "<=50K",
+      grepl(">", income) ~ ">50K",
+      TRUE ~ "uh oh"
+    ),
+    race = as_factor(race),
+    race = factor(race, labels = c("White", "Black", "AsiPacIsl",
+                                   "AmerIndFirsNat", "Other")))
+
+ggplot(adultdata, aes(education.bins, age, color = race, fill = race)) +
+  facet_grid(. ~ race) +
+  geom_jitter(alpha = 0.2) +
+  geom_boxplot(outlier.shape = NA, color = "black", alpha = 0.0) # +
+# geom_violin(color = "gray20", alpha = 0.2)
+
+# now lets explore how income relates to education, race, and sex
+ggplot(adultdata, aes(education.bins, fill = income)) +
+  geom_bar(position = "fill")
+
+ggplot(adultdata, aes(race, fill = income)) +
+  geom_bar(position = "fill") +
+  facet_grid(. ~ education.bins) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+ggplot(adultdata, aes(race, fill = income)) +
+  geom_bar(position = "fill") +
+  facet_grid(education.bins ~ sex) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+## M & M data
+library(jtools)
+mmdata <- read_csv("MM Data.csv")
+mmdata.long <- read_csv("MM Data.csv") %>%
+  pivot_longer(cols = c("Red", "Green", "Blue", "Orange",
+                        "Yellow", "Brown"),
+               names_to = "Color", values_to = "Number")
+
+ggplot(mmdata.long, aes(Color, Number, color = Color, fill = Color)) +
+  scale_color_manual(values = c(
+    "blue", "brown", "green", "orange", "red", "yellow")) +
+  scale_fill_manual(values = c(
+    "blue", "brown", "green", "orange", "red", "yellow")) +
+  geom_violin(alpha = 0.5) +
+  geom_jitter() +
+  geom_boxplot(alpha = 0, color = "black", width = 0.5, show.legend = F) +
+  scale_y_continuous(limits = c(0,30), breaks = seq(0,30,5)) +
+  guides(fill = "none") +
+  theme_apa()
+
+mmdata.long.by.bag <- mmdata.long %>%
+  group_by(Bag, Weight) %>%
+  summarize(
+    total.mms = sum(Number)
+  )
+ggplot(mmdata.long.by.bag, aes(Weight, total.mms, label = Bag)) +
+  geom_smooth(method = "lm") +
+  geom_point() +
+  labs(x = "Weight (oz)", y = "# M&M candies") +
+  scale_x_continuous(limits = c(45,55), breaks = 45:55) +
+  scale_y_continuous(limits = c(40,70), breaks = seq(40,70,10)) +
+  geom_text(vjust = 0, nudge_y = 0.5) +
+  annotate(
+    "text", label = "HELLO!!",
+    x = 53, y = 45, size = 8, colour = "red"
+  ) +
+  theme_apa()
+
+
