@@ -155,11 +155,11 @@ Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialog
 ### Week 04: Tuesday, 25 January 2022
 
 #### Pre-class reading
-Bögels, S., & Levinson, S. C. (2017). The brain behind the response: Insights into turn-taking in conversation from neuroimaging. _Research on Language and Social Interaction, 50_, 71-89. [pdf](https://www.dropbox.com/s/ubrgiythawyzq1j/bogels2017brain.pdf?dl=0)
-
 Bögels, S., & Torreira, F. (2015). Listeners use intonational phrase boundaries to project turn ends in spoken interaction. _Journal of Phonetics, 52_, 46-57. [pdf](https://www.dropbox.com/s/iwckfce6w2c6g3y/bogels2015listeners.pdf?dl=0)
 
-\*Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-taking. _Psychonomic Bulletin & Review, 12_(6), 957-968. [pdf](https://www.dropbox.com/s/avo8i069iqy593c/wilson2005oscillator.pdf?dl=0)
+Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-taking. _Psychonomic Bulletin & Review, 12_(6), 957-968. [pdf](https://www.dropbox.com/s/avo8i069iqy593c/wilson2005oscillator.pdf?dl=0)
+
+\*Bögels, S., & Levinson, S. C. (2017). The brain behind the response: Insights into turn-taking in conversation from neuroimaging. _Research on Language and Social Interaction, 50_, 71-89. [pdf](https://www.dropbox.com/s/ubrgiythawyzq1j/bogels2017brain.pdf?dl=0)
 
 \*  = Optional
 
@@ -170,9 +170,9 @@ Bögels, S., & Torreira, F. (2015). Listeners use intonational phrase boundaries
 ### Week 04: Thursday, 27 January 2022
 
 #### Pre-class reading
-Corps, R. E., Crossley, A., Gambi, C., & Pickering, M. J. (2018). Early preparation during turn-taking: Listeners use content predictions to determine what to say but not when to say it. _Cognition 175_, 77-95. [pdf](https://www.dropbox.com/s/5tcrscd0gfell0f/corps2018early.pdf?dl=0)
+Bögels, S. (2020). Neural correlates of turn taking in the wild: Response planning starts early in free interviews. _Cognition, 203_:104347. [pdf](https://www.dropbox.com/s/5tg9nqkikzrqn1h/bogels2020neural.pdf?dl=0)
 
-Corps, R., Pickering, M. and Gambi, C. (2020). Predicting turn-ends in discourse context. _Language Cognition and Neuroscience 34_(5), pp. 615-627. [pdf](https://www.dropbox.com/s/ns5qjmno43gxz22/corps2020predicting.pdf?dl=0)
+Lelonkiewicz, J. R., Gambi, C., Weller, L., & Pfister, R. (2020). Action-effect anticipation and temporal adaptation in social interactions. _Journal of Experimental Psychology: Human Perception and Performance, 46_(4), 335--349. [pdf](https://www.dropbox.com/s/jqj12ijqq9xddgg/lelonkiewicz2020action.pdf?dl=0)
 
 \*Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness for understanding language. _Journal of Experimental Psychology: General, 147_(2), 190. [pdf](https://www.dropbox.com/s/8ogvg2452iaedit/rabagliati2018importance.pdf?dl=0)
 
@@ -187,9 +187,13 @@ Corps, R., Pickering, M. and Gambi, C. (2020). Predicting turn-ends in discourse
 ### Week 05: Tuesday, 01 February 2022
 
 #### Pre-class reading
+Holler, J. & Levinson, S. C. (2019). Multimodal language processing in human communication. _Trends in Cognitive Sciences 23_(8), p. 639--652. [pdf](https://www.dropbox.com/s/dd53spft3m9vcac/holler2019multimodal.pdf?dl=0)
+
 De Vos, C., Torreira, F., & Levinson, S. C. (2015). Turn-timing in signed conversations: Coordinating stroke-to-stroke turn boundaries. _Frontiers in Psychology, 6_:268. doi:10.3389/fpsyg.2015.00268. [pdf](https://www.dropbox.com/s/h2dyu8lj2297av5/devos2015turntiming.pdf?dl=0)
 
-Holler, J., Kendrick, K. H., & Levinson, S. C. (2018). Processing language in face-to-face conversation: Questions with gestures get faster responses. _Psychonomic Bulletin & Review, 25_(5), 1900-1908. doi:10.3758/s13423-017-1363-z. [pdf](https://www.dropbox.com/s/4uer2ny6vto6b97/holler2018processing.pdf?dl=0)
+\*Holler, J., Kendrick, K. H., & Levinson, S. C. (2018). Processing language in face-to-face conversation: Questions with gestures get faster responses. _Psychonomic Bulletin & Review, 25_(5), 1900-1908. doi:10.3758/s13423-017-1363-z. [pdf](https://www.dropbox.com/s/4uer2ny6vto6b97/holler2018processing.pdf?dl=0)
+
+\*  = Optional
 
 #### Assignments due
 1. Reading notes
@@ -200,10 +204,13 @@ Holler, J., Kendrick, K. H., & Levinson, S. C. (2018). Processing language in fa
 ### Week 05: Thursday, 03 February 2022
 
 #### Pre-class reading
-Latif, N., Alsius, A., & Munhall, K. G. (2018). Knowing when to respond: the role of visual information in conversational turn exchanges. _Attention, Perception, & Psychophysics, 80_(1), 27-41. [pdf](https://www.dropbox.com/s/x8kch00tz3wgp7q/latif2018knowing.pdf?dl=0)
-
 Hömke, P., Holler, J., & Levinson, S. C. (2018). Eye blinks are perceived as communicative signals in human face-to-face interaction. _PLoS One, 13_(12): e0208030. doi:10.1371/journal.pone.0208030. [pdf](https://www.dropbox.com/s/tg6b9m43ctw8cx2/homke2018eye.pdf?dl=0)
 
+Pouw, W., Proksch, S., Drijvers, L., Gamba, M., Holler, J., Kello, C., Schaefer, R. S., & Wiggins, G. A. (2021). Multilevel rhythms in multimodal communication. _Philosophical Transactions B, 376:_20200334. [pdf](https://www.dropbox.com/s/annubmpn82kosbq/pouw2021multilevel.pdf?dl=0)
+
+\*Latif, N., Alsius, A., & Munhall, K. G. (2018). Knowing when to respond: the role of visual information in conversational turn exchanges. _Attention, Perception, & Psychophysics, 80_(1), 27-41. [pdf](https://www.dropbox.com/s/x8kch00tz3wgp7q/latif2018knowing.pdf?dl=0)
+
+\*  = Optional
 
 #### Assignments due
 1. Reading notes
