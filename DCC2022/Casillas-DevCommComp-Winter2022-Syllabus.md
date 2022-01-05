@@ -222,7 +222,7 @@ Pouw, W., Proksch, S., Drijvers, L., Gamba, M., Holler, J., Kello, C., Schaefer,
 #### Pre-class reading
 Snow, C. E. (1977). The development of conversation between mothers and babies. _Journal of Child Language, 4_(1), 1-22. [pdf](https://www.dropbox.com/s/ow3x0mii5ptxdhd/snow1977development.pdf?dl=0)
 
-Casillas, M., & Hilbrink, E. (in press). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), _Developmental and Clinical Pragmatics_. De Gruyter Mouton. [pdf](https://www.dropbox.com/s/1vmy11ug5o2sk8y/casillasIPcommunicative.pdf?dl=0)
+Casillas, M., & Hilbrink, E. (2020). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), _Developmental and Clinical Pragmatics_. De Gruyter Mouton. [pdf](https://www.dropbox.com/s/1vmy11ug5o2sk8y/casillasIPcommunicative.pdf?dl=0)
 
 #### Assignments due
 1. Reading notes
