@@ -349,7 +349,6 @@ ggplot(adultdata, aes(race, fill = income)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 ## M & M data
-library(jtools)
 mmdata <- read_csv("MM Data.csv")
 mmdata.long <- read_csv("MM Data.csv") %>%
   pivot_longer(cols = c("Red", "Green", "Blue", "Orange",
@@ -367,6 +366,59 @@ ggplot(mmdata.long, aes(Color, Number, fill = Color)) +
   geom_boxplot() +
   geom_dotplot(binaxis = "y")
 
+################################################################################
+# 5.2
+library(tidyverse)
+mmdata <- read_csv("MM Data.csv")
+mmdata.long <- read_csv("MM Data.csv") %>%
+  pivot_longer(cols = c("Red", "Green", "Blue", "Orange",
+                        "Yellow", "Brown"),
+               names_to = "Color", values_to = "Number")
+
+ggplot(mmdata.long, aes(Color, Number)) +
+  geom_jitter()
+ggplot(mmdata.long, aes(Color, Number, color = Color)) +
+  geom_jitter()
+ggplot(mmdata.long, aes(Color, Number, alpha = Color)) +
+  geom_jitter()
+ggplot(mmdata.long, aes(Color, Number, shape = Color)) +
+  geom_jitter()
+ggplot(mmdata.long, aes(Color, Number, size = Color)) +
+  geom_jitter()
+ggplot(mmdata.long, aes(Color, Number, fill = Color)) +
+  geom_jitter()
+ggplot(mmdata.long, aes(Color, Number, fill = Color)) +
+  geom_jitter(shape = 24)
+ggplot(mmdata.long, aes(Color, Number, fill = Color, stroke = Number)) +
+  geom_jitter(shape = 24)
+
+
+ggplot(mpg, aes(x = cyl, y = hwy,
+                fill = class, color = class)) +
+  geom_jitter(shape = 24) +
+  geom_smooth(method = "lm")
+ggplot(mpg, aes(x = cyl, y = hwy,
+           fill = class)) +
+  geom_jitter(shape = 24) +
+  geom_smooth(aes(color = class), method = "lm")
+
+ggplot(mpg, aes(x = cyl, y = hwy, fill = class, color = class)) +
+  geom_jitter(shape = 24) +
+  geom_smooth(method = "lm")
+ggplot(mpg, aes(x = cyl, y = hwy,
+           fill = class)) +
+  geom_jitter(shape = 24) +
+  geom_smooth(aes(color = class), method = "lm")
+
+ggplot(mpg, aes(x = cyl, y = hwy)) +
+  geom_jitter(aes(color = manufacturer), shape = 24) +
+  geom_smooth(aes(color = class), method = "lm")
+ggplot(mpg, aes(x = cyl, y = hwy, fill = class, color = class)) +
+  geom_jitter(shape = 24) +
+  geom_smooth(data = filter(mpg, class != "2seater"),
+              aes(x = cyl, y = hwy), method = "lm")
+
+library(jtools)
 
 
 ## BLABLA for later
