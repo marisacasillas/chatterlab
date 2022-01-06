@@ -153,7 +153,7 @@ None!
 * Presentation: Introduction to ggplot
 * Laptops out:
     * ggplot one-variable demo
-    * group exercise: recreate this plot
+    * <span style="color:orange">exercise: recreate this plot</span>
 
 ### Tuesday, 01 February 2022 (5.1): Part 2
 
@@ -164,7 +164,8 @@ None!
 * Presentation: Plotting multiple variables at once
 * Laptops out:
     * ggplot two- and three-variable demo
-    * <span style="color:orange">group exercise: recreate this plot</span>
+    * mini data cleaning/reformatting demo
+    * <span style="color:orange">exercise: recreate this plot</span>
 
 ### Thursday, 03 February 2022 (5.2): Part 3
 
@@ -172,23 +173,21 @@ None!
 * Create initial drafts of your planned plots
 
 #### In-class activities
-* Presentation: Customizing: Axes, labels, and facets
+* Presentation: Customizing: Axes, labels, facets, colors, shapes, and themes
 * Laptops out:
     * ggplot customization demo
-    * group exercise: recreate this plot
+    * <span style="color:orange">exercise: recreate this plot</span>
 
 ### Tuesday, 08 February 2022 (6.1): Part 4
 
 #### Pre-class preparation
-* Adjust the initial drafts of your planned plots
+* Review/adjust the initial drafts of your planned plots
 * Review the [cheatsheet](https://www.rstudio.com/resources/cheatsheets/) for ggplot
-* Brainstorm what else you would like to change about the figures and how you could implement that change
 
 #### In-class activities
-* Presentation: Customizing: colors, shapes, and themes
+* Presentation: Share planned plots with each other
 * Laptops out:
-    * <span style="color:orange">ggplot customization demo</span>
-    * group exercise: recreate this plot
+    * <span style="color:orange">create your plot!</span>
 
 ## Module 4: R Markdown and Papaja basics
 ("papaja" is a package for "**P**reparing **APA** **J**ournal **A**rticles")
