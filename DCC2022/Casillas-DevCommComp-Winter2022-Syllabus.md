@@ -4,7 +4,7 @@ Winter 2022: CHDV 38950, PSYC 38960, LING 38951, EDSO 38950
 
 Tuesdays and Thursdays 14.00-15.20 Chicago time
 
-Office hours: Thursdays 15.30–16.30 in Rosenwald 318A or by appointment
+Office hours: Tuesdays 15.30–16.30 in Rosenwald 318A or by appointment
 
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 
@@ -65,7 +65,7 @@ This is a discussion-based class and students are generally expected to come to 
 
 ## Foundational concepts for interaction study
 
-### Week 01: Tuesday, 04 January 2022
+### Week 01: Tuesday, 11 January 2022
 
 #### Pre-class reading
 Levinson, S. C. (1995). Interactional biases in human thinking. In E. N. Goody (Ed.), _Social intelligence and interaction_ (pp. 221-260). Cambridge, UK: Cambridge University Press. [pdf](https://www.dropbox.com/s/j11yj31of9jl834/levinson1995social.pdf?dl=0)
@@ -77,7 +77,7 @@ Levinson, S. C. (2006). On the human "interaction engine". In N. J. Enfield, & S
 #### Assignments due
 None!
 
-### Week 01: Thursday, 06 January 2022
+### Week 01: Thursday, 13 January 2022
 
 #### Pre-class reading
 Sacks, H., Schegloff, E. A., & Jefferson, G. (1974). A simplest systematics for the organization of turn taking for conversation. In _Studies in the Organization of Conversational Interaction_ (pp. 7-55). Academic Press. [pdf](https://www.dropbox.com/s/zs4ld65w1o0suyn/sacks1974simplest.pdf?dl=0)
@@ -93,7 +93,7 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 
 ## Comparative interaction studies
 
-### Week 02: Tuesday, 11 January 2022
+### Week 02: Tuesday, 18 January 2022
 
 #### Pre-class reading
 Stivers, T., Enfield, N. J., Brown, P., Englert, C., Hayashi, M., Heinemann, T., ... & Levinson, S. C. (2009). Universals and cultural variation in turn-taking in conversation. _Proceedings of the National Academy of Sciences, 106_(26), 10587-10592. [pdf](https://www.dropbox.com/s/c6v37lvliw66hg8/stivers2009universal.pdf?dl=0)
@@ -111,7 +111,7 @@ Manrique, E., Rossi, G., & Levinson, S. C. (2020). Sequence organization: A univ
 1. Reading notes
 2. Choose/make your interaction clips for annotation; notify Dr. Casillas
 
-### Week 02: Thursday, 13 January 2022
+### Week 02: Thursday, 20 January 2022
 
 #### Pre-class reading
 Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: bridging the gap between human and animal communication. _Proceedings of the Royal Society B: Biological Sciences, 285_(1880), 20180598. [pdf](https://www.dropbox.com/s/4n5zdd9gxxulkbi/pika2018taking.pdf?dl=0)
@@ -125,7 +125,7 @@ Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: 
 2. Annotations: Diarization (due by Sunday, January 16th 13.59 Chicago time)
 3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations? (due by Sunday, January 16th 13.59 Chicago time)
 
-### Week 03: Tuesday, 18 January 2022
+### Week 03: Tuesday, 25 January 2022
 
 #### Pre-class reading
 Ratner, N., & Bruner, J. (1978). Games, social exchange and the acquisition of language. _Journal of Child Language, 5_(3), 391-401. [pdf](https://www.dropbox.com/s/lzv71p3xdbbjgi8/ratner1978games.pdf?dl=0)
@@ -139,7 +139,7 @@ Bornstein, M. H., Putnick, D. L., Cote, L. R., Haynes, O. M., & Suwalsky, J. T. 
 
 ## Cognitive models of interaction
 
-### Week 03: Thursday, 20 January 2022
+### Week 03: Thursday, 27 January 2022
 
 #### Pre-class reading
 Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. _Frontiers in Psychology, 6_: 731. doi:10.3389/fpsyg.2015.00731. [pdf](https://www.dropbox.com/s/wc9gsga25j3co5h/levinson2015timing.pdf?dl=0)
@@ -152,7 +152,7 @@ Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialog
 3. Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.) (due by Sunday, January 23rd 13.59 Chicago time)
 
 
-### Week 04: Tuesday, 25 January 2022
+### Week 04: Tuesday, 01 February 2022
 
 #### Pre-class reading
 Bögels, S., & Torreira, F. (2015). Listeners use intonational phrase boundaries to project turn ends in spoken interaction. _Journal of Phonetics, 52_, 46-57. [pdf](https://www.dropbox.com/s/iwckfce6w2c6g3y/bogels2015listeners.pdf?dl=0)
@@ -167,7 +167,7 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 1. Reading notes
 2. Outline for presentation on turn-taking feature
 
-### Week 04: Thursday, 27 January 2022
+### Week 04: Thursday, 03 February 2022
 
 #### Pre-class reading
 Bögels, S. (2020). Neural correlates of turn taking in the wild: Response planning starts early in free interviews. _Cognition, 203_:104347. [pdf](https://www.dropbox.com/s/5tg9nqkikzrqn1h/bogels2020neural.pdf?dl=0)
@@ -184,7 +184,7 @@ Lelonkiewicz, J. R., Gambi, C., Weller, L., & Pfister, R. (2020). Action-effect 
 
 ## Visible conversation
 
-### Week 05: Tuesday, 01 February 2022
+### Week 05: Tuesday, 08 February 2022
 
 #### Pre-class reading
 Holler, J. & Levinson, S. C. (2019). Multimodal language processing in human communication. _Trends in Cognitive Sciences 23_(8), p. 639--652. [pdf](https://www.dropbox.com/s/dd53spft3m9vcac/holler2019multimodal.pdf?dl=0)
@@ -201,7 +201,7 @@ De Vos, C., Torreira, F., & Levinson, S. C. (2015). Turn-timing in signed conver
 3. Reflection paragraph: What did you neglect to notice when you first transcribed the clips? What do you think you would discover if you made a further correctional pass?
 
 
-### Week 05: Thursday, 03 February 2022
+### Week 05: Thursday, 10 February 2022
 
 #### Pre-class reading
 Hömke, P., Holler, J., & Levinson, S. C. (2018). Eye blinks are perceived as communicative signals in human face-to-face interaction. _PLoS One, 13_(12): e0208030. doi:10.1371/journal.pone.0208030. [pdf](https://www.dropbox.com/s/tg6b9m43ctw8cx2/homke2018eye.pdf?dl=0)
@@ -217,7 +217,7 @@ Pouw, W., Proksch, S., Drijvers, L., Gamba, M., Holler, J., Kello, C., Schaefer,
 
 ## Conversation with child interactants
 
-### Week 06: Tuesday, 08 February 2022
+### Week 06: Tuesday, 15 February 2022
 
 #### Pre-class reading
 Snow, C. E. (1977). The development of conversation between mothers and babies. _Journal of Child Language, 4_(1), 1-22. [pdf](https://www.dropbox.com/s/ow3x0mii5ptxdhd/snow1977development.pdf?dl=0)
@@ -229,7 +229,7 @@ Casillas, M., & Hilbrink, E. (2020). Communicative act development. In K. P. Sch
 2. 500 word (maximum) proposal for additional analysis on the conversation clips
 
 
-### Week 06: Thursday, 10 February 2022
+### Week 06: Thursday, 17 February 2022
 
 #### Pre-class reading
 Stivers, T., Sidnell, J., & Bergen, C. (2018). Children's responses to questions in peer interaction: A window into the ontogenesis of interactional competence. Journal of Pragmatics, 124, 14-30. [pdf](https://www.dropbox.com/s/7g3hlpy7p1jfqgx/stivers2018childrens.pdf?dl=0)
@@ -245,7 +245,7 @@ Shatz, M. (1978). On the development of communicative understandings: An early s
 
 ## Language meets interaction in development
 
-### Week 07: Tuesday, 15 February 2022
+### Week 07: Tuesday, 22 February 2022
 
 #### Pre-class reading
 Hilbrink, E., Gattis, M., & Levinson, S. C. (2015). Early developmental changes in the timing of turn-taking: A longitudinal study of mother-infant interaction. _Frontiers in Psychology, 6_:1492. [pdf](https://www.dropbox.com/s/acxzwq4uvhspt7r/hilbrink2015early.pdf?dl=0)
@@ -263,7 +263,7 @@ Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and plann
 4. Final annotation files, with instructions attached for how to add annotations (due same day by 23.59 Chicago time)
 
 
-### Week 07: Thursday, 17 February 2022
+### Week 07: Thursday, 24 February 2022
 
 #### Pre-class reading
 Casillas, M., & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. _Journal of Memory and Language, 92_, 234-253. [pdf](https://www.dropbox.com/s/hp5fmpjoyd2mso0/casillas2017development.pdf?dl=0)
@@ -277,7 +277,7 @@ Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as
 
 ## Conversational "input"
 
-### Week 08: Tuesday, 22 February 2022
+### Week 08: Tuesday, 01 March 2022
 
 #### Pre-class reading
 Rowe, M. L. (2012). A longitudinal investigation of the role of quantity and quality of child‐directed speech in vocabulary development. _Child Development, 83_(5), 1762-1774. [pdf](https://www.dropbox.com/s/fps0qekzfqnoatv/rowe2012longitudinal.pdf?dl=0)
@@ -290,7 +290,7 @@ Donnellan, E., Bannard, C., McGillion, M. L., Slocombe, K. E., & Matthews, D. (2
 1. Reading notes
 2. OPTIONAL: Draft of research proposal outline
 
-### Week 08: Thursday, 24 February 2022
+### Week 08: Thursday, 03 March 2022
 
 #### Pre-class reading
 Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399-410. [pdf](https://www.dropbox.com/s/lhbh8njfhb40a1z/dunn1989becoming.pdf?dl=0)
@@ -305,7 +305,7 @@ Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mothe
 
 ## Wrapping up
 
-### Week 09: Tuesday, 01 March 2022
+### Week 09: Tuesday, 08 March 2022
 
 #### Pre-class reading
 None!
@@ -313,7 +313,7 @@ None!
 #### Assignments due
 1. OPTIONAL: Draft of research proposal literature review
 
-### Week 09: Thursday, 03 March 2022
+### Week 09: Thursday, 10 March 2022
 
 #### Pre-class reading
 None!
@@ -322,7 +322,7 @@ None!
 1. Research proposal flash talks
 
 # Finals week
-<span style="color:red">**DUE MARCH 08, 2022 AT 11.59 CHICAGO TIME:** </span> Full research proposal (10–15 pages; see [rubric](./course_instructions/research_proposal.md#full-proposal-of-research-project))
+<span style="color:red">**DUE MARCH 15, 2022 AT 11.59 CHICAGO TIME:** </span> Full research proposal (10–15 pages; see [rubric](./course_instructions/research_proposal.md#full-proposal-of-research-project))
 
 
 # Contact
@@ -330,6 +330,6 @@ None!
 
 **Office:** Rosenwald 318A
 
-**Office hours:** TBA
+**Office hours:** Tuesdays 15.30–16.30 in Rosenwald 318A or by appointment
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.The University of Chicago is committed to ensuring the full participation of all students in its programs. If you have a documented disability (or think you may have a disability) and, as a result, need a reasonable accommodation to participate in class, complete course requirements, or benefit from the University's programs or services, you are encouraged to contact Student Disability Services as soon as possible. To receive reasonable accommodation, you must be appropriately registered with Student Disability Services.  Please contact the office at 773-834-4469/TTY 773-795-1186 or gmoorehead@uchicago.edu, or visit the website at disabilities.uchicago.edu.  Student Disability Services is located in Room 233 in the Administration Building located at 5801 S. Ellis Avenue._
