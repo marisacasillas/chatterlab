@@ -57,7 +57,7 @@ Your final assignment will be a scientific report in R Markdown that: is develop
 
 ## Module 1: GitHub basics
 
-### Tuesday, 04 January 2022 (1.1): Part 1
+### Tuesday, 11 January 2022 (1.1): Part 1
 
 #### Pre-class preparation
 None!
@@ -70,7 +70,7 @@ None!
     * <span style="color:orange">Creating a repo, sharing it, creating a .gitignore, and making your first commit</span>
     * [Request an education premium account](https://education.github.com/) to get free private repositories
 
-### Thursday, 06 January 2022 (1.2): Part 2
+### Thursday, 13 January 2022 (1.2): Part 2
 
 #### Pre-class preparation
 * Read the [dataset selection guidelines](./course_instructions/instructions-data_selection_guidelines.md) for the class <!--To do-->
@@ -84,7 +84,7 @@ None!
 
 ## Module 2: R and tidyverse basics
 
-### Tuesday, 11 January 2022 (2.1): Part 1
+### Tuesday, 18 January 2022 (2.1): Part 1
 
 #### Pre-class preparation
 * All students: Confirm that your dataset is okay for the course with Dr. Casillas (note: this should be done via email, not GitHub)
@@ -97,7 +97,7 @@ None!
     * Confirm/troubleshoot installations
     * <span style="color:orange">Hello world demo and code commenting</span>
 
-### Thursday, 13 January 2022 (2.2): Part 2
+### Thursday, 20 January 2022 (2.2): Part 2
 
 #### Pre-class preparation
 * Install the `tidyverse` package in RStudio (overview [here](https://tidyverse.tidyverse.org/))
@@ -110,7 +110,7 @@ None!
     * Read in and write out demo
     * <span style="color:orange">Read in and write out your own dataset; troubleshoot in support groups</span>
 
-### Tuesday, 18 January 2022 (3.1): Part 3
+### Tuesday, 25 January 2022 (3.1): Part 3
 
 #### Pre-class preparation
 * Read about [dplyr](https://r4ds.had.co.nz/transform.html) and [tidyr](https://r4ds.had.co.nz/tidy-data.html) in Hadley Wickham's _R for Data Science_
@@ -121,7 +121,7 @@ None!
     * dplyr and tidyr demo
     * <span style="color:orange">Create a mockup of your desired data format (push as an image, sample spreadsheet file, and README description)</span>
 
-### Thursday, 20 January 2022 (3.2): Part 4
+### Thursday, 27 January 2022 (3.2): Part 4
 
 #### Pre-class preparation
 * Review the [cheatsheets](https://www.rstudio.com/resources/cheatsheets/) for tibble, readr, dplyr, and tidyr
@@ -132,7 +132,7 @@ None!
     * Data preparation demo
     * <span style="color:orange">Plan how you will prep your own dataset and begin prepping</span>
 
-### Tuesday, 25 January 2022 (4.1): Part 5
+### Tuesday, 01 February 2022 (4.1): Part 5
 
 #### Pre-class preparation
 * Continue working on your data prep (we will continue in class; finishing this task is today's assignment)
@@ -143,7 +143,7 @@ None!
 
 ## Module 3: Plotting your data
 
-### Thursday, 27 January 2022 (4.2): Part 1
+### Thursday, 03 February 2022 (4.2): Part 1
 
 #### Pre-class preparation
 * Read about [ggplot](https://r4ds.had.co.nz/data-visualisation.html) in Hadley Wickham's _R for Data Science_
@@ -155,7 +155,7 @@ None!
     * ggplot one-variable demo
     * <span style="color:orange">exercise: recreate this plot</span>
 
-### Tuesday, 01 February 2022 (5.1): Part 2
+### Tuesday, 08 February 2022 (5.1): Part 2
 
 #### Pre-class preparation
 * Imagine two plots you would like to see of your data
@@ -167,7 +167,7 @@ None!
     * mini data cleaning/reformatting demo
     * <span style="color:orange">exercise: recreate this plot</span>
 
-### Thursday, 03 February 2022 (5.2): Part 3
+### Thursday, 10 February 2022 (5.2): Part 3
 
 #### Pre-class preparation
 * Create initial drafts of your planned plots
@@ -178,7 +178,7 @@ None!
     * ggplot customization demo
     * <span style="color:orange">exercise: recreate this plot</span>
 
-### Tuesday, 08 February 2022 (6.1): Part 4
+### Tuesday, 15 February 2022 (6.1): Part 4
 
 #### Pre-class preparation
 * Review/adjust the initial drafts of your planned plots
@@ -192,7 +192,7 @@ None!
 ## Module 4: R Markdown and Papaja basics
 ("papaja" is a package for "**P**reparing **APA** **J**ournal **A**rticles")
 
-### Thursday, 10 February 2022 (6.2):  Part 1
+### Thursday, 17 February 2022 (6.2):  Part 1
 
 #### Pre-class preparation
 * <span style="color:orange">Go through your existing code and make sure you have informative comments</span>
@@ -205,7 +205,7 @@ None!
     * create and compare rmd files
     * insert comments into the code chunks and in the text
 
-### Tuesday, 15 February 2022 (7.1): Part 2
+### Tuesday, 22 February 2022 (7.1): Part 2
 
 #### Pre-class preparation
 * Review markdown syntax for text formatting (see the rightmost column on [this cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf))
@@ -217,7 +217,7 @@ None!
     * <span style="color:orange">Insert your author information, libraries, and read-in, prep, and plotting code chunks</span>
     * <span style="color:orange">Insert a footnote</span>
 
-### Thursday, 17 February 2022 (7.2): Part 3
+### Thursday, 24 February 2022 (7.2): Part 3
 
 #### Pre-class preparation
 **REMINDER: You must meet with Marisa by the end of this week (i.e., before Friday, February 18th at 17.00 Chicago time) to negotiate your plan for the scientific report assignment, which is due on Tuesday of Finals Week**
@@ -228,7 +228,7 @@ None!
     * group demo based on chapters [9](https://rmd4sci.njtierney.com/figures-tables-captions-.html), [10](https://rmd4sci.njtierney.com/customising-your-figures.html), and [12](https://rmd4sci.njtierney.com/start.html) of Nicholas Tierney's _RMarkdown for Scientists_
     * <span style="color:orange">Add one table, one figure, and one image to your rmd, each with captions and a chunk reference in the text.</span>
 
-### Tuesday, 22 February 2022 (8.1): Part 4
+### Tuesday, 01 March 2022 (8.1): Part 4
 
 #### Pre-class preparation
 * <span style="color:orange">Insert real text/[lorem ipsum](https://www.lipsum.com/)-style text/outline into your rmd, including references to your code chunks, and see whether it knits to the desired style</span>
@@ -242,7 +242,7 @@ None!
 
 ## Module 5: Bibtex and in-line references
 
-### Thursday, 24 February 2022 (8.2): Part 1
+### Thursday, 03 March 2022 (8.2): Part 1
 
 #### Pre-class preparation
 * Implement your code reorganization from the last class; ensure that it knits
@@ -253,7 +253,7 @@ None!
     * <span style="color:orange">Create a .bib file with your references</span>
     * <span style="color:orange">Start implementing in-text references in your rmd</span>
 
-### Tuesday, 01 March 2022 (9.1): Part 2
+### Tuesday, 08 March 2022 (9.1): Part 2
 
 #### Pre-class preparation
 * Review [rmarkdown citation](https://rmd4sci.njtierney.com/citing-articles-bibliography-styles.html) in Nicholas Tierney's _RMarkdown for Scientists_
@@ -265,7 +265,7 @@ None!
     * Add non-cited references
     * <span style="color:orange">Finish implementing in-text references in your rmd</span>
 
-### Thursday, 03 March 2022 (9.2): Part 3
+### Thursday, 10 March 2022 (9.2): Part 3
 
 #### Pre-class preparation
 None!
@@ -277,7 +277,7 @@ None!
 	* <span style="color:orange">add some in-line references to your rmd</span>
 * Group share: Current .rmd, goals for final version, and troubleshooting
 
-## Final deadline (Tuesday, 08 March 2022)
+## Final deadline (Tuesday, 15 March 2022)
 Scientific report due
 
 
