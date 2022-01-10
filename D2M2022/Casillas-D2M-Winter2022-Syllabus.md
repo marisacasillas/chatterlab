@@ -220,7 +220,7 @@ None!
 ### Thursday, 24 February 2022 (7.2): Part 3
 
 #### Pre-class preparation
-**REMINDER: You must meet with Marisa by the end of this week (i.e., before Friday, February 18th at 17.00 Chicago time) to negotiate your plan for the scientific report assignment, which is due on Tuesday of Finals Week**
+**REMINDER: You must meet with Marisa by the end of this week (i.e., before Friday, February 25th at 17.00 Chicago time) to negotiate your plan for the scientific report assignment, which is due on Tuesday of Finals Week**
 
 #### In-class activities
 * Presentation: Tables, figures, images, captions, and chunk references
@@ -286,6 +286,6 @@ Scientific report due
 
 **Office:** Rosenwald 318A
 
-**Office hours:** TBA
+**Office hours:** Tuesdays 11.00–12.30 in Rosenwald 318A or by appointment
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.The University of Chicago is committed to ensuring the full participation of all students in its programs. If you have a documented disability (or think you may have a disability) and, as a result, need a reasonable accommodation to participate in class, complete course requirements, or benefit from the University's programs or services, you are encouraged to contact Student Disability Services as soon as possible. To receive reasonable accommodation, you must be appropriately registered with Student Disability Services.  Please contact the office at 773-834-4469/TTY 773-795-1186 or gmoorehead@uchicago.edu, or visit the website at disabilities.uchicago.edu.  Student Disability Services is located in Room 233 in the Administration Building located at 5801 S. Ellis Avenue._
