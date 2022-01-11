@@ -67,6 +67,8 @@ This is a discussion-based class and students are generally expected to come to 
 
 ### Week 01: Tuesday, 11 January 2022
 
+[[slides]](https://docs.google.com/presentation/d/1Wq1p4Y_h-4YnHe7xHUkq43oVM89pSti0wfYfD_-XmnY/edit?usp=sharing)
+
 #### Pre-class reading
 Levinson, S. C. (1995). Interactional biases in human thinking. In E. N. Goody (Ed.), _Social intelligence and interaction_ (pp. 221-260). Cambridge, UK: Cambridge University Press. [pdf](https://www.dropbox.com/s/j11yj31of9jl834/levinson1995social.pdf?dl=0)
 
