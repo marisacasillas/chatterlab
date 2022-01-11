@@ -64,7 +64,7 @@ None!
 
 #### In-class activities
 * Presentation: Syllabus and course goals (and non-goals)
-* Presentation: Introduction to Git and GitHub
+* Presentation: Introduction to Git and GitHub [[slides]](https://uchicago.box.com/s/mo5yhg3fx9gkfhislxeiw0dfz1cxnmef)
 * Laptops out:
     * Support groups
     * <span style="color:orange">Creating a repo, sharing it, creating a .gitignore, and making your first commit</span>
@@ -197,7 +197,7 @@ None!
 #### Pre-class preparation
 * <span style="color:orange">Go through your existing code and make sure you have informative comments</span>
 * Install the `papaja` package in Rstudio (follow the instructions [here](https://github.com/crsh/papaja))
-* Read about the [basics of RMarkdown](https://r4ds.had.co.nz/r-markdown.html) in Hadley Wickham's _R for Data Science_
+* Read about the [basics of RMarkdown](https://r4ds.had.co.nz/r-markdown.html) in Hadley Wickham's _R for Data Science_; for a more detailed introduction, check out [chapter 2](https://bookdown.org/yihui/rmarkdown/basics.html) in Yihui Xie et al.'s _R Markdown: The Definitive Guide_
 
 #### In-class activities
 * Presentation: Introduction to RMarkdown, code chunks, formatting, and knitting
