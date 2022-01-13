@@ -81,6 +81,8 @@ None!
 
 ### Week 01: Thursday, 13 January 2022
 
+[[slides]](https://docs.google.com/presentation/d/1Xt0s900Z0glHyDQNYDIy9YulRoPbYiwDUraVXlTgba8/edit?usp=sharing)
+
 #### Pre-class reading
 Sacks, H., Schegloff, E. A., & Jefferson, G. (1974). A simplest systematics for the organization of turn taking for conversation. In _Studies in the Organization of Conversational Interaction_ (pp. 7-55). Academic Press. [pdf](https://www.dropbox.com/s/zs4ld65w1o0suyn/sacks1974simplest.pdf?dl=0)
 
