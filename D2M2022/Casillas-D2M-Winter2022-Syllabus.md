@@ -73,10 +73,11 @@ None!
 ### Thursday, 13 January 2022 (1.2): Part 2
 
 #### Pre-class preparation
-* Read the [dataset selection guidelines](./course_instructions/instructions-data_selection_guidelines.md) for the class <!--To do-->
+* Read the [dataset selection guidelines](./course_instructions/instructions-data_selection_guidelines.md) for the class 
 * Select a dataset for you to use in the class. Contact Dr. Casillas ASAP if you are unsure which to choose.
  	
 #### In-class activities
+* Presentation: READMEs and dataset selection [[slides]](https://uchicago.box.com/s/2899neaz424f5vvvyj5bqn8l8p6qozwg)
 * Share: What dataset will you be working with?
 * Laptops out:
     * <span style="color:orange">Push a README briefly describing the study/dataset you will be working with. Imagine this from the perpsective of someone visiting your repository who hopes to review your code and work with your data. **NOTE: If you intend to make this repository public, never push any private data. It will be stored in your history even if you delete it!** Make at least three commits during this process.</span>
