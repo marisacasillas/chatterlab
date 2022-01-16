@@ -11,21 +11,21 @@ Looking for [tools](./tools.md)?
 
 Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (under review; October 2021). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
 
-**Casillas, M.** & Elliott, M. (submitted). Cross-cultural differences in children's object handling at home. [[ms](./lab-publications/Casillas_Elliott_submitted_crosscultural_differences_in_childrens_object_handling_at_home.pdf)]
+**Casillas, M.** & Elliott, M. (under review). Cross-cultural differences in children's object handling at home. [[ms](./lab-publications/Casillas_Elliott_submitted_crosscultural_differences_in_childrens_object_handling_at_home.pdf)]
 
-Cristia, A. & **Casillas, M.** (in revision Aug 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview_Nonword_repetition_in_children_learning_Yeli_Dnye_v20210211.pdf)] [[osf](https://osf.io/5qspb/)]
-
-Peute, A. A. K. & **Casillas, M.** (revision under review October 2021). (Non-)effects of linguistic environment on early stable consonant production: A crosscultural case study. [[ms](https://psyarxiv.com/5feju/)]
+Cristia, A. & **Casillas, M.** (revision under review November 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview_Nonword_repetition_in_children_learning_Yeli_Dnye_v20210211.pdf)] [[osf](https://osf.io/5qspb/)]
 
 ## in press/accepted
 
-De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (accepted). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language XX_. [[ms](./lab-publications/DeVos_et_al_accepted_Predicting_conversational_turns_Language.pdf)]
+Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
-Brown, P., & **Casillas, M.** (accepted). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
-
 **Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. _Research on Children and Social Interaction, 5_(2). [[ms](./lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
+
+Peute, A. A. K. & **Casillas, M.** (accepted pending minor revisions). (Non-)effects of linguistic environment on early stable consonant production: A crosscultural case study. [[ms](https://psyarxiv.com/5feju/)]
+
+De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (to appear March 2022). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language XX_. [[ms](./lab-publications/DeVos_et_al_accepted_Predicting_conversational_turns_Language.pdf)]
 
 
 ## 2021
