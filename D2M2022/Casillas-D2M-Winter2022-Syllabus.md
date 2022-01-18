@@ -93,7 +93,7 @@ None!
 * Read about [R basics (Ch 2)](https://intro2r.com/basics_r.html), [data types (Ch 3)](https://intro2r.com/data_r.html), and [programming basics (especially 7.3, 7.4, and 7.5)](https://intro2r.com/prog_r.html) in Douglas et al.'s _An Introduction to R_; if you are brand new to R, try to follow along with the example code in your RStudio console
 
 #### In-class activities
-* Presentation: R, RStudio, packages, and a first glimpse at tidyverse
+* Presentation: R, RStudio, packages, and a first glimpse at tidyverse [[slides]](https://uchicago.box.com/s/iu0q77cgaxsv20njh9qludqqr04vlu1k)
 * Laptops out:
     * Confirm/troubleshoot installations
     * <span style="color:orange">Hello world demo and code commenting</span>
