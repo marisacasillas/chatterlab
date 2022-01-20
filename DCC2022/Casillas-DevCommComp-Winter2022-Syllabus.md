@@ -99,6 +99,8 @@ Stivers, T., & Rossano, F. (2010). Mobilizing response. _Research on Language an
 
 ### Week 02: Tuesday, 18 January 2022
 
+[[slides]](https://docs.google.com/presentation/d/1RcfVkhqwiO0Hy6ZZPZ6grAViS3GOqRJiQPhRFgdjrJU/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/snHzLZiUz4LWcucItmIOqhiEd8rjIZBhkWAjg4N9yIEQEHJvh4wYcGyc23zFtxP5.TW1hRtgQY9xGuUGZ)
+
 #### Pre-class reading
 Stivers, T., Enfield, N. J., Brown, P., Englert, C., Hayashi, M., Heinemann, T., ... & Levinson, S. C. (2009). Universals and cultural variation in turn-taking in conversation. _Proceedings of the National Academy of Sciences, 106_(26), 10587-10592. [pdf](https://www.dropbox.com/s/c6v37lvliw66hg8/stivers2009universal.pdf?dl=0)
 
@@ -116,6 +118,8 @@ Manrique, E., Rossi, G., & Levinson, S. C. (2020). Sequence organization: A univ
 2. Choose/make your interaction clips for annotation; notify Dr. Casillas
 
 ### Week 02: Thursday, 20 January 2022
+
+[[slides]](https://docs.google.com/presentation/d/11LbKKoWN52ltpyv24JfRUG_8KhWTa5UgkhjLadpZH3M/edit?usp=sharing)
 
 #### Pre-class reading
 Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: bridging the gap between human and animal communication. _Proceedings of the Royal Society B: Biological Sciences, 285_(1880), 20180598. [pdf](https://www.dropbox.com/s/4n5zdd9gxxulkbi/pika2018taking.pdf?dl=0)
