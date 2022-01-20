@@ -106,7 +106,7 @@ None!
 * Read about [tibbles](https://r4ds.had.co.nz/tibbles.html), [data import](https://r4ds.had.co.nz/data-import.html), and [pipes](https://r4ds.had.co.nz/pipes.html) in Hadley Wickham's _R for Data Science_
 
 #### In-class activities
-* Presentation: Tibble and readr basics
+* Presentation: Tibble and readr basics [[slides]](https://uchicago.box.com/s/ertigjti0uf7kwni6c8al1tgozulpuze)
 * Laptops out:
     * Read in and write out demo
     * <span style="color:orange">Read in and write out your own dataset; troubleshoot in support groups</span>
