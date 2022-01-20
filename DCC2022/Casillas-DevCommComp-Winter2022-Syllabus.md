@@ -130,8 +130,8 @@ Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: 
 
 #### Assignments due
 1. Reading notes
-2. Annotations: Diarization (due by Sunday, January 16th 13.59 Chicago time)
-3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations? (due by Sunday, January 16th 13.59 Chicago time)
+2. Annotations: Diarization (due by Sunday, January 23rd 13.59 Chicago time)
+3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations? (due by Sunday, January 23rd 13.59 Chicago time)
 
 ### Week 03: Tuesday, 25 January 2022
 
@@ -156,8 +156,8 @@ Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialog
 
 #### Assignments due
 1. Reading notes
-2. Annotations: First-pass transcription (due by Sunday, January 23rd 13.59 Chicago time)
-3. Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.) (due by Sunday, January 23rd 13.59 Chicago time)
+2. Annotations: First-pass transcription (due by Sunday, January 30th 13.59 Chicago time)
+3. Reflection paragraph: What does transcription miss about interaction? How would you propose to maximize the benefits of transcription while minimizing missed information? (Be practical.) (due by Sunday, January 30th 13.59 Chicago time)
 
 
 ### Week 04: Tuesday, 01 February 2022
