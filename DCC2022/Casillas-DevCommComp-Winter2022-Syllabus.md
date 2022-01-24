@@ -119,7 +119,7 @@ Manrique, E., Rossi, G., & Levinson, S. C. (2020). Sequence organization: A univ
 
 ### Week 02: Thursday, 20 January 2022
 
-[[slides]](https://docs.google.com/presentation/d/11LbKKoWN52ltpyv24JfRUG_8KhWTa5UgkhjLadpZH3M/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/11LbKKoWN52ltpyv24JfRUG_8KhWTa5UgkhjLadpZH3M/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/Nfkey674j7H7twj0-3u2MByXogl5mgD9DUh9BLiXgzhYNLnxeLcyPiy2EObpQKYq.YrwQSaHes2VeK4A2)
 
 #### Pre-class reading
 Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: bridging the gap between human and animal communication. _Proceedings of the Royal Society B: Biological Sciences, 285_(1880), 20180598. [pdf](https://www.dropbox.com/s/4n5zdd9gxxulkbi/pika2018taking.pdf?dl=0)
@@ -134,6 +134,8 @@ Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: 
 3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations? (due by Sunday, January 23rd 13.59 Chicago time)
 
 ### Week 03: Tuesday, 25 January 2022
+
+[[slides]](https://docs.google.com/presentation/d/1aIfcz83XrP8s69_gHMEcsmzNawmCY_R8y04e9zN_AAQ/edit?usp=sharing)
 
 #### Pre-class reading
 Ratner, N., & Bruner, J. (1978). Games, social exchange and the acquisition of language. _Journal of Child Language, 5_(3), 391-401. [pdf](https://www.dropbox.com/s/lzv71p3xdbbjgi8/ratner1978games.pdf?dl=0)

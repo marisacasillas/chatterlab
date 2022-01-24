@@ -117,7 +117,7 @@ None!
 * Read about [dplyr](https://r4ds.had.co.nz/transform.html) and [tidyr](https://r4ds.had.co.nz/tidy-data.html) in Hadley Wickham's _R for Data Science_
 
 #### In-class activities
-* Presentation: Basic data manipulation and preparation functions
+* Presentation: Basic data manipulation and preparation functions [[slides]](https://uchicago.box.com/s/7aamkxvo7qzzkn8hsxpusw0jw5o3w69p)
 * Laptops out:
     * dplyr and tidyr demo
     * <span style="color:orange">Create a mockup of your desired data format (push as an image, sample spreadsheet file, and README description)</span>
