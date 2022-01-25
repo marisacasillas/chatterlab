@@ -117,6 +117,8 @@ None!
 * Read about [dplyr](https://r4ds.had.co.nz/transform.html) and [tidyr](https://r4ds.had.co.nz/tidy-data.html) in Hadley Wickham's _R for Data Science_
 
 #### In-class activities
+[[recording]](https://uchicago.zoom.us/rec/share/kX5t98KTFWSkqeVpBiJOkNzqFO7EkNadXZRtHOxXIuMGo1e16QTm06znf7ZShlA0.HhJJS89lAcmdgYWN)
+
 * Presentation: Basic data manipulation and preparation functions [[slides]](https://uchicago.box.com/s/7aamkxvo7qzzkn8hsxpusw0jw5o3w69p)
 * Laptops out:
     * dplyr and tidyr demo
