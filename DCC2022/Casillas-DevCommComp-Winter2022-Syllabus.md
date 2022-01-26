@@ -135,7 +135,7 @@ Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: 
 
 ### Week 03: Tuesday, 25 January 2022
 
-[[slides]](https://docs.google.com/presentation/d/1aIfcz83XrP8s69_gHMEcsmzNawmCY_R8y04e9zN_AAQ/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1aIfcz83XrP8s69_gHMEcsmzNawmCY_R8y04e9zN_AAQ/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/rR6NFyH4gF7ru1KxrQNcKy9S6BH-9kkUmWm-8KOprwBbjpPiY5dGOPEKMDMLl3sQ.BL1tDfYW-nnb2MJM)
 
 #### Pre-class reading
 Ratner, N., & Bruner, J. (1978). Games, social exchange and the acquisition of language. _Journal of Child Language, 5_(3), 391-401. [pdf](https://www.dropbox.com/s/lzv71p3xdbbjgi8/ratner1978games.pdf?dl=0)
