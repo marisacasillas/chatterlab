@@ -132,7 +132,7 @@ None!
 
 #### In-class activities
 * Laptops out:
-    * Data preparation demo
+    * Data preparation demo [[slides]](https://uchicago.box.com/s/4vigm9cgx1wg2z83bl6a65b8gmet9t4u)
     * <span style="color:orange">Plan how you will prep your own dataset and begin prepping</span>
 
 ### Tuesday, 01 February 2022 (4.1): Part 5
