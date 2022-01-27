@@ -131,6 +131,8 @@ None!
 * Prepare any supplementary data you need for your desired format
 
 #### In-class activities
+[[recording]](https://uchicago.zoom.us/rec/share/pmP_H4nlMZpoWlvEQ7lKOOKDp6IWgM4YaKr0c_9PdOG0PBh1LKM3SN8Yby9gUrw.vozB7KwBI9MWE3g1)
+
 * Laptops out:
     * Data preparation demo [[slides]](https://uchicago.box.com/s/4vigm9cgx1wg2z83bl6a65b8gmet9t4u)
     * <span style="color:orange">Plan how you will prep your own dataset and begin prepping</span>

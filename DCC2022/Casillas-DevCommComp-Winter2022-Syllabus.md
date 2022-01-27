@@ -151,7 +151,7 @@ Bornstein, M. H., Putnick, D. L., Cote, L. R., Haynes, O. M., & Suwalsky, J. T. 
 
 ### Week 03: Thursday, 27 January 2022
 
-[[slides]](https://docs.google.com/presentation/d/1JctgsRfPOR8j9BBhW60VpWj3I4XBPGy9FBHMs2FgZ54/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1JctgsRfPOR8j9BBhW60VpWj3I4XBPGy9FBHMs2FgZ54/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/xZX4Zmz6bOP7Ak6WIad1kS-Dg304fzjbIVlDoab4AT9XwcHYde2gf_qZQ5CFgCI7.jQ9jYNxswfzElrms)
 
 #### Pre-class reading
 Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. _Frontiers in Psychology, 6_: 731. doi:10.3389/fpsyg.2015.00731. [pdf](https://www.dropbox.com/s/wc9gsga25j3co5h/levinson2015timing.pdf?dl=0)
