@@ -139,6 +139,8 @@ None!
 
 ### Tuesday, 01 February 2022 (4.1): Part 5
 
+[[slides]](https://uchicago.box.com/s/mx4ynvjz4ncriy065fs96kj9r8fge0x3) [no recording today—in class work session]
+
 #### Pre-class preparation
 * Continue working on your data prep (we will continue in class; finishing this task is today's assignment)
 
@@ -149,6 +151,8 @@ None!
 ## Module 3: Plotting your data
 
 ### Thursday, 03 February 2022 (4.2): Part 1
+
+[[slides]](https://uchicago.box.com/s/ijr4ym79fzrkluik0aq056weqcbuzcsh)
 
 #### Pre-class preparation
 * Read about [ggplot](https://r4ds.had.co.nz/data-visualisation.html) in Hadley Wickham's _R for Data Science_
