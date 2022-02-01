@@ -166,6 +166,8 @@ Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialog
 
 ### Week 04: Tuesday, 01 February 2022
 
+[[slides]](https://docs.google.com/presentation/d/1EyuoG3nFLRrilp7BPhi4br5tBk9fVLeRgQA_Al3EkLI/edit?usp=sharing) [no recording today—in-class work session]
+
 #### Pre-class reading
 Bögels, S., & Torreira, F. (2015). Listeners use intonational phrase boundaries to project turn ends in spoken interaction. _Journal of Phonetics, 52_, 46-57. [pdf](https://www.dropbox.com/s/iwckfce6w2c6g3y/bogels2015listeners.pdf?dl=0)
 
@@ -180,6 +182,8 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 2. Outline for presentation on turn-taking feature
 
 ### Week 04: Thursday, 03 February 2022
+
+<!--[[slides]](https://docs.google.com/presentation/d/14VjZgP4TzMp-dSBeyFcKIuXgjrYNPHFA_eHp0IKwJUM/edit?usp=sharing)-->
 
 #### Pre-class reading
 Bögels, S. (2020). Neural correlates of turn taking in the wild: Response planning starts early in free interviews. _Cognition, 203_:104347. [pdf](https://www.dropbox.com/s/5tg9nqkikzrqn1h/bogels2020neural.pdf?dl=0)
