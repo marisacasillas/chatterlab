@@ -13,7 +13,7 @@ Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, 
 
 **Casillas, M.** & Elliott, M. (under review, November 2021). Cross-cultural differences in children's object handling at home. [[ms](./lab-publications/Casillas_Elliott_submitted_crosscultural_differences_in_childrens_object_handling_at_home.pdf)]
 
-Cristia, A. & **Casillas, M.** (revision under review November 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview_Nonword_repetition_in_children_learning_Yeli_Dnye_v20210211.pdf)] [[osf](https://osf.io/5qspb/)]
+Cristia, A. & **Casillas, M.** (revision under review November 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview2_Nonword_repetition_in_children_learning_Yeli_Dnye_v20211125.pdf)] [[osf](https://osf.io/5qspb/)]
 
 ## in press/accepted
 
