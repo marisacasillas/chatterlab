@@ -642,4 +642,20 @@ ggplot(mmdata.long.rainbow, aes(Color, Number, color = Color, fill = Color)) +
   theme_apa()
 
 
+##########
+
+## hh
+count.summary <- Dataedit1 %>%
+  group_by(LDLGrouping, ObservedTherapy) %>%
+  summarize(count = n()) %>%
+  filter(!is.na(LDLGrouping)) %>%
+  ungroup() %>%
+  complete(ObservedTherapy, LDLGrouping, fill = list(count = 0)) %>%
+  mutate(
+    LDLGrouping = factor(LDLGrouping,
+                         levels = c("0-69", "70-99", "100-130", ">130")),
+    ObservedTherapy = factor(ObservedTherapy,
+                             levels = c("Low", "Moderate", "High")))
+ggplot(count.summary, aes (x = LDLGrouping, y = count, fill = ObservedTherapy)) +
+  geom_bar(stat = "identity", position = position_dodge())
 
