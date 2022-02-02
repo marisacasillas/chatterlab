@@ -13,15 +13,16 @@ Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquet
 
 Casey, K., & **Casillas, M.** (under review, February 2022). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words. [[ms](./lab-publications/Casey_Casillas_submitted_Developmental_shifts_in_use_of_register_specific_words.pdf)]
 
-**Casillas, M.** & Elliott, M. (under review, November 2021). Cross-cultural differences in children's object handling at home. [[ms](./lab-publications/Casillas_Elliott_submitted_crosscultural_differences_in_childrens_object_handling_at_home.pdf)]
-
-Cristia, A. & **Casillas, M.** (revision under review, November 2021). Nonword repetition in children learning Yélî Dnye. [[ms](./lab-publications/Cristia_Casillas_underreview2_Nonword_repetition_in_children_learning_Yeli_Dnye_v20211125.pdf)] [[osf](https://osf.io/5qspb/)]
-
 Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (under review, October 2021). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
+
+**Casillas, M.** & Elliott, M. (in prep, February 2022). Cross-cultural differences in children's object handling at home. [[ms](./lab-publications/Casillas_Elliott_submitted_crosscultural_differences_in_childrens_object_handling_at_home.pdf)]
+
 
 ## in press/accepted
 
 Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](./lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
+
+Cristia, A. & **Casillas, M.** (accepted). Nonword repetition in children learning Yélî Dnye. _Language Development Research_ [[ms](./lab-publications/Cristia_Casillas_underreview2_Nonword_repetition_in_children_learning_Yeli_Dnye_v20211125.pdf)] [[osf](https://osf.io/5qspb/)]
 
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
