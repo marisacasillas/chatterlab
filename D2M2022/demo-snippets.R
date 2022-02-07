@@ -176,6 +176,7 @@ ggplot(adultdata, aes(age)) + geom_histogram(binwidth = 5)
 
 ggplot(adultdata, aes(`education-num`)) + geom_density()
 ggplot(adultdata, aes(`education-num`)) + geom_density(adjust = 2) 
+# ggplot(adultdata, aes(`education-num`)) + geom_density(adjust = 0.5) 
 
 ggplot(adultdata, aes(race)) + geom_density()
 
@@ -190,9 +191,11 @@ aduldata.occupations.noUNK <- adultdata %>%
   filter(occupation != "?")
 ggplot(aduldata.occupations.noUNK, aes(occupation)) + geom_bar()
 
+
+
 ### recreate these plots
-ggplot(adultdata) + geom_histogram(aes(`capital-gain`), binwidth = 5000)
-ggplot(adultdata) + geom_density(aes(y = `hours-per-week`))
+ggplot(adultdata, aes(`capital-gain`)) + geom_histogram(binwidth = 5000)
+ggplot(adultdata, aes(y = `hours-per-week`)) + geom_density()
 
 ################################################################################
 # 5.1
