@@ -157,6 +157,8 @@ None!
 * Finish implementing your data preparation if you didn't manage to complete that in class
 
 #### In-class activities
+[[recording]](https://uchicago.zoom.us/rec/share/61F9CSJa_bUBefIIyYowYOQgoyv9arryXS3M5LvP8AeBIBCeYvHAJeBxvxrJIDlr.Wm4b0_oBHLrWr5v0)
+
 * Presentation: Introduction to ggplot [[slides]](https://uchicago.box.com/s/ijr4ym79fzrkluik0aq056weqcbuzcsh)
 * Laptops out:
     * ggplot one-variable demo
@@ -168,7 +170,7 @@ None!
 * Imagine two plots you would like to see of your data
 
 #### In-class activities
-* Presentation: Plotting multiple variables at once
+* Presentation: Plotting multiple variables at once [[slides]](https://uchicago.box.com/s/iow5q9ednjb5xhf9cbci6804to5a1d0x)
 * Laptops out:
     * ggplot two- and three-variable demo
     * mini data cleaning/reformatting demo
