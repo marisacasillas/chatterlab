@@ -183,7 +183,7 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 
 ### Week 04: Thursday, 03 February 2022
 
-[[slides]](https://docs.google.com/presentation/d/14VjZgP4TzMp-dSBeyFcKIuXgjrYNPHFA_eHp0IKwJUM/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/14VjZgP4TzMp-dSBeyFcKIuXgjrYNPHFA_eHp0IKwJUM/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/DKTHWEwozd9TsoS2ZvWA4lt3c3iRNB8Wi00XEVk04xlD1roJlLdPG-clhy80FP9C.cy0P8ArUbAThextk)
 
 #### Pre-class reading
 Bögels, S. (2020). Neural correlates of turn taking in the wild: Response planning starts early in free interviews. _Cognition, 203_:104347. [pdf](https://www.dropbox.com/s/5tg9nqkikzrqn1h/bogels2020neural.pdf?dl=0)
@@ -201,6 +201,8 @@ Lelonkiewicz, J. R., Gambi, C., Weller, L., & Pfister, R. (2020). Action-effect 
 ## Visible conversation
 
 ### Week 05: Tuesday, 08 February 2022
+[[slides]](https://docs.google.com/presentation/d/1YmQgn_S2UuHk_e8bzyK0NbQhopI61bsHcNqGAbAYMzE/edit?usp=sharing)
+
 
 #### Pre-class reading
 Holler, J. & Levinson, S. C. (2019). Multimodal language processing in human communication. _Trends in Cognitive Sciences 23_(8), p. 639--652. [pdf](https://www.dropbox.com/s/dd53spft3m9vcac/holler2019multimodal.pdf?dl=0)
