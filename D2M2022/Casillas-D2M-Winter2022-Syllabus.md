@@ -170,6 +170,8 @@ None!
 * Imagine two plots you would like to see of your data
 
 #### In-class activities
+[[recording]](https://uchicago.zoom.us/rec/share/vqvfgX1yyWzzCZTBHiRN2MzNkfjVjdIjl57ybgryBBxGlST7tm5sMplIPOHScMJC.UmmY9iaL3jDnN1zB)
+
 * Presentation: Plotting multiple variables at once [[slides]](https://uchicago.box.com/s/iow5q9ednjb5xhf9cbci6804to5a1d0x)
 * Laptops out:
     * ggplot two- and three-variable demo
