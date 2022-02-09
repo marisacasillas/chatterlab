@@ -201,7 +201,7 @@ Lelonkiewicz, J. R., Gambi, C., Weller, L., & Pfister, R. (2020). Action-effect 
 ## Visible conversation
 
 ### Week 05: Tuesday, 08 February 2022
-[[slides]](https://docs.google.com/presentation/d/1YmQgn_S2UuHk_e8bzyK0NbQhopI61bsHcNqGAbAYMzE/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1YmQgn_S2UuHk_e8bzyK0NbQhopI61bsHcNqGAbAYMzE/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/0m5potBmcR7917lkrEq7ybcHVKbw0cVZ5Ln6CHlqD1K7laSvsmaLhLLaDY4KTpX7.y3yzGdjL2paz74Mq)
 
 
 #### Pre-class reading
