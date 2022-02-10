@@ -372,13 +372,15 @@ ggplot(mmdata.long, aes(Color, Number, fill = Color)) +
 ################################################################################
 # 5.2
 library(tidyverse)
+
+# read in the M&M data and make it long
 mmdata <- read_csv("MM Data.csv")
 mmdata.long <- read_csv("MM Data.csv") %>%
   pivot_longer(cols = c("Red", "Green", "Blue", "Orange",
                         "Yellow", "Brown"),
                names_to = "Color", values_to = "Number")
 
-## each geoms has some options for aesthetic mappings, e.g.,
+## each geom has some options for aesthetic mappings, e.g.,
 ggplot(mmdata.long, aes(Color, Number)) +
   geom_jitter()
 ggplot(mmdata.long, aes(Color, Number, color = Color)) +
@@ -397,20 +399,14 @@ ggplot(mmdata.long, aes(Color, Number, fill = Color, stroke = Number)) +
   geom_jitter(shape = 24)
 
 ## what is happening with inheritance?
+# let's see with the mpg dataset (free with tidyverse)
 ggplot(mpg, aes(x = cyl, y = hwy,
                 fill = class, color = class)) +
   geom_jitter(shape = 24) +
   geom_smooth(method = "lm")
-ggplot(mpg, aes(x = cyl, y = hwy,
-           fill = class)) +
-  geom_jitter(shape = 24) +
-  geom_smooth(aes(color = class), method = "lm")
 
-ggplot(mpg, aes(x = cyl, y = hwy, fill = class, color = class)) +
-  geom_jitter(shape = 24) +
-  geom_smooth(method = "lm")
 ggplot(mpg, aes(x = cyl, y = hwy,
-           fill = class)) +
+                fill = class)) +
   geom_jitter(shape = 24) +
   geom_smooth(aes(color = class), method = "lm")
 
@@ -419,6 +415,7 @@ ggplot(mpg, aes(x = cyl, y = hwy,
 ggplot(mpg, aes(x = cyl, y = hwy)) +
   geom_jitter(aes(color = manufacturer), shape = 24) +
   geom_smooth(aes(color = class), method = "lm")
+
 ggplot(mpg, aes(x = cyl, y = hwy, fill = class, color = class)) +
   geom_jitter(shape = 24) +
   geom_smooth(data = filter(mpg, class != "2seater"),
@@ -461,8 +458,10 @@ ggplot(adultdata, aes(age.bins, fill = income)) +
   geom_bar(position = "fill")
 ggplot(adultdata, aes(sex, fill = income)) +
   geom_bar(position = "fill")
+ggplot(adultdata, aes(race, fill = income)) +
+  geom_bar(position = "fill")
 
-# by using facetting, we can break out the dataset in a matrix
+# by using faceting, we can break out the dataset into a matrix
 ggplot(adultdata, aes(race, fill = income)) +
   geom_bar(position = "fill") +
   facet_grid(education.bins ~ sex)
@@ -494,8 +493,10 @@ ggplot(adultdata, aes(race, fill = income)) +
   guides(fill = guide_legend("Income group")) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-# by using scale_fill_manual() we can specify different colors for the fill
-# (note that if you want to change color—not fill—you need scale_color_manual())
+# by using scale_fill_manual() we can specify different colors for
+# the fill (note that if you want to change color—not fill—you need
+# scale_color_manual(), and you can think the same for other aes
+# mappings)
 ggplot(adultdata, aes(race, fill = income)) +
   geom_bar(position = "fill") +
   facet_grid(education.bins ~ sex) +
@@ -504,10 +505,10 @@ ggplot(adultdata, aes(race, fill = income)) +
        subtitle = "(Sex, education group, and race)") +
   guides(fill = guide_legend("Income group")) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  scale_fill_manual(values = c("orange", "blue"))
+  scale_fill_manual(values = c("goldenrod", "lightblue"))
 
 
-## ex. age sampling across edu bins and race
+## ex. age sampling across age and edu bins
 ggplot(adultdata, aes(education.bins, age)) +
   geom_jitter() +
   geom_boxplot()
@@ -522,7 +523,7 @@ ggplot(adultdata, aes(education.bins, age)) +
 # make jitter less distracting by making it more transparent
 ggplot(adultdata, aes(education.bins, age)) +
   geom_jitter(alpha = 0.1) +
-  geom_boxplot(outlier.shape = NA, alpha = 0.0) +
+  geom_boxplot(outlier.shape = NA, ) +
   facet_grid(. ~ race)
 
 ## add color by education bin in each facet (redundant but useful)
@@ -531,7 +532,8 @@ ggplot(adultdata, aes(education.bins, age, color = education.bins)) +
   geom_boxplot(outlier.shape = NA, alpha = 0.0) +
   facet_grid(. ~ race)
 
-## change boxplot color to black across all plots for better visibility
+## change boxplot color to black across all plots for better
+# visibility
 ggplot(adultdata, aes(education.bins, age, color = education.bins)) +
   geom_jitter(alpha = 0.1) +
   geom_boxplot(outlier.shape = NA, alpha = 0.0, color = "black") +
@@ -543,7 +545,7 @@ ggplot(adultdata, aes(education.bins, age, color = education.bins)) +
   geom_boxplot(outlier.shape = NA, alpha = 0.0, color = "black") +
   facet_grid(. ~ race) +
   labs(x = "Education type", y = "Age (years)")
-  
+
 ## since color is redundant, we should remove the legend
 ggplot(adultdata, aes(education.bins, age, color = education.bins)) +
   geom_jitter(alpha = 0.1) +
@@ -558,6 +560,7 @@ ggplot(adultdata, aes(education.bins, age, color = education.bins)) +
   geom_jitter(alpha = 0.1) +
   geom_boxplot(outlier.shape = NA, alpha = 0.0, color = "black") +
   facet_grid(. ~ race) +
+  labs(x = "Education type", y = "Age (years)") +
   guides(color = "none") +
   theme_apa()
 
