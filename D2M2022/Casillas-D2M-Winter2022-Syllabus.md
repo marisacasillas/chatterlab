@@ -184,7 +184,7 @@ None!
 * Create initial drafts of your planned plots
 
 #### In-class activities
-* Presentation: Customizing: Axes, labels, facets, colors, shapes, and themes
+* Presentation: Customizing: Axes, labels, facets, colors, shapes, and themes [[slides]](https://uchicago.box.com/s/306t6syvlqy1epy4dcm36mryrk29wozh)
 * Laptops out:
     * ggplot customization demo
     * <span style="color:orange">exercise: recreate this plot</span>
