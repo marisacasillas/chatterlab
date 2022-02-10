@@ -221,6 +221,8 @@ De Vos, C., Torreira, F., & Levinson, S. C. (2015). Turn-timing in signed conver
 
 ### Week 05: Thursday, 10 February 2022
 
+[[slides]](https://docs.google.com/presentation/d/1kSzM6O8m6KklIqsQCvswFGRenY4fmj-AmBeapsjxE68/edit?usp=sharing)
+
 #### Pre-class reading
 Hömke, P., Holler, J., & Levinson, S. C. (2018). Eye blinks are perceived as communicative signals in human face-to-face interaction. _PLoS One, 13_(12): e0208030. doi:10.1371/journal.pone.0208030. [pdf](https://www.dropbox.com/s/tg6b9m43ctw8cx2/homke2018eye.pdf?dl=0)
 
