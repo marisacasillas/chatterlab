@@ -184,6 +184,8 @@ None!
 * Create initial drafts of your planned plots
 
 #### In-class activities
+[[recording]](https://uchicago.zoom.us/rec/share/4j1_fE5dx0S__oPBZmGLSrZVbnQEmArvQKOzuS2Xg0W9tpyHPVTcgQYMTDoKLOQh.vh0AiUvTeJSBvPQi)
+
 * Presentation: Customizing: Axes, labels, facets, colors, shapes, and themes [[slides]](https://uchicago.box.com/s/306t6syvlqy1epy4dcm36mryrk29wozh)
 * Laptops out:
     * ggplot customization demo
