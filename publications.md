@@ -9,13 +9,15 @@ Looking for [tools](./tools.md)?
 
 ## selected preprints
 
+Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (in revision, February 2022). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
+
 Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & **Casillas, M.** (under review, February 2022). Sticks, leaves, buckets, and bowls: Distributional patterns of children's at-home object handling in two subsistence societies. [[ms](./lab-publications/Casey_et_al_submitted_Distributional_patterns_of_at_home_object_handling.pdf)]
 
 Casey, K., & **Casillas, M.** (under review, February 2022). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words. [[ms](./lab-publications/Casey_Casillas_submitted_Developmental_shifts_in_use_of_register_specific_words.pdf)]
 
-Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (under review, October 2021). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
-
 **Casillas, M.** & Elliott, M. (in prep, February 2022). Cross-cultural differences in children's object handling at home. [[ms](./lab-publications/Casillas_Elliott_submitted_crosscultural_differences_in_childrens_object_handling_at_home.pdf)]
+
+Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (under review, February 2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. [[ms](https://psyarxiv.com/u7qjd/)]
 
 
 ## in press/accepted
