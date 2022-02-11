@@ -263,8 +263,7 @@ None!
 #### In-class activities
 * Presentation: BibTeX part 1
 * Laptops out:
-    * <span style="color:orange">Create a .bib file with your references</span>
-    * <span style="color:orange">Start implementing in-text references in your rmd</span>
+    * <span style="color:orange">Create a .bib file with at least 5 of your references</span>
 
 ### Tuesday, 08 March 2022 (9.1): Part 2
 
@@ -276,7 +275,7 @@ None!
 * Laptops out:
     * Citation styles demo
     * Add non-cited references
-    * <span style="color:orange">Finish implementing in-text references in your rmd</span>
+    * <span style="color:orange">Add at least 10 in-text bibliographic references into your rmd</span>
 
 ### Thursday, 10 March 2022 (9.2): Part 3
 
@@ -287,7 +286,7 @@ None!
 * Presentation: In-line code
 * Laptops out:
 	* in-line reference addition demo
-	* <span style="color:orange">add some in-line references to your rmd</span>
+	* <span style="color:orange">add two in-line numerical references, one figure reference, and one table reference to your rmd. note this means you need to have code chunks that generate numbers, a figure, and a table to refer to!</span>
 * Group share: Current .rmd, goals for final version, and troubleshooting
 
 ## Final deadline (Tuesday, 15 March 2022)
