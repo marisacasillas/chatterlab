@@ -198,7 +198,9 @@ None!
 * Review the [cheatsheet](https://www.rstudio.com/resources/cheatsheets/) for ggplot
 
 #### In-class activities
-* Presentation: Share planned plots with each other
+[no recording today—in class work session]
+
+* Presentation: Share planned plots with each other [[slides]](https://uchicago.box.com/s/z3e0lzhsatrphznw9sqj6nt0adcdx0jf)
 * Laptops out:
     * <span style="color:orange">create your plot!</span>
 
@@ -213,7 +215,9 @@ None!
 * Read about the [basics of RMarkdown](https://r4ds.had.co.nz/r-markdown.html) in Hadley Wickham's _R for Data Science_; for a more detailed introduction, check out [chapter 2](https://bookdown.org/yihui/rmarkdown/basics.html) in Yihui Xie et al.'s _R Markdown: The Definitive Guide_
 
 #### In-class activities
-* Presentation: Introduction to RMarkdown, code chunks, formatting, and knitting
+[[recording]](https://uchicago.zoom.us/rec/share/9IEr2ZQhzF_Ev6lZEGZnupvizw2SqEVkhcSi-bRH0XxbFdsDYkq5FPnB7W6o_ohU.ZBkjsXtKxJ991KUM)
+
+* Presentation: Introduction to RMarkdown, code chunks, formatting, and knitting [[slide]](https://uchicago.box.com/s/65eh3hhqgr3kg2feofi3jxn3jv22djj2)
 * Laptops out:
     * create and compare rmd files
     * insert comments into the code chunks and in the text
