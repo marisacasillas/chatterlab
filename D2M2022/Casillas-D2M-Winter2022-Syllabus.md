@@ -217,7 +217,7 @@ None!
 #### In-class activities
 [[recording]](https://uchicago.zoom.us/rec/share/9IEr2ZQhzF_Ev6lZEGZnupvizw2SqEVkhcSi-bRH0XxbFdsDYkq5FPnB7W6o_ohU.ZBkjsXtKxJ991KUM)
 
-* Presentation: Introduction to RMarkdown, code chunks, formatting, and knitting [[slide]](https://uchicago.box.com/s/65eh3hhqgr3kg2feofi3jxn3jv22djj2)
+* Presentation: Introduction to RMarkdown, code chunks, formatting, and knitting [[slides]](https://uchicago.box.com/s/65eh3hhqgr3kg2feofi3jxn3jv22djj2)
 * Laptops out:
     * create and compare rmd files
     * insert comments into the code chunks and in the text
