@@ -237,6 +237,8 @@ Pouw, W., Proksch, S., Drijvers, L., Gamba, M., Holler, J., Kello, C., Schaefer,
 
 ## Conversation with child interactants
 
+[[slides]](https://docs.google.com/presentation/d/15e_Ejpa7QBWAw_oj9YV-RlgCyOElIsnXlFhrYeHTM_Y/edit?usp=sharing) [no recording—class canceled]
+
 ### Week 06: Tuesday, 15 February 2022
 
 #### Pre-class reading
