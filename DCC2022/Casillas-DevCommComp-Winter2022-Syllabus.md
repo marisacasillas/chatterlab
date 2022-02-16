@@ -252,7 +252,7 @@ Casillas, M., & Hilbrink, E. (2020). Communicative act development. In K. P. Sch
 
 
 ### Week 06: Thursday, 17 February 2022
-[[slides]](https://docs.google.com/presentation/d/1sgffSEES4qfomqvwT1IUhthFBLuj9Pa8UrsBq4WTL_Y/edit?usp=sharing) 
+[[slides]](https://docs.google.com/presentation/d/1sgffSEES4qfomqvwT1IUhthFBLuj9Pa8UrsBq4WTL_Y/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/GNr45VQpTqgwxfUqBYlXGeZRpy2UbPJ2b3waYCyDBDgV06xMZN8XnYMgLde5jh9N.mXeAazDttBrJ6dDT)
 
 
 #### Pre-class reading
