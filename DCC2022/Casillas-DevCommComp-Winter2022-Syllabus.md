@@ -237,9 +237,9 @@ Pouw, W., Proksch, S., Drijvers, L., Gamba, M., Holler, J., Kello, C., Schaefer,
 
 ## Conversation with child interactants
 
-[[slides]](https://docs.google.com/presentation/d/15e_Ejpa7QBWAw_oj9YV-RlgCyOElIsnXlFhrYeHTM_Y/edit?usp=sharing) [no recording—class canceled]
-
 ### Week 06: Tuesday, 15 February 2022
+
+[[slides]](https://docs.google.com/presentation/d/15e_Ejpa7QBWAw_oj9YV-RlgCyOElIsnXlFhrYeHTM_Y/edit?usp=sharing) [no recording—class canceled]
 
 #### Pre-class reading
 Snow, C. E. (1977). The development of conversation between mothers and babies. _Journal of Child Language, 4_(1), 1-22. [pdf](https://www.dropbox.com/s/ow3x0mii5ptxdhd/snow1977development.pdf?dl=0)
@@ -252,6 +252,8 @@ Casillas, M., & Hilbrink, E. (2020). Communicative act development. In K. P. Sch
 
 
 ### Week 06: Thursday, 17 February 2022
+[[slides]](https://docs.google.com/presentation/d/1sgffSEES4qfomqvwT1IUhthFBLuj9Pa8UrsBq4WTL_Y/edit?usp=sharing) 
+
 
 #### Pre-class reading
 Stivers, T., Sidnell, J., & Bergen, C. (2018). Children's responses to questions in peer interaction: A window into the ontogenesis of interactional competence. Journal of Pragmatics, 124, 14-30. [pdf](https://www.dropbox.com/s/7g3hlpy7p1jfqgx/stivers2018childrens.pdf?dl=0)
