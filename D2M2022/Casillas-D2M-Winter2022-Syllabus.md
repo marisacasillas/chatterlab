@@ -228,7 +228,7 @@ None!
 * Review markdown syntax for text formatting (see the rightmost column on [this cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf))
 
 #### In-class activities
-* Presentation: Introduction to Papaja
+* Presentation: Introduction to Papaja [[slides]](https://uchicago.app.box.com/file/907193390137)
 * Laptops out:
     * Initialize a papaja .rmd file
     * <span style="color:orange">Insert your author information, libraries, and read-in, prep, and plotting code chunks</span>
@@ -291,7 +291,6 @@ None!
 * Laptops out:
 	* in-line reference addition demo
 	* <span style="color:orange">add two in-line numerical references, one figure reference, and one table reference to your rmd. note this means you need to have code chunks that generate numbers, a figure, and a table to refer to!</span>
-* Group share: Current .rmd, goals for final version, and troubleshooting
 
 ## Final deadline (Tuesday, 15 March 2022)
 Scientific report due
