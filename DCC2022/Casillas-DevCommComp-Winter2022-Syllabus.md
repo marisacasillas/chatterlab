@@ -271,7 +271,7 @@ Shatz, M. (1978). On the development of communicative understandings: An early s
 
 ### Week 07: Tuesday, 22 February 2022
 
-[[slides]](https://docs.google.com/presentation/d/1AoTUjYVUdNji0Wnn7ohNIhtoAPvhuaUOOxUTMTuuRPQ/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1AoTUjYVUdNji0Wnn7ohNIhtoAPvhuaUOOxUTMTuuRPQ/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/KgsZhfOAzds5D_tVCWEHYgbmM141-Dd6ppfIiLmDsw14SUI3F8KoL3f3MmxVos4s.Q_vHbvJ-tYC7y0XD)
 
 #### Pre-class reading
 Hilbrink, E., Gattis, M., & Levinson, S. C. (2015). Early developmental changes in the timing of turn-taking: A longitudinal study of mother-infant interaction. _Frontiers in Psychology, 6_:1492. [pdf](https://www.dropbox.com/s/acxzwq4uvhspt7r/hilbrink2015early.pdf?dl=0)

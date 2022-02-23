@@ -228,6 +228,8 @@ None!
 * Review markdown syntax for text formatting (see the rightmost column on [this cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf))
 
 #### In-class activities
+[[recording]](https://uchicago.zoom.us/rec/share/0Eu_6fc9Fb-YNtT0AvTMhoSkkxP3dQ87FK57KuPsXKT8c-6BSiNjpcqTa7PWklV5.Mh7qkjW1YAx_flhQ)
+
 * Presentation: Introduction to Papaja [[slides]](https://uchicago.box.com/s/yma5llmkkbvhlji8xj7rzdadeqcasdet)
 * Laptops out:
     * Initialize a papaja .rmd file
