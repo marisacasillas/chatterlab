@@ -64,7 +64,7 @@ output            : papaja::apa6_pdf
 ---
 
 ```{r setup, include = FALSE}
-library("papaja")
+library(papaja)
 library(tidyverse)
 r_refs("r-references.bib")
 mydata <- as_tibble(mtcars, rownames = "model")
@@ -95,6 +95,7 @@ mydata %>%
 ```
 
 
+
 ```{r table-avgmpg-kablestyle}
 mydata %>%
   group_by(cyl) %>%
@@ -107,7 +108,7 @@ mydata %>%
 ```
 
 
-```{r table-avgmpg-apastyle, results='asis'}
+```{r table-avgmpg-apastyle, results = 'asis'}
 mytable <- mydata %>%
   group_by(cyl) %>%
   summarize(
@@ -116,7 +117,7 @@ mytable <- mydata %>%
     n.models = n()
   )
 
-apa_table(mytable, caption="mpg stats by number of cylinders")
+apa_table(mytable, caption = "mpg stats by number of cylinders")
 ```
 
 Aliquam lacinia tortor in magna pellentesque tincidunt. Nunc pretium scelerisque lectus aliquet viverra. Nullam nec lacus lacinia, consectetur nisl ac, efficitur ante. Ut gravida ipsum eu augue posuere ullamcorper. Fusce sed nibh velit. Nulla sit amet viverra massa, at sodales purus. Aliquam erat volutpat. Quisque ipsum arcu, finibus sit amet commodo vel, interdum in magna. Vestibulum non diam tincidunt, sollicitudin lorem sed, suscipit ex. Maecenas placerat mi eget massa commodo fringilla. Pellentesque at lacinia neque, at porttitor leo. Morbi placerat orci vitae nisl condimentum, non tincidunt urna tempus. Quisque quis orci at ex porta consequat quis non quam. Ut ac eleifend ex, vel tincidunt ligula. Vestibulum vel massa at sapien tristique vehicula. Etiam finibus vulputate posuere.
@@ -147,6 +148,21 @@ ggplot(mydata, aes(x = factor(cyl), y = mpg)) +
   geom_violin(alpha = 0.4) +
   labs(x = "# cylinders", y = "average miles/gallon") +
   theme_apa()
+
+```
+
+
+(ref:fig-cyl-mpg-caption) now we can import the saved figure too
+
+```{r fig-cyl-mpg, fig.cap = "(ref:fig-cyl-mpg-caption)"}
+(ggplot(mydata, aes(x = factor(cyl), y = mpg)) +
+  geom_jitter() +
+  geom_violin(alpha = 0.4) +
+  labs(x = "# cylinders", y = "average miles/gallon") +
+  theme_apa()) %>%
+  ggsave("numcyls.vs.mpg.png", ., width = 4, height = 3)
+
+knitr::include_graphics("numcyls.vs.mpg.png")
 ```
 
 (ref:fig-smog-caption) yowza
