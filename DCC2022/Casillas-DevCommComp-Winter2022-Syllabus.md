@@ -291,6 +291,8 @@ Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and plann
 
 ### Week 07: Thursday, 24 February 2022
 
+[[slides]](https://docs.google.com/presentation/d/1RVIl9ahXqtg62rOTSfhim97-oPwi_eTyZpSgx8F7upQ/edit?usp=sharing)
+
 #### Pre-class reading
 Casillas, M., & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. _Journal of Memory and Language, 92_, 234-253. [pdf](https://www.dropbox.com/s/hp5fmpjoyd2mso0/casillas2017development.pdf?dl=0)
 
