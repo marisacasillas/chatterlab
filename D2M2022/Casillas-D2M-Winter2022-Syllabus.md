@@ -242,6 +242,8 @@ None!
 **REMINDER: You must meet with Marisa by the end of this week (i.e., before Friday, February 25th at 17.00 Chicago time) to negotiate your plan for the scientific report assignment, which is due on Tuesday of Finals Week**
 
 #### In-class activities
+[[recording]](https://uchicago.zoom.us/rec/share/rufCZzLpVnOWAh78obNwC2AIq445gXXTAh3nJJEwepFbV-ETzo-mk1eJ4sVoEDHx.0AMldqFSwdl8xXqf)
+
 * Presentation: Tables, figures, images, captions, and chunk references [[slides]](https://uchicago.box.com/s/mxckq0npr7e1c7xss7zfiuc7jqtex6jv)
 * Laptops out:
     * group demo based on chapters [9](https://rmd4sci.njtierney.com/figures-tables-captions-.html), [10](https://rmd4sci.njtierney.com/customising-your-figures.html), and [12](https://rmd4sci.njtierney.com/start.html) of Nicholas Tierney's _RMarkdown for Scientists_
