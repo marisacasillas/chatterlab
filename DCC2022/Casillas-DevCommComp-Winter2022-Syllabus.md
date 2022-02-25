@@ -271,7 +271,7 @@ Shatz, M. (1978). On the development of communicative understandings: An early s
 
 ### Week 07: Tuesday, 22 February 2022
 
-[[slides]](https://docs.google.com/presentation/d/1AoTUjYVUdNji0Wnn7ohNIhtoAPvhuaUOOxUTMTuuRPQ/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/KgsZhfOAzds5D_tVCWEHYgbmM141-Dd6ppfIiLmDsw14SUI3F8KoL3f3MmxVos4s.Q_vHbvJ-tYC7y0XD)
+[[slides]](https://docs.google.com/presentation/d/1AoTUjYVUdNji0Wnn7ohNIhtoAPvhuaUOOxUTMTuuRPQ/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/VF0iW0bbGOSC8wSg9JRiKzwC77AYuY3rVyz_wRJVXsrg7AIOMaE7pzKhcfD1QkAt.GMnjdNr5Ai06okod)
 
 #### Pre-class reading
 Hilbrink, E., Gattis, M., & Levinson, S. C. (2015). Early developmental changes in the timing of turn-taking: A longitudinal study of mother-infant interaction. _Frontiers in Psychology, 6_:1492. [pdf](https://www.dropbox.com/s/acxzwq4uvhspt7r/hilbrink2015early.pdf?dl=0)
@@ -291,7 +291,7 @@ Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and plann
 
 ### Week 07: Thursday, 24 February 2022
 
-[[slides]](https://docs.google.com/presentation/d/1RVIl9ahXqtg62rOTSfhim97-oPwi_eTyZpSgx8F7upQ/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1RVIl9ahXqtg62rOTSfhim97-oPwi_eTyZpSgx8F7upQ/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/UFwD5gPX5Y6S6XlKWtryH1tT911WktqSKAk8OxJYFw_sUIOyAyyuRIouYUo1T8eQ.kyUs-_9IywvL_I-O)
 
 #### Pre-class reading
 Casillas, M., & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. _Journal of Memory and Language, 92_, 234-253. [pdf](https://www.dropbox.com/s/hp5fmpjoyd2mso0/casillas2017development.pdf?dl=0)
