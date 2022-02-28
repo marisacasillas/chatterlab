@@ -33,14 +33,14 @@ Students enrolled in this course will be graded on the following basis:
 
 | Component | Undergraduates |
 |-----------|----------------|
-| Mini assignments | 60% |
+| Mini papers | 60% |
 | Participation | 10% |
 | Scientific report | 30% |
 
 
 ### Mini papers
 
-Students will submit four mini papers (up to 15% each) that usually engage with real data of some kind over the course of the quarter. Papers will be evaluated based on their (a) attention to detail and thoroughness in treatment of data as well as (b) quality of discussion relating the data to course materials. Personal anecdote, broad open questions, and critical responses without thoughtful explanation will not count as sufficient discussion topics.
+Over the course of the quarter, students will submit four mini papers (up to 15% each). Mini papers typically engage with real data of some kind. Papers will be evaluated based on their (a) thoroughness and attention to detail with respect to the data/prompt, and (b) quality of discussion relating the data to course materials. Personal anecdotes, broad questions, and critiques not accompanied by constructive commentary will **not** count as sufficient discussion topics.
 
 
 ### Participation
@@ -118,7 +118,7 @@ We will try and replicate the classic studies reported in [Schober & Clark's (19
 
 * Pre-class reading: UL Chapter 7
 
-* **Mini paper 4 due today**: Find an example of a conversation with multiple iconic or depictive gestures in the wild (youtube, tiktok, etc.); provide a link where we can all access the example. Describe the gesture and its meaning, discuss how the gesture relates to the ongoing utterance, and make an argument (based on what we have learned so far) regarding the function of that gesture in that particular context. [2500 words **max**]
+* **Mini paper 4 due today**: Find an example of a conversation in the wild (e.g., on youtube, tiktok, etc.) that has multiple iconic or depictive gestures; provide a link where we can all access the example. Describe the gesture and its meaning, discuss how the gesture relates to the ongoing utterance, and make an argument (based on what we have learned so far) regarding the function of that gesture in that particular context. [2500 words **max**]
 
 ### Thursday, 28 April 2022 (6.2): Grounding + experiment preparation
 
