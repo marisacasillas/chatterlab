@@ -4,7 +4,7 @@ Spring 2022: CHDV 23100, LING 21150, PSYC 23120, EDSO 23101
 
 Tuesdays and Thursdays 9:30am-10:50am Chicago time
 
-Office hours: Thursdays 1:00–2:00pm, or by appointment.
+Office hours: Tuesdays 1:00–2:00pm, or by appointment.
 
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 
@@ -170,7 +170,7 @@ Scientific report of [Schober & Clark (1989)](https://www.dropbox.com/s/nlhgqs61
 
 **Office:** Rosenwald 318A
 
-**Office hours:** Thursdays 1:00–2:00pm, or by appointment.
+**Office hours:** Tuesdays 1:00–2:00pm, or by appointment.
 
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.
