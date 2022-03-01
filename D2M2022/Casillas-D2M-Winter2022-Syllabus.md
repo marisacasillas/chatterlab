@@ -256,7 +256,7 @@ None!
 * <span style="color:orange">Brainstorm what else you would like to change about report and how you could implement that change; add as a commented-out 'to-do' list in your document</span>
 
 #### In-class activities
-* Presentation: Sourcing code and organizing rmds for others' eyes
+* Presentation: Sourcing code and organizing rmds for others' eyes [[slides]](https://uchicago.box.com/s/u9ue7tnn6kipfoieadaonqzyxfo3nakd)
 * Laptops out:
     * Brainstorm with group about how to organize code
     * Come up with a plan for reorganizing your code and adding comments to maximize re-use potential (even if this is just for your future self)
