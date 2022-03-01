@@ -10,17 +10,17 @@ The chatter lab is part of the [Comparative Human Development department](https:
 
 ## News
 
-* **24 February 2022**: Three abstracts from the lab were accepted for oral presentation at ICIS:
+* **24 February 2022**: Three abstracts from the lab were accepted for oral presentation at [ICIS](https://infantstudies.org/2022-congress/):
     * _Bridging ethnographic and quantitative characterizations of Mayan developmental language environments_ with [Isabella di Giovanni]((./people/isabella-aboutme.md)) and [Marisa Casillas](./people/marisa-aboutme.md);
     * A talk "What Counts as Verbal Input? Implications for Studying Child Language Development Across Populations" with [Camila Scaff](https://camilascaff.com/) leading in the symposium _Towards an Ethical and Inclusive Science of Language Development_, headed up by [Adriana Weisleder](https://childlanguagelab.northwestern.edu/people/); and
     * A talk "Capturing daylong object handling patterns in two small-scale communities" with [Kennedy Casey](./people/kennedy-aboutme.md) leading our lab group in the symposium _Communication includes much more than speech: Everyday, multimodal contexts of infant learning_, headed up by [Jessica Kosie](https://jkosie.github.io/).
 
 * **8 January 2022:** Bram Peute's paper with [Marisa Casillas](./people/marisa-aboutme.md) on language input and early consonant production in Tseltal and Yélî Dnye was accepted pending minor revisions at _Glossa_. The preprint is available [here](https://psyarxiv.com/5feju/).
 
-* **22 December 2021:** Look out for these Chatter Lab presentations at CDS in Madison this coming April!:
-    * [Kennedy Casey](./people/kennedy-aboutme.md) is giving a talk "" which is in the symposium _Children's exposure to and use of socially meaningful variation in language_ (led by [Marisa Casillas](./people/marisa-aboutme.md))
-    * A poster presentation by [Natalie Dowling](./people/natalie-aboutme.md) on "I dunno, I guess, I mean whatever: Children form a many-to-many pragmatic mapping of shrug gestures between early and late childhood"
-    * A poster presentation by [Alyssa Guillu](./people/alyssa-aboutme.md) on her work with the [Rowe lab](https://www.meredith-rowe.com/lab) at Harvard<!--, entitled ""-->
+* **22 December 2021:** Look out for these Chatter Lab presentations at [CDS](https://cogdevsoc.org/program/) in Madison this coming April!:
+    * [Kennedy Casey](./people/kennedy-aboutme.md) is giving a talk entitled "Children's shift from CDS to ADS vocabulary across early childhood" which is in the symposium _Children's exposure to and use of socially meaningful variation in language_ (led by [Marisa Casillas](./people/marisa-aboutme.md))
+    * A poster presentation by [Natalie Dowling](https://voices.uchicago.edu/ndowling/) on "I dunno, I guess, I mean whatever: Children form a many-to-many pragmatic mapping of shrug gestures between early and late childhood"
+    * A poster presentation by [Alyssa Guillu](./people/alyssa-aboutme.md) on her work with the [Rowe Lab](https://www.meredith-rowe.com/lab) at Harvard<!--, entitled ""-->
 
 * **15 December 2021:** The stellar [Kennedy Casey](https://marisacasillas.github.io/chatterlab/people/kennedy-aboutme.html)'s first journal publication is now online at _PLOS ONE_, charting the representation of female vs. male protagonists in 60 years of children's books. Double congratulations to Kennedy! Read it [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260566).
 
