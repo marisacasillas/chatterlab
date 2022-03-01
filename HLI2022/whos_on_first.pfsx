@@ -26,7 +26,7 @@
         <Int>486</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>311872</Long>
+        <Long>482149</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -110,7 +110,7 @@
         <String>audience</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>310859</Long>
+        <Long>481149</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">570,300,300,300</Object>
@@ -143,10 +143,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>305050</Long>
+        <Long>475334</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>308980</Long>
+        <Long>481149</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="costello">
