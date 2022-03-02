@@ -58,7 +58,7 @@ Jack Demchak
 
 #### Early language environment
 
-[Elika Bergelson](https://bergelsonlab.com/bergelson-personal-page.html), [John Bunce](https://www.researchgate.net/profile/John_Bunce), [Alex Cristia](https://sites.google.com/site/acrsta/), [Okko Räsänen](http://www.cs.tut.fi/sgn/specog/index.html), [Celia Rosemberg](http://www.ciipme-conicet.gov.ar/wordpress/rosemberg-celia-renata/), [Caroline Rowland](https://www.mpi.nl/people/rowland-caroline), [Camila Scaff](https://camilascaff.com/), and [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
+[Elika Bergelson](https://bergelsonlab.com/bergelson-personal-page.html), [John Bunce](https://www.researchgate.net/profile/John_Bunce), [Alex Cristia](https://sites.google.com/site/acrsta/), [Okko Räsänen](https://www.tuni.fi/en/okko-rasanen), [Celia Rosemberg](http://www.ciipme-conicet.gov.ar/wordpress/rosemberg-celia-renata/), [Caroline Rowland](https://www.mpi.nl/people/rowland-caroline), [Camila Scaff](https://camilascaff.com/), and [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
 
 #### Tseltal/Rossel language research
 
