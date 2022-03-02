@@ -47,6 +47,8 @@ Jack Demchak
 
 [Kimberly Shorter](./people/kimberly-aboutme.md)
 
+[Emily Chan](./people/emily-aboutme.md)
+
 ### Some recent and frequent collaborators
 
 
