@@ -11,7 +11,7 @@ The chatter lab is part of the [Comparative Human Development department](https:
 ## News
 
 * **24 February 2022**: Three abstracts from the lab were accepted for oral presentation at [ICIS](https://infantstudies.org/2022-congress/):
-    * _Bridging ethnographic and quantitative characterizations of Mayan developmental language environments_ with [Isabella di Giovanni]((./people/isabella-aboutme.md)) and [Marisa Casillas](./people/marisa-aboutme.md);
+    * _Bridging ethnographic and quantitative characterizations of Mayan developmental language environments_ with [Isabella di Giovanni](./people/isabella-aboutme.md) and [Marisa Casillas](./people/marisa-aboutme.md);
     * A talk "What Counts as Verbal Input? Implications for Studying Child Language Development Across Populations" with [Camila Scaff](https://camilascaff.com/) leading in the symposium _Towards an Ethical and Inclusive Science of Language Development_, headed up by [Adriana Weisleder](https://childlanguagelab.northwestern.edu/people/); and
     * A talk "Capturing daylong object handling patterns in two small-scale communities" with [Kennedy Casey](./people/kennedy-aboutme.md) leading our lab group in the symposium _Communication includes much more than speech: Everyday, multimodal contexts of infant learning_, headed up by [Jessica Kosie](https://jkosie.github.io/).
 

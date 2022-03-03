@@ -16,11 +16,9 @@ See [HomeBank's tools repository](https://github.com/homebankcode) for LENA-rele
 
 ## Manually annotating child language environments
 
-[DARCLE Annotation Scheme](https://osf.io/4532e/): An adaptable template and guidelines for child language environment annotations in ELAN. Citation: [1](./lab-publications/Casillas_et_al_2017_A_new_workflow_for_semi_automitized_annotations
-.pdf)
+[DARCLE Annotation Scheme](https://osf.io/4532e/): An adaptable template and guidelines for child language environment annotations in ELAN. Citation: [1](./lab-publications/Casillas_et_al_2017_A_new_workflow_for_semi_automitized_annotations_Interspeech.pdf)
 
-[ACLEW Annotation Scheme](https://osf.io/b2jep/wiki/home/): A set of self-guided tutorials and gold-standard training materials, including an online test for comprehension implementing a specific version of the DARCLE Annotation Scheme for the ACLEW project. Citation: [1](./lab-publications/Casillas_et_al_2017_A_new_workflow_for_semi_automitized_annotations
-.pdf)
+[ACLEW Annotation Scheme](https://osf.io/b2jep/wiki/home/): A set of self-guided tutorials and gold-standard training materials, including an online test for comprehension implementing a specific version of the DARCLE Annotation Scheme for the ACLEW project. Citation: [1](./lab-publications/Casillas_et_al_2017_A_new_workflow_for_semi_automitized_annotations_Interspeech.pdf)
 
 ## Measuring turn taking in natural interaction
 
@@ -32,7 +30,7 @@ See [HomeBank's tools repository](https://github.com/homebankcode) for LENA-rele
 
 [IDSLabel](https://github.com/SeedlingsBabylab/idslabel): Annotate speech segments within LENA conversational blocks across 1+ sites. Citation: [1](./lab-publications/Bergelson_Casillas_et_al_2019_What_do_North_American_babies_hear_DevSci.pdf), [2](./lab-publications/Casillas_et_al_2017_What_do_babies_hear_Interspeech.pdf)
 
-[ALICE](https://github.com/orasanen/ALICE): Automatically estimate number of words, syllables, and/or phones in speech clips. Citation: [1](./lab-publications/Rasanen_et_al_inpress_ALICE_BRM.pdf)
+[ALICE](https://github.com/orasanen/ALICE): Automatically estimate number of words, syllables, and/or phones in speech clips. Citation: [1](./lab-publications/Rasanen_et_al_2020_ALICE_BRM.pdf)
 
 ## Annotating photos
 
