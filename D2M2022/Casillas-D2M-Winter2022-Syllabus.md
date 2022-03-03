@@ -256,6 +256,8 @@ None!
 * <span style="color:orange">Brainstorm what else you would like to change about report and how you could implement that change; add as a commented-out 'to-do' list in your document</span>
 
 #### In-class activities
+[[recording]](https://uchicago.zoom.us/rec/share/dQQxBtQxMctGdSH20aD4SZdZKxKhQXQtUbiLayCben_TXzywTSsZ46nmkk45crcC.2qAD3wYJJSlm3tmH)
+
 * Presentation: Sourcing code and organizing rmds for others' eyes [[slides]](https://uchicago.box.com/s/u9ue7tnn6kipfoieadaonqzyxfo3nakd)
 * Laptops out:
     * Brainstorm with group about how to organize code
@@ -269,7 +271,7 @@ None!
 * Implement your code reorganization from the last class; ensure that it knits
 
 #### In-class activities
-* Presentation: BibTeX part 1
+* Presentation: BibTeX part 1 [[slides]](https://uchicago.box.com/s/b9wxfdxd3zm2ilpxojf8wen452cnyogg)
 * Laptops out:
     * <span style="color:orange">Create a .bib file with at least 5 of your references</span>
 
