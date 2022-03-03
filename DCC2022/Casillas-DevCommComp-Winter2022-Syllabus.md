@@ -307,7 +307,7 @@ Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as
 
 ### Week 08: Tuesday, 01 March 2022
 
-[[slides]](https://docs.google.com/presentation/d/1NvBAgEqqP9RL1RUBc56rk00fGtrpRIOio6TBBAj1dxc/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1NvBAgEqqP9RL1RUBc56rk00fGtrpRIOio6TBBAj1dxc/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/_R9_3x3w4qXQO6eX-N_FF9Ji6afAh6k7Ehdyqe3YJIGPqQtmSMTNMgxNZz75THHg.zy-kCC9ZBT6Xa7TN)
 
 #### Pre-class reading
 Rowe, M. L. (2012). A longitudinal investigation of the role of quantity and quality of child‐directed speech in vocabulary development. _Child Development, 83_(5), 1762-1774. [pdf](https://www.dropbox.com/s/fps0qekzfqnoatv/rowe2012longitudinal.pdf?dl=0)
@@ -321,6 +321,8 @@ Donnellan, E., Bannard, C., McGillion, M. L., Slocombe, K. E., & Matthews, D. (2
 2. OPTIONAL: Draft of research proposal outline
 
 ### Week 08: Thursday, 03 March 2022
+
+[[slides]](https://docs.google.com/presentation/d/1d0hgMyOZqXHA28mM9mbkhYO-Au7cnJe8n39oZWrgF4w/edit?usp=sharing)
 
 #### Pre-class reading
 Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399-410. [pdf](https://www.dropbox.com/s/lhbh8njfhb40a1z/dunn1989becoming.pdf?dl=0)
