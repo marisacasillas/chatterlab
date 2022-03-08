@@ -322,7 +322,7 @@ Donnellan, E., Bannard, C., McGillion, M. L., Slocombe, K. E., & Matthews, D. (2
 
 ### Week 08: Thursday, 03 March 2022
 
-[[slides]](https://docs.google.com/presentation/d/1d0hgMyOZqXHA28mM9mbkhYO-Au7cnJe8n39oZWrgF4w/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1d0hgMyOZqXHA28mM9mbkhYO-Au7cnJe8n39oZWrgF4w/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/EyT8Y07i1P6py84ifvajTVOalBMB8UDssNK4_CAspjbkOJ-FrO9xSlvGoinC69g.xaSKdN3cQkjGPV5b)
 
 #### Pre-class reading
 Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399-410. [pdf](https://www.dropbox.com/s/lhbh8njfhb40a1z/dunn1989becoming.pdf?dl=0)
@@ -339,13 +339,14 @@ Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mothe
 
 ### Week 09: Tuesday, 08 March 2022
 
-#### Pre-class reading
-None!
+**NO CLASS**
 
 #### Assignments due
 1. OPTIONAL: Draft of research proposal literature review
 
 ### Week 09: Thursday, 10 March 2022
+
+[no recording]
 
 #### Pre-class reading
 None!

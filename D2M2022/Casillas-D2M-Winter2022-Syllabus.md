@@ -271,6 +271,8 @@ None!
 * Implement your code reorganization from the last class; ensure that it knits
 
 #### In-class activities
+[[recording]](https://uchicago.zoom.us/rec/share/PPMkchgNF06VjQJ9uVOJRLmTFQFjmMKyr5O_4mgtaw9eurokDDJeNodDUPVhwpu2.Lv1jno6CB47hRRuU)
+
 * Presentation: BibTeX part 1 [[slides]](https://uchicago.box.com/s/b9wxfdxd3zm2ilpxojf8wen452cnyogg)
 * Laptops out:
     * <span style="color:orange">Create a .bib file with at least 5 of your references</span>
@@ -281,7 +283,7 @@ None!
 * Review [rmarkdown citation](https://rmd4sci.njtierney.com/citing-articles-bibliography-styles.html) in Nicholas Tierney's _RMarkdown for Scientists_
 
 #### In-class activities
-* Presentation: BibTeX part 2
+* Presentation: BibTeX part 2 [[slides]](https://uchicago.box.com/s/d9tlt4x0bqna3lcsbekhwbfssq2ly76g)
 * Laptops out:
     * Citation styles demo
     * Add non-cited references
@@ -293,7 +295,7 @@ None!
 None!
 
 #### In-class activities
-* Presentation: In-line code
+* Presentation: In-line code [[slides]](https://uchicago.box.com/s/0misevi02s08ohc33zejg9mts3imd1ma)
 * Laptops out:
 	* in-line reference addition demo
 	* <span style="color:orange">add two in-line numerical references, one figure reference, and one table reference to your rmd. note this means you need to have code chunks that generate numbers, a figure, and a table to refer to!</span>
