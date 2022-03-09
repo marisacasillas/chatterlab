@@ -283,6 +283,8 @@ None!
 * Review [rmarkdown citation](https://rmd4sci.njtierney.com/citing-articles-bibliography-styles.html) in Nicholas Tierney's _RMarkdown for Scientists_
 
 #### In-class activities
+[[recording]](https://uchicago.zoom.us/rec/share/C1mf8hAlhuWLaW8md9OHdXrnTbTDQJuRYHweC4OGRpzBliM1z-MKtovwqSFzdXAO.1kZrd2YUNiGrZvMf)
+
 * Presentation: BibTeX part 2 [[slides]](https://uchicago.box.com/s/d9tlt4x0bqna3lcsbekhwbfssq2ly76g)
 * Laptops out:
     * Citation styles demo
