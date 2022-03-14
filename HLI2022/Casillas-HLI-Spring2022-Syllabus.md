@@ -4,20 +4,26 @@ Spring 2022: CHDV 23100, LING 21150, PSYC 23120, EDSO 23101
 
 Tuesdays and Thursdays 9:30am-10:50am Chicago time
 
-Office hours: Tuesdays 1:00–2:00pm, or by appointment.
-
-**Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
-
 Language may be learned by individuals, but we most often use it for communication between groups. How is it that we manage to transmit our internal thoughts to others' minds? How is it that we can understand what others mean to express to us? Whether we are greeting a passerby, ordering a meal, or debating politics, there are a number of invisible processes that bring language to life in the space between individuals. This course investigates the social and cognitive processes that enable us to successfully communicate with others. The theories we cover are built on observations of adult language use and child development in multiple cultural settings, taking inspiration also from non-human animal communication.
 
 It is expected that, by the end of the course, students will be able to explain the limitations of language for communication and will be able to elaborate on a number of social and other cognitive processes that critically support communicative language use.
  
+**Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
+
+**Teaching assistants:** Jillyan Corrales (jcorrales@uchicago.edu) and Jingde Liu (liujingde@uchicago.edu)
+
+**Office hours:**
+
+* Dr. Casillas: Tuesdays 1:00–2:00pm (Rosenwald Hall 318A) or by appointment
+* Jillyan Corrales: TBD
+* Jingde Liu: TBD
+
 **Course materials:**
 
 * Most required readings will be drawn from Herbert H. Clark's text [Using Language](https://www.cambridge.org/core/books/using-language/4E7EBC4EC742C26436F6CF187C43F239).
 * The other required readings include a few separate chapters/articles on:
-	* [Human Interaction Engine](https://pure.mpg.de/rest/items/item_3171367_3/component/file_3186123/content)
 	* [Conversation Analysis](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-40)
+	* [Human Interaction Engine](https://pure.mpg.de/rest/items/item_3171367_3/component/file_3186123/content)
 	* [Sequence organization](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 	* [Multimodal interaction](https://pure.mpg.de/rest/items/item_2352807_13/component/file_2459489/content)
 	* the experiment we will try to replicate as a class, by [Schober and Clark (1989)](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0)
@@ -45,7 +51,7 @@ Over the course of the quarter, students will submit four mini papers (up to 15%
 
 ### Participation
 
-Students are generally expected to come to class and actively participate in discussion. The participation grade reflects the range from no attendance (0%) to near-full attendance and active participation at every session attended (10%). Please stay in touch with Marisa about your limitations regarding in-person participation. 
+Students are generally expected to come to class and actively participate in discussion. The participation grade reflects the range from no attendance (0%) to near-full attendance and active participation at every session attended (10%). Please stay in touch with your TA about any limitations you have regarding in-person participation.
 
 ### Scientific report (4000 words *max*)
 
