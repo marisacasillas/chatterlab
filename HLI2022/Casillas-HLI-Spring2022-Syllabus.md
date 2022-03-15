@@ -150,7 +150,7 @@ We will try and replicate the classic studies reported in [Schober & Clark's (19
 
 * Pre-class reading: UL Chapter 10
 
-* **Due today for the scientific report**: Submit your transcriptions and word tallies per figure.
+* **Due today for the scientific report**: Submit your transcriptions and word tallies per figure. <!--https://aclew.shinyapps.io/schober_clark_replication/-->
 
 ### Thursday, 12 May 2022 (8.2): Conversation
 
