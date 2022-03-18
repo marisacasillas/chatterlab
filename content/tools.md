@@ -1,6 +1,6 @@
 # chatter tools
 
-For your re-use or adaptation, here are some of the tools we've used to speed up  data collection, annotation, and/or analysis in the chatter lab.
+For your re-use or adaptation, here are some of the tools we've used to speed up  data collection, annotation, and/or analysis in the Chatter Lab.
 
 ## Making daylong audio recordings
 
@@ -47,8 +47,3 @@ Version: [1](https://github.com/marisacasillas/ImCo), [2](https://github.com/ken
 
 Coming soon...
 <!--Organize and upload NADL tools-->
-
-----
-The chatter lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, and particularly encourage those coming from marginalized groups to reach out if interested in working with the lab.
-
-Our lab at the University of Chicago is located on the traditional homelands of the Ojibwe, Odawa, and Potawatomi nations.

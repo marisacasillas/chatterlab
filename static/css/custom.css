@@ -1238,6 +1238,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel ul li {
   margin-bottom: 10px;
 }
+
 .customers {
   padding: 0;
   margin-bottom: 40px;
@@ -1771,14 +1772,14 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .bar.background-pentagon {
   background: url('../img/texture-bw.png') center center repeat;
-  border-top: solid 1px #999999;
-  border-bottom: solid 1px #999999;
+  border-top: solid 1px #84911b;
+  border-bottom: solid 1px #84911b;
 }
 .bar.background-gray {
   background: #eeeeee;
 }
 .bar.background-gray-dark {
-  background: #555555;
+  background: #84911b;
 }
 .bar.background-white {
   background: #fff;
@@ -1921,7 +1922,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #eeeeee;
 }
 .packages .package .package-header.light-gray h5 {
-  color: #555555;
+  color: #84911b;
 }
 .packages .package .price {
   line-height: 120px;

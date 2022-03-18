@@ -1,53 +1,53 @@
 # chatter boxes
 
 ### Principal Investigator: Dr. Marisa Casillas
-Marisa (she/her) is an assistant professor in the University of Chicago's Comparative Human Development department. Before coming to Chicago, she completed her BA (UCLA) and PhD (Stanford University) in Linguistics, followed by postdoctoral work at the [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/) in the Netherlands. Her research draws on linguistics, psychology, and conversation analysis to investigate the foundations of human language cognition. She conducts observational and experimental work on adult and child language behavior in American English, Dutch, Tseltal (Mayan), and Yélî Dnye (isolate; Papua New Guinea), but maintains active collaborations with researchers working on other languages, including Sign Language of the Netherlands and Tsimane'. Her work, which has been funded by the National Science Foundation, the Acoustical Society of America, and the Netherlands Organization for Scientific Research, touches on a wide range of language topics, from comparative developmental language theory to open-source speech technology. You can learn more about the Dr. Casillas on her [personal page](./people/marisa-aboutme.md).
+Marisa (she/her) is an assistant professor in the University of Chicago's Comparative Human Development department. Before coming to Chicago, she completed her BA (UCLA) and PhD (Stanford University) in Linguistics, followed by postdoctoral work at the [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/) in the Netherlands. Her research draws on linguistics, psychology, and conversation analysis to investigate the foundations of human language cognition. She conducts observational and experimental work on adult and child language behavior in American English, Dutch, Tseltal (Mayan), and Yélî Dnye (isolate; Papua New Guinea), but maintains active collaborations with researchers working on other languages, including Sign Language of the Netherlands and Tsimane'. Her work, which has been funded by the National Science Foundation, the Acoustical Society of America, and the Netherlands Organization for Scientific Research, touches on a wide range of language topics, from comparative developmental language theory to open-source speech technology. You can learn more about the Dr. Casillas on her [personal page](/bios/marisa-aboutme/).
 
-PhD applicants interested in working with Dr. Casillas should [contact her](./contact.md) directly.
+PhD applicants interested in working with Dr. Casillas should [contact her](/contact/) directly.
 
 ### Lab manager
 
-[Kennedy Casey](./people/kennedy-aboutme.md)
+[Kennedy Casey](/bios/kennedy-aboutme/)
 
 ### PhD students
 
 [Natalie Dowling](https://voices.uchicago.edu/ndowling/)
 
-[Erika Prado](./people/erika-aboutme.md)
+[Erika Prado](/bios/erica-aboutme/)
 
-[Isabella Di Giovanni](./people/isabella-aboutme.md)
+[Isabella Di Giovanni](/bios/isabella-aboutme/)
 
 ### Masters students
 
 Bram Peute
 
-[Mary Elliott](./people/marye-aboutme.md)
+[Mary Elliott](/bios/marye-aboutme/)
 
-[Jenny Bo](./people/jenny-aboutme.md)
+[Jenny Bo](/bios/jenny-aboutme/)
 
-[Rayski Lei](./people/rayski-aboutme.md)
+[Rayski Lei](/bios/rayski-aboutme/)
 
 ### Undergraduate students
 
-[Alyssa Guillu](./people/alyssa-aboutme.md)
+[Alyssa Guillu](/bios/alyssa-aboutme/)
 
-[Erica Hsieh](./people/erica-aboutme.md)
+[Erica Hsieh](/bios/erica-aboutme/)
 
-[Mary Norgan](./people/maryn-aboutme.md)
+[Mary Norgan](/bios/maryn-aboutme/)
 
 Jack Demchak
 
-[Anapaula Silva](./people/anapaula-aboutme.md)
+[Anapaula Silva](/bios/anapaula-aboutme/)
 
-[Mara Duquette](./people/mara-aboutme.md)
+[Mara Duquette](/bios/mara-aboutme/)
 
-[Will Fisher](./people/will-aboutme.md)
+[Will Fisher](/bios/will-aboutme/)
 
-[Lizzie Mickiewicz](./people/lizzie-aboutme.md)
+[Lizzie Mickiewicz](/bios/lizzie-aboutme/)
 
-[Kimberly Shorter](./people/kimberly-aboutme.md)
+[Kimberly Shorter](/bios/kimberly-aboutme/)
 
-[Emily Chan](./people/emily-aboutme.md)
+[Emily Chan](/bios/emily-aboutme/)
 
 ### Some recent and frequent collaborators
 
@@ -67,9 +67,3 @@ Jack Demchak
 ### Former members
 
 Aditya Badlani
-
-
-----
-The chatter lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, and particularly encourage those coming from marginalized groups to reach out if interested in working with the lab.
-
-Our lab at the University of Chicago is located on the traditional homelands of the Ojibwe, Odawa, and Potawatomi nations.
