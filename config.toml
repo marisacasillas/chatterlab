@@ -166,9 +166,9 @@ paginate = 10
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
-    search = true
+    categories = false
+    tags = false
+    search = false
 
 [params.carouselCustomers]
     items = 6
@@ -186,7 +186,7 @@ paginate = 10
     # All carousel items argenere defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
-    enable = true
+    enable = false
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000

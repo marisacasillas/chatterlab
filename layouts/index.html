@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "carousel.html" . }}
+
+			<!-- about section -->
+	<section class="about text-center" id="about">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-xs-12">
+					<h4>The chatter lab investigates the cognition of everyday human language.</h4>
+						<br>
+					We explore how communicative needs impact the ways in which language is learned and used by both children and adults. To that end, we employ experimental and observational methods in multiple sites around the world to analyze the production and comprehension of conversational language.
+						<br>
+						<br>
+					<h5>Principal Investigator: <a href="https://chatterlab.uchicago.edu/bios/marisa-aboutme/">Dr. Marisa Casillas</a></h5>
+						<br>
+					The chatter lab is part of the <a href="https://humdev.uchicago.edu/">Comparative Human Development department</a> at the University of Chicago.
+						
+				</div>
+			</div>
+		</div>
+	</section><!-- end of about section -->
+
+        {{ partial "features.html" . }}
+
+        {{ partial "testimonials.html" . }}
+
+        {{ partial "see_more.html" . }}
+
+        {{ partial "recent_posts.html" . }}
+
+        {{ partial "clients.html" . }}
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
