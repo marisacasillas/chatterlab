@@ -2,8 +2,10 @@
 
 ## Dr. Marisa Casillas
 
-### About
+{{< figure src="/img/people/marisa-casillas.JPG" width=500 height=400 >}}
+Dr. Casillas in the Bemmelse Waard, Nijmegen, The Netherlands
 
+### About
 Broadly speaking, I am interested in exploring how cognitive and social processes shape the ways in which we learn, perceive, and produce language. My primary research examines the relationship between communicative skills and linguistic processing in children and adults. I use a combination of experimental- and observation-based methods to comparatively investigate these processes in both urban, Western contexts and rural, Indigenous contexts.
 
 Much of my work focuses in particular on how communicative and linguistic skills co-develop during in the first few years of life with the hope of better understanding how our capacity to produce, understand, and transmit language across generations is shaped by interactive needs.
@@ -22,16 +24,15 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 
 ### Courses at UChicago
 
-[The Development of Communicative Competence](../DCC2022/Casillas-DevCommComp-Winter2022-Syllabus.md) (Spring 2020; Winter 2022).
+[The Development of Communicative Competence]({{< ref "courses/DCC2022/Casillas-DevCommComp-Winter2022-Syllabus.md" >}}) (Spring 2020; Winter 2022).
 
-[From Data to Manuscript in R](../D2M2022/Casillas-D2M-Winter2022-Syllabus.md) (Winter 2022)
+[From Data to Manuscript in R]({{< ref "courses/D2M2022/Casillas-D2M-Winter2022-Syllabus.md" >}}) (Winter 2022)
 
-[Human Language and Interaction](../HLI2022/Casillas-HLI-Spring2022-Syllabus.md) (Spring 2022)
+[Human Language and Interaction]({{< ref "courses/HLI2022/Casillas-HLI-Spring2022-Syllabus.md" >}}) (Spring 2022)
 
-[Mind III](../MIND3-2022/Casillas-MIND3-Spring2022-Syllabus.md) (Spring 2022)
+[Mind III]({{< ref "courses/MIND3-2022/Casillas-MIND3-Spring2022-Syllabus.md" >}}) (Spring 2022)
 
-[Blooming Buzzing Confusion](../archived_courses/Winter2021/Casillas-BBC-Winter2021-Syllabus.md) (Winter 2021).
-
+[Blooming Buzzing Confusion]({{< ref "archived_courses/Winter2021/Casillas-BBC-Winter2021-Syllabus.md" >}}) (Winter 2021)
 
 ### Professional organizations (co-)led
 
@@ -50,11 +51,3 @@ Phone: TBA
 Email: mcasillas@uchicago.edu
 
 Other: [GitHub](https://github.com/marisacasillas/), [Google Scholar](https://scholar.google.com/citations?user=12yVanIAAAAJ&hl=en), and [Twitter](https://twitter.com/middycasillas?lang=en)
-
-<img src="./images/marisa-casillas.JPG" width="100%">
-Dr. Casillas in the Bemmelse Waard, Nijmegen, The Netherlands
-
-----
-The chatter lab is founded on the principle that diversity in everyday language use is key to the study of human language cognition. We welcome opportunities to work with scholars from all walks of life, and particularly encourage those coming from marginalized groups to reach out if interested in working with the lab.
-
-Our lab at the University of Chicago is located on the traditional homelands of the Ojibwe, Odawa, and Potawatomi nations.
