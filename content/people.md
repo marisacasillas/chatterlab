@@ -13,7 +13,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Natalie Dowling](https://voices.uchicago.edu/ndowling/)
 
-[Erika Prado](/bios/erica-aboutme/)
+[Erika Prado](/bios/erika-aboutme/)
 
 [Isabella Di Giovanni](/bios/isabella-aboutme/)
 
@@ -49,8 +49,9 @@ Jack Demchak
 
 [Emily Chan](/bios/emily-aboutme/)
 
-### Some recent and frequent collaborators
+### [Former members](/former-members/)
 
+### Some recent and frequent collaborators
 
 #### Turn taking
 
@@ -63,7 +64,3 @@ Jack Demchak
 #### Tseltal/Rossel language research
 
 [Penny Brown](https://www.mpi.nl/people/brown-penelope), [Steve Levinson](https://www.mpi.nl/people/levinson-stephen), and [Gabriela Garrido Rodriguez](https://www.researchgate.net/profile/Gabriela_Garrido_Rodriguez)
-
-### Former members
-
-Aditya Badlani
