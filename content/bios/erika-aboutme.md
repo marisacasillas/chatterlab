@@ -2,8 +2,7 @@
 
 ### About me
 
-<img src="./images/erika-prado.jpg" width="360" height="400">
-
+{{< figure src="/img/people/erika-prado.jpg" width=360 height=400 >}}
 
 I am a PhD student in the Department of Comparative Human Development at the University of Chicago. I received my Bachelor of Arts degree in Psychology and a Minor in Sociocultural Linguistics from the University of California, Santa Barbara. While there, I was a McNair Scholar researching the embodied interactional practices of a nonspeaking autistic Latino teenager and his family members in order to provide fundamental insights into our understanding of human sociality as well as its complexities. 
 

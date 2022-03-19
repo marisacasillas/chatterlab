@@ -1,6 +1,6 @@
 ## Mary Elliott (she/her/hers)
 
-<img src="./images/mary-elliott.jpg" height="400">
+{{< figure src="/img/people/mary-elliott.jpg" height=400 >}}
 
 ### About me
 
