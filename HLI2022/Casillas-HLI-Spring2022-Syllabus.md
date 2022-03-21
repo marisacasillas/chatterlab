@@ -15,8 +15,8 @@ It is expected that, by the end of the course, students will be able to explain 
 **Office hours:**
 
 * Dr. Casillas: TBD (Rosenwald Hall 318A) or by appointment
-* Jillyan Corrales: TBD
-* Jingde Liu: TBD
+* Jillyan Corrales: Wednesdays 10–11am (Zoom link TBD)
+* Jingde Liu: Tuesdays 2–3pm (Zoom link TBD)
 
 **Course materials:**
 
