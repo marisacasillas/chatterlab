@@ -76,37 +76,37 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ## Module 1: Introduction
 
-### Tuesday, 22 March 2022 (1.1): Introduction and syllabus
+### Tuesday, 29 March 2022 (1.1): Introduction and syllabus
 
 * Pre-class reading: None!
 
-### Thursday, 24 March 2022 (1.2): Language use
+### Thursday, 31 March 2022 (1.2): Language use
 
 * Pre-class reading: UL Chapter 1
 
 ## Module 2: Foundations
 
-### Tuesday, 29 March 2022 (2.1): Joint activities
+### Tuesday, 05 April 2022 (2.1): Joint activities
 
 * Pre-class reading: UL Chapter 2
 
-### Thursday, 31 March 2022 (2.2): Joint actions
+### Thursday, 07 April 2022 (2.2): Joint actions
 
 * Pre-class reading: UL Chapter 3
 
 
-### Tuesday, 05 April 2022 (3.1): Common ground
+### Tuesday, 12 April 2022 (3.1): Common ground
 
 * Pre-class reading: UL Chapter 4
 
 * **Mini paper 1 due today**: Choose a complex joint activity that has _NOT_ been discussed in the book or in class. Describe the activity you have chosen. Using Clark's concepts, demonstrate what its component parts and other qualifiers are that make it a good example of a joint activity. Include at least one figure mapping out its component parts and their relations  (e.g., roles, layers, nested/sequential actions). [2500 words **max**]
 
-### Thursday, 07 April 2022 (3.2): Introduction to Conversation Analysis
+### Thursday, 14 April 2022 (3.2): Introduction to Conversation Analysis
 
 * Pre-class reading: [Sidnell, J. (2016). Conversation Analysis. Oxford Research Encyclopedia of Linguistics.](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-40) and [Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd.](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
 
-### Tuesday, 12 April 2022 (4.1): The Human Interaction Engine
+### Tuesday, 19 April 2022 (4.1): The Human Interaction Engine
 
 * Pre-class reading: [Levinson, S. C. (2019). Interactional foundations of language: The interaction engine hypothesis. In _Human language: From genes and brain to behavior_ (pp. 189-200). MIT Press.](https://pure.mpg.de/rest/items/item_3171367_3/component/file_3186123/content)
 
@@ -115,14 +115,14 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ## Module 3: Communication, language, and action
 
-### Thursday, 14 April 2022 (4.2): Experiment preparation
+### Thursday, 21 April 2022 (4.2): Experiment preparation
 
 * Pre-class reading: [Schober, M. F. & Clark, H. H. (1989). Understanding by addressees and overhearers. _Cognitive Psychology 21_, 211–232.](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0)
 
 * **Participation**: Submit two questions before class: one clarification question and one critical or theoretically engaged question about the Schober & Clark reading before class.
 
 
-### Tuesday, 19 April 2022 (5.1): Grounding 
+### Tuesday, 26 April 2022 (5.1): Grounding 
 
 * Pre-class reading: UL Chapter 8
 
@@ -130,25 +130,25 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * <span style="color:orange">**Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE CLASS on Thursday, April 21st_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.</span>
 
-### Thursday, 21 April 2022 (5.2): Signaling and understanding speaker intentions
+### Thursday, 28 April 2022 (5.2): Signaling and understanding speaker intentions
 
 * Pre-class reading: UL Chapter 5 + UL Chapter 6
 
 * <span style="color:orange">**Due today for the scientific report**: Upload your experiment recording with the matcher and director to Box (we will provide the link).</span>
 
-### Tuesday, 26 April 2022 (6.1): Multimodal interaction
+### Tuesday, 03 May 2022 (6.1): Multimodal interaction
 
 * Pre-class reading: UL Chapter 9 + [Holler, J., & Bavelas, J. (2017). Multi-modal communication of common ground: A review of social functions. In R. B. Church, M. W. Alibali, & S. D. Kelly (Eds.), Why gesture? How the hands function in speaking, thinking and communicating (pp. 213-240). Amsterdam: Benjamins.](https://pure.mpg.de/rest/items/item_2352807_13/component/file_2459489/content)
 
 ## Module 4: Discourse, narrative, and joint projects
 
-### Thursday, 28 April 2022 (6.2): Joint projects
+### Thursday, 05 May 2022 (6.2): Joint projects
 
 * Pre-class reading: UL Chapter 7
 
 * **Mini paper 4 due today**: Find an example of a conversation in the wild (e.g., on youtube, tiktok, etc.) that has multiple iconic or depictive gestures; provide a link where we can all access the example. Describe the gesture and its meaning, discuss how the gesture relates to the ongoing utterance, and make an argument (based on what we have learned so far) regarding the function of that gesture in that particular context. [2500 words **max**]
 
-### Tuesday, 03 May 2022 (7.1): Joint commitment
+### Tuesday, 10 May 2022 (7.1): Joint commitment
 
 * Pre-class reading: UL Chapter 10
 
@@ -156,7 +156,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 	* <span style="color:orange">**Up to 3%** for data collection</span>
 	* <span style="color:orange">**Up to 12%** for data annotation (the TAs/Dr. Casillas will spot-check your annotation files and recording for high quality segmentation and annotation)</span>
 
-### Thursday, 05 May 2022 (7.2): Conversation
+### Thursday, 12 May 2022 (7.2): Conversation
 
 * Pre-class reading: UL Chapter 11
 
@@ -164,7 +164,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ## Module 5:
 
-### Tuesday, 10 May 2022 (8.1):  Layering
+### Tuesday, 17 May 2022 (8.1):  Layering
 
 * Pre-class reading: UL Chapter 12
 
@@ -173,17 +173,17 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 	* <span style="color:orange">**Up to 4%** for data annotation (the TAs/Dr. Casillas will spot-check your annotation files and recording for high quality segmentation and annotation)</span>
 
 
-### Thursday, 12 May 2022 (8.2): Presentation of replication findings + how to write a scientific report
+### Thursday, 19 May 2022 (8.2): Presentation of replication findings + how to write a scientific report
 
 * Pre-class reading: None! But bring your laptop for in-class writing activities.
 
 
-### Tuesday, 17 May 2022 (9.1): Guest lecture from Jingde Liu
+### Tuesday, 24 May 2022 (9.1): Guest lecture from Jingde Liu
 
-### Thursday, 19 May 2022 (9.2): Guest lecture from Jillyan Corrales
+### Thursday, 26 May 2022 (9.2): Guest lecture from Jillyan Corrales
 
 
-## Final deadline (Tuesday, 24 May 2022)
+## Final deadline (Tuesday, 31 May 2022)
 <span style="color:orange">Scientific report due, including: Study 1 on our class replication of [Schober & Clark (1989)](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0) and Study 2, a motivated, original, incremental follow-up study proposal with predicted findings.</span>
 
 
