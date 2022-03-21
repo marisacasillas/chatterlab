@@ -1,7 +1,6 @@
-baseurl = "https://chatterlab.uchicago.edu" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://marisacasillas.github.io/chatterlab/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "chatterlab"
 theme = "hugo-universal-theme"
-themesDir = "../.."
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
@@ -36,34 +35,28 @@ paginate = 10
     weight     = 3
 
 [[menu.main]]
-    name       = "Publications"
-    identifier = "publications"
-    url        = "/publications/"
-    weight     = 4
-
-[[menu.main]]
     name       = "Projects & Methods"
     identifier = "projects"
     url        = "/projects/"
-    weight     = 5
+    weight     = 4
 
 [[menu.main]]
-    name       = "Positions"
-    identifier = "positions"
-    url        = "/positions/"
-    weight     = 6
+    name       = "Publications"
+    identifier = "publications"
+    url        = "/publications/"
+    weight     = 5
 
 [[menu.main]]
     name       = "Tools"
     identifier = "tools"
     url        = "/tools/"
-    weight     = 7
+    weight     = 6
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 8
+    weight     = 7
 
 
 # Top bar social links menu
@@ -198,7 +191,7 @@ paginate = 10
     pagination_speed = 1000
 
 [params.features]
-    enable = true
+    enable = false
     cols = 3 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
