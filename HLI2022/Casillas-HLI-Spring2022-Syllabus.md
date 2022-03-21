@@ -14,9 +14,9 @@ It is expected that, by the end of the course, students will be able to explain 
 
 **Office hours:**
 
-* Dr. Casillas: TBD (Rosenwald Hall 318A) or by appointment
-* Jillyan Corrales: Wednesdays 10–11am (Zoom link TBD)
-* Jingde Liu: Tuesdays 2–3pm (Zoom link TBD)
+* Dr. Casillas: Mondays 4-5pm (Rosenwald Hall 318A) or by appointment
+* Jillyan Corrales: Wednesdays 10–11am (Zoom link TBD) or by appointment
+* Jingde Liu: Tuesdays 2–3pm (Zoom link TBD) or by appointment
 
 **Course materials:**
 
@@ -192,7 +192,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 **Office:** Rosenwald 318A
 
-**Office hours:** TBD, or by appointment.
+**Office hours:** Mondays 4-5pm (Rosenwald Hall 318A) or by appointment
 
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.
