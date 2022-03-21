@@ -1,4 +1,4 @@
-baseurl = "https://chatterlab.uchicago.edu" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://marisacasillas.github.io/chatterlab/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "chatterlab"
 theme = "hugo-universal-theme"
 themesDir = "../.."
