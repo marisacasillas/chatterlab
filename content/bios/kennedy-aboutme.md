@@ -11,9 +11,9 @@ I am the current lab manager. I joined the chatter lab in summer 2021 after comp
 
 Baek, S., Marques, S., **Casey, K.**, Testerman, M., McGill, F., & Emberson, L. (in revision). Attrition rate in infant fNIRS research: A meta-analysis. [[ms](https://www.biorxiv.org/content/10.1101/2021.06.15.448526v1.abstract)]
 
-**Casey, K.**, Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & Casillas, M. (under review). Sticks, leaves, buckets, and bowls: Distributional patterns of children's at-home object handling in two subsistence societies. [[ms](./lab-publications/Casey_et_al_submitted_Distributional_patterns_of_at_home_object_handling.pdf)]
+**Casey, K.**, Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & Casillas, M. (under review). Sticks, leaves, buckets, and bowls: Distributional patterns of children's at-home object handling in two subsistence societies. [[ms](/lab-publications/Casey_et_al_submitted_Distributional_patterns_of_at_home_object_handling.pdf)]
 
-**Casey, K.**, & Casillas, M. (under review). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words. [[ms](./lab-publications/Casey_Casillas_submitted_Developmental_shifts_in_use_of_register_specific_words.pdf)]
+**Casey, K.**, & Casillas, M. (under review). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words. [[ms](/lab-publications/Casey_Casillas_submitted_Developmental_shifts_in_use_of_register_specific_words.pdf)]
 
 **Casey, K.**, Potter, C. E., Lew-Williams, C., & Wojcik, E. H. (in prep). Moving beyond "nouns in the lab": Using naturalistic data to understand why infants' first words include _uh-oh_ and _hi_. [[ms](https://psyarxiv.com/xbyr3/)] [[osf](https://osf.io/tdbqn/)]
 
