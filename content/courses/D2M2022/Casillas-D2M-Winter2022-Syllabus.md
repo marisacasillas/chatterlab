@@ -73,7 +73,7 @@ None!
 ### Thursday, 13 January 2022 (1.2): Part 2
 
 #### Pre-class preparation
-* Read the [dataset selection guidelines](./course_instructions/instructions-data_selection_guidelines.md) for the class 
+* Read the [dataset selection guidelines](../course_instructions/instructions-data_selection_guidelines/) for the class 
 * Select a dataset for you to use in the class. Contact Dr. Casillas ASAP if you are unsure which to choose.
  	
 #### In-class activities
