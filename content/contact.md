@@ -1,5 +1,4 @@
 +++
-title = "Contact"
 id = "contact"
 +++
 
