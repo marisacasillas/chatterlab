@@ -36,34 +36,28 @@ paginate = 10
     weight     = 3
 
 [[menu.main]]
-    name       = "Publications"
-    identifier = "publications"
-    url        = "/publications/"
-    weight     = 4
-
-[[menu.main]]
     name       = "Projects & Methods"
     identifier = "projects"
     url        = "/projects/"
-    weight     = 5
+    weight     = 4
 
 [[menu.main]]
-    name       = "Positions"
-    identifier = "positions"
-    url        = "/positions/"
-    weight     = 6
+    name       = "Publications"
+    identifier = "publications"
+    url        = "/publications/"
+    weight     = 5
 
 [[menu.main]]
     name       = "Tools"
     identifier = "tools"
     url        = "/tools/"
-    weight     = 7
+    weight     = 6
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 8
+    weight     = 7
 
 
 # Top bar social links menu
