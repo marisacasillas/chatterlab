@@ -121,7 +121,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/sample/of/endpoint"
+    formspree_action = "https://formspree.io/f/xwkyqjeb"
     contact_form_ajax = false
 
     # Formspree form supports Google reCAPTCHA Key (type v2).
