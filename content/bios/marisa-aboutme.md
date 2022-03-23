@@ -11,7 +11,7 @@ Broadly speaking, I am interested in exploring how cognitive and social processe
 Much of my work focuses in particular on how communicative and linguistic skills co-develop during in the first few years of life with the hope of better understanding how our capacity to produce, understand, and transmit language across generations is shaped by interactive needs.
 
 ### Curriculum Vitae
-You can find a recent CV [here](https://docs.google.com/document/d/1hWEHXhlJ_VYXOmvjuOQlSOqgiCmt_eeVc6TvExBpC80/edit?usp=sharing). Lab-related publications can be found on our [Publications](../publications/) page.
+You can find a recent CV [here](https://docs.google.com/document/d/1hWEHXhlJ_VYXOmvjuOQlSOqgiCmt_eeVc6TvExBpC80/edit?usp=sharing). Lab-related publications can be found on our [Publications](../../publications/) page.
 
 ### My work
 My research into children's everyday language environments in Western urban contexts and in two Indigenous rural contexts demonstrates that, across these communities, utterances directly and exclusively addressed to young children are relatively rare. Following on this discovery, we are now investigating differences in features of child-centered interactions in these communities while also exploring other ways in which children may capitalize on linguistic information in their environment.
