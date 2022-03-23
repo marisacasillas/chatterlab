@@ -128,7 +128,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * **Mini paper 3 due today**: Describe the difference between signal meaning and speaker meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the speaker meaning from the signal [2500 words **max**]
 
-* <span style="color:orange">**Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE CLASS on Thursday, April 21st_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.</span>
+* <span style="color:orange">**Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE end of day on Wednesday, April 27th_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.</span>
 
 ### Thursday, 28 April 2022 (5.2): Signaling and understanding speaker intentions
 
@@ -160,7 +160,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 11
 
-* <span style="color:orange">**Due today for the scientific report**: Find one participant for the overhearer portion of data collection, establish a testing time _BEFORE CLASS on Tuesday, May 10th_, and send your participant the official Zoom link (same as before). Cc your TA to confirm that you have done this.</span>
+* <span style="color:orange">**Due today for the scientific report**: Find one participant for the overhearer portion of data collection, establish a testing time _BEFORE end of day on Monday, May 16th_, and send your participant the official Zoom link (same as before). Cc your TA to confirm that you have done this.</span>
 
 ## Module 5:
 
