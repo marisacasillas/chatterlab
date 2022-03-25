@@ -130,7 +130,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * <span style="color:orange">**Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE end of day on Wednesday, April 27th_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.</span>
 
-### Thursday, 28 April 2022 (5.2): Signaling and understanding speaker intentions
+### Thursday, 28 April 2022 (5.2): Understanding intentions and signaling
 
 * Pre-class reading: UL Chapter 5 + UL Chapter 6
 
