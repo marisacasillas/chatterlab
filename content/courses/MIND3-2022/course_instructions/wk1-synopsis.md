@@ -1,5 +1,5 @@
 # Week 1 synopsis
-After reading and analyzing each of this week’s assigned articles by applying the methods outlined in the handout Guidelines for Mind (see FILES on Canvas), write a synopsis of one of them. Your synopsis should succinctly address the following questions (you should be able to answer most of these questions using 1 sentence or even bullet points, #4 and #5 may take a little more explanation). 
+After reading and analyzing each of this week’s assigned articles by applying the methods outlined in the handout Guidelines for Mind (see `Files/Guidelines for Mind (HenlyFallQ).pdf` on Canvas), write a synopsis of one of them. Your synopsis should succinctly address the following questions (you should be able to answer most of these questions using 1 sentence or even bullet points, #4 and #5 may take a little more explanation). 
 
 Your synopsis should include the following:
 
