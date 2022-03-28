@@ -19,6 +19,7 @@ Casey, K., & **Casillas, M.** (under review, February 2022). From _doggy_ to _do
 
 Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (under review, February 2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. [[ms](https://psyarxiv.com/u7qjd/)]
 
+Foushee, R. & **Casillas, M.** (under review, March 2022). What 'Diversity' Means Depends on Your Perspective: A Commentary on Kidd and Garcia (2022). _First Language_. [[ms](https://psyarxiv.com/bt3u7/)]
 
 ## in press/accepted
 
