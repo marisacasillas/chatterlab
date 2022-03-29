@@ -25,7 +25,7 @@ Foushee, R. & **Casillas, M.** (under review, March 2022). What 'Diversity' Mean
 
 Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](/lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
-Cristia, A. & **Casillas, M.** (accepted). Nonword repetition in children learning Yélî Dnye. _Language Development Research_ [[ms](./lab-publications/Cristia_Casillas_underreview2_Nonword_repetition_in_children_learning_Yeli_Dnye_v20211125.pdf)] [[osf](https://osf.io/5qspb/)]
+Cristia, A. & **Casillas, M.** (accepted). Nonword repetition in children learning Yélî Dnye. _Language Development Research_ [[ms](/lab-publications/Cristia_Casillas_underreview2_Nonword_repetition_in_children_learning_Yeli_Dnye_v20211125.pdf)] [[osf](https://osf.io/5qspb/)]
 
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
@@ -47,7 +47,7 @@ Soderstrom, M. **Casillas, M.**, Bergelson, E., Rosemberg, C., Alam, F., Warlaum
 
 **Casillas, M.** & Scaff, C. (2021). Analyzing contingent interactions in R with chattr. In T. Fitch, C. Lamm, H. Leder, & K. Teßmar-Raible (Eds.), Proceedings of the 43rd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2021) (pp. 2540-2546). Vienna, AT: Cognitive Science Society. [[ms](/lab-publications/Casillas_Scaff_2021_Analyzing_contingent_interactions_in_R_with_chattr_CogSci.pdf)] [[gh](https://github.com/marisacasillas/chattr-basic/tree/master/CogSci2021/CogSci2021-chattr)]
 
-**Casillas, M.**, Brown, P., & Levinson, S. C. (2021). Early language experience in a Papuan community. _Journal of Child Language 48_(4), 792–814. [[ms](/lab-publications/Casillas_et_al_2021_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](./lab-publications/Casillas_et_al_2021_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
+**Casillas, M.**, Brown, P., & Levinson, S. C. (2021). Early language experience in a Papuan community. _Journal of Child Language 48_(4), 792–814. [[ms](/lab-publications/Casillas_et_al_2021_Early_language_experience_in_a_Papuan_community_JCL.pdf)] [[sm](/lab-publications/Casillas_et_al_2021_Early_language_experience_in_a_Papuan_community_SuppMat_JCL.pdf)] [[gh](https://github.com/marisacasillas/Yeli-CLE)]
 
 Cychosz, M., Cristia, A., Bergelson, E., **Casillas, M.**, Baudet, G., Warlaumont, A. S., Scaff, C., Yankowitz, L., & Seidl, A. (2021). Vocal development in a large-scale crosslinguistic corpus. _Developmental Science, e13090_. [[ms](/lab-publications/Cychosz_et_al_2021_Vocal_development_in_a_large_scale_crosslinguistic_corpus_DevSci.pdf)] [[osf](https://osf.io/ca6qu/)]
 
@@ -55,7 +55,7 @@ Frost, R. L. A. & **Casillas, M.** (2021). Investigating statistical learning of
 
 ## 2020
 
-**Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Tseltal Mayan village. _Child Development, 91_(5), pp. 1819–1835. [[ms](/lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](./lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
+**Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Tseltal Mayan village. _Child Development, 91_(5), pp. 1819–1835. [[ms](/lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](/lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
 
 **Casillas, M.**, & Hilbrink, E. (2020). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), Developmental and Clinical Pragmatics (pp. 61-88). De Gruyter Mouton. [[ms](/lab-publications/Casillas_Hilbrink_inpress_Communicative_act_development_DCPragmaticsHandbook.pdf)]
 
@@ -73,7 +73,7 @@ Bergelson, E.\*, **Casillas, M.**\*, Soderstrom, M., Seidl, A., Warlaumont, A. S
 
 **Casillas, M.**, & Cristia, A. (2019). A step-by-step guide to collecting and analyzing long-format speech environment (LFSE) recordings. _Collabra, 5_(1): 24. doi:10.1525/collabra.209. [[ms](/lab-publications/Casillas_Cristia_2019_Step-by-step_guide_to_collecting_and_analyzing_long_format_speech_environment_LFSE_recordings_Collabra.pdf)] [[sm](/lab-publications/Casillas_Cristia_2019_Step-by-step_guide_to_collecting_and_analyzing_long_format_speech_environment_LFSE_recordings_SuppMat_Collabra.pdf)]
 
-**Casillas, M.**, Rafiee, A., & Majid, A. (2019). Iranian herbalists, but not cooks, are better at naming odors than laypeople. _Cognitive Science, 43_(6): e12763. doi:10.1111/cogs.12763. [[ms](/lab-publications/Casillas_et_al_2019_Iranian_hebalists_but_not_cooks_are_better_at_naming_odors_than_laypeople_CognitiveScience.pdf)] [[sm](./lab-publications/Casillas_et_al_2019_Iranian_hebalists_but_not_cooks_are_better_at_naming_odors_than_laypeople_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/Attars-OdorNaming)]
+**Casillas, M.**, Rafiee, A., & Majid, A. (2019). Iranian herbalists, but not cooks, are better at naming odors than laypeople. _Cognitive Science, 43_(6): e12763. doi:10.1111/cogs.12763. [[ms](/lab-publications/Casillas_et_al_2019_Iranian_hebalists_but_not_cooks_are_better_at_naming_odors_than_laypeople_CognitiveScience.pdf)] [[sm](/lab-publications/Casillas_et_al_2019_Iranian_hebalists_but_not_cooks_are_better_at_naming_odors_than_laypeople_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/Attars-OdorNaming)]
 
 Rasanen, O., Seshadri, S., Karadayi, J., Riebling, E., Bunce, J., Cristia, A., Metze, F., **Casillas, M.**, Rosemberg, C., Bergelson, E., & Soderstrom, M. (2019). Automatic word count estimation from daylong child-centered recordings in various language environments using language-independent syllabification of speech. _Speech Communication, 113_, 63-80. doi:10.1016/j.specom.2019.08.005. [[ms](/lab-publications/Rasanen_et_al_2019_Automatic_word_count_estimation_from_daylong_child_centered_recordings_SpeechComm.pdf)] [[gh](https://github.com/ACLEW/WCE_VM/)]
 
