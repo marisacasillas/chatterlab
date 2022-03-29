@@ -46,7 +46,7 @@ Students enrolled in this course will be graded on the following basis:
 
 ### Mini papers (45% of grade)
 
-Over the course of the quarter, students will submit three mini papers (up to 15% each). Mini papers typically engage with real data of some kind. Papers will be evaluated based on their (a) thoroughness and attention to detail with respect to the data/prompt, and (b) quality of discussion relating the data to course materials. Personal anecdotes, broad questions, and critiques not accompanied by constructive commentary will **not** count as sufficient discussion topics. Note: There are four opportunities to submit mini papers—students can choose which three they would like to submit (students may not submit a fourth paper for extra credit or for a 'redo' of a previous paper).
+Over the course of the quarter, students will submit three mini papers (up to 15% each; 2500 words max). Mini papers typically engage with real data of some kind. Papers will be evaluated based on their (a) thoroughness and attention to detail with respect to the data/prompt, and (b) quality of discussion relating the data to course materials. Personal anecdotes, broad questions, and critiques not accompanied by constructive commentary will **not** count as sufficient discussion topics. Note: There are four opportunities to submit mini papers—students can choose which three they would like to submit (students may not submit a fourth paper for extra credit or for a 'redo' of a previous paper).
 
 
 ### Participation (10% of grade)
@@ -184,7 +184,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 
 ## Final deadline (Tuesday, 31 May 2022)
-<span style="color:orange">Scientific report due, including: Study 1 on our class replication of [Schober & Clark (1989)](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0) and Study 2, a motivated, original, incremental follow-up study proposal with predicted findings.</span>
+<span style="color:orange">Scientific report due, including: Study 1 on our class replication of [Schober & Clark (1989)](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0) and Study 2, a motivated, original, incremental follow-up study proposal with predicted findings (4000 words **max**).</span>
 
 
 # Contact
