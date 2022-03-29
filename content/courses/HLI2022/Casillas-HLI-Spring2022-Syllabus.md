@@ -84,6 +84,8 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 31 March 2022 (1.2): Language use
 
+[[slides]](https://docs.google.com/presentation/d/11VCh8BDRuEhe6WUmsxUD1Cuo66xYZkec/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [recording to be posted]
+
 * Pre-class reading: UL Chapter 1
 
 ## Module 2: Foundations
