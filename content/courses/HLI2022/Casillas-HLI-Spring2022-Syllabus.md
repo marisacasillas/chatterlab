@@ -78,6 +78,8 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 29 March 2022 (1.1): Introduction and syllabus
 
+[[slides]](https://docs.google.com/presentation/d/1E1eI1IhWSLfaYPjsJ21fIXE-xFeKr3hT/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/GTRZcRgSS8jt4V93gdb8bWMSt5bwjXGjD0XaQLYcUcr-TcBeWzA6WBaPvxgR83pk.i-x1sk6VHvaUXEGx)
+
 * Pre-class reading: None!
 
 ### Thursday, 31 March 2022 (1.2): Language use
