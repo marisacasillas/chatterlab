@@ -33,7 +33,9 @@ Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language 
 
 Peute, A. A. K. & **Casillas, M.** (accepted pending minor revisions). (Non-)effects of linguistic environment on early stable consonant production: A crosscultural case study. [[ms](https://psyarxiv.com/5feju/)]
 
-De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (to appear March 2022). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language XX_. [[ms](/lab-publications/DeVos_et_al_accepted_Predicting_conversational_turns_Language.pdf)]
+## 2022
+
+De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (2022). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language 98_(1), 35–62. [[ms](/lab-publications/DeVos_et_al_2022_Predicting_conversational_turns_Language.pdf)]
 
 
 ## 2021
