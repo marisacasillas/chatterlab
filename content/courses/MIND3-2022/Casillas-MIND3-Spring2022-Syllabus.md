@@ -22,11 +22,19 @@ Post to Canvas discussion board (**in this order**):
 1. A succinctly stated **question** directly derived from the week’s readings and lecture (two-three sentences at most). This should be a question that emerges from having understood the claims presented in the readings and/or lecture, not just a general question that one could ask of the topic without having read the material or heard the lecture.
 2. A **synopsis** of one of the readings (see directions for week 1 [here](../course_instructions/wk1-synopsis/) and the other weeks [here](../course_instructions/wk2to9-synopsis/))
 
+Your question + synopsis each week will be graded on a scale of 0 (not submitted) to 3 (great). A full score of 3 will be assigned for thoughtful, well-written posts that have all the required sub-parts (see above) and engage deeply with the cited content.
+
 ### 1-question comprehension quiz
 
 I will pick one quick question from the readings for that week that you should be able to answer if you have read the papers. The quiz is given at the start of our Thursday section hour. There is no make-up quiz, so please come on time.
 
-## Final deadline (Tuesday, 31 May 2022)
+## Grading
+
+* Weekly question + synopsis: 70%
+* Final paper: 25%
+* Attendance (includes comprehension quizzes): 5%
+
+## Final paper deadline (Tuesday, 31 May 2022)
 More information TBA
 
 # Contact

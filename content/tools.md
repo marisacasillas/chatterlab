@@ -8,9 +8,9 @@ See the [ACLEW site](https://sites.google.com/view/aclewdid/home) for the latest
 
 See [HomeBank's tools repository](https://github.com/homebankcode) for LENA-relevant tools.
 
-[Ethical considerations](./lab-publications/Cychosz_et_al_2020_Longform_recordings_of_everyday_life_Ethics_for_best_practices_BRM.pdf) for daylong recordings.
+[Ethical considerations](/lab-publications/Cychosz_et_al_2020_Longform_recordings_of_everyday_life_Ethics_for_best_practices_BRM.pdf) for daylong recordings.
 
-[Considerations](./lab-publications/Casillas_Cristia_2019_Step-by-step_guide_to_collecting_and_analyzing_long_format_speech_environment_LFSE_recordings_Collabra.pdf) to make before conducting daylong recording resarch.
+[Considerations](/lab-publications/Casillas_Cristia_2019_Step-by-step_guide_to_collecting_and_analyzing_long_format_speech_environment_LFSE_recordings_Collabra.pdf) to make before conducting daylong recording resarch.
 
 [Tutorial](https://github.com/aclew/DaylongDataTutorial-CogSci19) on getting started with daylong recordings.
 
@@ -28,9 +28,9 @@ See [HomeBank's tools repository](https://github.com/homebankcode) for LENA-rele
 
 [Anotar](https://github.com/marisacasillas/annotate-app): Useful for text-based annotations of short audio snippets.
 
-[IDSLabel](https://github.com/SeedlingsBabylab/idslabel): Annotate speech segments within LENA conversational blocks across 1+ sites. Citation: [1](./lab-publications/Bergelson_Casillas_et_al_2019_What_do_North_American_babies_hear_DevSci.pdf), [2](./lab-publications/Casillas_et_al_2017_What_do_babies_hear_Interspeech.pdf)
+[IDSLabel](https://github.com/SeedlingsBabylab/idslabel): Annotate speech segments within LENA conversational blocks across 1+ sites. Citation: [1](/lab-publications/Bergelson_Casillas_et_al_2019_What_do_North_American_babies_hear_DevSci.pdf), [2](/lab-publications/Casillas_et_al_2017_What_do_babies_hear_Interspeech.pdf)
 
-[ALICE](https://github.com/orasanen/ALICE): Automatically estimate number of words, syllables, and/or phones in speech clips. Citation: [1](./lab-publications/Rasanen_et_al_2020_ALICE_BRM.pdf)
+[ALICE](https://github.com/orasanen/ALICE): Automatically estimate number of words, syllables, and/or phones in speech clips. Citation: [1](/lab-publications/Rasanen_et_al_2020_ALICE_BRM.pdf)
 
 ## Annotating photos
 

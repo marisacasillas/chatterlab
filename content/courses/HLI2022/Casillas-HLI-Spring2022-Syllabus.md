@@ -84,7 +84,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 31 March 2022 (1.2): Language use
 
-[[slides]](https://docs.google.com/presentation/d/11VCh8BDRuEhe6WUmsxUD1Cuo66xYZkec/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [recording to be posted]
+[[slides]](https://docs.google.com/presentation/d/11VCh8BDRuEhe6WUmsxUD1Cuo66xYZkec/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/FCXZvyVVwU7dZI9RQ-0I908rXWgz79Oac1Iq65iz9HvjwFTLTUnG2Rxs-zW73pdk.ba8WTY0bRy4TG120)
 
 * Pre-class reading: UL Chapter 1
 
@@ -92,9 +92,13 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 05 April 2022 (2.1): Joint activities
 
+[[slides]](https://docs.google.com/presentation/d/1YX-YzfpDGOEmWwOX0-kMjQZQ-TXHig3H/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/ZCupHXY_1V3tHhWQ6dsL-pEiMEyOkyIY3QGnT7akwLPTqkEN1pvUHSOTVOcHaDp7.KeqlkTNsYm7L8lEu)
+
 * Pre-class reading: UL Chapter 2
 
 ### Thursday, 07 April 2022 (2.2): Joint actions
+
+[[slides]](https://docs.google.com/presentation/d/1_c57MUJAXWFaoBePk2tIPnFsvSELyfV8/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [recording to be posted]
 
 * Pre-class reading: UL Chapter 3
 
