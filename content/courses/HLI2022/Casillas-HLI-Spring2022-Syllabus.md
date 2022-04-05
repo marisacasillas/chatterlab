@@ -132,13 +132,13 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * **Mini paper 3 due today**: Describe the difference between signal meaning and speaker meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the speaker meaning from the signal [2500 words **max**]
 
-* <span style="color:orange">**Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE end of day on Wednesday, April 27th_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.</span>
+*  **Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE end of day on Wednesday, April 27th_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.
 
 ### Thursday, 28 April 2022 (5.2): Understanding intentions and signaling
 
 * Pre-class reading: UL Chapter 5 + UL Chapter 6
 
-* <span style="color:orange">**Due today for the scientific report**: Upload your experiment recording with the matcher and director to Box (we will provide the link).</span>
+* <code class="orange">**Due today for the scientific report**: Upload your experiment recording with the matcher and director to Box (we will provide the link).</code>
 
 ### Tuesday, 03 May 2022 (6.1): Multimodal interaction
 
