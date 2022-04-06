@@ -2,7 +2,7 @@
 
 ## Dr. Marisa Casillas
 
-{{< figure src="/img/people/MarisaCasillas2022_photobyErielleBakkum_smaller.jpg" width=500 height=400 >}}
+{{< figure src="/img/people/MarisaCasillas2022_photobyErielleBakkum_smaller.jpg" width=300 height=375 >}}
 Photo credit: [Erielle Bakkum](https://www.eriellebakkumphotography.com/)
 
 ### About
