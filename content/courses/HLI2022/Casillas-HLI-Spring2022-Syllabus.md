@@ -48,7 +48,6 @@ Students enrolled in this course will be graded on the following basis:
 
 Over the course of the quarter, students will submit three mini papers (up to 15% each; 2500 words max). Mini papers typically engage with real data of some kind. Papers will be evaluated based on their (a) thoroughness and attention to detail with respect to the data/prompt, and (b) quality of discussion relating the data to course materials. Personal anecdotes, broad questions, and critiques not accompanied by constructive commentary will **not** count as sufficient discussion topics. Note: There are four opportunities to submit mini papers—students can choose which three they would like to submit (students may not submit a fourth paper for extra credit or for a 'redo' of a previous paper).
 
-
 ### Participation (10% of grade)
 
 Students are generally expected to come to class and actively participate in discussion. The participation grade reflects the range from no attendance (0%) to near-full attendance and active participation at every session attended (10%). Please stay in touch with your TA about any limitations you have regarding in-person participation.
@@ -107,7 +106,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 4
 
-* **Mini paper 1 due today**: Choose a complex joint activity that has _NOT_ been discussed in the book or in class. Describe the activity you have chosen. Using Clark's concepts, demonstrate what its component parts and other qualifiers are that make it a good example of a joint activity. Include at least one figure mapping out its component parts and their relations  (e.g., roles, layers, nested/sequential actions). [2500 words **max**]
+* **Mini paper 1 due today**: Choose a complex joint activity that has _NOT_ been discussed in the book or in class. Describe the activity you have chosen. Using Clark's concepts, demonstrate what its component parts and other qualifiers are that make it a good example of a joint activity. Include at least one figure mapping out its component parts and their relations  (e.g., roles, layers, nested/sequential actions). [2500 words **max**; [rubric](./miniassignment1-rubric/)]
 
 ### Thursday, 14 April 2022 (3.2): Introduction to Conversation Analysis
 
