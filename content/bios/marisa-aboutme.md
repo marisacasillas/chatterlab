@@ -2,8 +2,8 @@
 
 ## Dr. Marisa Casillas
 
-{{< figure src="/img/people/marisa-casillas.JPG" width=500 height=400 >}}
-Dr. Casillas in the Bemmelse Waard, Nijmegen, The Netherlands
+{{< figure src="/img/people/MarisaCasillas2022_photobyErielleBakkum_smaller.jpg" width=500 height=400 >}}
+Photo credit: [Erielle Bakkum](https://www.eriellebakkumphotography.com/)
 
 ### About
 Broadly speaking, I am interested in exploring how cognitive and social processes shape the ways in which we learn, perceive, and produce language. My primary research examines the relationship between communicative skills and linguistic processing in children and adults. I use a combination of experimental- and observation-based methods to comparatively investigate these processes in both urban, Western contexts and rural, Indigenous contexts.
