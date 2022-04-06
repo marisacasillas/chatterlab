@@ -106,7 +106,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 4
 
-* **Mini paper 1 due today**: Choose a complex joint activity that has _NOT_ been discussed in the book or in class. Describe the activity you have chosen. Using Clark's concepts, demonstrate what its component parts and other qualifiers are that make it a good example of a joint activity. Include at least one figure mapping out its component parts and their relations  (e.g., roles, layers, nested/sequential actions). [2500 words **max**; [rubric](./miniassignment1-rubric/)]
+* **Mini paper 1 due today**: Choose a complex joint activity that has _NOT_ been discussed in the book or in class. Describe the activity you have chosen. Using Clark's concepts, demonstrate what its component parts and other qualifiers are that make it a good example of a joint activity. Include at least one figure mapping out its component parts and their relations  (e.g., roles, layers, nested/sequential actions). [2500 words **max**; [rubric](../miniassignment1-rubric/)]
 
 ### Thursday, 14 April 2022 (3.2): Introduction to Conversation Analysis
 
