@@ -97,7 +97,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 07 April 2022 (2.2): Joint actions
 
-[[slides]](https://docs.google.com/presentation/d/1_c57MUJAXWFaoBePk2tIPnFsvSELyfV8/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [recording to be posted]
+[[slides]](https://docs.google.com/presentation/d/1_c57MUJAXWFaoBePk2tIPnFsvSELyfV8/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/V-LdoyU2TKfS5D9_1c6IyaiqFjgeLpiVUI35ij6PtkbFknkGdIKhfmB6JlPapLyA.ZDNcBqsMO7KR9VlI)
 
 * Pre-class reading: UL Chapter 3
 
