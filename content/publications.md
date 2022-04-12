@@ -11,15 +11,10 @@ Looking for [tools](../tools/)?
 
 Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (in revision, February 2022). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
 
-Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & **Casillas, M.** (under review, February 2022). Sticks, leaves, buckets, and bowls: Distributional patterns of children's at-home object handling in two subsistence societies. [[ms](/lab-publications/Casey_et_al_submitted_Distributional_patterns_of_at_home_object_handling.pdf)]
-
-Casey, K., & **Casillas, M.** (under review, February 2022). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words. [[ms](/lab-publications/Casey_Casillas_submitted_Developmental_shifts_in_use_of_register_specific_words.pdf)]
-
 **Casillas, M.** & Elliott, M. (in prep, February 2022). Cross-cultural differences in children's object handling at home. [[ms](/lab-publications/Casillas_Elliott_submitted_crosscultural_differences_in_childrens_object_handling_at_home.pdf)]
 
-Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (under review, February 2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. [[ms](https://psyarxiv.com/u7qjd/)]
-
 Foushee, R. & **Casillas, M.** (under review, March 2022). What 'Diversity' Means Depends on Your Perspective: A Commentary on Kidd and Garcia (2022). _First Language_. [[ms](https://psyarxiv.com/bt3u7/)]
+
 
 ## in press/accepted
 
@@ -35,8 +30,15 @@ Peute, A. A. K. & **Casillas, M.** (accepted pending minor revisions). (Non-)eff
 
 ## 2022
 
+Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & **Casillas, M.** (accepted 2022). Sticks, leaves, buckets, and bowls: Distributional patterns of children's at-home object handling in two subsistence societies. Proceedings of the 44th Annual Virtual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](/lab-publications/Casey_et_al_submitted_Distributional_patterns_of_at_home_object_handling.pdf)]
+
+Casey, K., & **Casillas, M.** (accepted 2022). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words.  Proceedings of the 44th Annual Virtual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](/lab-publications/Casey_Casillas_submitted_Developmental_shifts_in_use_of_register_specific_words.pdf)]
+
 De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (2022). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language 98_(1), 35–62. [[ms](/lab-publications/DeVos_et_al_2022_Predicting_conversational_turns_Language.pdf)]
 
+Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted 2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. Proceedings of the 44th Annual Virtual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](https://psyarxiv.com/u7qjd/)]
+
+Foushee, R., Byrne, D., **Casillas, M.**, & Casillas, M. (accepted 2022). Getting to the Root of Linguistic Alignment: Tree Comparison as a Measure of Syntactic Alignment and Index of Language Development in Children Who are Typically Developing and Children with Early Brain Injury. Proceedings of the 44th Annual Virtual Meeting of the Cognitive Science Society (CogSci 2022) XX.
 
 ## 2021
 
