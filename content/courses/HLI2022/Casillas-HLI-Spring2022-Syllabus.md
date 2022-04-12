@@ -104,7 +104,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 12 April 2022 (3.1): Common ground
 
-[[slides]](https://docs.google.com/presentation/d/1KJ1ysJQiCyoiaVLS7KU08sjeb1Sqmg-h/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)
+[[slides]](https://docs.google.com/presentation/d/1KJ1ysJQiCyoiaVLS7KU08sjeb1Sqmg-h/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/IWzrD7unpZzvhzQgyfzKArvpakI8H4471gPa0ppmlZDBWA9aOoVaPBv5aWA0vVqw.y1XC4MmGi9T-jE4W)
 
 * Pre-class reading: UL Chapter 4
 
