@@ -104,11 +104,15 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 12 April 2022 (3.1): Common ground
 
+[[slides]](https://docs.google.com/presentation/d/1KJ1ysJQiCyoiaVLS7KU08sjeb1Sqmg-h/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)
+
 * Pre-class reading: UL Chapter 4
 
 * **Mini paper 1 due today**: Choose a complex joint activity that has _NOT_ been discussed in the book or in class. Describe the activity you have chosen. Using Clark's concepts, demonstrate what its component parts and other qualifiers are that make it a good example of a joint activity. Include at least one figure mapping out its component parts and their relations  (e.g., roles, layers, nested/sequential actions). [2500 words **max**; [rubric](../miniassignment1-rubric/)]
 
 ### Thursday, 14 April 2022 (3.2): Introduction to Conversation Analysis
+
+[[slides]](https://docs.google.com/presentation/d/1FJsX9Z7y9FgbQQESfLHdDmS5UFb-HY5g/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)
 
 * Pre-class reading: [Sidnell, J. (2016). Conversation Analysis. Oxford Research Encyclopedia of Linguistics.](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-40) and [Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd.](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
