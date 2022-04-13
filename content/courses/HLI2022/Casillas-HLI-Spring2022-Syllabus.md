@@ -121,7 +121,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: [Levinson, S. C. (2019). Interactional foundations of language: The interaction engine hypothesis. In _Human language: From genes and brain to behavior_ (pp. 189-200). MIT Press.](https://pure.mpg.de/rest/items/item_3171367_3/component/file_3186123/content)
 
-* **Mini paper 2 due today**: Devise a Schelling game (linguistic or non-linguistic) and run it on 4–6 of your friends. Describe how you set up your game, why, what you expected the outcome to be, and what the actual outcome was. Discuss your reported findings in a way that engages directly with big ideas from the course for full credit [2500 words **max**]
+* **Mini paper 2 due today**: Devise a Schelling game (linguistic or non-linguistic) and run it on 4–6 of your friends. Describe how you set up your game, why, what you expected the outcome to be, and what the actual outcome was. Discuss your reported findings in a way that engages directly with big ideas from the course for full credit [2500 words **max**; [rubric](../miniassignment2-rubric/)]
 
 
 ## Module 3: Communication, language, and action
