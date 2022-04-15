@@ -112,12 +112,14 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 14 April 2022 (3.2): Introduction to Conversation Analysis
 
-[[slides]](https://docs.google.com/presentation/d/1FJsX9Z7y9FgbQQESfLHdDmS5UFb-HY5g/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)
+[[slides]](https://docs.google.com/presentation/d/1FJsX9Z7y9FgbQQESfLHdDmS5UFb-HY5g/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/gNqcRjqC5U_lIwXbTFId75tCkk0dpVecmKPhmqu1WMIdpxluATOUuToIABt_0zL3.KKaVL1NDevmPMqcJ)
 
 * Pre-class reading: [Sidnell, J. (2016). Conversation Analysis. Oxford Research Encyclopedia of Linguistics.](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-40) and [Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd.](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
 
 ### Tuesday, 19 April 2022 (4.1): The Human Interaction Engine
+
+[[slides]](https://docs.google.com/presentation/d/1ienWbolsmrh79rFfsOLOx_osgqilmbrY/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)
 
 * Pre-class reading: [Levinson, S. C. (2019). Interactional foundations of language: The interaction engine hypothesis. In _Human language: From genes and brain to behavior_ (pp. 189-200). MIT Press.](https://pure.mpg.de/rest/items/item_3171367_3/component/file_3186123/content)
 
@@ -127,6 +129,8 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 ## Module 3: Communication, language, and action
 
 ### Thursday, 21 April 2022 (4.2): Experiment preparation
+
+[[slides]](https://docs.google.com/presentation/d/1Kt6i2fukV559ecZE7WlQlqoLsFx0jwj5vEEP_4fGh7M/edit?usp=sharing)
 
 * Pre-class reading: [Schober, M. F. & Clark, H. H. (1989). Understanding by addressees and overhearers. _Cognitive Psychology 21_, 211–232.](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0)
 
