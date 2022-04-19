@@ -34,7 +34,7 @@ Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquet
 
 Casey, K., & **Casillas, M.** (accepted 2022). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words. Proceedings of the 44th Annual Virtual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](/lab-publications/Casey_Casillas_submitted_Developmental_shifts_in_use_of_register_specific_words.pdf)]
 
-De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (2022). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language 98_(1), 35–62. [[ms](/lab-publications/DeVos_et_al_accepted_Predicting_conversational_turns_Language.pdf)]
+De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (2022). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language 98_(1), 35–62. [[ms](/lab-publications/DeVos_et_al_2022_Predicting_conversational_turns_Language.pdf)]
 
 Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted 2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. Proceedings of the 44th Annual Virtual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](https://psyarxiv.com/u7qjd/)]
 
