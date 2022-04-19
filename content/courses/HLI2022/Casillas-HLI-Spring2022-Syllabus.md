@@ -119,7 +119,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 19 April 2022 (4.1): The Human Interaction Engine
 
-[[slides]](https://docs.google.com/presentation/d/1ienWbolsmrh79rFfsOLOx_osgqilmbrY/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)
+[[slides]](https://docs.google.com/presentation/d/1ienWbolsmrh79rFfsOLOx_osgqilmbrY/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/knP0KviwxSq6NlnQZKZzPAv7nLJOCIhZm5iWgue8Feca-PbxMnfdcxTo9lgv5npT.93esz1xgsvKkeZGI)
 
 * Pre-class reading: [Levinson, S. C. (2019). Interactional foundations of language: The interaction engine hypothesis. In _Human language: From genes and brain to behavior_ (pp. 189-200). MIT Press.](https://pure.mpg.de/rest/items/item_3171367_3/component/file_3186123/content)
 
