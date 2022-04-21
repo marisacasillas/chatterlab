@@ -141,13 +141,13 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 8
 
-*  **Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE end of day on Wednesday, April 27th_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.
+*  <span style="color:orange">**Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE end of day on Wednesday, April 27th_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.</span>
 
 ### Thursday, 28 April 2022 (5.2): Understanding intentions and signaling
 
 * Pre-class reading: UL Chapter 5 + UL Chapter 6
 
-* <code class="orange">**Due today for the scientific report**: Upload your experiment recording with the matcher and director to Box (we will provide the link).</code>
+* <span style="color:orange">**Due today for the scientific report**: Upload your experiment recording with the matcher and director to Box (we will provide the link).</span>
 
 ### Tuesday, 03 May 2022 (6.1): Multimodal interaction
 
@@ -200,7 +200,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 
 ## Final deadline (Tuesday, 31 May 2022)
-<span style="color:orange">Scientific report due, including: Study 1 on our class replication of [Schober & Clark (1989)](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0) and Study 2, a motivated, original, incremental follow-up study proposal with predicted findings (4000 words **max**).</span>
+Scientific report due, including: Study 1 on our class replication of [Schober & Clark (1989)](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0) and Study 2, a motivated, original, incremental follow-up study proposal with predicted findings (4000 words **max**).
 
 
 # Contact
