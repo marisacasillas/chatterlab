@@ -130,7 +130,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 21 April 2022 (4.2): Experiment preparation
 
-[[slides]](https://docs.google.com/presentation/d/1Kt6i2fukV559ecZE7WlQlqoLsFx0jwj5vEEP_4fGh7M/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1Kt6i2fukV559ecZE7WlQlqoLsFx0jwj5vEEP_4fGh7M/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/zOJfMyCJeOc3Z0KqDVR4ASfxZBaJWL8IZWDEsSZsK4A67jci6QL7xRzpScrfXUlm.pHo1ahWKgUCqiwDo)
 
 * Pre-class reading: [Schober, M. F. & Clark, H. H. (1989). Understanding by addressees and overhearers. _Cognitive Psychology 21_, 211–232.](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0)
 
