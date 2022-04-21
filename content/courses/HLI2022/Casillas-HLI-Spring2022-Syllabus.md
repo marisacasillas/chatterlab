@@ -141,8 +141,6 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 8
 
-* **Mini paper 3 due today**: Describe the difference between signal meaning and speaker meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the speaker meaning from the signal [2500 words **max**]
-
 *  **Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE end of day on Wednesday, April 27th_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.
 
 ### Thursday, 28 April 2022 (5.2): Understanding intentions and signaling
@@ -155,13 +153,13 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 9 + [Holler, J., & Bavelas, J. (2017). Multi-modal communication of common ground: A review of social functions. In R. B. Church, M. W. Alibali, & S. D. Kelly (Eds.), Why gesture? How the hands function in speaking, thinking and communicating (pp. 213-240). Amsterdam: Benjamins.](https://pure.mpg.de/rest/items/item_2352807_13/component/file_2459489/content)
 
+* **Mini paper 3 due today**: Describe the difference between signal meaning and speaker meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the speaker meaning from the signal [2500 words **max**]
+
 ## Module 4: Discourse, narrative, and joint projects
 
 ### Thursday, 05 May 2022 (6.2): Joint projects
 
 * Pre-class reading: UL Chapter 7
-
-* **Mini paper 4 due today**: Find an example of a conversation in the wild (e.g., on youtube, tiktok, etc.) that has multiple iconic or depictive gestures; provide a link where we can all access the example. Describe the gesture and its meaning, discuss how the gesture relates to the ongoing utterance, and make an argument (based on what we have learned so far) regarding the function of that gesture in that particular context. [2500 words **max**]
 
 ### Tuesday, 10 May 2022 (7.1): Joint commitment
 
@@ -176,6 +174,9 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 * Pre-class reading: UL Chapter 11
 
 * <span style="color:orange">**Due today for the scientific report**: Find one participant for the overhearer portion of data collection, establish a testing time _BEFORE end of day on Monday, May 16th_, and send your participant the official Zoom link (same as before). Cc your TA to confirm that you have done this.</span>
+
+* **Mini paper 4 due today**: Find an example of a conversation in the wild (e.g., on youtube, tiktok, etc.) that has multiple iconic or depictive gestures; provide a link where we can all access the example. Describe the gesture and its meaning, discuss how the gesture relates to the ongoing utterance, and make an argument (based on what we have learned so far) regarding the function of that gesture in that particular context. [2500 words **max**]
+
 
 ## Module 5:
 
