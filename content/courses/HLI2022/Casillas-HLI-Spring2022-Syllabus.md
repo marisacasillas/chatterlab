@@ -153,7 +153,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 9 + [Holler, J., & Bavelas, J. (2017). Multi-modal communication of common ground: A review of social functions. In R. B. Church, M. W. Alibali, & S. D. Kelly (Eds.), Why gesture? How the hands function in speaking, thinking and communicating (pp. 213-240). Amsterdam: Benjamins.](https://pure.mpg.de/rest/items/item_2352807_13/component/file_2459489/content)
 
-* **Mini paper 3 due today**: Describe the difference between signal meaning and speaker (producer) meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the producer meaning from the signal [2500 words **max**]
+* **Mini paper 3 due today**: Describe the difference between signal meaning and speaker (producer) meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the producer meaning from the signal [2500 words **max**; [rubric](../miniassignment3-rubric/)]
 
 ## Module 4: Discourse, narrative, and joint projects
 
