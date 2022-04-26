@@ -9,7 +9,7 @@ I am a PhD student in the Department of Comparative Human Development at the Uni
 My research examines how nonspeaking autistic bilingual Latinx children and youth and their families creatively manage the interactional, linguistic, cultural, and technological limitations and affordances of augmentative and alternative communication (AAC) technologies. Utilizing ethnographic methods, I explore how users and their family members discursively represent AAC as imposing restraints or facilitating interactional practices, as well as how emotional stances about AAC devices (e.g., frustration, appreciation) are established and negotiated between family members through discourses about these practices. I am especially interested in utilizing detailed interactional analysis to investigate the international practices of these families as they work together with AAC devices in order to understand how these device-mediated interactions unfold. 
 
 ### Publications
-**Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. *Research on Children and Social Interaction.* [[pre-print](/lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
+**Prado, E.** & Bucholtz, M. (2021). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. _Research on Children and Social Interaction, 5_(2), 239–270. [[ms](/lab-publications/Prado_Bucholtz_2021_RoCSI.pdf)]
 
 ### Contact 
 Email: erikaprado@uchicago.edu
