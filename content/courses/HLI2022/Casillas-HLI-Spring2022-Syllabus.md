@@ -139,7 +139,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 26 April 2022 (5.1): Grounding 
 
-[[slides]](https://docs.google.com/presentation/d/1Qo8pXMaORtScaIFbslPTv9t20YXeMnlT1Qt8u8bULuY/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1Qo8pXMaORtScaIFbslPTv9t20YXeMnlT1Qt8u8bULuY/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/_bzEVxOXrQPZ_LjxdUqlvs92IEXxDdtd-4RtdLtkj0iE3nXLo1zNEuTU1xw4mT-S.keszyHcJwpRtUVKI)
 
 * Pre-class reading: UL Chapter 8
 
