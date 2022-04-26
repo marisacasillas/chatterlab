@@ -20,11 +20,7 @@ Foushee, R. & **Casillas, M.** (under review, March 2022). What 'Diversity' Mean
 
 Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](/lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
-Cristia, A. & **Casillas, M.** (accepted). Nonword repetition in children learning Yélî Dnye. _Language Development Research_ [[ms](/lab-publications/Cristia_Casillas_underreview2_Nonword_repetition_in_children_learning_Yeli_Dnye_v20211125.pdf)] [[osf](https://osf.io/5qspb/)]
-
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
-
-**Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. _Research on Children and Social Interaction, 5_(2). [[ms](/lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
 
 Peute, A. A. K. & **Casillas, M.** (accepted pending minor revisions). (Non-)effects of linguistic environment on early stable consonant production: A crosscultural case study. [[ms](https://psyarxiv.com/5feju/)]
 
@@ -34,6 +30,8 @@ Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquet
 
 Casey, K., & **Casillas, M.** (accepted 2022). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](/lab-publications/Casey_Casillas_submitted_Developmental_shifts_in_use_of_register_specific_words.pdf)]
 
+Cristia, A. & **Casillas, M.** (2022). Nonword repetition in children learning Yélî Dnye. _Language Development Research 2_(1), 69–104. [[ms](/lab-publications/Cristia_Casillas_2022_Nonword_repetition_in_children_learning_Yeli_Dnye.pdf)] [[osf](https://osf.io/5qspb/)]
+
 De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (2022). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language 98_(1), 35–62. [[ms](/lab-publications/DeVos_et_al_2022_Predicting_conversational_turns_Language.pdf)]
 
 Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted 2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](https://psyarxiv.com/u7qjd/)]
@@ -41,6 +39,8 @@ Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted 2022). Immature vo
 Foushee, R., Byrne, D., **Casillas, M.**, & Goldin-Meadow, S. (accepted 2022). Getting to the Root of Linguistic Alignment: Tree Comparison as a Measure of Syntactic Alignment and Index of Language Development in Children Who are Typically Developing and Children with Early Brain Injury. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX.
 
 ## 2021
+
+**Prado, E.** & Bucholtz, M. (forthcoming). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. _Research on Children and Social Interaction, 5_(2), 239–270. [[ms](/lab-publications/PradoBucholtz-RoCSI-forthcoming.pdf)]
 
 Soderstrom, M., **Casillas, M.**, Gornik, M., Bouchard, A., MacEwan, S., Shokrkon, A., & Bunce, J. (2021). English-speaking adults' labeling of child- and adult-directed speech across languages and its relationship to perception of affect. _Frontiers in Psychology 12_:708887. [[ms](/lab-publications/Soderstrom_et_al_2021_English_speaking_adults_labeling_of_child_and_adult_directed_speech_across_languages_Frontiers.pdf)]
 
