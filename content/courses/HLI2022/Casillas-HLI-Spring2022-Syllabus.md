@@ -155,6 +155,8 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 03 May 2022 (6.1): Multimodal interaction
 
+[[slides]](https://docs.google.com/presentation/d/10MuRC7v5FCZ3UPMLBxbpH6kmjstrNl08IcJRj6w9SGk/edit?usp=sharing)
+
 * Pre-class reading: UL Chapter 9 + [Holler, J., & Bavelas, J. (2017). Multi-modal communication of common ground: A review of social functions. In R. B. Church, M. W. Alibali, & S. D. Kelly (Eds.), Why gesture? How the hands function in speaking, thinking and communicating (pp. 213-240). Amsterdam: Benjamins.](https://pure.mpg.de/rest/items/item_2352807_13/component/file_2459489/content)
 
 * **Mini paper 3 due today**: Describe the difference between signal meaning and speaker (producer) meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the producer meaning from the signal [2500 words **max**; [rubric](../miniassignment3-rubric/)]
@@ -163,9 +165,13 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 05 May 2022 (6.2): Joint projects
 
+[[slides]](https://docs.google.com/presentation/d/1MXMbK10zAtjKPyvjmjFszgpwC2306FrfAKY6rKeekYA/edit?usp=sharing)
+
 * Pre-class reading: UL Chapter 7
 
 ### Tuesday, 10 May 2022 (7.1): Joint commitment
+
+[[slides]](https://docs.google.com/presentation/d/1Li3tiBMgWc3OoYBQ9WkQiuEfEMiuiVKZprTtCAZa6ic/edit?usp=sharing)
 
 * Pre-class reading: UL Chapter 10
 
@@ -174,6 +180,8 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 	* <span style="color:orange">**Up to 12%** for data annotation (the TAs/Dr. Casillas will spot-check your annotation files and recording for high quality segmentation and annotation)</span>
 
 ### Thursday, 12 May 2022 (7.2): Conversation
+
+[[slides]](https://docs.google.com/presentation/d/1HlLlvMrBgTCAfU4VfELzhfVb4R39b-hEe2L25T4HVGI/edit?usp=sharing)
 
 * Pre-class reading: UL Chapter 11
 
@@ -185,6 +193,8 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 ## Module 5:
 
 ### Tuesday, 17 May 2022 (8.1):  Layering
+
+[[slides]](https://docs.google.com/presentation/d/1TX-7uyapPhVSzWMz6Kv-qogWw6lWDEZnJKFNKoa2tAw/edit?usp=sharing)
 
 * Pre-class reading: UL Chapter 12
 
