@@ -147,7 +147,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 28 April 2022 (5.2): Understanding intentions and signaling
 
-[[slides]](https://docs.google.com/presentation/d/1RI5Qdyk10WXO7cGRBamdnnEHIydJd2peyL89hpUlhEg/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1RI5Qdyk10WXO7cGRBamdnnEHIydJd2peyL89hpUlhEg/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/ayDWRZi-2ZicjGDz0QLqmwaxTTR0dOhmSL77h1TLYbavmAWbgGa4f4mjYbkSxF1_.i5JtfQqwjA_km2e0)
 
 * Pre-class reading: UL Chapter 5 + UL Chapter 6
 
