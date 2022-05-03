@@ -155,7 +155,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 03 May 2022 (6.1): Multimodal interaction
 
-[[slides]](https://docs.google.com/presentation/d/10MuRC7v5FCZ3UPMLBxbpH6kmjstrNl08IcJRj6w9SGk/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/10MuRC7v5FCZ3UPMLBxbpH6kmjstrNl08IcJRj6w9SGk/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/aHlCoK1cDrqNEjahkRdawylXmOFChqRpPfEfGhccinyxWrPDsqIfu1Y3Du_KHeIH.ilOYPGUlrSOj8_ju)
 
 * Pre-class reading: UL Chapter 9 + [Holler, J., & Bavelas, J. (2017). Multi-modal communication of common ground: A review of social functions. In R. B. Church, M. W. Alibali, & S. D. Kelly (Eds.), Why gesture? How the hands function in speaking, thinking and communicating (pp. 213-240). Amsterdam: Benjamins.](https://pure.mpg.de/rest/items/item_2352807_13/component/file_2459489/content)
 
