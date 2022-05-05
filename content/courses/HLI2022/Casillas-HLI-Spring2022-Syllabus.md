@@ -187,7 +187,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * <span style="color:orange">**Due today for the scientific report**: Find one participant for the overhearer portion of data collection, establish a testing time _BEFORE end of day on Monday, May 16th_, and send your participant the official Zoom link (same as before). Cc your TA to confirm that you have done this.</span>
 
-* **Mini paper 4 due today**: Find an example of a conversation in the wild (e.g., on youtube, tiktok, etc.) that has multiple iconic or depictive gestures; provide a link where we can all access the example. Describe the gesture and its meaning, discuss how the gesture relates to the ongoing utterance, and make an argument (based on what we have learned so far) regarding the function of that gesture in that particular context. [2500 words **max**]
+* **Mini paper 4 due today**: Find an example of a conversation in the wild (e.g., on youtube, tiktok, etc.) in which two or more of the talkers uses multiple depictive gestures. Provide a link where we can access the example. Describe, in detail, three of the gestures and their meanings (make sure to tell us precisely when in the conversation each gesture occurs). For each gesture, describe how it relates to other ongoing verbal and non-verbal signals by that same talker and also how it relates to the ongoing discourse context between the talkers engaged in the interaction. As part of your description of each gesture, make an argument using course concepts and your own observations about the intended function of that gesture in that particular context. [2500 words **max**]
 
 
 ## Module 5:
