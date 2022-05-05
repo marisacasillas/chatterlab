@@ -1,5 +1,7 @@
 # Mini assignment 1 rubric
 
+[[main page]](../Casillas-HLI-Spring2022-Syllabus/)
+
 ## Assignment evaluation questions
 
 In assessing submissions for mini assignment 1, the grader will ask themselves the following questions, answering each on the scale of:
@@ -30,4 +32,4 @@ Submissions that score “excellent and above expectations” across the board w
 
 Grossly incomplete submissions or submissions that do not sufficiently follow the outlined task will maximally receive a grade of C-; please contact your TA if completing the assignment becomes insurmountable for some reason. Grades of D and lower will be discussed and verified by the entire grading team.
 
-
+[[main page]](../Casillas-HLI-Spring2022-Syllabus/)
