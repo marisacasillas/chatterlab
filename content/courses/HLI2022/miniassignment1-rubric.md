@@ -1,6 +1,6 @@
 # Mini assignment 1 rubric
 
-[[main page]](../Casillas-HLI-Spring2022-Syllabus/)
+[[main page]](../casillas-hli-spring2022-syllabus/)
 
 ## Assignment evaluation questions
 
@@ -32,4 +32,4 @@ Submissions that score “excellent and above expectations” across the board w
 
 Grossly incomplete submissions or submissions that do not sufficiently follow the outlined task will maximally receive a grade of C-; please contact your TA if completing the assignment becomes insurmountable for some reason. Grades of D and lower will be discussed and verified by the entire grading team.
 
-[[main page]](../Casillas-HLI-Spring2022-Syllabus/)
+[[main page]](../casillas-hli-spring2022-syllabus/)
