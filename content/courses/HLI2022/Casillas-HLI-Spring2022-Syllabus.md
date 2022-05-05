@@ -165,7 +165,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 05 May 2022 (6.2): Joint projects
 
-[[slides]](https://docs.google.com/presentation/d/1MXMbK10zAtjKPyvjmjFszgpwC2306FrfAKY6rKeekYA/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1MXMbK10zAtjKPyvjmjFszgpwC2306FrfAKY6rKeekYA/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/SMs766vnj4OGBhCXnbyZNUtnUigpiCTzxsUj68RSEgyKuzD3qiAYaYqUUweKV3ZK.JRCmgd3B7w4zdXnC)
 
 * Pre-class reading: UL Chapter 7
 
