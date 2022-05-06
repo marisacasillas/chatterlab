@@ -1,3 +1,23 @@
+<!--
+NOTES FOR NEXT TIME:
+
+# issues w/ DM portion of experiment
+- needed app to record (i.e., not on phone)
+- had another thing too soon after -- can't minimize screen
+- one participant needed to use phone
+- rescheduling link changed the link and that meant re-sending so caused a time panic
+- laptop dying/zoom crashing
+- can't see participants in recording
+- someone lost wifi for 20 sec
+- use official uchicago Zoom account; some didn't infer this
+- ... and from myself; take two full lectures to go through instructions
+
+
+MA3: Go over producer vs. signal meaning in more depth
+
+-->
+
+
 # Human language and interaction
 
 Spring 2022: CHDV 23100, LING 21150, PSYC 23120, EDSO 23101
