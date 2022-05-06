@@ -35,7 +35,7 @@ I will pick one quick question from the readings for that week that you should b
 * Attendance (includes comprehension quizzes): 5%
 
 ## Final paper deadline (Tuesday, 31 May 2022)
-More information TBA
+[Instructions](../course_instructions/final-paper/)
 
 # Contact
 **Email:** mcasillas@uchicago.edu
