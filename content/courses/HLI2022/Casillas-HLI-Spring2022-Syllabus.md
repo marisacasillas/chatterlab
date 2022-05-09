@@ -10,6 +10,7 @@ NOTES FOR NEXT TIME:
 - can't see participants in recording
 - someone lost wifi for 20 sec
 - use official uchicago Zoom account; some didn't infer this
+- ... and from myself; i'm still worried somehow they are sharing videos
 - ... and from myself; take two full lectures to go through instructions
 
 
