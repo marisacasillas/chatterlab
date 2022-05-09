@@ -27,6 +27,7 @@ check.sc89.eaf <- function(eaf_file, eaf_file_name) {
   card.tier <- "card_id" %in% unique(eaf.data$tier_name)
   matcher.speech <- "matcher_speech" %in% unique(eaf.data$tier_name)
   director.speech <- "director_speech" %in% unique(eaf.data$tier_name)
+  overhearer.speech <- "overhearer_speech" %in% unique(eaf.data$tier_name)
   completion.point <- "completion_point" %in% unique(eaf.data$tier_name)
   matcher.placement <- "matcher_placement_id" %in% unique(eaf.data$tier_name)
   overhearer.placement <- "overhearer_placement_id" %in% unique(eaf.data$tier_name)
@@ -43,15 +44,25 @@ check.sc89.eaf <- function(eaf_file, eaf_file_name) {
       valid.pid.index = as.numeric(index) <= 12
     )
   
+  critical.tier.msg <- case_when(
+    (trial.tier + card.tier +
+       matcher.speech + director.speech +
+       completion.point + matcher.placement +
+       overhearer.placement) == 6 ~ "TRUE - Director and Matcher ONLY (no Overhearer yet)",
+    (trial.tier + card.tier +
+       matcher.speech + director.speech +
+       completion.point + matcher.placement +
+       overhearer.placement) == 7 ~ "TRUE - Director, Matcher, and Overhearer",
+    TRUE ~ "Missing annotations on trial, card, speech, placement, or completion point tiers."
+  )
+  
   # return check outcomes
   # return(eaf_file_name)
   return(list(
     `valid filename structure` = eaf.data$valid.source[1],
     `detected student name` = eaf.data$student_name[1],
     # `detected student id number` = eaf.data$student_id[1],
-    `annotations on all critical tiers` = (trial.tier + card.tier +
-                                             matcher.speech + director.speech + completion.point +
-                                             matcher.placement + overhearer.placement) == 7,
+    `annotations on all critical tiers` = critical.tier.msg,
     `valid placement id labels` = !(FALSE %in% placement_ids$valid.pid.name),
     `valid placement id numbers` = !(FALSE %in% placement_ids$valid.pid.index)
   ))
