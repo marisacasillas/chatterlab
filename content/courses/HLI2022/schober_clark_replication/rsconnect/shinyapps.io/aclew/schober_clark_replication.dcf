@@ -5,10 +5,10 @@ account: aclew
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5858858
-bundleId: 5687040
+bundleId: 5887277
 url: https://aclew.shinyapps.io/schober_clark_replication/
-when: 1647358109.22987
-lastSyncTime: 1647358109.22989
+when: 1652109676.49141
+lastSyncTime: 1652109676.49142
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: analysis/.DS_Store|analysis/eafs/AaJaneDoe-12345678.eaf|analysis/schober_clark_replication.R|schober-clark-template.eaf|schober-clark-template.eaf.001|schober-clark-template.pfsx
+ignoredFiles: analysis/eafs/AaJaneDoe-12345678.eaf|analysis/schober_clark_replication.R|schober-clark-template.eaf|schober-clark-template.pfsx
