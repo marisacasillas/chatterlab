@@ -192,7 +192,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 10 May 2022 (7.1): Joint commitment
 
-[[slides]](https://docs.google.com/presentation/d/1Li3tiBMgWc3OoYBQ9WkQiuEfEMiuiVKZprTtCAZa6ic/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1Li3tiBMgWc3OoYBQ9WkQiuEfEMiuiVKZprTtCAZa6ic/edit?usp=sharing) [[recordings]](https://uchicago.zoom.us/rec/share/ACL7_g25zOkN2i6FKfZ71HNOeHOeVhHwUWrMxP6-JRVcQDW_pzh_fmE8UWQ30sXN.0_07IQW3WNdzwAww)
 
 * Pre-class reading: UL Chapter 10
 
