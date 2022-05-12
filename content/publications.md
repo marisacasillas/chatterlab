@@ -26,9 +26,9 @@ Peute, A. A. K. & **Casillas, M.** (accepted pending minor revisions). (Non-)eff
 
 ## 2022
 
-Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & **Casillas, M.** (accepted 2022). Sticks, leaves, buckets, and bowls: Distributional patterns of children's at-home object handling in two subsistence societies. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](/lab-publications/Casey_et_al_submitted_Distributional_patterns_of_at_home_object_handling.pdf)]
+Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & **Casillas, M.** (accepted 2022). Sticks, leaves, buckets, and bowls: Distributional patterns of children's at-home object handling in two subsistence societies. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](https://psyarxiv.com/yfnj4/)] [[gh](https://github.com/kennedycasey/daylong-object-ids)] [[data visualization tool](https://aclew.shinyapps.io/CogSci-TSE-ROS-objects/)]
 
-Casey, K., & **Casillas, M.** (accepted 2022). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](/lab-publications/Casey_Casillas_submitted_Developmental_shifts_in_use_of_register_specific_words.pdf)]
+Casey, K., & **Casillas, M.** (accepted 2022). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](https://psyarxiv.com/b7fhc)] [[gh](https://github.com/kennedycasey/RegisterShift)]
 
 Cristia, A. & **Casillas, M.** (2022). Nonword repetition in children learning Yélî Dnye. _Language Development Research 2_(1), 69–104. [[ms](/lab-publications/Cristia_Casillas_2022_Nonword_repetition_in_children_learning_Yeli_Dnye.pdf)] [[osf](https://osf.io/5qspb/)]
 
