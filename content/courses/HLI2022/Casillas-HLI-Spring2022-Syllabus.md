@@ -202,7 +202,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 12 May 2022 (7.2): Conversation
 
-[[slides]](https://docs.google.com/presentation/d/1HlLlvMrBgTCAfU4VfELzhfVb4R39b-hEe2L25T4HVGI/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1HlLlvMrBgTCAfU4VfELzhfVb4R39b-hEe2L25T4HVGI/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/DtUqoewwjTN56UEsT0tLFvJU1GY4uYzU8Vu0JSYHyb_XED2vSrHbY2VHO-VYTwUm.HH0iA8K-3DuCSu8L)
 
 * Pre-class reading: UL Chapter 11
 
