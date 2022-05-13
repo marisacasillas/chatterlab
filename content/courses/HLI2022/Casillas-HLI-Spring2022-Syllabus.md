@@ -16,6 +16,17 @@ NOTES FOR NEXT TIME:
 
 MA3: Go over producer vs. signal meaning in more depth
 
+
+
+# more on what made annotation difficult after MD
+what isn't obvious in annotation?
+talk that is not on task
+interleaving of talk about cards
+multiple card references in one utterance
+simultaneous completion points
+version control in submitted versions
+access to lab computers
+... also weird DM recordings e.g., cut-outs and re-starts making need for media re-cutting/special re-alignment of annotations for OH
 -->
 
 
