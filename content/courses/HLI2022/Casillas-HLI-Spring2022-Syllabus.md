@@ -226,7 +226,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 17 May 2022 (8.1):  Layering
 
-[[slides]](https://docs.google.com/presentation/d/1TX-7uyapPhVSzWMz6Kv-qogWw6lWDEZnJKFNKoa2tAw/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1TX-7uyapPhVSzWMz6Kv-qogWw6lWDEZnJKFNKoa2tAw/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/d8I69ez7nJ2cSWkmd9YKXtszo7KqN6Iya_07qsAyR0_FmmhivW3EqjDz3XBs1cT-.gmUGoxC74Sse-BQK)
 
 * Pre-class reading: UL Chapter 12
 
