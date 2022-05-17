@@ -34,9 +34,9 @@ Cristia, A. & **Casillas, M.** (2022). Nonword repetition in children learning Y
 
 De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (2022). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language 98_(1), 35–62. [[ms](/lab-publications/DeVos_et_al_2022_Predicting_conversational_turns_Language.pdf)]
 
-Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted 2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](https://psyarxiv.com/u7qjd/)]
+Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted 2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](/lab-publications/Elmlinger_Goldstein_Casillas_CogSci_2022.pdf)]
 
-Foushee, R., Byrne, D., **Casillas, M.**, & Goldin-Meadow, S. (accepted 2022). Getting to the Root of Linguistic Alignment: Tree Comparison as a Measure of Syntactic Alignment and Index of Language Development in Children Who are Typically Developing and Children with Early Brain Injury. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX.
+Foushee, R., Byrne, D., **Casillas, M.**, & Goldin-Meadow, S. (accepted 2022). Getting to the Root of Linguistic Alignment: Tree Comparison as a Measure of Syntactic Alignment and Index of Language Development in Children Who are Typically Developing and Children with Early Brain Injury. Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) XX. [[ms](/lab-publications/Foushee_et_al_CogSci_2022.pdf)]
 
 ## 2021
 
