@@ -237,6 +237,8 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 19 May 2022 (8.2): Presentation of replication findings + how to write a scientific report
 
+[[slides]](https://docs.google.com/presentation/d/1LHTzJKN9NuFEaAPJd_g50GUW9P7hcx0R0Pf_qrfZCzc/edit?usp=sharing)
+
 * Pre-class reading: None! But bring your laptop for in-class writing activities.
 
 
