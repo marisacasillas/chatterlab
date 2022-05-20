@@ -25,7 +25,7 @@ It should be submitted as a **Microsoft Word document** (NOT a pdf) and should b
 
 ## Assignment evaluation questions
 
-In assessing submissions for mini assignment 1, the grader will ask themselves the following questions, answering each on the scale of:
+In assessing submissions for the scientific report, the grader will ask themselves the following questions, answering each on the scale of:
 
 0 = grossly incomplete/not addressed
 
