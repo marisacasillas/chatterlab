@@ -11,7 +11,6 @@ Your paper should have headings and subheadings with the following structure:
 * Title, student number, and word count
 * Abstract
 * Introduction
-* Method
 * Study 1
 	* Method
 	* Results
