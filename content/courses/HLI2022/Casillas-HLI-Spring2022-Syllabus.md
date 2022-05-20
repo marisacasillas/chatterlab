@@ -27,6 +27,16 @@ simultaneous completion points
 version control in submitted versions
 access to lab computers
 ... also weird DM recordings e.g., cut-outs and re-starts making need for media re-cutting/special re-alignment of annotations for OH
+
+
+Info to add to the results that were presented in class
+- remainder of student data
+- common names for different images
+- how often people change their placements
+- how often the overhearers are leaving things blank
+- if people are related vs. not affect accuracy (not this year)
+
+
 -->
 
 
@@ -248,7 +258,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 26 May 2022 (9.2): Guest lecture from Jillyan Corrales
 
-* Pre-class reading: TBA
+* Pre-class reading: [Petzinger, G. V. (2017). Chapter 12: Chicken or Egg: A Brief History of Language, Brains, and Writing. In The first signs unlocking the mysteries of the world's oldest symbols. Atria paperback, pp. 173-190.](https://www.dropbox.com/s/pdfu9ro6bcyo352/Chicken_or_egg.pdf?dl=0)
 
 
 ## Final deadline (Tuesday, 31 May 2022)
