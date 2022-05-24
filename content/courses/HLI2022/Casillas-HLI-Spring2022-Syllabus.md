@@ -254,6 +254,8 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 24 May 2022 (9.1): Guest lecture from Jingde Liu
 
+[[slides]](https://docs.google.com/presentation/d/1wn8UUP7IUddwhjyq6_XNrESezhaFpd2j/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)
+
 * Pre-class reading: [Chen, Z. T. (2021). Poetic prosumption of animation, comic, game and novel in a post-socialist China: A case of a popular video-sharing social media Bilibili as heterotopia. Journal of Consumer Culture, 21(2), 257-277.](https://www.dropbox.com/s/ek7i8f0vv7diapq/Poetic%20prosumption%20of%20animation%2C%20comic%2C%20game%20and%20novel%20in%20a%20post-socialist%20China.pdf?dl=0)
 
 ### Thursday, 26 May 2022 (9.2): Guest lecture from Jillyan Corrales
