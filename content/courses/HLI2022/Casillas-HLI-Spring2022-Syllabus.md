@@ -260,6 +260,8 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 26 May 2022 (9.2): Guest lecture from Jillyan Corrales
 
+[[slides]](https://docs.google.com/presentation/d/1CCDO2Zqnq8ruFcWUL1Iyro599NsBHKSU/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)
+
 * Pre-class reading: [Petzinger, G. V. (2017). Chapter 12: Chicken or Egg: A Brief History of Language, Brains, and Writing. In The first signs unlocking the mysteries of the world's oldest symbols. Atria paperback, pp. 173-190.](https://www.dropbox.com/s/pdfu9ro6bcyo352/Chicken_or_egg.pdf?dl=0)
 
 
