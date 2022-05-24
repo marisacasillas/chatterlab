@@ -425,6 +425,7 @@ ggplot(n.placements.overall, aes(x = trial_number,
                          y = prop.w.extra, fill = participant)) +
   geom_bar(stat = "identity", position = "dodge") +
   theme_minimal() +
+  ylim(0, 0.25) +
   scale_fill_manual(values = c("springgreen4", "chocolate2")) +
   labs(x = "Trial number", y = "Proportion w/ >12 placements",
        fill = "Participant")
@@ -433,6 +434,7 @@ ggplot(n.placements.overall, aes(x = trial_number,
                                  y = prop.w.missing, fill = participant)) +
   geom_bar(stat = "identity", position = "dodge") +
   theme_minimal() +
+  ylim(0, 0.25) +
   scale_fill_manual(values = c("springgreen4", "chocolate2")) +
   labs(x = "Trial number", y = "Proportion w/ <12 placements",
        fill = "Participant")
