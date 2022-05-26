@@ -14,7 +14,9 @@ Your paper should have headings and subheadings with the following structure:
 * Study 1
 	* Method
 	* Results
+<!--	* Transition motivating study 2-->
 * Study 2
+<!--	* Mini intro motivating study 2-->
 	* (Proposed) Method
 	* (Anticipated) Results
 * General discussion
