@@ -49,6 +49,8 @@ Jack Demchak
 
 [Emily Chan](/bios/emily-aboutme/)
 
+[Cam Friedman](/bios/cam-aboutme/)
+
 ### [Former members](/former-members/)
 
 ### Some recent and frequent collaborators
