@@ -29,14 +29,6 @@ Bram Peute
 
 ### Undergraduate students
 
-[Alyssa Guillu](/bios/alyssa-aboutme/)
-
-[Erica Hsieh](/bios/erica-aboutme/)
-
-[Mary Norgan](/bios/maryn-aboutme/)
-
-Jack Demchak
-
 [Anapaula Silva](/bios/anapaula-aboutme/)
 
 [Mara Duquette](/bios/mara-aboutme/)
