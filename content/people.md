@@ -43,6 +43,8 @@ Bram Peute
 
 [Cam Friedman](/bios/cam-aboutme/)
 
+[Xuanyi Zhang](/bios/xuanyi-aboutme/)
+
 ### [Former members](/former-members/)
 
 ### Some recent and frequent collaborators
