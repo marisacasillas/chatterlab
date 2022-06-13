@@ -45,6 +45,8 @@ Bram Peute
 
 [Xuanyi Zhang](/bios/xuanyi-aboutme/)
 
+[Sarah Sommer](/bios/sarah-aboutme/)
+
 ### [Former members](/former-members/)
 
 ### Some recent and frequent collaborators
