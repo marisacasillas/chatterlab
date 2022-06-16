@@ -47,6 +47,8 @@ Bram Peute
 
 [Sarah Sommer](/bios/sarah-aboutme/)
 
+[Alexander Stern](/bios/alexander-aboutme/)
+
 ### [Former members](/former-members/)
 
 ### Some recent and frequent collaborators
