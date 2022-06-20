@@ -49,6 +49,8 @@ Bram Peute
 
 [Alexander Stern](/bios/alexander-aboutme/)
 
+[Carla Suarez Soto](/bios/carla-aboutme/)
+
 ### [Former members](/former-members/)
 
 ### Some recent and frequent collaborators
