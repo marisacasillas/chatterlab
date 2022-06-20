@@ -51,7 +51,7 @@ Bram Peute
 
 [Carla Suarez Soto](/bios/carla-aboutme/)
 
-### [Former members](/former-members/)
+### <a href="/former-members/"><span style="color:#88941c"> Former members</span></a>
 
 ### Some recent and frequent collaborators
 
