@@ -8,7 +8,7 @@ Photo credit: [Erielle Bakkum](https://www.eriellebakkumphotography.com/)
 ### About
 Broadly speaking, I am interested in exploring how cognitive and social processes shape the ways in which we learn, perceive, and produce language. My primary research examines the relationship between communicative skills and linguistic processing in children and adults. I use a combination of experimental- and observation-based methods to comparatively investigate these processes in both urban, Western contexts and rural, Indigenous contexts.
 
-Much of my work focuses in particular on how communicative and linguistic skills co-develop during in the first few years of life with the hope of better understanding how our capacity to produce, understand, and transmit language across generations is shaped by interactive needs.
+Much of my work focuses in particular on how communicative and linguistic skills co-develop during the first few years of life with the hope of better understanding how our capacity to produce, understand, and transmit language across generations is shaped by interactive needs.
 
 ### Curriculum Vitae
 You can find a recent CV [here](https://docs.google.com/document/d/1hWEHXhlJ_VYXOmvjuOQlSOqgiCmt_eeVc6TvExBpC80/edit?usp=sharing). Lab-related publications can be found on our [Publications](../../publications/) page.
