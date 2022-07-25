@@ -29,14 +29,6 @@ Bram Peute
 
 ### Undergraduate students
 
-[Alyssa Guillu](/bios/alyssa-aboutme/)
-
-[Erica Hsieh](/bios/erica-aboutme/)
-
-[Mary Norgan](/bios/maryn-aboutme/)
-
-Jack Demchak
-
 [Anapaula Silva](/bios/anapaula-aboutme/)
 
 [Mara Duquette](/bios/mara-aboutme/)
@@ -49,7 +41,17 @@ Jack Demchak
 
 [Emily Chan](/bios/emily-aboutme/)
 
-### [Former members](/former-members/)
+[Cam Friedman](/bios/cam-aboutme/)
+
+[Xuanyi Zhang](/bios/xuanyi-aboutme/)
+
+[Sarah Sommer](/bios/sarah-aboutme/)
+
+[Alexander Stern](/bios/alexander-aboutme/)
+
+[Carla Suarez Soto](/bios/carla-aboutme/)
+
+### <a href="/former-members/"><span style="color:#88941c"> Former members</span></a>
 
 ### Some recent and frequent collaborators
 
