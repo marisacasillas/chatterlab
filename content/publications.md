@@ -36,7 +36,7 @@ De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. 
 
 Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) (pp. 1256-1262). [[ms](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf)]
 
-Foushee, R., Byrne, D., **Casillas, M.**, & Goldin-Meadow, S. (2022). Getting to the Root of Linguistic Alignment: Tree Comparison as a Measure of Syntactic Alignment and Index of Language Development in Children Who are Typically Developing and Children with Early Brain Injury. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) (pp. 1389-1394). [[ms](/lab-publications/Foushee_et_al_Getting_to_the_root_of_linguistic_alignment.pdf)]
+Foushee, R., Byrne, D., **Casillas, M.**, & Goldin-Meadow, S. (2022). Getting to the Root of Linguistic Alignment: Tree Comparison as a Measure of Syntactic Alignment and Index of Language Development in Children Who are Typically Developing and Children with Early Brain Injury. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) (pp. 1389-1394). [[ms](/lab-publications/Foushee_et_al_2022_Getting_to_the_root_of_linguistic_alignment_CogSci.pdf)]
 
 ## 2021
 
