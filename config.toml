@@ -86,7 +86,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "Phone"
-    url = "tel:+"
+    url = "tel:+7737021216"
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
 [[menu.topbar]]
@@ -120,11 +120,11 @@ paginate = 10
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = false
-    googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
+    enableGoogleMaps = true
+    googleMapsApiKey = "AIzaSyBMJ2ziwfN6aPSkJeWwkofUb_fNF5EUSwE"
 
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "41.7884899667999"
+    longitude = "-87.59828673074229"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "static/custom.css"
@@ -176,7 +176,11 @@ paginate = 10
     logo_small = "img/logo-small.png"
     logo_large = "img/logo-large.png"
     contact_url = "/contact/"
-    address = "The chatterlab is currently under construction so does not yet have a physical address or phone number."
+    address = """<p class="text-uppercase"><strong>Green Hall Room 011</strong>
+        <br>5848 S University Avenue
+        <br>Chicago, IL 60637
+      </p>
+      """
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
