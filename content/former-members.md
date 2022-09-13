@@ -1,11 +1,33 @@
 # Former members
 
-Alyssa Guillu (BA 2022)
+### Masters students
 
-Erica Hsieh (BA 2022)
+Jenny Bo
 
-Mary Norgan (BA 2022)
+Rayski Lei
 
-Jack Demchak (BA 2022)
+Bram Puete
+
+Mary Elliott
+
+### Undergraduate students
+
+Carla Suarez Soto
+
+Will Fisher
+
+Mara Duquette
+
+Anapaula Silva Mandujano
+
+Alyssa Guillu
+
+Erica Hsieh
+
+Mary Norgan 
+
+Jack Demchak
+
+### High school students
 
 Aditya Badlani
