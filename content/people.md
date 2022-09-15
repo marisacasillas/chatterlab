@@ -9,31 +9,23 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Kennedy Casey](/bios/kennedy-aboutme/)
 
-### PhD students
+### Postdocs
 
 [Natalie Dowling](https://voices.uchicago.edu/ndowling/)
+
+### PhD students
 
 [Erika Prado](/bios/erika-aboutme/)
 
 [Isabella Di Giovanni](/bios/isabella-aboutme/)
 
+Yuchen Jin
+
 ### Masters students
 
-Bram Peute
-
-[Mary Elliott](/bios/marye-aboutme/)
-
-[Jenny Bo](/bios/jenny-aboutme/)
-
-[Rayski Lei](/bios/rayski-aboutme/)
+Beixi Dong
 
 ### Undergraduate students
-
-[Anapaula Silva](/bios/anapaula-aboutme/)
-
-[Mara Duquette](/bios/mara-aboutme/)
-
-[Will Fisher](/bios/will-aboutme/)
 
 [Lizzie Mickiewicz](/bios/lizzie-aboutme/)
 
@@ -49,7 +41,6 @@ Bram Peute
 
 [Alexander Stern](/bios/alexander-aboutme/)
 
-[Carla Suarez Soto](/bios/carla-aboutme/)
 
 ### <a href="/former-members/"><span style="color:#88941c"> Former members</span></a>
 
@@ -66,3 +57,4 @@ Bram Peute
 #### Tseltal/Rossel language research
 
 [Penny Brown](https://www.mpi.nl/people/brown-penelope), [Steve Levinson](https://www.mpi.nl/people/levinson-stephen), and [Gabriela Garrido Rodriguez](https://www.researchgate.net/profile/Gabriela_Garrido_Rodriguez)
+
