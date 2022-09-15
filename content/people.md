@@ -9,21 +9,15 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Kennedy Casey](/bios/kennedy-aboutme/)
 
-### Postdocs
+### PhD students
 
 [Natalie Dowling](https://voices.uchicago.edu/ndowling/)
-
-### PhD students
 
 [Erika Prado](/bios/erika-aboutme/)
 
 [Isabella Di Giovanni](/bios/isabella-aboutme/)
 
-Yuchen Jin
-
-### Masters students
-
-Beixi Dong
+[Yuchen Jin](/bios/yuchen-aboutme/)
 
 ### Undergraduate students
 
@@ -41,7 +35,6 @@ Beixi Dong
 
 [Alexander Stern](/bios/alexander-aboutme/)
 
-
 ### <a href="/former-members/"><span style="color:#88941c"> Former members</span></a>
 
 ### Some recent and frequent collaborators
@@ -57,4 +50,3 @@ Beixi Dong
 #### Tseltal/Rossel language research
 
 [Penny Brown](https://www.mpi.nl/people/brown-penelope), [Steve Levinson](https://www.mpi.nl/people/levinson-stephen), and [Gabriela Garrido Rodriguez](https://www.researchgate.net/profile/Gabriela_Garrido_Rodriguez)
-

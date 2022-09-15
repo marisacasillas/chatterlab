@@ -1,25 +1,33 @@
 # Former members
 
-Anapaula Silva (RA 2021–2022)
+### Masters students
 
-Mara Duquette (RA 2021–2022)
+Jenny Bo
 
-Will Fisher (RA 2021–2022)
+Rayski Lei
 
-Carla Suarez Soto (RA Summer 2022)
+Bram Puete
 
-Jenny (Haizhao) Bo (MS 2022; UChicago)
+Mary Elliott
 
-Mary Elliott (MS 2022; UT Dallas)
+### Undergraduate students
 
-Alyssa Guillu (BA 2022; UChicago)
+Carla Suarez Soto
 
-Erica Hsieh (BA 2022; UChicago)
+Will Fisher
 
-Mary Norgan (BA 2022; UChicago)
+Mara Duquette
 
-Jack Demchak (BA 2022; UChicago)
+Anapaula Silva Mandujano
 
-Bram Peute (MA 2022; Radboud University)
+Alyssa Guillu
+
+Erica Hsieh
+
+Mary Norgan 
+
+Jack Demchak
+
+### High school students
 
 Aditya Badlani
