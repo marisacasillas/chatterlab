@@ -4,8 +4,6 @@
 
 Jenny Bo
 
-Rayski Lei
-
 Bram Puete
 
 Mary Elliott

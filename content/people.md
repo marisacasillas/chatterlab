@@ -9,15 +9,21 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Kennedy Casey](/bios/kennedy-aboutme/)
 
-### PhD students
+### Postdocs
 
 [Natalie Dowling](https://voices.uchicago.edu/ndowling/)
+
+### PhD students
 
 [Erika Prado](/bios/erika-aboutme/)
 
 [Isabella Di Giovanni](/bios/isabella-aboutme/)
 
 [Yuchen Jin](/bios/yuchen-aboutme/)
+
+### Masters students
+
+Beixi Dong
 
 ### Undergraduate students
 
