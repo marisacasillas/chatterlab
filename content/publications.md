@@ -9,20 +9,22 @@ Looking for [tools](../tools/)?
 
 ## selected preprints
 
-Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (in revision, February 2022). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
+Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (in revision, September 2022). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
 
-**Casillas, M.** & Elliott, M. (in prep, February 2022). Cross-cultural differences in children's object handling at home. [[ms](/lab-publications/Casillas_Elliott_submitted_crosscultural_differences_in_childrens_object_handling_at_home.pdf)]
-
-Foushee, R. & **Casillas, M.** (under review, March 2022). What 'Diversity' Means Depends on Your Perspective: A Commentary on Kidd and Garcia (2022). _First Language_. [[ms](https://psyarxiv.com/bt3u7/)]
+**Casillas, M.** (in revision, September 2022). Learning language in vivo. _Child Development Perspectives_, XX. [ms forthcoming]
 
 
 ## in press/accepted
 
 Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](/lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
+Cristia, A., Foushee, R., Aravena-Bravo, P., Cychosz, M., Scaff, C., & **Casillas, M.** (provisionally accepted). Combining observational and experimental approaches to the development of language and communication in rural samples: Opportunities and challenges. _Journal of Child Language_, XX. [[ms](https://psyarxiv.com/u59xb/)]
+
+Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. Topics in Cognitive Science, XX. [ms forthcoming] _\* Expanded version of [Elmlinger et al. (2022)](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf) as part of the CogSci 2022 Disciplinary Diversity & Integration Award in Cognitive Science_
+
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
-Peute, A. A. K. & **Casillas, M.** (accepted pending minor revisions). (Non-)effects of linguistic environment on early stable consonant production: A crosscultural case study. [[ms](https://psyarxiv.com/5feju/)]
+Peute, A. A. K. & **Casillas, M.** (in press). (Non-)effects of linguistic environment on early stable consonant production: A crosscultural case study. [[ms](https://psyarxiv.com/5feju/)]
 
 ## 2022
 
@@ -37,6 +39,12 @@ De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. 
 Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) (pp. 1256-1262). [[ms](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf)]
 
 Foushee, R., Byrne, D., **Casillas, M.**, & Goldin-Meadow, S. (2022). Getting to the Root of Linguistic Alignment: Tree Comparison as a Measure of Syntactic Alignment and Index of Language Development in Children Who are Typically Developing and Children with Early Brain Injury. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) (pp. 1389-1394). [[ms](/lab-publications/Foushee_et_al_2022_Getting_to_the_root_of_linguistic_alignment_CogSci.pdf)]
+
+Foushee, R. & **Casillas, M.** (2022). What 'Diversity' Means Depends on Your Perspective: A Commentary on Kidd and Garcia (2022). _First Language_. [[ms](https://psyarxiv.com/bt3u7/)]
+
+Li, J., **Casillas, M.**, Tsuji, S., & Nagai, Y.
+Multi-scale analysis of vocal coordination in infant-caregiver daily interaction. In _Proceedings of the 2022 IEEE International Conference on Development and Learning (ICDL)_, September 12–15, 2022. pp. 164–169. [[ms](/lab-publications/Li_Multi_scale_analysis_of_vocal_coordination_in_infant_caregiver_daily_interaction_2022_ICDL.pdf)]
+
 
 ## 2021
 
