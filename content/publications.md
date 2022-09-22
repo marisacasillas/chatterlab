@@ -11,7 +11,7 @@ Looking for [tools](../tools/)?
 
 Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (in revision, September 2022). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
 
-**Casillas, M.** (in revision, September 2022). Learning language in vivo. _Child Development Perspectives_, XX. [ms forthcoming]
+**Casillas, M.** (in revision, September 2022). Learning language in vivo. _Child Development Perspectives_, XX. [[preprint](/lab-publications/Casillas_Learning_language_in_vivo-CDP.pdf)]
 
 
 ## in press/accepted
