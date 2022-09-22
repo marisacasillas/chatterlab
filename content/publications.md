@@ -20,7 +20,7 @@ Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interac
 
 Cristia, A., Foushee, R., Aravena-Bravo, P., Cychosz, M., Scaff, C., & **Casillas, M.** (provisionally accepted). Combining observational and experimental approaches to the development of language and communication in rural samples: Opportunities and challenges. _Journal of Child Language_, XX. [[ms](https://psyarxiv.com/u59xb/)]
 
-Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. Topics in Cognitive Science, XX. [ms forthcoming] _\* Expanded version of [Elmlinger et al. (2022)](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf) as part of the CogSci 2022 Disciplinary Diversity & Integration Award in Cognitive Science_
+Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. _Topics in Cognitive Science_, XX. [ms forthcoming] _\* Expanded version of [Elmlinger et al. (2022)](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf) as part of the CogSci 2022 Disciplinary Diversity & Integration Award in Cognitive Science_
 
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
@@ -40,10 +40,10 @@ Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (2022). Immature vocalizatio
 
 Foushee, R., Byrne, D., **Casillas, M.**, & Goldin-Meadow, S. (2022). Getting to the Root of Linguistic Alignment: Tree Comparison as a Measure of Syntactic Alignment and Index of Language Development in Children Who are Typically Developing and Children with Early Brain Injury. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022) (pp. 1389-1394). [[ms](/lab-publications/Foushee_et_al_2022_Getting_to_the_root_of_linguistic_alignment_CogSci.pdf)]
 
-Foushee, R. & **Casillas, M.** (2022). What 'Diversity' Means Depends on Your Perspective: A Commentary on Kidd and Garcia (2022). _First Language_. [[ms](https://psyarxiv.com/bt3u7/)]
+Foushee, R. & **Casillas, M.** (2022). What 'Diversity' Means Depends on Your Perspective: A Commentary on Kidd and Garcia (2022). _First Language_. [[ms](/lab-publications/Foushee_Casillas_2022_What_diversity_means_depends_on_your_perspective_FirstLang.pdf)]
 
 Li, J., **Casillas, M.**, Tsuji, S., & Nagai, Y.
-Multi-scale analysis of vocal coordination in infant-caregiver daily interaction. In _Proceedings of the 2022 IEEE International Conference on Development and Learning (ICDL)_, September 12–15, 2022. pp. 164–169. [[ms](/lab-publications/Li_Multi_scale_analysis_of_vocal_coordination_in_infant_caregiver_daily_interaction_2022_ICDL.pdf)]
+Multi-scale analysis of vocal coordination in infant-caregiver daily interaction. In Proceedings of the 2022 IEEE International Conference on Development and Learning (ICDL) (pp. 164–169). [[ms](/lab-publications/Li_Multi_scale_analysis_of_vocal_coordination_in_infant_caregiver_daily_interaction_2022_ICDL.pdf)]
 
 
 ## 2021
@@ -52,7 +52,7 @@ Multi-scale analysis of vocal coordination in infant-caregiver daily interaction
 
 Soderstrom, M., **Casillas, M.**, Gornik, M., Bouchard, A., MacEwan, S., Shokrkon, A., & Bunce, J. (2021). English-speaking adults' labeling of child- and adult-directed speech across languages and its relationship to perception of affect. _Frontiers in Psychology 12_:708887. [[ms](/lab-publications/Soderstrom_et_al_2021_English_speaking_adults_labeling_of_child_and_adult_directed_speech_across_languages_Frontiers.pdf)]
 
-Vilà‐Giménez, I., **Dowling, N.**, Demir‐Lira, Ö. E., Prieto, P., & Goldin‐Meadow, S. (2021). The Predictive Value of Non‐Referential Beat Gestures: Early Use in Parent–Child Interactions Predicts Narrative Abilities at 5 Years of Age. _Child Development XX_. [[ms](/lab-publications/VilaGimenez_et_al-2021-The_predictive_value_of_nonreferential_beat_gestures-ChiDev.pdf)]
+Vilà‐Giménez, I., **Dowling, N.**, Demir‐Lira, Ö. E., Prieto, P., & Goldin‐Meadow, S. (2021). The Predictive Value of Non‐Referential Beat Gestures: Early Use in Parent–Child Interactions Predicts Narrative Abilities at 5 Years of Age. _Child Development, 92_(6), 2335-2355. [[ms](/lab-publications/VilaGimenez_et_al-2021-The_predictive_value_of_nonreferential_beat_gestures-ChiDev.pdf)]
 
 Soderstrom, M. **Casillas, M.**, Bergelson, E., Rosemberg, C., Alam, F., Warlaumont, A. S., & Bunce, J.
 (2021) Developing a cross-cultural annotation system and MetaCorpus for studying infants’ real-world language experience. _Collabra, 7_(1). [[ms](/lab-publications/Soderstrom_et_al-2021-Developing_a_cross_cultural_annotation_system_and_metacorpus_for_studying_infants_real_world_language_experience-Collabra.pdf)]
@@ -67,7 +67,7 @@ Frost, R. L. A. & **Casillas, M.** (2021). Investigating statistical learning of
 
 ## 2020
 
-**Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Tseltal Mayan village. _Child Development, 91_(5), pp. 1819–1835. [[ms](/lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](/lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
+**Casillas, M.**, Brown, P., & Levinson, S. C. (2020). Early language experience in a Tseltal Mayan village. _Child Development, 91_(5), 1819–1835. [[ms](/lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_ChiDev.pdf)] [[sm](/lab-publications/Casillas_et_al_2020_Early_language_experience_in_a_Tseltal_Mayan_village_SuppMat_ChiDev.pdf)] [[gh](https://github.com/marisacasillas/Tseltal-CLE)]
 
 **Casillas, M.**, & Hilbrink, E. (2020). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), Developmental and Clinical Pragmatics (pp. 61-88). De Gruyter Mouton. [[ms](/lab-publications/Casillas_Hilbrink_inpress_Communicative_act_development_DCPragmaticsHandbook.pdf)]
 
@@ -75,9 +75,9 @@ Cychosz, M., Romeo, R., Soderstrom, M., Scaff, C., Ganek, H., Cristia, A., **Cas
 
 MacDonald, K., Rasanen, O., **Casillas, M.**, & Warlaumont, A. S. (2020). Measuring prosodic predictability in children’s home language environments. In S. Denison, M. Mack, Y. Xu, & B. C. Armstrong (Eds.), Proceedings of the 42nd Annual Virtual Meeting of the Cognitive Science Society (CogSci 2020) (pp. 695-701). Montreal, QB: Cognitive Science Society. [[ms](/lab-publications/MacDonald_et_al_2020_Measuring_prosodic_predictability_in_childrens_home_language_environments_CogSci.pdf)] [[gh](https://github.com/kemacdonald/lena-pred)]
 
-Rasanen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (2020). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. _Behavior Research Methods, 53, 818–835_. [[ms](/lab-publications/Rasanen_et_al_2020_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
+Rasanen, O., Seshadri, S., Lavechin, M., Cristia, A., & **Casillas, M.** (2020). ALICE: An open-source tool for automatic measurement of phoneme, syllable, and word counts from child-centered daylong recordings. _Behavior Research Methods, 53,_ 818–835. [[ms](/lab-publications/Rasanen_et_al_2020_ALICE_BRM.pdf)] [[gh](https://github.com/orasanen/ALICE)]
 
-Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (2020). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, 44:e12924_. [[ms](/lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](/lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
+Roete, I., Frank, S., Fikkert, P., & **Casillas, M.** (2020). Modeling the influence of language input statistics on children's speech production. _Cognitive Science, 44_:e12924. [[ms](/lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_CognitiveScience.pdf)] [[sm](/lab-publications/Roete_et_al_2020_Modeling_input_statistics_in_child_speech_productions_SuppMat_CognitiveScience.pdf)] [[gh](https://github.com/marisacasillas/CBL-Roete)]
 
 ## 2019
 

@@ -1,5 +1,3 @@
-----
-
 # Bibliographic info
 ### Date
 

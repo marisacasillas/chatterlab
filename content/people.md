@@ -11,7 +11,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 ### Postdocs
 
-[Natalie Dowling](https://voices.uchicago.edu/ndowling/)
+[Natalie Dowling](https://nrdowling.com)
 
 ### PhD students
 
