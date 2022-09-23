@@ -1,4 +1,4 @@
-## News
+# chatter news
 
 * **24 February 2022**: Three abstracts from the lab were accepted for oral presentation at [ICIS](https://infantstudies.org/2022-congress/):
     * _Bridging ethnographic and quantitative characterizations of Mayan developmental language environments_ with [Isabella di Giovanni](../bios/isabella-aboutme/) and [Marisa Casillas](../bios/marisa-aboutme/);
@@ -10,14 +10,12 @@
 * **22 December 2021:** Look out for these Chatter Lab presentations at [CDS](https://cogdevsoc.org/program/) in Madison this coming April!:
     * [Kennedy Casey](../bios/kennedy-aboutme/) is giving a talk entitled "Children's shift from CDS to ADS vocabulary across early childhood" which is in the symposium _Children's exposure to and use of socially meaningful variation in language_ (led by [Marisa Casillas](../bios/marisa-aboutme/))
     * A poster presentation by [Natalie Dowling](https://voices.uchicago.edu/ndowling/) on "I dunno, I guess, I mean whatever: Children form a many-to-many pragmatic mapping of shrug gestures between early and late childhood"
-    * A poster presentation by [Alyssa Guillu](../bios/alyssa-aboutme/) on her work with the [Rowe Lab](https://www.meredith-rowe.com/lab) at Harvard<!--, entitled ""-->
+    * A poster presentation by Alyssa Guillu on her work with the [Rowe Lab](https://www.meredith-rowe.com/lab) at Harvard
 
 * **15 December 2021:** The stellar [Kennedy Casey](../bios/kennedy-aboutme/)'s first journal publication is now online at _PLOS ONE_, charting the representation of female vs. male protagonists in 60 years of children's books. Double congratulations to Kennedy! Read it [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260566).
 
 * **2 December 2021:** [Marisa Casillas](../bios/marisa-aboutme/) (project lead), together with colleagues [Sharese King](https://www.drshareseking.com/), [Ruthe Foushee](https://ruthefoushee.com/), [Adriana Weisleder](https://childlanguagelab.northwestern.edu/people/), and [Annette D'Onofrio](https://faculty.wcas.northwestern.edu/~akd2621/) was awarded a Neubauer Collegium Faculty Research Fund for their project "Roots of Linguistic Identity". The project, which will begin in June 2022, will investigate how children from different dialect backgrounds across Chicago learn to recognize variability in the sounds and words of other dialects.
 
-* **29 November 2021:** [Mary Elliott](../bios/marye-aboutme/) and [Marisa Casillas](../bios/marisa-aboutme/) submitted a paper tracking the frequency with which children under age four and adults handle all kinds of objects during everyday life in two communities: Tseltal Mayan and Rossel Papuan. Read the preprint [here](../lab-publications/Casillas_Elliott_submitted_crosscultural_differences_in_childrens_object_handling_at_home.pdf).
-
 * **25 November 2021:** [Alex Cristia](https://sites.google.com/site/acrsta/) and [Marisa Casillas](../bios/marisa-aboutme/) submitted a revision to their paper on non-word repetition in Yélî Dnye. Fingers crossed! Read the preprint [here](../lab-publications/Cristia_Casillas_underreview2_Nonword_repetition_in_children_learning_Yeli_Dnye_v20211125.pdf).
 
-* **4 October 2021:** We officially kicked off a new project "Object handling and early word learning environments in three cultural contexts". Our new team of 5 undergraduates includes [Anapaula Silva](../bios/anapaula-aboutme/), [Mara Duquette](../bios/mara-aboutme/), [Will Fisher](../bios/will-aboutme/), [Lizzie Mickiewicz](../bios/lizzie-aboutme/), and [Kimberly Shorter](../bios/kimberly-aboutme/), as well as [Mary Elliott](../bios/marye-aboutme/) and [Kennedy Casey](../bios/kennedy-aboutme/). We will annotate many thousands of images taken from children's perspective during their days at home in three cultural contexts: Papuan, Mayan, and US. This project is made possible by generous funding from the Gianinno family.
+* **4 October 2021:** We officially kicked off a new project "Object handling and early word learning environments in three cultural contexts". Our new team of 5 undergraduates includes Anapaula Silva, Mara Duquette, Will Fisher, [Lizzie Mickiewicz](../bios/lizzie-aboutme/), and [Kimberly Shorter](../bios/kimberly-aboutme/), as well as Mary Elliott and [Kennedy Casey](../bios/kennedy-aboutme/). We will annotate many thousands of images taken from children's perspective during their days at home in three cultural contexts: Papuan, Mayan, and US. This project is made possible by generous funding from the Gianinno family.
