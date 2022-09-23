@@ -99,7 +99,7 @@ Rasanen, O., Seshadri, S., & **Casillas, M.** (2018). Comparison of syllabificat
 
 ## 2017
 
-**Casillas, M.**, Bergelson, E., Warlaumont, A. S., Cristia, A., Soderstrom, M., VanDam, M., & Sloetjes, H. (2017). A New Workflow for Semi-automatized Annotations: Tests with Long-Form Naturalistic Recordings of Childrens Language Environments. In Proceedings of Interspeech 2017 (pp. 2098-2102). doi:10.21437/Interspeech.2017-1418. [[ms](/lab-publications/Casillas_et_al_2017_A_new_workflow_for_semi_automitized_annotations_Interspeech.pdf)] [[osf](https://osf.io/b2jep/wiki/home/)]
+**Casillas, M.**, Bergelson, E., Warlaumont, A. S., Cristia, A., Soderstrom, M., VanDam, M., & Sloetjes, H. (2017). A New Workflow for Semi-automatized Annotations: Tests with Long-Form Naturalistic Recordings of Childrens Language Environments. In Proceedings of Interspeech 2017 (pp. 2098-2102). doi:10.21437/Interspeech.2017-1418. [[ms](/lab-publications/Casillas_et_al_2017_A_new_workflow_for_semi_automatized_annotations_Interspeech.pdf)] [[osf](https://osf.io/b2jep/wiki/home/)]
 
 **Casillas, M.**, Amatuni, A., Seidl, A., Soderstrom, M., Warlaumont, A., & Bergelson, E. (2017). What do Babies hear? Analyses of Child- and Adult-Directed Speech. In Proceedings of Interspeech 2017 (pp. 2093-2097). doi:10.21437/Interspeech.2017-1409. [[ms](/lab-publications/Casillas_et_al_2017_What_do_babies_hear_Interspeech.pdf)] [[osf](https://osf.io/d9ac4/)] [[gh for associated tool](https://github.com/SeedlingsBabylab/idslabel)]
 
