@@ -6,6 +6,8 @@ As an interdisciplinary lab, we work on a rather diverse array of topics using a
 
 [Real-time language use in interaction](#real-time-language-use-in-interaction)
 
+[Roots of linguistic identity](#roots-of-linguistic-identity)
+
 [Multimodal conversational coordination](#multimodal-conversational-coordination)
 
 ----
@@ -30,6 +32,9 @@ Another method we use is **quantitative corpus study**. For example, we have car
 
 We have used a range of other experimental methods to investigate online language processing for conversation. For example, with [Connie de Vos](https://research.tilburguniversity.edu/en/persons/connie-de-vos) and colleagues, we developed a novel button-press measure of turn-end prediction for Sign Language of the Netherlands (NGT) to test where signed utterances are perceived to end and to understand whether predictions were affected by whether the turn was a question or not (read more [here](../lab-publications/Casillas_et_al_2015_The_perception_of_stroke-to-stroke_turn_boundaries_in_signed_conversation_CogSci.pdf)). With [Sara Bögels](https://research.tilburguniversity.edu/en/persons/sara-b%C3%B6gels) and colleagues we have used a neural imaging method called electroencephalography (EEG) with Dutch speakers to investigate when during a question addressees begin to plan their response and to understand how their speech planning affects their ability to simultaneously listen (read more [here](../lab-publications/Bogels_et_al_2018_Planning_versus_comprehension_in_turn_taking_Neuropsychologia.pdf)).
 
+### Roots of linguistic identity
+
+When children learn language, they learn more than sounds, words, and syntax: they learn how language can be used as a tool for constructing and performing social identities, for relating to others, and for otherwise communicating meaning beyond the literal. And yet, research on early child language learning has traditionally, and markedly, isolated itself from considerations of children’s simultaneous social and cultural development. Together with [Ruthe Foushee](https://neubauercollegium.uchicago.edu/people/ruthe-foushee), [Sharese King](https://neubauercollegium.uchicago.edu/people/sharese-king), [Annette D'Onofrio](https://neubauercollegium.uchicago.edu/people/annette-donofrio), and [Adriana Weisleder](https://neubauercollegium.uchicago.edu/people/adriana-weisleder), we seek to integrate the methods of developmental psychology and sociolinguistics so as to better understand the intersection of language-acquisition and the earliest developments of social identity. Our novel approach will focus on the learning of dialects by infants and young children (read more [here](https://neubauercollegium.uchicago.edu/research/roots-of-linguistic-identity)).
 
 ### Multimodal conversational coordination
 
