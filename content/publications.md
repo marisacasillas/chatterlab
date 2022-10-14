@@ -42,7 +42,7 @@ Foushee, R. & **Casillas, M.** (2022). What 'Diversity' Means Depends on Your Pe
 Li, J., **Casillas, M.**, Tsuji, S., & Nagai, Y.
 Multi-scale analysis of vocal coordination in infant-caregiver daily interaction. In _Proceedings of the 2022 IEEE International Conference on Development and Learning (ICDL)_ (pp. 164–169). [[ms](/lab-publications/Li_Multi_scale_analysis_of_vocal_coordination_in_infant_caregiver_daily_interaction_2022_ICDL.pdf)]
 
-Peute, A. A. K. & **Casillas, M.** (in press). (Non-)effects of linguistic environment on early stable consonant production: A crosscultural case study. _Glossa: A journal of general linguistics 7_(1). [[ms](https://www.glossa-journal.org/article/id/5813/)] [[gh](https://github.com/marisacasillas/TS_and_YD-VMS)]
+Peute, A. A. K. & **Casillas, M.** (in press). (Non-)effects of linguistic environment on early stable consonant production: A crosscultural case study. _Glossa: A journal of general linguistics 7_(1). [[ms](/lab-publications/PeuteCasillas_2022-early_consonant_production_in_tseltal_and_yeli_dnye-Glossa.pdf)] [[gh](https://github.com/marisacasillas/TS_and_YD-VMS)]
 
 
 ## 2021
