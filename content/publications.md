@@ -19,7 +19,7 @@ Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interac
 
 Cristia, A., Foushee, R., Aravena-Bravo, P., Cychosz, M., Scaff, C., & **Casillas, M.** (provisionally accepted). Combining observational and experimental approaches to the development of language and communication in rural samples: Opportunities and challenges. _Journal of Child Language XX_. [[ms](https://psyarxiv.com/u59xb/)]
 
-Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. _Topics in Cognitive Science XX_. [ms forthcoming] _\* Expanded version of [Elmlinger et al. (2022)](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf) as part of the CogSci 2022 Disciplinary Diversity & Integration Award in Cognitive Science_
+Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. _Topics in Cognitive Science XX_. [[ms](https://psyarxiv.com/4wpru)] _\* Expanded version of [Elmlinger et al. (2022)](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf) as part of the CogSci 2022 Disciplinary Diversity & Integration Award in Cognitive Science_
 
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
