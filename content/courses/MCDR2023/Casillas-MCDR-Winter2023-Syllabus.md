@@ -90,47 +90,46 @@ Scientific report due.
 ## Reading list
 _(in development; the final list will be a subselection of these works)_
 
+* Akhtar, N. (2005). The robustness of learning through overhearing. Developmental Science, 8(2), 199-209.
+* Bakeman, R., & Adamson, L. B. (1984). Coordinating attention to people and objects in mother-infant and peer-infant interaction. Child development, 1278-1289.
 * Blum-Kulka, S., & Snow, C. E. (2004). Introduction: The potential of peer talk. Discourse studies, 6(3), 291-306.
+* Bornstein, M. H., Leach, D. B., & Haynes, O. M. (2004). Vocabulary competence in first-and secondborn siblings of the same chronological age. Journal of Child Language, 31(4), 855-873.
+* Brownell, C. A., Ramani, G. B., & Zerwas, S. (2006). Becoming a social partner with peers: Cooperation and social understanding in one‐and two‐year‐olds. Child development, 77(4), 803-821.
+* Casillas, M., Brown, P., & Levinson, S. C. (2021). Early language experience in a Papuan community. Journal of Child Language 48(4), 792–814.
+* Duncan, T. S., & Paradis, J. (2020). Home language environment and children's second language acquisition: The special status of input from older siblings. Journal of Child Language, 47(5), 982-1005.
+* Dunn, J., & Kendrick, C. (1982). The speech of two-and three-year-olds to infant siblings:‘baby talk’and the context of communication. Journal of Child Language, 9(3), 579-595.
+* Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. Child development, 399-410.
+* Erdemir, E., & Brutt-Griffler, J. (2022). Vocabulary development through peer interactions in early childhood: A case study of an emergent bilingual child in preschool. International Journal of Bilingual Education and Bilingualism, 25(3), 834-865.
+* Gaskins, S. (2000). Children's daily activities in a Mayan village: A culturally grounded description. Cross-cultural research, 34(4), 375-389.
+* Greenfield, P. M., Keller, H., Fuligni, A., & Maynard, A. (2003). Cultural pathways through universal development. Annual review of psychology, 54(1), 461-490.
+* Haun, D. B., & Tomasello, M. (2011). Conformity to peer pressure in preschool children. Child development, 82(6), 1759-1767.
+* Hoff-Ginsberg, E. (1998). The relation of birth order and socioeconomic status to children's language experience and language development. Applied psycholinguistics, 19(4), 603-629.
+* Hoff-Ginsberg, E., & Krueger, W. M. (1991). Older siblings as conversational partners. Merrill-Palmer Quarterly (1982-), 465-481.
+* Jaswal, V. K., & Neely, L. A. (2006). Adults don't always know best: preschoolers use past reliability over age when learning new words. Psychological Science.
+* Jones, C. P., & Adamson, L. B. (1987). Language use in mother-child and mother-child-sibling interactions. Child Development, 356-366.
+* Kachel, G., Moore, R., & Tomasello, M. (2018). Two‐year‐olds use adults' but not peers' points. Developmental science, 21(5), e12660.
+* Kachel, G., Moore, R., Hepach, R., & Tomasello, M. (2021). Toddlers prefer adults as informants: 2‐and 3‐year‐olds’ use of and attention to pointing gestures from peer and adult partners. Child Development, 92(4), e635-e652.
+* Koenig, M. A., & Harris, P. L. (2005). Preschoolers mistrust ignorant and inaccurate speakers. Child development, 76(6), 1261-1277.
+* Köymen, B., Lieven, E., Engemann, D. A., Rakoczy, H., Warneken, F., & Tomasello, M. (2014). Children's norm enforcement in their interactions with peers. Child development, 85(3), 1108-1122.
+* Kruger, A. C., & Tomasello, M. (1986). Transactive discussions with peers and adults. Developmental Psychology, 22(5), 681.
+* Langley, M. C., Benítez‐Burraco, A., & Kempe, V. (2020). Playing with language, creating complexity: Has play contributed to the evolution of complex language?. Evolutionary Anthropology: Issues, News, and Reviews, 29(1), 29-40.
+* Loukatou, G., Scaff, C., Demuth, K., Cristia, A., & Havron, N. (2021). Child-directed and overheard input from different speakers in two distinct cultures. Journal of Child Language, 1-20.
+* Mannle, S., Barton, M., & Tomasello, M. (1992). Two-year-olds' conversations with their mothers and preschool-aged siblings. First language, 12(34), 57-71.
+* Mashburn, A. J., Justice, L. M., Downer, J. T., & Pianta, R. C. (2009). Peer effects on children’s language achievement during pre‐kindergarten. Child development, 80(3), 686-702.
+* Maynard, A. E. (2002). Cultural teaching: The development of teaching skills in Maya sibling interactions. Child development, 73(3), 969-982.
+* Mejía‐Arauz, R., Rogoff, B., Dexter, A., & Najafi, B. (2007). Cultural variation in children's social organization. Child development, 78(3), 1001-1014.
+* Nelson, K. (2014). What, when, and how do children learn from talking with peers? InA. Cekaite, S. Blum-Kulka, V. Grøver, & E. Teubal (Eds.),Children’speertalk:Learning from each other(pp. 42–62). New York, NY: Cambridge University Press.
+* Ninio, A. (2016). Bids for joint attention by parent–child dyads and by dyads of young peers in interaction. Journal of Child Language, 43(1), 135-156.
+* Oshima‐Takane, Y., Goodz, E., & Derevensky, J. L. (1996). Birth order effects on early language development: Do secondborn children learn from overheard speech?. Child development, 67(2), 621-634.
+* Rakoczy, H., Hamann, K., Warneken, F., & Tomasello, M. (2010). Bigger knows better: Young children selectively learn rule games from adults rather than from peers. British Journal of Developmental Psychology, 28(4), 785-798.
+* Shneidman, L. A., Arroyo, M. E., Levine, S. C., & Goldin-Meadow, S. (2013). What counts as effective input for word learning?. Journal of Child Language, 40(3), 672-686.
+* Stanford, J. N. (2008). Child dialect acquisition: New perspectives on parent/peer influence 1. Journal of Sociolinguistics, 12(5), 567-596.
 * Tomasello, M. (2016). Cultural learning redux. Child development, 87(3), 643-653.
 * Tomasello, M. (2020). The adaptive origins of uniquely human sociality. Philosophical Transactions of the Royal Society B, 375(1803), 20190493.
 * Tomasello, M., Gust, D. A., & Evans, A. (1990). Peer interaction in infant chimpanzees. Folia Primatologica, 55(1), 33-40.
-* Bakeman, R., & Adamson, L. B. (1984). Coordinating attention to people and objects in mother-infant and peer-infant interaction. Child development, 1278-1289.
-* Kachel, G., Moore, R., & Tomasello, M. (2018). Two‐year‐olds use adults' but not peers' points. Developmental science, 21(5), e12660.
-* Ninio, A. (2016). Bids for joint attention by parent–child dyads and by dyads of young peers in interaction. Journal of Child Language, 43(1), 135-156.
-* Brownell, C. A., Ramani, G. B., & Zerwas, S. (2006). Becoming a social partner with peers: Cooperation and social understanding in one‐and two‐year‐olds. Child development, 77(4), 803-821.
-* Loukatou, G., Scaff, C., Demuth, K., Cristia, A., & Havron, N. (2021). Child-directed and overheard input from different speakers in two distinct cultures. Journal of Child Language, 1-20.
-* Langley, M. C., Benítez‐Burraco, A., & Kempe, V. (2020). Playing with language, creating complexity: Has play contributed to the evolution of complex language?. Evolutionary Anthropology: Issues, News, and Reviews, 29(1), 29-40.
-* Greenfield, P. M., Keller, H., Fuligni, A., & Maynard, A. (2003). Cultural pathways through universal development. Annual review of psychology, 54(1), 461-490.
-* Mashburn, A. J., Justice, L. M., Downer, J. T., & Pianta, R. C. (2009). Peer effects on children’s language achievement during pre‐kindergarten. Child development, 80(3), 686-702.
-* Stanford, J. N. (2008). Child dialect acquisition: New perspectives on parent/peer influence 1. Journal of Sociolinguistics, 12(5), 567-596.
-* Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. Child development, 399-410.
-* Rakoczy, H., Hamann, K., Warneken, F., & Tomasello, M. (2010). Bigger knows better: Young children selectively learn rule games from adults rather than from peers. British Journal of Developmental Psychology, 28(4), 785-798.
-* VanderBorght, M., & Jaswal, V. K. (2009). Who knows best? Preschoolers sometimes prefer child informants over adult informants. Infant and Child Development: An International Journal of Research and Practice, 18(1), 61-71.
-* Kachel, G., Moore, R., Hepach, R., & Tomasello, M. (2021). Toddlers prefer adults as informants: 2‐and 3‐year‐olds’ use of and attention to pointing gestures from peer and adult partners. Child Development, 92(4), e635-e652.
-* Jones, C. P., & Adamson, L. B. (1987). Language use in mother-child and mother-child-sibling interactions. Child Development, 356-366.
-* Mejía‐Arauz, R., Rogoff, B., Dexter, A., & Najafi, B. (2007). Cultural variation in children's social organization. Child development, 78(3), 1001-1014.
-* Haun, D. B., & Tomasello, M. (2011). Conformity to peer pressure in preschool children. Child development, 82(6), 1759-1767.
-* Köymen, B., Lieven, E., Engemann, D. A., Rakoczy, H., Warneken, F., & Tomasello, M. (2014). Children's norm enforcement in their interactions with peers. Child development, 85(3), 1108-1122.
-* Kruger, A. C., & Tomasello, M. (1986). Transactive discussions with peers and adults. Developmental Psychology, 22(5), 681.
-* Duncan, T. S., & Paradis, J. (2020). Home language environment and children's second language acquisition: The special status of input from older siblings. Journal of Child Language, 47(5), 982-1005.
 * Tomasello, M., & Mannle, S. (1985). Pragmatics of sibling speech to one-year-olds. Child Development, 911-917.
+* VanderBorght, M., & Jaswal, V. K. (2009). Who knows best? Preschoolers sometimes prefer child informants over adult informants. Infant and Child Development: An International Journal of Research and Practice, 18(1), 61-71.
 * Zukow-Goldring, P. (2002). Sibling caregiving. In M. H. Bornstein (Ed.), Handbook of parenting: Being and becoming a parent (pp. 253–286). Lawrence Erlbaum Associates Publishers.
-* Jones, C. P., & Adamson, L. B. (1987). Language use in mother-child and mother-child-sibling interactions. Child Development, 356-366.
-* Maynard, A. E. (2002). Cultural teaching: The development of teaching skills in Maya sibling interactions. Child development, 73(3), 969-982.
-* Hoff-Ginsberg, E. (1998). The relation of birth order and socioeconomic status to children's language experience and language development. Applied psycholinguistics, 19(4), 603-629.
-* Oshima‐Takane, Y., Goodz, E., & Derevensky, J. L. (1996). Birth order effects on early language development: Do secondborn children learn from overheard speech?. Child development, 67(2), 621-634.
-* Akhtar, N. (2005). The robustness of learning through overhearing. Developmental Science, 8(2), 199-209.
-* Bornstein, M. H., Leach, D. B., & Haynes, O. M. (2004). Vocabulary competence in first-and secondborn siblings of the same chronological age. Journal of Child Language, 31(4), 855-873.
-* Shneidman, L. A., Arroyo, M. E., Levine, S. C., & Goldin-Meadow, S. (2013). What counts as effective input for word learning?. Journal of Child Language, 40(3), 672-686.
-* Gaskins, S. (2000). Children's daily activities in a Mayan village: A culturally grounded description. Cross-cultural research, 34(4), 375-389.
-* Casillas, M., Brown, P., & Levinson, S. C. (2021). Early language experience in a Papuan community. Journal of Child Language 48(4), 792–814.
-* Dunn, J., & Kendrick, C. (1982). The speech of two-and three-year-olds to infant siblings:‘baby talk’and the context of communication. Journal of Child Language, 9(3), 579-595.
-* Mannle, S., Barton, M., & Tomasello, M. (1992). Two-year-olds' conversations with their mothers and preschool-aged siblings. First language, 12(34), 57-71.
-* Hoff-Ginsberg, E., & Krueger, W. M. (1991). Older siblings as conversational partners. Merrill-Palmer Quarterly (1982-), 465-481.
-* Jaswal, V. K., & Neely, L. A. (2006). Adults don't always know best: preschoolers use past reliability over age when learning new words. Psychological Science.
-* Koenig, M. A., & Harris, P. L. (2005). Preschoolers mistrust ignorant and inaccurate speakers. Child development, 76(6), 1261-1277.
-* Nelson, K. (2014). What, when, and how do children learn from talking with peers? InA. Cekaite, S. Blum-Kulka, V. Grøver, & E. Teubal (Eds.),Children’speertalk:Learning from each other(pp. 42–62). New York, NY: Cambridge University Press.
-* Erdemir, E., & Brutt-Griffler, J. (2022). Vocabulary development through peer interactions in early childhood: A case study of an emergent bilingual child in preschool. International Journal of Bilingual Education and Bilingualism, 25(3), 834-865.
 
 <!--
 
