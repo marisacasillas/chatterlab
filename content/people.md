@@ -21,6 +21,8 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Yuchen Jin](/bios/yuchen-aboutme/)
 
+Abby Clements
+
 ### Masters students
 
 Beixi Dong
@@ -40,6 +42,8 @@ Beixi Dong
 [Sarah Sommer](/bios/sarah-aboutme/)
 
 [Alexander Stern](/bios/alexander-aboutme/)
+
+Jordyn Martin
 
 ### <a href="/former-members/"><span style="color:#88941c"> Former members</span></a>
 
