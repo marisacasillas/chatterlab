@@ -15,8 +15,6 @@ Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, 
 
 Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](/lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
-**Casillas, M.** (accepted). Learning language in vivo. _Child Development Perspectives XX_. [[preprint](/lab-publications/Casillas_Learning_language_in_vivo-CDP.pdf)]
-
 Cristia, A., Foushee, R., Aravena-Bravo, P., Cychosz, M., Scaff, C., & **Casillas, M.** (provisionally accepted). Combining observational and experimental approaches to the development of language and communication in rural samples: Opportunities and challenges. _Journal of Child Language XX_. [[ms](https://psyarxiv.com/u59xb/)]
 
 Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. _Topics in Cognitive Science XX_. [[ms](https://psyarxiv.com/4wpru)] _\* Expanded version of [Elmlinger et al. (2022)](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf) as part of the CogSci 2022 Disciplinary Diversity & Integration Award in Cognitive Science_
@@ -24,6 +22,8 @@ Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted). Immature vocaliz
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
 ## 2022
+
+**Casillas, M.** (2022). Learning language in vivo. _Child Development Perspectives 00_, 1-8. [[ms](/lab-publications/Casillas_2022_Learning_language_in_vivo_CDP.pdf)]
 
 Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & **Casillas, M.** (2022). Sticks, leaves, buckets, and bowls: Distributional patterns of children's at-home object handling in two subsistence societies. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), _Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022)_ (pp. 927-933). [[ms](/lab-publications/Casey_et_al_2022_Sticks_leaves_buckets_bowls_CogSci.pdf)] [[gh](https://github.com/kennedycasey/daylong-object-ids)] [[data visualization tool](https://aclew.shinyapps.io/CogSci-TSE-ROS-objects/)]
 
