@@ -1,0 +1,14 @@
+# Mini essay exam 3
+
+Please use information from the readings, lectures, and in-class sessions to inform your answers. You're welcome to look up other sources, but you should **always** cite anything you use (even readings from our course). Be careful about re-using phrasings and concepts from out-of-class sources; there's lots of information out there and not all of it is accurate. Your source citations do not count toward your maximum word count.
+
+## Blooming and buzzing, but maybe not too confusing (500–750 words)
+
+_In this course we have covered four major factors that influence how children learn language (i.e., our four "modules"): pattern recognition, cognitive biases, maturation, and environment. In each case we have seen how features of the child's cognition and/or learning environment guide them in the process of language development. Choose two of the four major factors and explain below how each factor shapes the language learning process, thereby helping children overcome the apparent "blooming buzzing confusion". Make sure to mention at least four specific studies we covered in class for each of the two major factors._
+
+
+## A word of caution (500–750 words)
+
+_We dedicated two whole class periods to critical discussion about language development interventions and the idea of a "word gap". While some of the work we covered is now fairly dated (e.g., Hart & Risley's original study), the basic idea of counting up basic language use features and leveraging them to bridge achievement (inequality) gaps is still garnering a lot of attention. Educators, policy makers, pediatric workers, and parents are the common targets of this scientific discourse. In fact, just a few days ago, the LENA foundation published a new pamphlet on their language pedometer measure of conversational turns and how it relates to IQ. Please quickly review [the pamphlet](./InsideEarlyTalk_20210303.pdf) (it's shorter than it looks)._
+
+_Now, imagine that this pamphlet is going to be sent out to the school leadership and parent-teacher boards in the school system where you grew up (between preschool and 3rd grade). You are offered the chance to write a cover letter to accompany the LENA pamphlet. What would you want your school's leadership to know before they read it? The pamphlet is short and to the point, so your job is to provide whatever contextualizing information you think is important, e.g., regarding methods for daylong recordings and their strengths/weaknesses, the history of this debate, specific factors in your community that would modulate the advice given by LENA, etc. What kinds of specific and general topics would you raise that are relevant to your school system? Please write this last mini essay in the form of a short letter addressed to the school leadership and any parent-teacher groups it might go out to._
