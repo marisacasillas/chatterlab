@@ -68,7 +68,7 @@ Each student is expected to participate in a total of two methods presentations.
 * **Pre-class reading:** 
     * Saffran et al. (1996). Statistical learning by 8-month-old infants. _Science 274_(5294), 1926–1928. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/fctbdtdox19iv2h/saffran1996statistical.pdf?dl=0))
     * Saffran (2020). Statistical language learning in infancy. _Child Development Perspectives 14_(1), 49–54. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/iigih7tf9yrsc9t/saffran2020statistical.pdf?dl=0))
-    * Hirsh-Pasek, K., Nelson, D. G. K., Jusczyk, P. W., Cassidy, K. W., Druss, B., & Kennedy, L. (1987). Clauses are perceptual units for young infants. _Cognition, 26_(3), 269-286. <span style="color:green">**(JA)**</span>
+    * Hirsh-Pasek, K., Nelson, D. G. K., Jusczyk, P. W., Cassidy, K. W., Druss, B., & Kennedy, L. (1987). Clauses are perceptual units for young infants. _Cognition, 26_(3), 269-286. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/l1h4dglyyroqbju/hirsh-pasek1987clauses.pdf?dl=0))
 
 * **Assignments due today:** None!
 
@@ -198,7 +198,7 @@ Each student is expected to participate in a total of two methods presentations.
 
 * **Pre-class reading:**
     * Hart and Risley (2003). The early catastrophe: The 30 million word gap by age 3. _American Educator, 27_(1), 4-9. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/5muq6od54uejfyp/hart2003catastrophe.pdf?dl=0))
-    * Hirsh-Pasek, K., Adamson, L. B., Bakeman, R., Owen, M. T., Golinkoff, R. M., Pace, A., ... & Suma, K. (2015). The contribution of early communication quality to low-income children’s language success. _Psychological Science, 26_(7), 1071-1083. <span style="color:green">**(JA)**</span>
+    * Hirsh-Pasek, K., Adamson, L. B., Bakeman, R., Owen, M. T., Golinkoff, R. M., Pace, A., ... & Suma, K. (2015). The contribution of early communication quality to low-income children’s language success. _Psychological Science, 26_(7), 1071-1083. <span style="color:green">**(JA)**</span>([pdf](https://www.dropbox.com/s/q3kzcro12q0gzuw/hirsh-pasek2015contribution.pdf?dl=0))
     * Sperry et al. (2018). Reexamining the verbal environments of children from different socioeconomic backgrounds. _Child Development, 90_(4), 1303-1318. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/pky2b07bh2jm0fx/sperry2019reexamining.pdf?dl=0))
 
 * **Assignments due today:** None!
