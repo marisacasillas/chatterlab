@@ -53,24 +53,27 @@ Each student is expected to participate in a total of two methods presentations.
 
 # Course schedule
 
+# Day-by-day-schedule
+
 ## Module 1: Pattern recognition
 
-### Week 1: Tuesday, 12 January 2021
+### Tuesday, 3 January 2023 (1.1):
 
 * **Pre-class reading:** None!
 
 * **Assignments due today:** None!
 
-### Week 1: Thursday, 14 January 2021
+### Thursday, 5 January 2023 (1.2): 
 
 * **Pre-class reading:** 
     * Saffran et al. (1996). Statistical learning by 8-month-old infants. _Science 274_(5294), 1926–1928. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/fctbdtdox19iv2h/saffran1996statistical.pdf?dl=0))
     * Saffran (2020). Statistical language learning in infancy. _Child Development Perspectives 14_(1), 49–54. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/iigih7tf9yrsc9t/saffran2020statistical.pdf?dl=0))
+    * Hirsh-Pasek, K., Nelson, D. G. K., Jusczyk, P. W., Cassidy, K. W., Druss, B., & Kennedy, L. (1987). Clauses are perceptual units for young infants. _Cognition, 26_(3), 269-286. <span style="color:green">**(JA)**</span>
 
 * **Assignments due today:** None!
 
 
-### Week 2: Tuesday, 19 January 2021
+### Tuesday, 10 January 2023 (2.1):
 
 * **Pre-class reading:** 
     * Maye et al. (2002). Infant sensitivity to distributional information can affect phonetic discrimination. _Cognition 82_, B101–B111. <span style="color:green">**(JA)**</span>  ([pdf](https://www.dropbox.com/s/jcwf77nn4vb1rkw/maye2002distributional.pdf?dl=0)) 
@@ -79,15 +82,9 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** None!
 
 
-### Week 2: Thursday, 21 January 2021
-
-* **Pre-class reading:** None! Methods Presentations round 1 today
-
-* **Assignments due today:** None! Unless you're doing a methods presentation today!
-
 ## Module 2: Cognitive biases
 
-### Week 3: Tuesday, 26 January 2021
+### Thursday, 12 January 2023 (2.2): 
 
 * **Pre-class reading:** 
     * Goldstone & Hendrickson (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science, 1_(1), 69-78. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/dg7b4n1x90sqv18/goldstone2010categorical.pdf?dl=0))
@@ -96,15 +93,14 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** None!
 
 
-### Week 3: Thursday, 28 January 2021
+### Tuesday, 17 January 2023 (3.1):
 
-* **Pre-class reading:** 
-    * Scholl & Tremoulet (2000). Perceptual causality and animacy. _Trends in Cognitive Sciences, 4_(8), 299-309. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/vrb1hmbbv6tk9lb/scholl2000causalityanimacy.pdf?dl=0))
-    * Gergely & Csibra (2003). Teleological reasoning in infancy: The naïve theory of rational action. _Trends in Cognitive Sciences, 7_(7), 287-292. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/6mf7o4d5r81nmkj/gergeley2003teleological.pdf?dl=0))
+* **Pre-class reading:** None! Methods Presentations round 1 today
 
-* **Assignments due today:** None!
+* **Assignments due today:** None! Unless you're doing a methods presentation today!
 
-### Week 4: Tuesday, 2 February 2021
+
+### Thursday, 19 January 2023 (3.2): 
 
 * **Pre-class reading:** 
     * He & Arunachalam (2017). Word learning mechanisms. _Wiley Interdisciplinary Reviews: Cognitive Science, 8_(4), e1435. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/6c8bbiq9b4j45t3/he2017wordlearning.pdf?dl=0))
@@ -113,34 +109,18 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** None!
 
 
-### Week 4: Thursday, 4 February 2021
+### Tuesday, 24 January 2023 (4.1):
 
 * **Pre-class reading:** 
-    * Braginsky et al. (2019). Consistency and variability in children’s word learning across languages. _Open Mind, 3_, 52-67. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/0wbxep83p4pekub/braginsky2019consistency.pdf?dl=0)) 
     * Frank et al. (2020). _Variability and Consistency in Early Language Learning: The Wordbank Project_ (Ch 11). Cambridge, MA: MIT Press.  <span style="color:purple">**(BC)**</span> ([html](https://langcog.github.io/wordbank-book/categories-syntactic.html))
+    * Kidd et al. (2011). Toddlers use speech disfluencies to predict speakers' referential intentions. _Developmental Science, 14_(4), 925-934. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/h1jzq2xqn55j6p3/kidd2011disfluencies.pdf?dl=0))
 
 * **Assignments due today:** [Mini essay exam 1]()
 
 
-### Week 5: Tuesday, 9 February 2021
-
-* **Pre-class reading:** 
-    * Bergelson & Aslin (2017). Semantic specificity in one-year-olds' word comprehension. _Language Learning and Development, 13_(4), 481-501. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/zx7vw8r4tak7guj/bergelson2017specificity.pdf?dl=0))
-    * Kidd et al. (2011). Toddlers use speech disfluencies to predict speakers' referential intentions. _Developmental Science, 14_(4), 925-934. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/h1jzq2xqn55j6p3/kidd2011disfluencies.pdf?dl=0))
-
-* **Assignments due today:** None!
-
-
-### Week 5: Thursday, 11 February 2021
-
-* **Pre-class reading:** None! Methods Presentations round 1 today
-
-* **Assignments due today:** None! Unless you're doing a methods presentation today!
-
-
 ## Module 3: Maturation
 
-### Week 6: Tuesday, 16 February 2021
+### Thursday, 26 January 2023 (4.2):
 
 * **Pre-class reading:** 
     * Karasik et al. (2014). Crawling and walking infants elicit different verbal responses from mothers. _Developmental Science, 17_(3), 388-395. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/x3u06mnr7wcklfy/karasik2014crawling.pdf?dl=0))
@@ -149,7 +129,14 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** None!
 
 
-### Week 6: Thursday, 18 February 2021
+### Tuesday, 31 January 2023 (5.1):
+
+* **Pre-class reading:** None! Methods Presentations round 1 today
+
+* **Assignments due today:** None! Unless you're doing a methods presentation today!
+
+
+### Thursday, 2 February 2023 (5.2):
 
 * **Pre-class reading:** 
     * Vlach & Johnson (2013). Memory constraints on infants’ cross-situational statistical learning. _Cognition, 127_(3), 375-382. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/jj301x8eqqldi8t/vlach2013memory.pdf?dl=0))
@@ -158,7 +145,7 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** None!
 
 
-### Week 7: Tuesday, 23 February 2021
+### Tuesday, 7 February 2023 (6.1):
 
 * **Pre-class reading:** None! Methods Presentations round 1 today
 
@@ -167,7 +154,14 @@ Each student is expected to participate in a total of two methods presentations.
 
 ## Module 4: Environment
 
-### Week 7: Thursday, 25 February 2021
+### Thursday, 9 February 2023 (6.2): 
+
+* **Pre-class reading:** TBD book chapter
+
+* **Assignments due today:** In-class discussion participation
+
+
+### Tuesday, 14 February 2023 (7.1): 
 
 * **Pre-class reading:** 
     * Tomasello & Carpenter (2007). Shared intentionality. _Developmental Science, 10_(1), 121-125. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0))
@@ -176,7 +170,7 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** [Mini essay exam 2]()
 
 
-### Week 8: Tuesday, 2 March 2021
+### Thursday, 16 February 2023 (7.2): 
 
 * **Pre-class reading:**
     * **This counts as two readings (it's long & detailed) -- please adjust your notes so that they are equivalent to two readings of effort:** Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
@@ -184,7 +178,7 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** None!
 
 
-### Week 8: Thursday, 4 March 2021
+### Tuesday, 21 February 2023 (8.1): 
 
 * **Pre-class reading:**
     * Liszkowski et al. (2012). A prelinguistic gestural universal of human communication. _Cognitive Science, 36_(4), 698-713. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/3a8wkzo6q4jd2pm/liszkowski2012prelinguistic.pdf?dl=0))
@@ -193,22 +187,31 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** None!
 
 
-### Week 9: Tuesday, 9 March 2021
+### Thursday, 23 February 2023 (8.2):
+
+* **Pre-class reading:** None! Methods Presentations round 1 today
+
+* **Assignments due today:** None! Unless you're doing a methods presentation today!
+
+
+### Tuesday, 28 February 2023 (9.1):
 
 * **Pre-class reading:**
+    * Hirsh-Pasek, K., Adamson, L. B., Bakeman, R., Owen, M. T., Golinkoff, R. M., Pace, A., ... & Suma, K. (2015). The contribution of early communication quality to low-income children’s language success. _Psychological Science, 26_(7), 1071-1083. <span style="color:green">**(JA)**</span>
     * Hart and Risley (2003). The early catastrophe: The 30 million word gap by age 3. _American Educator, 27_(1), 4-9. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/5muq6od54uejfyp/hart2003catastrophe.pdf?dl=0))
     * Sperry et al. (2018). Reexamining the verbal environments of children from different socioeconomic backgrounds. _Child Development, 90_(4), 1303-1318. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/pky2b07bh2jm0fx/sperry2019reexamining.pdf?dl=0))
 
 * **Assignments due today:** None!
 
 
-### Week 9: Thursday, 11 March 2021
+### Thursday, 2 March 2023 (9.2):
 
-* **Pre-class reading:** None! Methods Presentations round 1 today
+* **Pre-class reading:** None!
 
-* **Assignments due today:** None! Unless you're doing a methods presentation today!
+* **Assignments due today:** In-class discussion participation
 
-## Final deadline (Thursday, 18 March 2021)
+
+### Final deadline (Tuesday, 7 March 2023):
 
 [Mini essay exam 3]() due by 11:59pm.
 
