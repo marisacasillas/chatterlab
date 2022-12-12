@@ -37,6 +37,17 @@ Students enrolled in this course will be graded on the following basis:
 
 Discussion of scientific literature and practice in child development research is the core task of our course. Students are generally expected to come to class and actively participate in discussion. The participation grade reflects the range from all unexcused attendances and no evidence of reading (0%) to zero unexcused attendances with evidence for completion of all readings and active participation at every session attended (30%). Please stay in touch with the TA about any limitations you have regarding in-person participation or if you need an excused absence.
 
+The total participation grade is based on thoughtfully completed reading notes (see below) and consistent active participation in class.
+
+#### Reading notes as participation
+
+For each reading students are expected to demonstrate their understanding by responding to a handful of questions. There are three types of readings: journal articles, scientific reviews, and book chapters. For journal articles (indicated below with <span style="color:green">**(JA)**</span>), students should copy/download and complete the notes worksheet [here](https://docs.google.com/document/d/1mT6H6fQCqaydiYF4awt2YDIXPdRtIvrBP5BRyKYFFZM/edit?usp=sharing). For scientific reviews and book chapters (indicated below with <span style="color:purple">**(RV)**</span> or <span style="color:purple">**(BC)**</span>), the students should copy/download and complete the notes worksheet [this worksheet](https://docs.google.com/document/d/1lcwO0JyfbTNhpwvRlScTnhBfJfIzfgLL4Zs4dhDYR0E/edit?usp=sharing).
+
+#### Active attendance as participation
+
+Active participation simply involves showing up, asking and answering questions, and making comments or otherwise participating in discussion. Students do not need to make up active attendance points for excused absences.
+
+
 ### Paper presentations (20% of grade)
 
 Students will take turns presenting readings, typically in pairs or small groups. Each student's average score over their two presentations will make up 20% of their final grade. Students will be expected to deliver a practice version of their presentation via video recording to Dr. Casillas by 11:59pm on the day of the in-class work session dedicated to that presentation preparation (see below). Dr. Casillas and/or the TA will give feedback within 24 hours. Incorporation of feedback is taken into account in determining the final grade for each presentation. **A rubric with more specific guidelines will be posted prior to the first presentation assignment.**
