@@ -22,17 +22,20 @@ My research into children's development of turn-taking skills shows that even ve
 
 I also work on a number of smaller projects relating to linguistic and cultural phenomena of special relevance to the two Indigenous communities I work with, a Tseltal Mayan community in Chiapas, Mexico and the rural Rossel Island community in Milne Bay Province, Papua New Guinea.
 
-### Courses at UChicago
+### Courses at UChicago (last taught)
 
-[The Development of Communicative Competence]({{< ref "courses/DCC2022/Casillas-DevCommComp-Winter2022-Syllabus.md" >}}) (Spring 2020; Winter 2022).
+[Blooming Buzzing Confusion]({{< ref "courses/BBC2023/Casillas-BBC-Winter2023-Syllabus.md" >}}) (Winter 2023)
 
-[From Data to Manuscript in R]({{< ref "courses/D2M2022/Casillas-D2M-Winter2022-Syllabus.md" >}}) (Winter 2022)
+[Methods in Child Development Research]({{< ref "courses/MCDR2023/Casillas-MCDR-Winter2023-Syllabus.md" >}}) (Winter 2023)
 
 [Human Language and Interaction]({{< ref "courses/HLI2022/Casillas-HLI-Spring2022-Syllabus.md" >}}) (Spring 2022)
 
 [Mind III]({{< ref "courses/MIND3-2022/Casillas-MIND3-Spring2022-Syllabus.md" >}}) (Spring 2022)
 
-[Blooming Buzzing Confusion]({{< ref "archived_courses/Winter2021/Casillas-BBC-Winter2021-Syllabus.md" >}}) (Winter 2021)
+[The Development of Communicative Competence]({{< ref "courses/DCC2022/Casillas-DevCommComp-Winter2022-Syllabus.md" >}}) (Winter 2022).
+
+[From Data to Manuscript in R]({{< ref "courses/D2M2022/Casillas-D2M-Winter2022-Syllabus.md" >}}) (Winter 2022)
+
 
 ### Professional organizations (co-)led
 
