@@ -32,7 +32,7 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 
 [Mind III]({{< ref "courses/MIND3-2022/Casillas-MIND3-Spring2022-Syllabus.md" >}}) (Spring 2022)
 
-[The Development of Communicative Competence]({{< ref "courses/DCC2022/Casillas-DevCommComp-Winter2022-Syllabus.md" >}}) (Winter 2022).
+[The Development of Communicative Competence]({{< ref "courses/DCC2022/Casillas-DevCommComp-Winter2022-Syllabus.md" >}}) (Winter 2022)
 
 [From Data to Manuscript in R]({{< ref "courses/D2M2022/Casillas-D2M-Winter2022-Syllabus.md" >}}) (Winter 2022)
 
