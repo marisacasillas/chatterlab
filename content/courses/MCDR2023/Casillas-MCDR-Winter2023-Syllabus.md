@@ -29,7 +29,7 @@ Students enrolled in this course will be graded on the following basis:
 |-----------|----------------|
 | Participation | 30% |
 | Paper presentations | 20% |
-| Stimulus preparation/ data annotation | 20% |
+| Stimulus preparation/data annotation | 20% |
 | Data collection participation | 10% |
 | Final exam | 20% |
 
