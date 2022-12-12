@@ -197,8 +197,8 @@ Each student is expected to participate in a total of two methods presentations.
 ### Tuesday, 28 February 2023 (9.1):
 
 * **Pre-class reading:**
-    * Hirsh-Pasek, K., Adamson, L. B., Bakeman, R., Owen, M. T., Golinkoff, R. M., Pace, A., ... & Suma, K. (2015). The contribution of early communication quality to low-income children’s language success. _Psychological Science, 26_(7), 1071-1083. <span style="color:green">**(JA)**</span>
     * Hart and Risley (2003). The early catastrophe: The 30 million word gap by age 3. _American Educator, 27_(1), 4-9. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/5muq6od54uejfyp/hart2003catastrophe.pdf?dl=0))
+    * Hirsh-Pasek, K., Adamson, L. B., Bakeman, R., Owen, M. T., Golinkoff, R. M., Pace, A., ... & Suma, K. (2015). The contribution of early communication quality to low-income children’s language success. _Psychological Science, 26_(7), 1071-1083. <span style="color:green">**(JA)**</span>
     * Sperry et al. (2018). Reexamining the verbal environments of children from different socioeconomic backgrounds. _Child Development, 90_(4), 1303-1318. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/pky2b07bh2jm0fx/sperry2019reexamining.pdf?dl=0))
 
 * **Assignments due today:** None!
@@ -206,7 +206,7 @@ Each student is expected to participate in a total of two methods presentations.
 
 ### Thursday, 2 March 2023 (9.2):
 
-* **Pre-class reading:** None!
+* **Pre-class reading:** None! <!--https://www.youtube.com/watch?v=BFtbXwnBRg8-->
 
 * **Assignments due today:** In-class discussion participation
 
