@@ -3565,3 +3565,11 @@ a.list-group-item.active > .badge,
 .orange{
   color: #FFA500;
 }
+
+table {
+  border-collapse: collapse;
+}
+td, th {
+  border: 1px solid gray;
+  padding: 0 .2em;
+}
