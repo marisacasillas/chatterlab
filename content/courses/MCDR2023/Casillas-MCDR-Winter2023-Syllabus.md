@@ -25,8 +25,8 @@ All course materials will be available via Canvas or this chatterlab course webp
 
 Students enrolled in this course will be graded on the following basis:
 
-| Component | Percentage |
-|-----------|----------------|
+| <div style="width:250px"><center>Component</div> | <div style="width:75px"><center>Percentage</div> |
+|---|:-:|
 | Participation | 30% |
 | Paper presentations | 20% |
 | Stimulus preparation/data annotation | 20% |
@@ -72,8 +72,8 @@ You may earn up to 4 percentage points of extra credit by participating in an on
 
 # Schedule overview
 
-| Session | Date             | Day      | Class type            | Class topic | Due |
-|---------|------------------|----------|-----------------------| ------------|-----|
+| <div style="width:75px">Date</div> | <div style="width:150px">Date</div> | <div style="width:75px">Day</div> | <div style="width:150px">Class type</div> | <div style="width:150px">Class topic</div> | <div style="width:250px">Due</div> |
+|----|---|---|---|---|----|
 1.1 | 3 January 2023 | Tuesday | Lecture | Introduction | Nothing!
 1.2 | 5 January 2023 | Thursday | Lecture + whole-class work session | Study set up | Reading questions
 2.1 | 10 January 2023 | Tuesday | Lecture | Why study peer influence on language development? | Reading questions, CITI certification
