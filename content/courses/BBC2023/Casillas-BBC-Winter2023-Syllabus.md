@@ -115,7 +115,7 @@ Each student is expected to participate in one methods presentation. Methods pre
     * Kidd et al. (2011). Toddlers use speech disfluencies to predict speakers' referential intentions. _Developmental Science, 14_(4), 925-934. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/h1jzq2xqn55j6p3/kidd2011disfluencies.pdf?dl=0))
 
 * **Assignments due today:**
-    * [Mini essay exam 1]()
+    * Mini essay exam 1
     * Reading questions
 
 
@@ -169,7 +169,7 @@ Each student is expected to participate in one methods presentation. Methods pre
     * Yu & Smith (2013). Joint attention without gaze following: Human infants and their parents coordinate visual attention to objects through eye-hand coordination. _PloS one, 8_(11), e79659. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/rw4yz3ylllu6d52/yu2013coordinate.pdf?dl=0))
 
 * **Assignments due today:**
-    * [Mini essay exam 2]()
+    * Mini essay exam 2
     * Reading questions
 
 
@@ -216,7 +216,7 @@ Each student is expected to participate in one methods presentation. Methods pre
 
 ### Final deadline (Tuesday, 7 March 2023)
 
-[Mini essay exam 3]() due by 11:59pm.
+Mini essay exam 3 due by 11:59pm.
 
 
 
