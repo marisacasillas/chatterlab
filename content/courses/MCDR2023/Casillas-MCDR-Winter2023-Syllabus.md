@@ -146,9 +146,9 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Class type and topic:** In-class collaborative work session for groups 1, 2, & 3 ONLY
 
 * **Pre-class reading:**
-    * **Group 1:** Hoff-Ginsberg, E., & Krueger, W. M. (1991). Older siblings as conversational partners. _Merrill-Palmer Quarterly, 37_(3), 465-481. <span style="color:green">**(JA)**</span>
-    * **Group 2:** Dunn, J., & Kendrick, C. (1982). The speech of two-and three-year-olds to infant siblings:‘baby talk’ and the context of communication. _Journal of Child Language, 9_(3), 579-595. <span style="color:green">**(JA)**</span>
-    * **Group 3:** Sorenson Duncan, T., & Paradis, J. (2020). Home language environment and children's second language acquisition: The special status of input from older siblings. _Journal of Child Language, 47_(5), 982-1005. <span style="color:green">**(JA)**</span>
+    * **Group 1:** Hoff-Ginsberg, E., & Krueger, W. M. (1991). Older siblings as conversational partners. _Merrill-Palmer Quarterly, 37_(3), 465-481. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/xvb6t7eq4a7r05u/hoff-ginsburg1991older.pdf?dl=0)
+    * **Group 2:** Dunn, J., & Kendrick, C. (1982). The speech of two-and three-year-olds to infant siblings:‘baby talk’ and the context of communication. _Journal of Child Language, 9_(3), 579-595. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/q08sa1aosyezb2d/dunn1982speech.pdf?dl=0)
+    * **Group 3:** Sorenson Duncan, T., & Paradis, J. (2020). Home language environment and children's second language acquisition: The special status of input from older siblings. _Journal of Child Language, 47_(5), 982-1005. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/jkyo0uh2tq3i6y0/sorensonduncan2020home.pdf?dl=0)
     * **Groups 4–6:** Nothing! Excused from class today.
 
 * **Due today:**
@@ -164,9 +164,9 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Pre-class reading:**
     * **Groups 1–3:** None!
-    * **Group 4:** Hoff-Ginsberg, E., & Krueger, W. M. (1991). Older siblings as conversational partners. _Merrill-Palmer Quarterly, 37_(3), 465-481. <span style="color:green">**(JA)**</span>
-    * **Group 5:** Dunn, J., & Kendrick, C. (1982). The speech of two-and three-year-olds to infant siblings:‘baby talk’ and the context of communication. _Journal of Child Language, 9_(3), 579-595. <span style="color:green">**(JA)**</span>
-    * **Group 6:** Sorenson Duncan, T., & Paradis, J. (2020). Home language environment and children's second language acquisition: The special status of input from older siblings. _Journal of Child Language, 47_(5), 982-1005. <span style="color:green">**(JA)**</span>
+    * **Group 4:** Hoff-Ginsberg, E., & Krueger, W. M. (1991). Older siblings as conversational partners. _Merrill-Palmer Quarterly, 37_(3), 465-481. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/xvb6t7eq4a7r05u/hoff-ginsburg1991older.pdf?dl=0)
+    * **Group 5:** Dunn, J., & Kendrick, C. (1982). The speech of two-and three-year-olds to infant siblings:‘baby talk’ and the context of communication. _Journal of Child Language, 9_(3), 579-595. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/q08sa1aosyezb2d/dunn1982speech.pdf?dl=0)
+    * **Group 6:** Sorenson Duncan, T., & Paradis, J. (2020). Home language environment and children's second language acquisition: The special status of input from older siblings. _Journal of Child Language, 47_(5), 982-1005. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/jkyo0uh2tq3i6y0/sorensonduncan2020home.pdf?dl=0)
 
 * **Due today:**
     * **Groups 1–3:** In-class presentations
@@ -178,8 +178,8 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Class type and topic:** Developmental labs field trip
 
 * **Pre-class reading:**
-    * Adolph, K. E. (2019). Ecological validity: Mistaking the lab for real life. In Robert J. Sternberg (Ed.) My biggest research mistake: Adventures and misadventures in psychological research (pp. 187–190). Sage Publications. <span style="color:purple">**(BC)**</span>
-    * Kominsky, J. F., Lucca, K., Thomas, A. J., Frank, M. C., & Hamlin, J. K. (2022). Simplicity and validity in infant research. _Cognitive Development, 63_, 101213. <span style="color:green">**(JA)**</span>
+    * Adolph, K. E. (2019). Ecological validity: Mistaking the lab for real life. In Robert J. Sternberg (Ed.) My biggest research mistake: Adventures and misadventures in psychological research (pp. 187–190). Sage Publications. <span style="color:purple">**(BC)**</span> [(pdf)](https://www.dropbox.com/s/exsp0olpccj7nyn/adolph2019ecological.pdf?dl=0)
+    * Kominsky, J. F., Lucca, K., Thomas, A. J., Frank, M. C., & Hamlin, J. K. (2022). Simplicity and validity in infant research. _Cognitive Development, 63_, 101213. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/lue7fnxspk6n81j/kominsky2022simplicity.pdf?dl=0)
 
 * **Due today:**
     * Reading questions
@@ -190,8 +190,8 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Class type and topic:**  Lecture -- Psychology's crises
 
 * **Pre-class reading:**
-    * Singh, L., Cristia, A., Karasik, L. B., & Oakes, L. (2021, November 24). Diversity and Representation in Infant Research: Barriers and bridges towards a globalized science. _PsyArxiv preprint,_ [https://doi.org/10.31234/osf.io/hgukc]() <span style="color:purple">**(RV)**</span>
-    * Kalandadze, T., & Hart, S. A. (2022). Open developmental science: An overview and annotated reading list. _Infant and Child Development_, e2334.<span style="color:green">**(RV)**</span>
+    * Singh, L., Cristia, A., Karasik, L. B., & Oakes, L. (2021, November 24). Diversity and Representation in Infant Research: Barriers and bridges towards a globalized science. _PsyArxiv preprint,_ [https://doi.org/10.31234/osf.io/hgukc]() <span style="color:purple">**(RV)**</span> [(pdf)](https://www.dropbox.com/s/xg1hxaa90dj7y2t/singh2021diversity.pdf?dl=0)
+    * Kalandadze, T., & Hart, S. A. (2022). Open developmental science: An overview and annotated reading list. _Infant and Child Development_, e2334.<span style="color:green">**(RV)**</span> [(pdf)](https://www.dropbox.com/s/oqslc2x74zmq14e/kalandadze2022open.pdf?dl=0)
 <!--    * Davis-Kean, P. E., & Ellis, A. (2019). An overview of issues in infant and developmental research for the creation of robust and replicable science. _Infant Behavior and Development, 57_, 101339.<span style="color:green">**(JA)**</span>-->
 
 * **Due today:**
@@ -204,9 +204,9 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Pre-class reading:**
     * **Groups 1–3:** Nothing! Excused from class today.
-    * **Group 4:** Ryalls, B. O., Gul, R. E., & Ryalls, K. R. (2000). Infant imitation of peer and adult models: Evidence for a peer model advantage. _Merrill-Palmer Quarterly, 46_(1), 188–202. <span style="color:green">**(JA)**</span>
-    * **Group 5:** Koenig, M. A., & Harris, P. L. (2005). Preschoolers mistrust ignorant and inaccurate speakers. _Child Development, 76_(6), 1261-1277. <span style="color:green">**(JA)**</span>
-    * **Group 6:** Kachel, G., Moore, R., & Tomasello, M. (2018). Two‐year‐olds use adults' but not peers' points. _Developmental Science, 21_(5), e12660. <span style="color:green">**(JA)**</span>
+    * **Group 4:** Ryalls, B. O., Gul, R. E., & Ryalls, K. R. (2000). Infant imitation of peer and adult models: Evidence for a peer model advantage. _Merrill-Palmer Quarterly, 46_(1), 188–202. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/zwo9ry36yhdilz0/ryalls2000infant.pdf?dl=0)
+    * **Group 5:** Koenig, M. A., & Harris, P. L. (2005). Preschoolers mistrust ignorant and inaccurate speakers. _Child Development, 76_(6), 1261-1277. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/44x5i2ylbzq2w4j/koenig2005preschoolers.pdf?dl=0)
+    * **Group 6:** Kachel, G., Moore, R., & Tomasello, M. (2018). Two‐year‐olds use adults' but not peers' points. _Developmental Science, 21_(5), e12660. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/e4qmim1y7zathpp/kachel2018two.pdf?dl=0)
 
 * **Due today:**
     * **Groups 1–3:** None!
@@ -220,9 +220,9 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Class type and topic:** Student presentations -- Evidence for/against peer social learning
 
 * **Pre-class reading:**
-    * **Group 1:** Kachel, G., Moore, R., & Tomasello, M. (2018). Two‐year‐olds use adults' but not peers' points. _Developmental Science, 21_(5), e12660. <span style="color:green">**(JA)**</span>
-    * **Group 2:** Ryalls, B. O., Gul, R. E., & Ryalls, K. R. (2000). Infant imitation of peer and adult models: Evidence for a peer model advantage. _Merrill-Palmer Quarterly, 46_(1), 188–202. <span style="color:green">**(JA)**</span>
-    * **Group 3:** Koenig, M. A., & Harris, P. L. (2005). Preschoolers mistrust ignorant and inaccurate speakers. _Child Development, 76_(6), 1261-1277. <span style="color:green">**(JA)**</span>
+    * **Group 1:** Kachel, G., Moore, R., & Tomasello, M. (2018). Two‐year‐olds use adults' but not peers' points. _Developmental Science, 21_(5), e12660. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/e4qmim1y7zathpp/kachel2018two.pdf?dl=0)
+    * **Group 2:** Ryalls, B. O., Gul, R. E., & Ryalls, K. R. (2000). Infant imitation of peer and adult models: Evidence for a peer model advantage. _Merrill-Palmer Quarterly, 46_(1), 188–202. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/zwo9ry36yhdilz0/ryalls2000infant.pdf?dl=0)
+    * **Group 3:** Koenig, M. A., & Harris, P. L. (2005). Preschoolers mistrust ignorant and inaccurate speakers. _Child Development, 76_(6), 1261-1277. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/44x5i2ylbzq2w4j/koenig2005preschoolers.pdf?dl=0)
     * **Groups 4–6:** None!
 
 * **Due today:**
@@ -235,8 +235,8 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Class type and topic:** Lecture -- Peer teaching
 
 * **Pre-class reading:**
-    * Shatz, M., & Gelman, R. (1973). The development of communication skills: Modifications in the speech of young children as a function of listener. _Monographs of the Society for Research in Child Development, 38_(5), 1-38. <span style="color:green">**(JA)**</span>
-    * Howe, N., Della Porta, S., Recchia, H., & Ross, H. (2016). "Because if you don’t put the top on, it will spill": A longitudinal study of sibling teaching in early childhood. _Developmental Psychology, 52_(11), 1832–1842. <span style="color:green">**(JA)**</span>
+    * Shatz, M., & Gelman, R. (1973). The development of communication skills: Modifications in the speech of young children as a function of listener. _Monographs of the Society for Research in Child Development, 38_(5), 1-38. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/yscwxris5fbqlla/shatz1973development.pdf?dl=0)
+    * Howe, N., Della Porta, S., Recchia, H., & Ross, H. (2016). "Because if you don’t put the top on, it will spill": A longitudinal study of sibling teaching in early childhood. _Developmental Psychology, 52_(11), 1832–1842. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/5m73j31r0800u4x/howe2016because.pdf?dl=0)
 
 * **Due today:**
     * Reading questions
@@ -247,8 +247,8 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Class type and topic:** Lecture -- Birth order
 
 * **Pre-class reading:**
-    * Bornstein, M. H., Leach, D. B., & Haynes, O. M. (2004). Vocabulary competence in first-and secondborn siblings of the same chronological age. _Journal of Child Language, 31_(4), 855-873. <span style="color:green">**(JA)**</span>
-    * Oshima‐Takane, Y., Goodz, E., & Derevensky, J. L. (1996). Birth order effects on early language development: Do secondborn children learn from overheard speech?. _Child Development, 67_(2), 621-634. <span style="color:green">**(JA)**</span>
+    * Bornstein, M. H., Leach, D. B., & Haynes, O. M. (2004). Vocabulary competence in first-and secondborn siblings of the same chronological age. _Journal of Child Language, 31_(4), 855-873. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/md3isd4ekq4phpi/bornstein2004vocabulary.pdf?dl=0)
+    * Oshima‐Takane, Y., Goodz, E., & Derevensky, J. L. (1996). Birth order effects on early language development: Do secondborn children learn from overheard speech?. _Child Development, 67_(2), 621-634. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/azbxsnfeinp4n54/oshima-takane1996birth.pdf?dl=0)
 
 * **Due today:**
     * Reading questions
@@ -259,9 +259,9 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Class type and topic:** In-class collaborative work session for groups 1, 2, & 3 ONLY
 
 * **Pre-class reading:**
-    * **Group 1:** Mejía‐Arauz, R., Rogoff, B., Dexter, A., & Najafi, B. (2007). Cultural variation in children's social organization. _Child Development, 78_(3), 1001-1014. <span style="color:green">**(JA)**</span>
-    * **Group 2:** Shneidman, L. A., Arroyo, M. E., Levine, S. C., & Goldin-Meadow, S. (2013). What counts as effective input for word learning?. _Journal of Child Language, 40_(3), 672-686. <span style="color:green">**(JA)**</span>
-    * **Group 3:** Scaff, C., Casillas, M., Stieglitz, J., & Cristia, A. (2022, November 17). Characterization of children's verbal input in a forager-farmer population using long-form audio recordings and diverse input definitions. _PsyArxiv preprint,_ [https://doi.org/10.31234/osf.io/mt6nz]() <span style="color:green">**(JA)**</span>
+    * **Group 1:** Mejía‐Arauz, R., Rogoff, B., Dexter, A., & Najafi, B. (2007). Cultural variation in children's social organization. _Child Development, 78_(3), 1001-1014. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/bt63xgh8h4myov5/mejia-arauz2007cultural.pdf?dl=0)
+    * **Group 2:** Shneidman, L. A., Arroyo, M. E., Levine, S. C., & Goldin-Meadow, S. (2013). What counts as effective input for word learning?. _Journal of Child Language, 40_(3), 672-686. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/rapotkxvksy09u6/shneidman2013what.pdf?dl=0)
+    * **Group 3:** Scaff, C., Casillas, M., Stieglitz, J., & Cristia, A. (2022, November 17). Characterization of children's verbal input in a forager-farmer population using long-form audio recordings and diverse input definitions. _PsyArxiv preprint,_ [https://doi.org/10.31234/osf.io/mt6nz]() <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/43horl692ohjxyh/scaff2022characterization.pdf?dl=0)
     * **Groups 4–6:** Nothing! Excused from class today.
 
 
@@ -278,9 +278,9 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Pre-class reading:**
     * **Groups 1–3:** None!
-    * **Group 4:** Scaff, C., Casillas, M., Stieglitz, J., & Cristia, A. (2022, November 17). Characterization of children's verbal input in a forager-farmer population using long-form audio recordings and diverse input definitions. _PsyArxiv preprint,_ [https://doi.org/10.31234/osf.io/mt6nz]() <span style="color:green">**(JA)**</span>
-    * **Group 5:** Mejía‐Arauz, R., Rogoff, B., Dexter, A., & Najafi, B. (2007). Cultural variation in children's social organization. _Child Development, 78_(3), 1001-1014. <span style="color:green">**(JA)**</span>
-    * **Group 6:** Shneidman, L. A., Arroyo, M. E., Levine, S. C., & Goldin-Meadow, S. (2013). What counts as effective input for word learning?. _Journal of Child Language, 40_(3), 672-686. <span style="color:green">**(JA)**</span>
+    * **Group 4:** Scaff, C., Casillas, M., Stieglitz, J., & Cristia, A. (2022, November 17). Characterization of children's verbal input in a forager-farmer population using long-form audio recordings and diverse input definitions. _PsyArxiv preprint,_ [https://doi.org/10.31234/osf.io/mt6nz]() <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/43horl692ohjxyh/scaff2022characterization.pdf?dl=0)
+    * **Group 5:** Mejía‐Arauz, R., Rogoff, B., Dexter, A., & Najafi, B. (2007). Cultural variation in children's social organization. _Child Development, 78_(3), 1001-1014. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/bt63xgh8h4myov5/mejia-arauz2007cultural.pdf?dl=0)
+    * **Group 6:** Shneidman, L. A., Arroyo, M. E., Levine, S. C., & Goldin-Meadow, S. (2013). What counts as effective input for word learning?. _Journal of Child Language, 40_(3), 672-686. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/rapotkxvksy09u6/shneidman2013what.pdf?dl=0)
 
 * **Due today:**
     * **Groups 1–3:** In-class presentations
@@ -321,9 +321,9 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Pre-class reading:**
     * **Groups 1–3:** Nothing! Excused from class today.
-    * **Group 4:** Endedijk, H. M., Cillessen, A. H. N., Cox, R. F. A., Bekkering, H., & Hunnius, S. (2015). The role of child characteristics and peer experiences in the development of peer cooperation. _Social Development, 24_(3), 521–540. <span style="color:green">**(JA)**</span>
-    * **Group 5:** Seehagen, S., & Herbert, J. S. (2011). Infant imitation from televised peer and adult models. _Infancy, 16_(2), 113–136. <span style="color:green">**(JA)**</span>
-    * **Group 6:** Zmyj, N., Daum, M. M., Prinz, W., Nielsen, M., & Aschersleben, G. (2012). Fourteen-month-olds’ imitation of differently aged models. _Infant and Child Development, 21_(3), 250–266. <span style="color:green">**(JA)**</span>
+    * **Group 4:** Endedijk, H. M., Cillessen, A. H. N., Cox, R. F. A., Bekkering, H., & Hunnius, S. (2015). The role of child characteristics and peer experiences in the development of peer cooperation. _Social Development, 24_(3), 521–540. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/ktxb8i4ieost6xk/endedijk2015role.pdf?dl=0)
+    * **Group 5:** Seehagen, S., & Herbert, J. S. (2011). Infant imitation from televised peer and adult models. _Infancy, 16_(2), 113–136. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/e0dnecu4x6229xi/seehagen2011infant.pdf?dl=0)
+    * **Group 6:** Zmyj, N., Daum, M. M., Prinz, W., Nielsen, M., & Aschersleben, G. (2012). Fourteen-month-olds’ imitation of differently aged models. _Infant and Child Development, 21_(3), 250–266. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/i5mzak4yluhq49u/zmyj2012fourteen.pdf?dl=0)
 
 * **Due today:**
     * **Groups 1–3:** None!
@@ -337,9 +337,9 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Class type and topic:** Student presentations -- Spontaneous imitation
 
 * **Pre-class reading:**
-    * **Group 1:** Endedijk, H. M., Cillessen, A. H. N., Cox, R. F. A., Bekkering, H., & Hunnius, S. (2015). The role of child characteristics and peer experiences in the development of peer cooperation. _Social Development, 24_(3), 521–540. <span style="color:green">**(JA)**</span>
-    * **Group 2:** Seehagen, S., & Herbert, J. S. (2011). Infant imitation from televised peer and adult models. _Infancy, 16_(2), 113–136. <span style="color:green">**(JA)**</span>
-    * **Group 3:** Zmyj, N., Daum, M. M., Prinz, W., Nielsen, M., & Aschersleben, G. (2012). Fourteen-month-olds’ imitation of differently aged models. _Infant and Child Development, 21_(3), 250–266. <span style="color:green">**(JA)**</span>
+    * **Group 1:** Endedijk, H. M., Cillessen, A. H. N., Cox, R. F. A., Bekkering, H., & Hunnius, S. (2015). The role of child characteristics and peer experiences in the development of peer cooperation. _Social Development, 24_(3), 521–540. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/ktxb8i4ieost6xk/endedijk2015role.pdf?dl=0)
+    * **Group 2:** Seehagen, S., & Herbert, J. S. (2011). Infant imitation from televised peer and adult models. _Infancy, 16_(2), 113–136. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/e0dnecu4x6229xi/seehagen2011infant.pdf?dl=0)
+    * **Group 3:** Zmyj, N., Daum, M. M., Prinz, W., Nielsen, M., & Aschersleben, G. (2012). Fourteen-month-olds’ imitation of differently aged models. _Infant and Child Development, 21_(3), 250–266. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/i5mzak4yluhq49u/zmyj2012fourteen.pdf?dl=0)
     * **Groups 4–6:** None!
 
 * **Due today:**
