@@ -45,7 +45,7 @@ For each reading students are expected to demonstrate their understanding by res
 
 #### Active attendance as participation
 
-Active participation simply involves showing up, asking and answering questions, and making comments or otherwise participating in discussion. Students do not need to make up active attendance points for excused absences.
+Active participation simply involves showing up, asking and answering questions, and making comments or otherwise participating in discussion. Students do not need to make up active attendance points for excused absences. If you have an excused absence to report, please email the TA as soon as possible.
 
 
 ### Paper presentations (20% of grade)
@@ -98,50 +98,50 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 <span style="color:orange">**NB: Students should read their assigned papers and submit their reading questions/reflections _BEFORE_ the session where it's listed unless otherwise noted.**</span>
 
-### Tuesday, 3 January 2023 (1.1):
+### [Tuesday, 3 January 2023 (1.1)](https://docs.google.com/presentation/d/1bZ5rE0RLc0L-GDdm062WfOTqVtiNK3nfwMWw0ax4d3U/edit?usp=sharing)
 
 * **Class type and topic:** Lecture -- Introduction, syllabus, & group assignments
 
 * **Pre-class reading:**
-    * Jaswal, V. K., & Neely, L. A. (2006). Adults don't always know best: preschoolers use past reliability over age when learning new words. _Psychological Science, 17_(9), 757–758. <span style="color:green">**(JA)**</span>
+    * Jaswal, V. K., & Neely, L. A. (2006). Adults don't always know best: preschoolers use past reliability over age when learning new words. _Psychological Science, 17_(9), 757–758. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/bh72q61vt2fpys8/jaswal2006adults.pdf?dl=0)
 
 * **Due today:**
     * Nothing!
 
 
-### Thursday, 5 January 2023 (1.2): 
+### Thursday, 5 January 2023 (1.2)
 
 * **Class type and topic:** Mini lecture + In-class collaborative work session
 
 * **Pre-class reading:**
     * **Groups 1-3:**
-        * Re-read Jaswal & Neely with special attention to procedures <span style="color:green">**(JA)**</span>
+        * Re-read Jaswal & Neely with special attention to procedures <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/bh72q61vt2fpys8/jaswal2006adults.pdf?dl=0)
         * ...and see "ALL" below
     * **Groups 4-6:**
-        * Re-read Jaswal & Neely with special attention to stimuli <span style="color:green">**(JA)**</span>
+        * Re-read Jaswal & Neely with special attention to stimuli <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/bh72q61vt2fpys8/jaswal2006adults.pdf?dl=0)
         * ...and see "ALL" below
     * **ALL:**
-        * VanderBorght, M., & Jaswal, V. K. (2009). Who knows best? Preschoolers sometimes prefer child informants over adult informants. _Infant and Child Development: An International Journal of Research and Practice, 18_(1), 61-71. <span style="color:green">**(JA)**</span>
-        * Rakoczy, H., Hamann, K., Warneken, F., & Tomasello, M. (2010). Bigger knows better: Young children selectively learn rule games from adults rather than from peers. _British Journal of Developmental Psychology, 28_(4), 785-798. <span style="color:green">**(JA)**</span>
+        * VanderBorght, M., & Jaswal, V. K. (2009). Who knows best? Preschoolers sometimes prefer child informants over adult informants. _Infant and Child Development: An International Journal of Research and Practice, 18_(1), 61-71. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/rml6ne6xnhik72h/vanderborght2009who.pdf?dl=0)
+        * Rakoczy, H., Hamann, K., Warneken, F., & Tomasello, M. (2010). Bigger knows better: Young children selectively learn rule games from adults rather than from peers. _British Journal of Developmental Psychology, 28_(4), 785-798. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/fxpmnhxsx21l350/rakoczy2010bigger.pdf?dl=0)
 
 * **Due today:**
     * Reading questions
 
 
-### Tuesday, 10 January 2023 (2.1):
+### Tuesday, 10 January 2023 (2.1)
 
 * **Class type and topic:** Lecture -- Why study peer influence on language development?
 
 * **Pre-class reading:**
-    * Blum-Kulka, S., & Snow, C. E. (2004). Introduction: The potential of peer talk. _Discourse studies, 6_(3), 291-306. <span style="color:green">**(JA)**</span>
-    * Rogoff, B. (1981). Adults and Peers as Agents of Socialization: A Highland Guatemalan Profile. _Ethos, 9_, 18–36. <span style="color:green">**(JA)**</span>
+    * Blum-Kulka, S., & Snow, C. E. (2004). Introduction: The potential of peer talk. _Discourse studies, 6_(3), 291-306. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/jgl5zsjaz7ibvd0/blum-kulka2004potential.pdf?dl=0)
+    * Rogoff, B. (1981). Adults and Peers as Agents of Socialization: A Highland Guatemalan Profile. _Ethos, 9_, 18–36. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/5cmxmbctifqhesc/rogoff1981adults.pdf?dl=0)
 
 * **Due today:**
     * Reading questions
     * CITI certification
 
 
-### Thursday, 12 January 2023 (2.2): 
+### Thursday, 12 January 2023 (2.2)
 
 * **Class type and topic:** In-class collaborative work session for groups 1, 2, & 3 ONLY
 
@@ -158,7 +158,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** None!
 
 
-### Tuesday, 17 January 2023 (3.1): 
+### Tuesday, 17 January 2023 (3.1)
 
 * **Class type and topic:** Student presentations -- Siblings and language input
 
@@ -173,7 +173,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** Reading questions
 
 
-### Thursday, 19 January 2023 (3.2): 
+### Thursday, 19 January 2023 (3.2)
 
 * **Class type and topic:** Developmental labs field trip
 
@@ -185,7 +185,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * Reading questions
 
 
-### Tuesday, 24 January 2023 (4.1):
+### Tuesday, 24 January 2023 (4.1)
 
 * **Class type and topic:**  Lecture -- Psychology's crises
 
@@ -198,7 +198,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * Reading questions
 
 
-### Thursday, 26 January 2023 (4.2):
+### Thursday, 26 January 2023 (4.2)
 
 * **Class type and topic:** In-class collaborative work session for groups 4, 5, & 6 ONLY
 
@@ -215,7 +215,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
         * Video recorded draft of presentation by 11:59pm
 
 
-### Tuesday, 31 January 2023 (5.1):
+### Tuesday, 31 January 2023 (5.1)
 
 * **Class type and topic:** Student presentations -- Evidence for/against peer social learning
 
@@ -230,7 +230,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** In-class presentations
 
 
-### Thursday, 2 February 2023 (5.2):
+### Thursday, 2 February 2023 (5.2)
 
 * **Class type and topic:** Lecture -- Peer teaching
 
@@ -242,7 +242,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * Reading questions
 
 
-### Tuesday, 7 February 2023 (6.1):
+### Tuesday, 7 February 2023 (6.1)
 
 * **Class type and topic:** Lecture -- Birth order
 
@@ -254,7 +254,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * Reading questions
 
 
-### Thursday, 9 February 2023 (6.2): 
+### Thursday, 9 February 2023 (6.2)
 
 * **Class type and topic:** In-class collaborative work session for groups 1, 2, & 3 ONLY
 
@@ -272,7 +272,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** None!
 
 
-### Tuesday, 14 February 2023 (7.1): 
+### Tuesday, 14 February 2023 (7.1)
 
 * **Class type and topic:** Student presentations -- Cultural diversity in peer influence
 
@@ -287,7 +287,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** Reading questions
 
 
-### Thursday, 16 February 2023 (7.2): 
+### Thursday, 16 February 2023 (7.2)
 
 * **Class type and topic:** Lecture -- Introduction to annotation and reliability statistics
 
@@ -301,7 +301,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * Reading questions
 
 
-### Tuesday, 21 February 2023 (8.1): 
+### Tuesday, 21 February 2023 (8.1)
 
 * **Class type and topic:** Lecture -- Exploratory and hypothesis-driven approaches to analysis
 
@@ -315,7 +315,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **_Data collection participation report_**
     
 
-### Thursday, 23 February 2023 (8.2):
+### Thursday, 23 February 2023 (8.2)
 
 * **Class type and topic:**  In-class collaborative work session for groups 4, 5, & 6 ONLY
 
@@ -332,7 +332,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
         * Video recorded draft of presentation by 11:59pm
 
 
-### Tuesday, 28 February 2023 (9.1):
+### Tuesday, 28 February 2023 (9.1)
 
 * **Class type and topic:** Student presentations -- Spontaneous imitation
 
@@ -348,7 +348,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** In-class presentations
 
 
-### Thursday, 2 March 2023 (9.2):
+### Thursday, 2 March 2023 (9.2)
 
 * **Class type and topic:** Lecture -- What are the results of our study?
 
@@ -357,7 +357,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Due today:** Nothing!
 
 
-### Final deadline (Tuesday, 7 March 2023):
+### Final deadline (Tuesday, 7 March 2023)
 Exam due by 11:59pm on Canvas.
 
 <!--
