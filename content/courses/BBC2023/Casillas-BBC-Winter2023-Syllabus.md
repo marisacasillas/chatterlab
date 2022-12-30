@@ -26,19 +26,19 @@ Students enrolled in this course will be graded on the following basis:
 
 | Component | Undergraduates |
 |-----------|----------------|
-| [Reading questions](./course-instructions/reading_notes.md) | 30% |
+| [Reading questions](./course-instructions/reading_notes.md) | 40% |
 | [Participation](./course-instructions/participation.md) | 20% |
 | [Mini essay exams](./course-instructions/mini_essay_exams.md) | 30% |
-| [Methods presentations](https://marisacasillas.github.io/chatterlab/course-instructions/methods_presentations) | 20% |
+| [Methods presentations](https://marisacasillas.github.io/chatterlab/course-instructions/methods_presentations) | 10% |
 
 
 ### Reading questions
 
-For each reading students are expected to demonstrate their understanding by responding to a handful of questions. There are three types of readings: journal articles, scientific reviews, and book chapters. For journal articles (indicated below with <span style="color:green">**(JA)**</span>), students should copy/download and complete the notes worksheet [here](https://docs.google.com/document/d/1mT6H6fQCqaydiYF4awt2YDIXPdRtIvrBP5BRyKYFFZM/edit?usp=sharing). For scientific reviews and book chapters (indicated below with <span style="color:purple">**(RV)**</span> or <span style="color:purple">**(BC)**</span>), the students should copy/download and complete the notes worksheet [this worksheet](https://docs.google.com/document/d/1lcwO0JyfbTNhpwvRlScTnhBfJfIzfgLL4Zs4dhDYR0E/edit?usp=sharing).
+For each reading, students are expected to demonstrate their understanding by responding to a handful of questions. There are three types of readings: journal articles, scientific reviews, and book chapters. For journal articles (indicated below with <span style="color:green">**(JA)**</span>), students should copy/download and then complete the notes worksheet [here](https://docs.google.com/document/d/1mT6H6fQCqaydiYF4awt2YDIXPdRtIvrBP5BRyKYFFZM/edit?usp=sharing). For scientific reviews and book chapters (indicated below with <span style="color:purple">**(RV)**</span> or <span style="color:purple">**(BC)**</span>), the students should copy/download and then complete the notes worksheet [here](https://docs.google.com/document/d/1lcwO0JyfbTNhpwvRlScTnhBfJfIzfgLL4Zs4dhDYR0E/edit?usp=sharing). A full-credit worksheet is complete, thoughtfully written, and has minimal direct quotation from the readings.
 
 ### Participation
 
-For participation credit, students are expected to come to class and [actively participate](./course-instructions/participation.md) in discussion unless they have an excused absence.
+For participation credit, students are expected to come to class and [actively participate](./course-instructions/participation.md) in discussion unless they have an excused absence. In the case of an excused absence, please email Dr. Casillas (mcasillas@uchicago.edu)
 
 ### Mini essay exams
 
@@ -46,7 +46,7 @@ Students are expected to complete three mini essay exams: one in week 4, one in 
 
 ### Methods presentations
 
-Each student is expected to participate in a total of two methods presentations. Methods presentations are group projects. Groups will interview a researcher with expertise in the assigned method and then: (1) create a 20-minute pre-recorded mini lecture introducing and giving some demonstration of the assigned research method and (2) elicit and answer questions from the class (~10-15 minutes). Group members will also give a short evaluation of their and their peers' contributions to the project. Graduate students are expected to take a leadership role in their groups (see the [guidelines](https://marisacasillas.github.io/chatterlab/course-instructions/methods_presentations) for details).
+Each student is expected to participate in one methods presentation. Methods presentations are group projects. Each group will interview a researcher with expertise in the assigned method and then: (1) create a 20-minute pre-recorded mini lecture introducing and giving some demonstration of the assigned research method and (2) elicit and answer questions from the class (~10-15 minutes). Group members will also give a short evaluation of their and their peers' contributions to the project (see the [guidelines](./course-instructions/methods_presentations.md) for details).
 
 
 ----
