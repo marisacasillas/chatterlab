@@ -46,7 +46,7 @@ Students are expected to complete three mini essay exams: one in week 4, one in 
 
 ### Methods presentations
 
-Each student is expected to participate in one methods presentation. Methods presentations are group projects. Each group will interview a researcher with expertise in the assigned method and then: (1) create a 20-minute pre-recorded mini lecture introducing and giving some demonstration of the assigned research method and (2) elicit and answer questions from the class (~10-15 minutes). Group members will also give a short evaluation of their and their peers' contributions to the project (see the [guidelines](./course-instructions/methods_presentations.md) for details).
+Each student is expected to participate in one methods presentation. Methods presentations are group projects. Each group will interview a researcher with expertise in the assigned method and then: (1) create a 20-minute pre-recorded mini lecture introducing and giving some demonstration of the assigned research method and (2) elicit and answer questions from the class (~10-15 minutes). Group members will also give a short evaluation of their and their peers' contributions to the project (see the [guidelines](../course-instructions/methods_presentations.md) for details).
 
 
 ----
