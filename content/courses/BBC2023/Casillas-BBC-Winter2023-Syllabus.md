@@ -26,10 +26,10 @@ Students enrolled in this course will be graded on the following basis:
 
 | Component | Undergraduates |
 |-----------|----------------|
-| [Reading questions](./course-instructions/reading_notes.md) | 40% |
-| [Participation](./course-instructions/participation.md) | 20% |
-| [Mini essay exams](./course-instructions/mini_essay_exams.md) | 30% |
-| [Methods presentations](https://marisacasillas.github.io/chatterlab/course-instructions/methods_presentations) | 10% |
+| Reading questions | 40% |
+| Participation | 20% |
+| Mini essay exams | 30% |
+| Methods presentations | 10% |
 
 
 ### Reading questions
@@ -38,15 +38,15 @@ For each reading, students are expected to demonstrate their understanding by re
 
 ### Participation
 
-For participation credit, students are expected to come to class and [actively participate](/course-instructions/participation/) in discussion unless they have an excused absence. In the case of an excused absence, please email Dr. Casillas (mcasillas@uchicago.edu)
+For participation credit, students are expected to come to class and [actively participate](/courses/bbc2023/course-instructions/participation/) in discussion unless they have an excused absence. In the case of an excused absence, please email Dr. Casillas (mcasillas@uchicago.edu)
 
 ### Mini essay exams
 
-Students are expected to complete three mini essay exams: one in week 4, one in week 7, and one during finals week. For each exam, students will have one week to give two short (~500 word) responses to take-home prompts. The exam will be graded following the instructions [here](/course-instructions/mini_essay_exams/).
+Students are expected to complete three mini essay exams: one in week 4, one in week 7, and one during finals week. For each exam, students will have one week to give two short (~500 word) responses to take-home prompts. The exam will be graded following the instructions [here](/courses/bbc2023/course-instructions/mini_essay_exams/).
 
 ### Methods presentations
 
-Each student is expected to participate in one methods presentation. Methods presentations are group projects. Each group will interview a researcher with expertise in the assigned method and then: (1) create a 20-minute pre-recorded mini lecture introducing and giving some demonstration of the assigned research method and (2) elicit and answer questions from the class (~10-15 minutes). Group members will also give a short evaluation of their and their peers' contributions to the project (see the [guidelines](/course-instructions/methods_presentations/) for details).
+Each student is expected to participate in one methods presentation. Methods presentations are group projects. Each group will interview a researcher with expertise in the assigned method and then: (1) create a 20-minute pre-recorded mini lecture introducing and giving some demonstration of the assigned research method and (2) elicit and answer questions from the class (~10-15 minutes). Group members will also give a short evaluation of their and their peers' contributions to the project (see the [guidelines](/courses/bbc2023/course-instructions/methods_presentations/) for details).
 
 
 ----
@@ -55,7 +55,7 @@ Each student is expected to participate in one methods presentation. Methods pre
 
 # Day-by-day-schedule
 
-### Tuesday, 3 January 2023 (1.1)
+### [Tuesday, 3 January 2023 (1.1)](https://docs.google.com/presentation/d/1Mu_f2eNXyj_Kt54tIxQ3e_xW_Wd4NXtwntJhuahHFa8/edit?usp=sharing)
 
 * **Pre-class reading:** None!
 
@@ -63,7 +63,7 @@ Each student is expected to participate in one methods presentation. Methods pre
 
 ## Module 1: Pattern recognition
 
-### Thursday, 5 January 2023 (1.2)
+### [Thursday, 5 January 2023 (1.2)](https://docs.google.com/presentation/d/1gEHC7mM-V23aqG4Fz87aM4-6JrhdLSnUtvVVNrU79Eg/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * Saffran et al. (1996). Statistical learning by 8-month-old infants. _Science 274_(5294), 1926–1928. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/fctbdtdox19iv2h/saffran1996statistical.pdf?dl=0))
@@ -72,7 +72,7 @@ Each student is expected to participate in one methods presentation. Methods pre
 * **Assignments due today:** Reading questions
 
 
-### Tuesday, 10 January 2023 (2.1)
+### [Tuesday, 10 January 2023 (2.1)](https://docs.google.com/presentation/d/1wnf2mLh6N0bnHdKkX5-eS2sHuLvItOyLvWVG8NJMpZs/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * Maye et al. (2002). Infant sensitivity to distributional information can affect phonetic discrimination. _Cognition 82_, B101–B111. <span style="color:green">**(JA)**</span>  ([pdf](https://www.dropbox.com/s/jcwf77nn4vb1rkw/maye2002distributional.pdf?dl=0)) 
