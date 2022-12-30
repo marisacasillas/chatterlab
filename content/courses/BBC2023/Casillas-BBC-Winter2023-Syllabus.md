@@ -34,7 +34,7 @@ Students enrolled in this course will be graded on the following basis:
 
 ### Reading questions
 
-For each reading students are expected to demonstrate their understanding by responding to a handful of questions. There are three types of readings: journal articles, scientific reviews, and book chapters. For journal articles (indicated below with <span style="color:green">**(JA)**</span>), students should copy/download and complete the notes worksheet [here](https://docs.google.com/document/d/1mT6H6fQCqaydiYF4awt2YDIXPdRtIvrBP5BRyKYFFZM/edit?usp=sharing). For scientific reviews and book chapters (indicated below with <span style="color:purple">**(RV)**</span> or <span style="color:purple">**(BC)**</span>), the students should copy/download and complete the notes worksheet [this worksheet](https://docs.google.com/document/d/1lcwO0JyfbTNhpwvRlScTnhBfJfIzfgLL4Zs4dhDYR0E/edit?usp=sharing). Please see [reading notes]() for more details
+For each reading students are expected to demonstrate their understanding by responding to a handful of questions. There are three types of readings: journal articles, scientific reviews, and book chapters. For journal articles (indicated below with <span style="color:green">**(JA)**</span>), students should copy/download and complete the notes worksheet [here](https://docs.google.com/document/d/1mT6H6fQCqaydiYF4awt2YDIXPdRtIvrBP5BRyKYFFZM/edit?usp=sharing). For scientific reviews and book chapters (indicated below with <span style="color:purple">**(RV)**</span> or <span style="color:purple">**(BC)**</span>), the students should copy/download and complete the notes worksheet [this worksheet](https://docs.google.com/document/d/1lcwO0JyfbTNhpwvRlScTnhBfJfIzfgLL4Zs4dhDYR0E/edit?usp=sharing).
 
 ### Participation
 
@@ -55,15 +55,15 @@ Each student is expected to participate in a total of two methods presentations.
 
 # Day-by-day-schedule
 
-## Module 1: Pattern recognition
-
-### Tuesday, 3 January 2023 (1.1):
+### Tuesday, 3 January 2023 (1.1)
 
 * **Pre-class reading:** None!
 
 * **Assignments due today:** None!
 
-### Thursday, 5 January 2023 (1.2): 
+## Module 1: Pattern recognition
+
+### Thursday, 5 January 2023 (1.2)
 
 * **Pre-class reading:** 
     * Saffran et al. (1996). Statistical learning by 8-month-old infants. _Science 274_(5294), 1926–1928. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/fctbdtdox19iv2h/saffran1996statistical.pdf?dl=0))
@@ -73,7 +73,7 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** Reading questions
 
 
-### Tuesday, 10 January 2023 (2.1):
+### Tuesday, 10 January 2023 (2.1)
 
 * **Pre-class reading:** 
     * Maye et al. (2002). Infant sensitivity to distributional information can affect phonetic discrimination. _Cognition 82_, B101–B111. <span style="color:green">**(JA)**</span>  ([pdf](https://www.dropbox.com/s/jcwf77nn4vb1rkw/maye2002distributional.pdf?dl=0)) 
@@ -84,7 +84,7 @@ Each student is expected to participate in a total of two methods presentations.
 
 ## Module 2: Cognitive biases
 
-### Thursday, 12 January 2023 (2.2): 
+### Thursday, 12 January 2023 (2.2)
 
 * **Pre-class reading:** 
     * Goldstone & Hendrickson (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science, 1_(1), 69-78. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/dg7b4n1x90sqv18/goldstone2010categorical.pdf?dl=0))
@@ -93,14 +93,14 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** Reading questions
 
 
-### Tuesday, 17 January 2023 (3.1):
+### Tuesday, 17 January 2023 (3.1)
 
 * **Pre-class reading:** None! Methods Presentations round 1 today
 
 * **Assignments due today:** None! Unless you're doing a methods presentation today!
 
 
-### Thursday, 19 January 2023 (3.2): 
+### Thursday, 19 January 2023 (3.2)
 
 * **Pre-class reading:** 
     * He & Arunachalam (2017). Word learning mechanisms. _Wiley Interdisciplinary Reviews: Cognitive Science, 8_(4), e1435. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/6c8bbiq9b4j45t3/he2017wordlearning.pdf?dl=0))
@@ -109,7 +109,7 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** Reading questions
 
 
-### Tuesday, 24 January 2023 (4.1):
+### Tuesday, 24 January 2023 (4.1)
 
 * **Pre-class reading:** 
     * Frank et al. (2020). _Variability and Consistency in Early Language Learning: The Wordbank Project_ (Ch 11). Cambridge, MA: MIT Press.  <span style="color:purple">**(BC)**</span> ([html](https://langcog.github.io/wordbank-book/categories-syntactic.html))
@@ -122,7 +122,7 @@ Each student is expected to participate in a total of two methods presentations.
 
 ## Module 3: Maturation
 
-### Thursday, 26 January 2023 (4.2):
+### Thursday, 26 January 2023 (4.2)
 
 * **Pre-class reading:** 
     * Karasik et al. (2014). Crawling and walking infants elicit different verbal responses from mothers. _Developmental Science, 17_(3), 388-395. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/x3u06mnr7wcklfy/karasik2014crawling.pdf?dl=0))
@@ -131,14 +131,14 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** Reading questions
 
 
-### Tuesday, 31 January 2023 (5.1):
+### Tuesday, 31 January 2023 (5.1)
 
 * **Pre-class reading:** None! Methods Presentations round 2 today
 
 * **Assignments due today:** None! Unless you're doing a methods presentation today!
 
 
-### Thursday, 2 February 2023 (5.2):
+### Thursday, 2 February 2023 (5.2)
 
 * **Pre-class reading:** 
     * Vlach & Johnson (2013). Memory constraints on infants’ cross-situational statistical learning. _Cognition, 127_(3), 375-382. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/jj301x8eqqldi8t/vlach2013memory.pdf?dl=0))
@@ -147,7 +147,7 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** Reading questions
 
 
-### Tuesday, 7 February 2023 (6.1):
+### Tuesday, 7 February 2023 (6.1)
 
 * **Pre-class reading:** None! Methods Presentations round 3 today
 
@@ -156,14 +156,14 @@ Each student is expected to participate in a total of two methods presentations.
 
 ## Module 4: Environment
 
-### Thursday, 9 February 2023 (6.2): 
+### Thursday, 9 February 2023 (6.2)
 
 * **Pre-class reading:** TBD book chapter
 
 * **Assignments due today:** In-class discussion participation
 
 
-### Tuesday, 14 February 2023 (7.1): 
+### Tuesday, 14 February 2023 (7.1)
 
 * **Pre-class reading:** 
     * Tomasello & Carpenter (2007). Shared intentionality. _Developmental Science, 10_(1), 121-125. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0))
@@ -174,7 +174,7 @@ Each student is expected to participate in a total of two methods presentations.
     * Reading questions
 
 
-### Thursday, 16 February 2023 (7.2): 
+### Thursday, 16 February 2023 (7.2)
 
 * **Pre-class reading:**
     * **This counts as two readings (it's long & detailed) -- please adjust your notes so that they are equivalent to two readings of effort:** Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
@@ -182,7 +182,7 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** Reading questions
 
 
-### Tuesday, 21 February 2023 (8.1): 
+### Tuesday, 21 February 2023 (8.1)
 
 * **Pre-class reading:**
     * Liszkowski et al. (2012). A prelinguistic gestural universal of human communication. _Cognitive Science, 36_(4), 698-713. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/3a8wkzo6q4jd2pm/liszkowski2012prelinguistic.pdf?dl=0))
@@ -191,14 +191,14 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** Reading questions
 
 
-### Thursday, 23 February 2023 (8.2):
+### Thursday, 23 February 2023 (8.2)
 
 * **Pre-class reading:** None! Methods Presentations round 4 today
 
 * **Assignments due today:** None! Unless you're doing a methods presentation today!
 
 
-### Tuesday, 28 February 2023 (9.1):
+### Tuesday, 28 February 2023 (9.1)
 
 * **Pre-class reading:**
     * Hart and Risley (2003). The early catastrophe: The 30 million word gap by age 3. _American Educator, 27_(1), 4-9. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/5muq6od54uejfyp/hart2003catastrophe.pdf?dl=0))
@@ -208,14 +208,14 @@ Each student is expected to participate in a total of two methods presentations.
 * **Assignments due today:** Reading questions
 
 
-### Thursday, 2 March 2023 (9.2):
+### Thursday, 2 March 2023 (9.2)
 
 * **Pre-class reading:** None! <!--https://www.youtube.com/watch?v=BFtbXwnBRg8-->
 
 * **Assignments due today:** In-class discussion participation
 
 
-### Final deadline (Tuesday, 7 March 2023):
+### Final deadline (Tuesday, 7 March 2023)
 
 [Mini essay exam 3]() due by 11:59pm.
 
