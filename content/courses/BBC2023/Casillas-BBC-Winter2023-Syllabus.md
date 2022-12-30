@@ -38,15 +38,15 @@ For each reading, students are expected to demonstrate their understanding by re
 
 ### Participation
 
-For participation credit, students are expected to come to class and [actively participate](./course-instructions/participation.md) in discussion unless they have an excused absence. In the case of an excused absence, please email Dr. Casillas (mcasillas@uchicago.edu)
+For participation credit, students are expected to come to class and [actively participate](/course-instructions/participation/) in discussion unless they have an excused absence. In the case of an excused absence, please email Dr. Casillas (mcasillas@uchicago.edu)
 
 ### Mini essay exams
 
-Students are expected to complete three mini essay exams: one in week 4, one in week 7, and one during finals week. For each exam, students will have one week to give two short (~500 word) responses to take-home prompts. The exam will be graded following the instructions [here](./course-instructions/mini_essay_exams.md).
+Students are expected to complete three mini essay exams: one in week 4, one in week 7, and one during finals week. For each exam, students will have one week to give two short (~500 word) responses to take-home prompts. The exam will be graded following the instructions [here](/course-instructions/mini_essay_exams/).
 
 ### Methods presentations
 
-Each student is expected to participate in one methods presentation. Methods presentations are group projects. Each group will interview a researcher with expertise in the assigned method and then: (1) create a 20-minute pre-recorded mini lecture introducing and giving some demonstration of the assigned research method and (2) elicit and answer questions from the class (~10-15 minutes). Group members will also give a short evaluation of their and their peers' contributions to the project (see the [guidelines](../course-instructions/methods_presentations.md) for details).
+Each student is expected to participate in one methods presentation. Methods presentations are group projects. Each group will interview a researcher with expertise in the assigned method and then: (1) create a 20-minute pre-recorded mini lecture introducing and giving some demonstration of the assigned research method and (2) elicit and answer questions from the class (~10-15 minutes). Group members will also give a short evaluation of their and their peers' contributions to the project (see the [guidelines](/course-instructions/methods_presentations/) for details).
 
 
 ----
