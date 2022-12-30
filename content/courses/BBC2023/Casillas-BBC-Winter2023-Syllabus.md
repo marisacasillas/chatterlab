@@ -24,7 +24,7 @@ All course materials will be available via this chatterlab course webpage, or ot
 Students enrolled in this course will be graded on the following basis:
 
 
-| Component | Undergraduates |
+| Component | Percentage |
 |-----------|----------------|
 | Reading questions | 40% |
 | Participation | 20% |
