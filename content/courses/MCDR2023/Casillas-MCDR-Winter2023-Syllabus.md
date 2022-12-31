@@ -109,7 +109,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * Nothing!
 
 
-### Thursday, 5 January 2023 (1.2)
+### [Thursday, 5 January 2023 (1.2)](https://docs.google.com/presentation/d/1uBNnV3dZvOno6of5sPkKVPkTJ9-wL07dxj_S030SHA8/edit?usp=sharing)
 
 * **Class type and topic:** Mini lecture + In-class collaborative work session
 
