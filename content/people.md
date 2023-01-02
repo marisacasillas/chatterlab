@@ -29,21 +29,23 @@ Beixi Dong
 
 ### Undergraduate students
 
-[Lizzie Mickiewicz](/bios/lizzie-aboutme/)
+#### Senior honors students
 
 [Kimberly Shorter](/bios/kimberly-aboutme/)
 
+Jordyn Martin
+
+#### Research assistants
+
+[Lizzie Mickiewicz](/bios/lizzie-aboutme/)
+
 [Emily Chan](/bios/emily-aboutme/)
-
-[Cam Friedman](/bios/cam-aboutme/)
-
-[Xuanyi Zhang](/bios/xuanyi-aboutme/)
 
 [Sarah Sommer](/bios/sarah-aboutme/)
 
 [Alexander Stern](/bios/alexander-aboutme/)
 
-Jordyn Martin
+Carla Escalante
 
 ### <a href="/former-members/"><span style="color:#88941c"> Former members</span></a>
 
