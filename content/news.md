@@ -1,5 +1,8 @@
 # chatter news
 
+### December 2022
+* [Dr. Camila Scaff](https://camilascaff.com/) received funding through the [Center for International Social Science Research](https://cissr.uchicago.edu/) to join us this summer!
+
 ### November 2022
 * [Marisa Casillas'](../bios/marisa-aboutme.md) paper entitled Language learning in vivo was published in _Child Development Perspectives_! Read it [here](/lab-publications/Casillas_2022_Learning_language_in_vivo_CDP.pdf).
 

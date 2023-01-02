@@ -10,6 +10,10 @@ Mary Elliott
 
 ### Undergraduate students
 
+Xuanyi Zhang
+
+Cam Friedman
+
 Carla Suarez Soto
 
 Will Fisher
