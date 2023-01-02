@@ -128,7 +128,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * Reading questions
 
 
-### Tuesday, 10 January 2023 (2.1)
+### [Tuesday, 10 January 2023 (2.1)](https://uchicago.box.com/s/h0fiwrcrfbba9ihfe2o863lyp7qjirxo)
 
 * **Class type and topic:** Lecture -- Why study peer influence on language development?
 
