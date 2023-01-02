@@ -133,7 +133,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Class type and topic:** Lecture -- Why study peer influence on language development?
 
 * **Pre-class reading:**
-    * Blum-Kulka, S., & Snow, C. E. (2004). Introduction: The potential of peer talk. _Discourse studies, 6_(3), 291-306. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/jgl5zsjaz7ibvd0/blum-kulka2004potential.pdf?dl=0)
+    * Blum-Kulka, S., & Snow, C. E. (2004). Introduction: The potential of peer talk. _Discourse studies, 6_(3), 291-306. <span style="color:purple">**(RV)**</span> [(pdf)](https://www.dropbox.com/s/jgl5zsjaz7ibvd0/blum-kulka2004potential.pdf?dl=0)
     * Rogoff, B. (1981). Adults and Peers as Agents of Socialization: A Highland Guatemalan Profile. _Ethos, 9_, 18–36. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/5cmxmbctifqhesc/rogoff1981adults.pdf?dl=0)
 
 * **Due today:**
@@ -191,7 +191,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Pre-class reading:**
     * Singh, L., Cristia, A., Karasik, L. B., & Oakes, L. (2021, November 24). Diversity and Representation in Infant Research: Barriers and bridges towards a globalized science. _PsyArxiv preprint,_ [https://doi.org/10.31234/osf.io/hgukc]() <span style="color:purple">**(RV)**</span> [(pdf)](https://www.dropbox.com/s/xg1hxaa90dj7y2t/singh2021diversity.pdf?dl=0)
-    * Kalandadze, T., & Hart, S. A. (2022). Open developmental science: An overview and annotated reading list. _Infant and Child Development_, e2334.<span style="color:green">**(RV)**</span> [(pdf)](https://www.dropbox.com/s/oqslc2x74zmq14e/kalandadze2022open.pdf?dl=0)
+    * Kalandadze, T., & Hart, S. A. (2022). Open developmental science: An overview and annotated reading list. _Infant and Child Development_, e2334. <span style="color:purple">**(RV)**</span> [(pdf)](https://www.dropbox.com/s/oqslc2x74zmq14e/kalandadze2022open.pdf?dl=0)
 <!--    * Davis-Kean, P. E., & Ellis, A. (2019). An overview of issues in infant and developmental research for the creation of robust and replicable science. _Infant Behavior and Development, 57_, 101339.<span style="color:green">**(JA)**</span>-->
 
 * **Due today:**
