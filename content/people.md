@@ -45,7 +45,7 @@ Jordyn Martin
 
 [Alexander Stern](/bios/alexander-aboutme/)
 
-Carla Escalante
+[Carla Escalante](/bios/carla-aboutme/)
 
 ### <a href="/former-members/"><span style="color:#88941c"> Former members</span></a>
 
