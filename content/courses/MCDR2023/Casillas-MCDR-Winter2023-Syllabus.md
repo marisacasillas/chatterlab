@@ -100,7 +100,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 ### [Tuesday, 3 January 2023 (1.1)](https://docs.google.com/presentation/d/1bZ5rE0RLc0L-GDdm062WfOTqVtiNK3nfwMWw0ax4d3U/edit?usp=sharing)
 
-* **Class type and topic:** Lecture -- Introduction, syllabus, & group assignments
+* **Class type and topic:** [Lecture -- Introduction, syllabus, & group assignments](https://uchicago.box.com/s/2g9p17p6n8im1e648k3cxcxdktxdjwdt)
 
 * **Pre-class reading:**
     * Jaswal, V. K., & Neely, L. A. (2006). Adults don't always know best: preschoolers use past reliability over age when learning new words. _Psychological Science, 17_(9), 757–758. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/bh72q61vt2fpys8/jaswal2006adults.pdf?dl=0)
