@@ -50,9 +50,7 @@ Active participation simply involves showing up, asking and answering questions,
 
 ### Paper presentations (20% of grade)
 
-Students will take turns presenting readings, typically in pairs or small groups. Each student's average score over their two presentations will make up 20% of their final grade. Students will be expected to deliver a practice version of their presentation via video recording to Dr. Casillas by 11:59pm on the day of the in-class work session dedicated to that presentation preparation (see below). Dr. Casillas and/or the TA will give feedback within 24 hours. Incorporation of feedback is taken into account in determining the final grade for each presentation. The rubric for paper presentations and further instructions can be found [here](/courses/mcdr2023/course-instructions/paper_presentations/)
-
- with more specific guidelines will be posted prior to the first presentation assignment.**
+Students will take turns presenting readings, typically in pairs or small groups. Each student's average score over their two presentations will make up 20% of their final grade. Students will be expected to deliver a practice version of their presentation via video recording to Dr. Casillas by 11:59pm on the day of the in-class work session dedicated to that presentation preparation (see below). Dr. Casillas and/or the TA will give feedback within 24 hours. Incorporation of feedback is taken into account in determining the final grade for each presentation. The rubric for paper presentations and further instructions can be found [here](/courses/mcdr2023/course-instructions/paper_presentations/) with more specific guidelines will be posted prior to the first presentation assignment.
 
 ### Stimulus preparation/data annotation (20% of grade)
 
