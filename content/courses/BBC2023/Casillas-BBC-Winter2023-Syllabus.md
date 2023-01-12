@@ -158,8 +158,8 @@ Each student is expected to participate in one methods presentation. Methods pre
 ### Thursday, 9 February 2023 (6.2)
 
 * **Pre-class reading:**
-    * Erard, M. (in preparation). The four attentions. The linguistic history of first and last words (pp. 4–23). <span style="color:purple">**(BC)**</span> ([pdf](https://canvas.uchicago.edu/courses/46919/files?preview=8705236))
-    * Erard, M. (in preparation). The story of a first word (or why we pay attention to first words at all).The linguistic history of first and last words (pp. 24–47). <span style="color:purple">**(BC)**</span> ([pdf](https://canvas.uchicago.edu/courses/46919/files?preview=8705237))
+    * Erard, M. (in preparation). The four attentions. The linguistic history of first and last words (pp. 4–23). <span style="color:purple">**(BC)**</span> (**erardInPrepCh1.pdf** is on Canvas under "Files")
+    * Erard, M. (in preparation). The story of a first word (or why we pay attention to first words at all).The linguistic history of first and last words (pp. 24–47). <span style="color:purple">**(BC)**</span> (**erardInPrepCh2.pdf** is on Canvas under "Files")
  
 
 * **Assignments due today:** In-class discussion participation
