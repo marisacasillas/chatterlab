@@ -48,6 +48,9 @@ Students are expected to complete three mini essay exams: one in week 4, one in 
 
 Each student is expected to participate in one methods presentation. Methods presentations are group projects. Each group will interview a researcher with expertise in the assigned method and then: (1) create a 20-minute pre-recorded mini lecture introducing and giving some demonstration of the assigned research method and (2) elicit and answer questions from the class (~10-15 minutes). Group members will also give a short evaluation of their and their peers' contributions to the project (see the [guidelines](/courses/bbc2023/course-instructions/methods_presentations/) for details).
 
+### Extra credit
+
+You may earn up to 4 percentage points of extra credit by participating in an ongoing experiment in the chatterlab (2 points per experiment). If you are interested in participating, contact lab manager Kennedy Casey (chatterlab@uchicago.edu) to schedule an appointment. The lab manager will communicate to Dr. Casillas when you have participated in an experiment, but you are welcome to follow up with her to confirm she has received notice of your extra credit.
 
 ----
 
