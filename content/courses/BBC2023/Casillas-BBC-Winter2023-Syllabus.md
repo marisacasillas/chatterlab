@@ -83,7 +83,7 @@ Each student is expected to participate in one methods presentation. Methods pre
 
 ## Module 2: Cognitive biases
 
-### Thursday, 12 January 2023 (2.2)
+### [Thursday, 12 January 2023 (2.2)](https://docs.google.com/presentation/d/1FLPLP8BjkugjK5bNH5udI4OvoGuedzPt28aXbznvkDA/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * Goldstone & Hendrickson (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science, 1_(1), 69-78. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/dg7b4n1x90sqv18/goldstone2010categorical.pdf?dl=0))
@@ -99,7 +99,7 @@ Each student is expected to participate in one methods presentation. Methods pre
 * **Assignments due today:** None! Unless you're doing a methods presentation today!
 
 
-### Thursday, 19 January 2023 (3.2)
+### [Thursday, 19 January 2023 (3.2)](https://docs.google.com/presentation/d/14cDE8fX9813Oucyua324i9iM2ozKPLSho0tjAR9tlcY/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * He & Arunachalam (2017). Word learning mechanisms. _Wiley Interdisciplinary Reviews: Cognitive Science, 8_(4), e1435. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/6c8bbiq9b4j45t3/he2017wordlearning.pdf?dl=0))
@@ -108,7 +108,7 @@ Each student is expected to participate in one methods presentation. Methods pre
 * **Assignments due today:** Reading questions
 
 
-### Tuesday, 24 January 2023 (4.1)
+### [Tuesday, 24 January 2023 (4.1)](https://docs.google.com/presentation/d/1Gt84PicQqaAyW_fARSLzZFJfdG44ygTWGk_tF_8X9Xo/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * Frank et al. (2020). _Variability and Consistency in Early Language Learning: The Wordbank Project_ (Ch 11). Cambridge, MA: MIT Press.  <span style="color:purple">**(BC)**</span> ([html](https://langcog.github.io/wordbank-book/categories-syntactic.html))
@@ -121,7 +121,7 @@ Each student is expected to participate in one methods presentation. Methods pre
 
 ## Module 3: Maturation
 
-### Thursday, 26 January 2023 (4.2)
+### [Thursday, 26 January 2023 (4.2)](https://docs.google.com/presentation/d/1lgXqW7vTrervwDwOB5Sua8V1XS1OrR1cvXOKi_GXrvo/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * Karasik et al. (2014). Crawling and walking infants elicit different verbal responses from mothers. _Developmental Science, 17_(3), 388-395. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/x3u06mnr7wcklfy/karasik2014crawling.pdf?dl=0))
@@ -137,7 +137,7 @@ Each student is expected to participate in one methods presentation. Methods pre
 * **Assignments due today:** None! Unless you're doing a methods presentation today!
 
 
-### Thursday, 2 February 2023 (5.2)
+### [Thursday, 2 February 2023 (5.2)](https://docs.google.com/presentation/d/1K9N5FA0DMhC9NzQHivw080wLQDBvnBmq9OyrDgOWhbM/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * Vlach & Johnson (2013). Memory constraints on infants’ cross-situational statistical learning. _Cognition, 127_(3), 375-382. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/jj301x8eqqldi8t/vlach2013memory.pdf?dl=0))
@@ -158,6 +158,9 @@ Each student is expected to participate in one methods presentation. Methods pre
 ### Thursday, 9 February 2023 (6.2)
 
 * **Pre-class reading:** TBD book chapter
+    * Erard, M. (in preparation). The four attentions. The linguistic history of first and last words (pp. 4–23). <span style="color:purple">**(BC)**</span> ([pdf](https://canvas.uchicago.edu/courses/46919/files?preview=8705236))
+    * Erard, M. (in preparation). The story of a first word (or why we pay attention to first words at all).The linguistic history of first and last words (pp. 24–47). <span style="color:purple">**(BC)**</span> ([pdf](https://canvas.uchicago.edu/courses/46919/files?preview=8705237))
+ 
 
 * **Assignments due today:** In-class discussion participation
 
