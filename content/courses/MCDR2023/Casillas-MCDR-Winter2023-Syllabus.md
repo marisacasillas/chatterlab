@@ -58,7 +58,7 @@ This quarter we are replicating an experimental study. Students are expected to 
 
 ### Data collection participation (10% of grade)
 
-Students in this course will get a sense of what data collection with children looks like by sitting in on a live data collection session with one of the trained research assistants in the chatterlab, the TA, or with the chatterlab lab manager. Note that given ongoing concerns around COVID-19, data collection will take place online. Students are required to write up a ~500 (**max** 1500) word report on what they learned from the experience. **A rubric with more specific guidelines will be posted prior to the data collection participation slots open.**
+Students in this course will get a sense of what data collection with children looks like by sitting in on a live data collection session with one of the trained research assistants in the chatterlab, the TA, or with the chatterlab lab manager. Note that given ongoing concerns around COVID-19, data collection will take place online. Students are required to report on what they learned from the experience in a free-form manner (full credit for completion; brownie points for creativity). A rubric with examples can be found [here](/courses/mcdr2023/course-instructions/data_collection/).
 
 ### Final exam (20% of grade)
 
