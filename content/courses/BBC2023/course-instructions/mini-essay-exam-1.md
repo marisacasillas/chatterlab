@@ -12,3 +12,8 @@ _Describe (a) what statistical learning is (at a broad level) and why researcher
 ## How does one typically run an eye tracking study with infants and young children? (300–500 words)
 
 _Imagine you are writing a short entry in an encyclopedia of infant methods that is targeted for undergraduate students. Please describe and/or give some examples of (a) appropriate ages for eye tracking, (b) what equipment is required, (c) how the stimuli are made, and (d) what the researcher analyzes. Briefly describe one specific study, real or hypothetical, where this method is used to test a hypothesis._
+
+
+[Back to mini essay exams overview](/courses/bbc2023/course-instructions/mini_essay_exams)
+
+[Back to main page](/courses/bbc2023/casillas-bbc-winter2023-syllabus)

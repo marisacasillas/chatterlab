@@ -41,3 +41,5 @@ _If you've already found an example media file (or media files) I advise you to 
 **Should we record the interviews with the experts?**
 
 _You can record the interview with the expert's permission. But you'll have to ask them explicitly. You will also need to be clear about where you'll store the recording, when you'll delete it, and what you will use it for._
+
+[Back to main page](/courses/bbc2023/casillas-bbc-winter2023-syllabus)
