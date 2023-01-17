@@ -118,7 +118,7 @@ You may earn up to 4 percentage points of extra credit by participating in an on
     * Kidd et al. (2011). Toddlers use speech disfluencies to predict speakers' referential intentions. _Developmental Science, 14_(4), 925-934. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/h1jzq2xqn55j6p3/kidd2011disfluencies.pdf?dl=0))
 
 * **Assignments due today:**
-    * Mini essay exam 1
+    * [Mini essay exam 1](/courses/bbc2023/course-instructions/mini-essay-exam-1/)
     * Reading questions
 
 
