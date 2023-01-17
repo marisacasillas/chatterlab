@@ -1,12 +1,14 @@
 # Mini essay exam 1
 
-Please use information from the readings, lectures, and in-class sessions to inform your answers. You're welcome to look up other sources, but you should **always** cite anything you use (even readings from our course). Be careful about re-using phrasings and concepts from out-of-class sources; there's lots of information out there and not all of it is accurate. Your source citations do not count toward your maximum word count.
+Please use information from the readings, lectures, and in-class discussions to inform your answers. You're welcome to look up other sources, but you should **always** cite anything you use (even readings from our course). 
 
-## What is statistical learning? (500–750 words)
+Avoid long and/or frequent direct quotations and focus on sources. Your source citations do not count toward your maximum word count.
 
-_Imagine that you are writing a short article in a newsletter for parents of young children. Your job, in this article, is to describe (a) what statistical learning is (at a broad level), (b) give at least two concrete examples of different types of statistical learning, (c) briefly explain why researchers are interested in measuring it for language development, and (d) end on an exciting new direction for statistical learning research. Please provide an **original** (i.e., made by you and not simply copying) figure or table to go along with your article._
+## What is statistical learning? (300–500 words)
+
+_Describe (a) what statistical learning is (at a broad level) and why researchers are interested in measuring it for language development, (b) describe at least three concrete examples of different types of statistical learning, and (c) relate the work on statistical learning that you mention to the idea of learning "mechanisms"._
 
 
-## How does one typically run an EEG/preferential head turn study with infants and young children? (500–750 words)
+## How does one typically run an eye tracking study with infants and young children? (300–500 words)
 
-_Imagine you are writing a short entry in an encyclopedia of infant methods that is targeted for undergraduate students. Pick your method: EEG or preferential head turn. Please describe (a) the appropriate ages for this method, (b) what equipment and testing environment is used, (c) how the stimuli are made, and (d) what the researcher analyzes. Along the way you should give two examples of how this method has been used. (If you were in the EEG group, please write about PHT and vice versa.)_
+_Imagine you are writing a short entry in an encyclopedia of infant methods that is targeted for undergraduate students. Please describe and/or give some examples of (a) appropriate ages for eye tracking, (b) what equipment is required, (c) how the stimuli are made, and (d) what the researcher analyzes. Briefly describe one specific study, real or hypothetical, where this method is used to test a hypothesis._
