@@ -179,7 +179,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Pre-class reading:**
     * Adolph, K. E. (2019). Ecological validity: Mistaking the lab for real life. In Robert J. Sternberg (Ed.) My biggest research mistake: Adventures and misadventures in psychological research (pp. 187–190). Sage Publications. <span style="color:purple">**(BC)**</span> [(pdf)](https://www.dropbox.com/s/exsp0olpccj7nyn/adolph2019ecological.pdf?dl=0)
-    * Kominsky, J. F., Lucca, K., Thomas, A. J., Frank, M. C., & Hamlin, J. K. (2022). Simplicity and validity in infant research. _Cognitive Development, 63_, 101213. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/lue7fnxspk6n81j/kominsky2022simplicity.pdf?dl=0)
+    * Kominsky, J. F., Lucca, K., Thomas, A. J., Frank, M. C., & Hamlin, J. K. (2022). Simplicity and validity in infant research. _Cognitive Development, 63_, 101213. <span style="color:purple">**(RV)**</span> [(pdf)](https://www.dropbox.com/s/lue7fnxspk6n81j/kominsky2022simplicity.pdf?dl=0)
 
 * **Due today:**
     * Reading questions
