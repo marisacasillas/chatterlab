@@ -29,3 +29,4 @@ A top-scoring response will:
 - Draw independent and original conclusions synthesizing the relevant course content and class discussions, and
 - Be typo-free and easy to understand.
 
+[Back to main page](/courses/bbc2023/casillas-bbc-winter2023-syllabus)
