@@ -187,7 +187,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 ### Tuesday, 24 January 2023 (4.1)
 
-* **Class type and topic:**  Lecture -- Psychology's crises
+* **Class type and topic:**  Discussion -- Psychology's crises + progress report
 
 * **Pre-class reading:**
     * Singh, L., Cristia, A., Karasik, L. B., & Oakes, L. (2021, November 24). Diversity and Representation in Infant Research: Barriers and bridges towards a globalized science. _PsyArxiv preprint,_ [https://doi.org/10.31234/osf.io/hgukc]() <span style="color:purple">**(RV)**</span> [(pdf)](https://www.dropbox.com/s/xg1hxaa90dj7y2t/singh2021diversity.pdf?dl=0)
