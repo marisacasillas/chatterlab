@@ -33,7 +33,7 @@ Beixi Dong
 
 [Kimberly Shorter](/bios/kimberly-aboutme/)
 
-Jordyn Martin
+[Jordyn Martin](/bios/jordyn-aboutme/)
 
 #### Research assistants
 
@@ -46,6 +46,11 @@ Jordyn Martin
 [Alexander Stern](/bios/alexander-aboutme/)
 
 [Carla Escalante](/bios/carla-aboutme/)
+
+[Mia Rimmer](/bios/mia-aboutme/)
+
+[Ruby Swensen](/bios/ruby-aboutme/)
+
 
 ### <a href="/former-members/"><span style="color:#88941c"> Former members</span></a>
 

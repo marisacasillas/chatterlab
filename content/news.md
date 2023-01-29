@@ -1,10 +1,13 @@
 # chatter news
 
+### January 2023
+* The Chatter Lab welcomed three new undergraduate RAs ([Carla Escalante](../bios/carla-aboutme.md), [Mia Rimmer](../bios/mia-aboutme.md), and [Ruby Swensen](../bios/ruby-aboutme.md)) to the team!
+
 ### December 2022
-* [Dr. Camila Scaff](https://camilascaff.com/) received funding through the [Center for International Social Science Research](https://cissr.uchicago.edu/) to join us this summer!
+* [Dr. Camila Scaff](https://camilascaff.com/) received funding through the [Center for International Social Science Research](https://cissr.uchicago.edu/) to join us this summer! Read about her project with [Marisa Casillas](../bios/marisa-aboutme.md), _Implementing a cross-cultural field-friendly infant-directed speech preference study_, [here](https://cissr.uchicago.edu/23-24-FacultyProject-Casillas).
 
 ### November 2022
-* [Marisa Casillas'](../bios/marisa-aboutme.md) paper entitled Language learning in vivo was published in _Child Development Perspectives_! Read it [here](/lab-publications/Casillas_2022_Learning_language_in_vivo_CDP.pdf).
+* [Marisa Casillas's](../bios/marisa-aboutme.md) paper entitled Language learning in vivo was published in _Child Development Perspectives_! Read it [here](/lab-publications/Casillas_2022_Learning_language_in_vivo_CDP.pdf).
 
 * There were several Chatter Lab presentations at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
 	* [Marisa Casillas](../bios/marisa-aboutme/) gave an invited symposium talk (Bringing the babylab to the field), and she led the student workshop (Crash course in field methods for studying child language development in rural and small-scale contexts)
@@ -15,7 +18,7 @@
 * Bram Peute's paper with [Marisa Casillas](../bios/marisa-aboutme/) on language input and early consonant production in Tseltal and Yélî Dnye is now out at _Glossa_! Read it [here](/lab-publications/PeuteCasillas_2022-early_consonant_production_in_tseltal_and_yeli_dnye-Glossa.pdf).
 * The Chatter Lab welcomed three new students! 
 	* [Yuchen Jin](../bios/yuchen-aboutme/) joined the lab as a PhD student in the Department of Comparative Human Development. 
-	* [Kimberly Shorter](../kimberly-aboutme/) and Jordyn Martin joined the lab as undergraduate honors thesis students. 
+	* [Kimberly Shorter](/kimberly-aboutme/) and Jordyn Martin joined the lab as undergraduate honors thesis students. 
 
 ### August 2022
 * Jenny Bo completed her Master's degree through [MAPSS](https://mapss.uchicago.edu/). Congratulations, Jenny!
@@ -61,7 +64,7 @@ language skill (CogSci talk by [Ruthe Foushee](https://ruthefoushee.com/))
 * [Marisa Casillas](../bios/marisa-aboutme/) (project lead), together with colleagues [Sharese King](https://www.drshareseking.com/), [Ruthe Foushee](https://ruthefoushee.com/), [Adriana Weisleder](https://childlanguagelab.northwestern.edu/people/), and [Annette D'Onofrio](https://faculty.wcas.northwestern.edu/~akd2621/), was awarded a Neubauer Collegium Faculty Research Fund for their project "Roots of Linguistic Identity". The project, which will begin in June 2022, will investigate how children from different dialect backgrounds across Chicago learn to recognize variability in the sounds and words of other dialects. Read more [here](https://neubauercollegium.uchicago.edu/research/roots-of-linguistic-identity).
 
 ### November 2021
-* [Alex Cristia](https://sites.google.com/site/acrsta/) and [Marisa Casillas](../bios/marisa-aboutme/) submitted a revision to their paper on non-word repetition in Yélî Dnye. Fingers crossed! Read the preprint [here](../lab-publications/Cristia_Casillas_underreview2_Nonword_repetition_in_children_learning_Yeli_Dnye_v20211125.pdf).
+* [Alex Cristia](https://sites.google.com/site/acrsta/) and [Marisa Casillas](../bios/marisa-aboutme/) submitted a revision to their paper on non-word repetition in Yélî Dnye. Fingers crossed! Read the preprint [here](/lab-publications/Cristia_Casillas_underreview2_Nonword_repetition_in_children_learning_Yeli_Dnye_v20211125.pdf).
 
 ### October 2021
 * We officially kicked off a new project "Object handling and early word learning environments in three cultural contexts". Our new team of 5 undergraduates includes Anapaula Silva, Mara Duquette, Will Fisher, [Lizzie Mickiewicz](../bios/lizzie-aboutme/), and [Kimberly Shorter](../bios/kimberly-aboutme/), as well as Mary Elliott and [Kennedy Casey](../bios/kennedy-aboutme/). We will annotate many thousands of images taken from children's perspective during their days at home in three cultural contexts: Papuan, Mayan, and US. This project is made possible by generous funding from the Gianinno family.
