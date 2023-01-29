@@ -230,7 +230,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** In-class presentations
 
 
-### Thursday, 2 February 2023 (5.2)
+### [Thursday, 2 February 2023 (5.2)](https://uchicago.box.com/shared/static/8nrkhrr4dmblx8nsr3v6kr8b7xpgtx8p.pptx)
 
 * **Class type and topic:** Lecture -- Peer teaching
 
