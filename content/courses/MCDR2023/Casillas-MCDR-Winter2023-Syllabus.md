@@ -230,21 +230,25 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** In-class presentations
 
 
-### [Thursday, 2 February 2023 (5.2)](https://uchicago.box.com/shared/static/8nrkhrr4dmblx8nsr3v6kr8b7xpgtx8p.pptx)
+### Thursday, 2 February 2023 (5.2)
+
+**Class cancelled**
+
+
+### [Tuesday, 7 February 2023 (6.1)](https://uchicago.box.com/shared/static/8nrkhrr4dmblx8nsr3v6kr8b7xpgtx8p.pptx)
 
 * **Class type and topic:** Lecture -- Peer teaching
 
-* **Pre-class reading:**
+* **Pre-class reading (combined with canceled class reading):**
     * Shatz, M., & Gelman, R. (1973). The development of communication skills: Modifications in the speech of young children as a function of listener. _Monographs of the Society for Research in Child Development, 38_(5), 1-38. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/yscwxris5fbqlla/shatz1973development.pdf?dl=0)
     * Howe, N., Della Porta, S., Recchia, H., & Ross, H. (2016). "Because if you don’t put the top on, it will spill": A longitudinal study of sibling teaching in early childhood. _Developmental Psychology, 52_(11), 1832–1842. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/5m73j31r0800u4x/howe2016because.pdf?dl=0)
+    * Bornstein, M. H., Leach, D. B., & Haynes, O. M. (2004). Vocabulary competence in first-and secondborn siblings of the same chronological age. _Journal of Child Language, 31_(4), 855-873. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/md3isd4ekq4phpi/bornstein2004vocabulary.pdf?dl=0)
+    * Oshima‐Takane, Y., Goodz, E., & Derevensky, J. L. (1996). Birth order effects on early language development: Do secondborn children learn from overheard speech?. _Child Development, 67_(2), 621-634. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/azbxsnfeinp4n54/oshima-takane1996birth.pdf?dl=0)
 
 * **Due today:**
     * Reading questions
 
-
-### Tuesday, 7 February 2023 (6.1)
-
-* **Class type and topic:** Lecture -- Birth order
+<!--* **Class type and topic:** Lecture -- Birth order
 
 * **Pre-class reading:**
     * Bornstein, M. H., Leach, D. B., & Haynes, O. M. (2004). Vocabulary competence in first-and secondborn siblings of the same chronological age. _Journal of Child Language, 31_(4), 855-873. <span style="color:green">**(JA)**</span> [(pdf)](https://www.dropbox.com/s/md3isd4ekq4phpi/bornstein2004vocabulary.pdf?dl=0)
@@ -252,7 +256,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Due today:**
     * Reading questions
-
+-->
 
 ### Thursday, 9 February 2023 (6.2)
 
