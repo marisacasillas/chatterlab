@@ -21,9 +21,12 @@ Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted). Immature vocaliz
 
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
-## 2022
+## 2023
 
-**Casillas, M.** (2022). Learning language in vivo. _Child Development Perspectives 00_, 1-8. [[ms](/lab-publications/Casillas_2022_Learning_language_in_vivo_CDP.pdf)]
+**Casillas, M.** (2023). Learning language in vivo. _Child Development Perspectives 17_(1), 10-17. [[ms](/lab-publications/Casillas_2022_Learning_language_in_vivo_CDP.pdf)]
+
+
+## 2022
 
 Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquette, M., Bergelson, E., & **Casillas, M.** (2022). Sticks, leaves, buckets, and bowls: Distributional patterns of children's at-home object handling in two subsistence societies. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), _Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022)_ (pp. 927-933). [[ms](/lab-publications/Casey_et_al_2022_Sticks_leaves_buckets_bowls_CogSci.pdf)] [[gh](https://github.com/kennedycasey/daylong-object-ids)] [[data visualization tool](https://aclew.shinyapps.io/CogSci-TSE-ROS-objects/)]
 
