@@ -168,7 +168,7 @@ You may earn up to 4 percentage points of extra credit by participating in an on
 * **Assignments due today:** In-class discussion participation
 
 
-### Tuesday, 14 February 2023 (7.1)
+### [Tuesday, 14 February 2023 (7.1)](https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * Tomasello & Carpenter (2007). Shared intentionality. _Developmental Science, 10_(1), 121-125. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0))
@@ -179,7 +179,7 @@ You may earn up to 4 percentage points of extra credit by participating in an on
     * Reading questions
 
 
-### Thursday, 16 February 2023 (7.2)
+### [Thursday, 16 February 2023 (7.2)](https://docs.google.com/presentation/d/1A6HZ-ZZqOShXoQ5sXu22dJgtNlN0IpnnrG6feuGN_I0/edit?usp=sharing)
 
 * **Pre-class reading:**
     * **This counts as two readings (it's long & detailed) -- please adjust your notes so that they are equivalent to two readings of effort:** Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0)) <!--([MC's notes](./course-notes/))-->
