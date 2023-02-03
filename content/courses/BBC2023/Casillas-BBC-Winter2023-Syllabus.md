@@ -175,7 +175,7 @@ You may earn up to 4 percentage points of extra credit by participating in an on
     * Yu & Smith (2013). Joint attention without gaze following: Human infants and their parents coordinate visual attention to objects through eye-hand coordination. _PloS one, 8_(11), e79659. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/rw4yz3ylllu6d52/yu2013coordinate.pdf?dl=0))
 
 * **Assignments due today:**
-    * Mini essay exam 2
+    * [Mini essay exam 2](/courses/bbc2023/course-instructions/mini-essay-exam-2/)
     * Reading questions
 
 
