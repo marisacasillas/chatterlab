@@ -296,7 +296,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 * **Class type and topic:** Lecture -- Introduction to annotation and reliability statistics
 
 * **Pre-class reading:**
-    * Navarro, D. (2018). Chapter 2: A brief introduction to research design. _Learning Statistics with R: A tutorial for psychology students and other beginners (Version 0.6)_. Accessible at [https://open.umn.edu/opentextbooks/textbooks/559]() <span style="color:purple">**(BC)**</span>
+    * Navarro, D. (2018). Chapter 2: A brief introduction to research design. _Learning Statistics with R: A tutorial for psychology students and other beginners (Version 0.6)_. Accessible at [https://open.umn.edu/opentextbooks/textbooks/559](https://open.umn.edu/opentextbooks/textbooks/559) <span style="color:purple">**(BC)**</span>
     * Also:
         * Review the annotation manual & training videos [link to be posted]
         * Download and install [ELAN](https://archive.mpi.nl/tla/elan/download) 
@@ -311,7 +311,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Pre-class reading:**
     * Read from the start up until 11.7 of...
-        * Navarro, D. (2018). Chapter 11: Hypothesis testing. _Learning Statistics with R: A tutorial for psychology students and other beginners (Version 0.6)_. Accessible at [https://open.umn.edu/opentextbooks/textbooks/559]() <span style="color:purple">**(BC)**</span>
+        * Navarro, D. (2018). Chapter 11: Hypothesis testing. _Learning Statistics with R: A tutorial for psychology students and other beginners (Version 0.6)_. Accessible at [https://open.umn.edu/opentextbooks/textbooks/559](https://open.umn.edu/opentextbooks/textbooks/559) <span style="color:purple">**(BC)**</span>
  (though feel free to finish the chapter if you're riveted)
 
 * **Due today:**

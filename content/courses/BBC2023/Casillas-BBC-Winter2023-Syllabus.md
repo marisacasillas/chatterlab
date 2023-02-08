@@ -171,7 +171,7 @@ You may earn up to 4 percentage points of extra credit by participating in an on
 ### [Tuesday, 14 February 2023 (7.1)](https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing)
 
 * **Pre-class reading:** 
-    * Tomasello & Carpenter (2007). Shared intentionality. _Developmental Science, 10_(1), 121-125. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0))
+    * Tomasello & Carpenter (2007). Shared intentionality. _Developmental Science, 10_(1), 121-125. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0))
     * Yu & Smith (2013). Joint attention without gaze following: Human infants and their parents coordinate visual attention to objects through eye-hand coordination. _PloS one, 8_(11), e79659. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/rw4yz3ylllu6d52/yu2013coordinate.pdf?dl=0))
 
 * **Assignments due today:**
