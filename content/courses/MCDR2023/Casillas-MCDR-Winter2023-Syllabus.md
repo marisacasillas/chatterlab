@@ -316,7 +316,6 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Due today:**
     * Reading questions
-    * **_Data collection participation report_**
     
 
 ### Thursday, 23 February 2023 (8.2)
@@ -358,7 +357,9 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Pre-class reading:** None!
 
-* **Due today:** Nothing!
+* **Due today:**
+    * _Data collection participation report_
+
 
 
 ### Final deadline (Tuesday, 7 March 2023)
