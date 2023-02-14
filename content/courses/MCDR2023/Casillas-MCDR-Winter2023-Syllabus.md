@@ -291,7 +291,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** Reading questions
 
 
-### Thursday, 16 February 2023 (7.2)
+### [Thursday, 16 February 2023 (7.2)](https://docs.google.com/presentation/d/1HWi4eAjpOIGkbUx5deJkt2yBzJoWIGgwdBGM1h3_6XU/edit?usp=sharing)
 
 * **Class type and topic:** Lecture -- Introduction to annotation and reliability statistics
 
