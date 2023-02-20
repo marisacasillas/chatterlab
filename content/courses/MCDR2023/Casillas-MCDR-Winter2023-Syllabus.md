@@ -297,9 +297,6 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 * **Pre-class reading:**
     * Navarro, D. (2018). Chapter 2: A brief introduction to research design. _Learning Statistics with R: A tutorial for psychology students and other beginners (Version 0.6)_. Accessible at [https://open.umn.edu/opentextbooks/textbooks/559](https://open.umn.edu/opentextbooks/textbooks/559) <span style="color:purple">**(BC)**</span>
-    * Also:
-        * Review the annotation manual & training videos [link to be posted]
-        * Download and install [ELAN](https://archive.mpi.nl/tla/elan/download) 
 
 * **Due today:**
     * Reading questions
