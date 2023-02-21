@@ -187,7 +187,7 @@ You may earn up to 4 percentage points of extra credit by participating in an on
 * **Assignments due today:** Reading questions
 
 
-### Tuesday, 21 February 2023 (8.1)
+### [Tuesday, 21 February 2023 (8.1)](https://docs.google.com/presentation/d/1aCRpVgD1e_anCKahXMc5e3xsqlZqNUQ8Vc2DOseyWhE/edit?usp=sharing)
 
 * **Pre-class reading:**
     * Liszkowski et al. (2012). A prelinguistic gestural universal of human communication. _Cognitive Science, 36_(4), 698-713. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/3a8wkzo6q4jd2pm/liszkowski2012prelinguistic.pdf?dl=0))
