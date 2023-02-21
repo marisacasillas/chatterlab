@@ -88,10 +88,10 @@ You may earn up to 4 percentage points of extra credit by participating in an on
 6.2 | 9 February 2023 | Thursday | Half-class work session (Groups: 1, 2, 3) | Presentation preparation | Reading questions, video presentation draft (Groups: 1, 2, 3)
 7.1 | 14 February 2023 | Tuesday | Student presentations | Cultural diversity in peer influence | Reading questions (Groups: 4, 5, 6), in-class presentations (Groups: 1, 2, 3)
 7.2 | 16 February 2023 | Thursday | Lecture | Introduction to annotation and reliability statistics | Reading questions
-8.1 | 21 February 2023 | Tuesday | Lecture | Exploratory and hypothesis-driven approaches to analysis | Reading questions, **_All final data annotation files_**, **_Data collection participation report_**
+8.1 | 21 February 2023 | Tuesday | Lecture | Exploratory and hypothesis-driven approaches to analysis | Reading questions
 8.2 | 23 February 2023 | Thursday | Half-class work session (Groups: 4, 5, 6) | Presentation preparation | Reading questions, video presentation draft (Groups: 4, 5, 6)
 9.1 | 28 February 2023 | Tuesday | Student presentations | Spontaneous imitation | Reading questions (Groups: 1, 2, 3), in-class presentations (Groups: 4, 5, 6)
-9.2 | 2 March 2023 | Thursday | Lecture | What are the results of our study? | Nothing!
+9.2 | 2 March 2023 | Thursday | Lecture | What are the results of our study? | **_Data collection participation report_**
 Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 # Day-by-day schedule
@@ -302,7 +302,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * Reading questions
 
 
-### Tuesday, 21 February 2023 (8.1)
+### [Tuesday, 21 February 2023 (8.1)](https://docs.google.com/presentation/d/1rvZnhZg0BD1TCYF6LhsDCBwSDRoHAIBR5fiCKmiHSoA/edit?usp=sharing)
 
 * **Class type and topic:** Lecture -- Exploratory and hypothesis-driven approaches to analysis
 
