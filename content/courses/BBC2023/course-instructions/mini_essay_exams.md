@@ -8,13 +8,13 @@ Three times throughout the quarter, students will be expected to complete a mini
 
 * Response 2 (5 points max)
 
-**Mini essay exam 2:**
+**[Mini essay exam 2:](/courses/bbc2023/course-instructions/mini-essay-exam-2/)**
 
 * Response 1 (5 points max)
 
 * Response 2 (5 points max)
 
-**Mini essay exam 3:**
+**[Mini essay exam 3:](/courses/bbc2023/course-instructions/mini-essay-exam-3/)**
 
 * Response 1 (5 points max)
 

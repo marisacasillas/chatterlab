@@ -222,7 +222,7 @@ You may earn up to 4 percentage points of extra credit by participating in an on
 
 ### Final deadline (Tuesday, 7 March 2023)
 
-Mini essay exam 3 due by 11:59pm.
+[Mini essay exam 3](/courses/bbc2023/course-instructions/mini-essay-exam-3/) due by 11:59pm.
 
 
 
