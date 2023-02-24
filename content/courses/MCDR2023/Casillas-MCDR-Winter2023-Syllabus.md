@@ -343,7 +343,6 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** None!
 
 * **Due today:**
-    * **ALL GROUPS: _All final data annotation files_**
     * **Groups 1–3:** Reading questions
     * **Groups 4–6:** In-class presentations
 
