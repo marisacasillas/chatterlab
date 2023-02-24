@@ -359,7 +359,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
 
 
 ### Final deadline (Tuesday, 7 March 2023)
-Exam due by 11:59pm on Canvas.
+[Final exam](/courses/mcdr2023/course-instructions/final_exam/) due by 11:59pm on Canvas.
 
 <!--
  Lecture -- Scientific reporting in journals, book chapters, and public-facing essays
