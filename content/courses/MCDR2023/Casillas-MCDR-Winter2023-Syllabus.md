@@ -347,7 +347,7 @@ Exam | 7 March 2023 | Tuesday | --  | -- | Final exam due by 11:59pm
     * **Groups 4–6:** In-class presentations
 
 
-### Thursday, 2 March 2023 (9.2)
+### [Thursday, 2 March 2023 (9.2)](https://docs.google.com/presentation/d/1g706k6DRRhBLRbBQFeLh4HBuvNyUiF2evScHG9D3j9Q/edit?usp=sharing)
 
 * **Class type and topic:** Lecture -- What are the results of our study?
 
