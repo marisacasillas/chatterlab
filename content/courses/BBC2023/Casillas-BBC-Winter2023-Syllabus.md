@@ -213,9 +213,9 @@ You may earn up to 4 percentage points of extra credit by participating in an on
 * **Assignments due today:** Reading questions
 
 
-### Thursday, 2 March 2023 (9.2)
+### [Thursday, 2 March 2023 (9.2) -- video](https://www.youtube.com/watch?v=BFtbXwnBRg8)
 
-* **Pre-class reading:** None! <!--https://www.youtube.com/watch?v=BFtbXwnBRg8-->
+* **Pre-class reading:** None! 
 
 * **Assignments due today:** In-class discussion participation
 
