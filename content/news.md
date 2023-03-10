@@ -1,13 +1,13 @@
 # chatter news
 
 ### January 2023
-* The Chatter Lab welcomed three new undergraduate RAs ([Carla Escalante](../bios/carla-aboutme.md), [Mia Rimmer](../bios/mia-aboutme.md), and [Ruby Swensen](../bios/ruby-aboutme.md)) to the team!
+* The Chatter Lab welcomed three new undergraduate RAs ([Carla Escalante](../bios/carla-aboutme/), [Mia Rimmer](../bios/mia-aboutme/), and [Ruby Swensen](../bios/ruby-aboutme/)) to the team!
 
 ### December 2022
-* [Dr. Camila Scaff](https://camilascaff.com/) received funding through the [Center for International Social Science Research](https://cissr.uchicago.edu/) to join us this summer! Read about her project with [Marisa Casillas](../bios/marisa-aboutme.md), _Implementing a cross-cultural field-friendly infant-directed speech preference study_, [here](https://cissr.uchicago.edu/23-24-FacultyProject-Casillas).
+* [Dr. Camila Scaff](https://camilascaff.com/) received funding through the [Center for International Social Science Research](https://cissr.uchicago.edu/) to join us this summer! Read about her project with [Marisa Casillas](../bios/marisa-aboutme/), _Implementing a cross-cultural field-friendly infant-directed speech preference study_, [here](https://cissr.uchicago.edu/23-24-FacultyProject-Casillas).
 
 ### November 2022
-* [Marisa Casillas's](../bios/marisa-aboutme.md) paper entitled Language learning in vivo was published in _Child Development Perspectives_! Read it [here](/lab-publications/Casillas_2022_Learning_language_in_vivo_CDP.pdf).
+* [Marisa Casillas's](../bios/marisa-aboutme/) paper entitled Language learning in vivo was published in _Child Development Perspectives_! Read it [here](/lab-publications/Casillas_2022_Learning_language_in_vivo_CDP.pdf).
 
 * There were several Chatter Lab presentations at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
 	* [Marisa Casillas](../bios/marisa-aboutme/) gave an invited symposium talk (Bringing the babylab to the field), and she led the student workshop (Crash course in field methods for studying child language development in rural and small-scale contexts)

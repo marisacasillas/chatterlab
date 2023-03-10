@@ -21,12 +21,6 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Yuchen Jin](/bios/yuchen-aboutme/)
 
-Abby Clements
-
-### Masters students
-
-Beixi Dong
-
 ### Undergraduate students
 
 #### Senior honors students
