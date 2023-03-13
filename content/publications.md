@@ -32,7 +32,7 @@ Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A., Shorter, K., Duquet
 
 Casey, K., & **Casillas, M.** (2022). From _doggy_ to _dog_: Developmental shifts in children's use of register-specific words. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), _Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022)_ (pp. 49-56). [[ms](/lab-publications/Casey_Casillas_2022_From_doggy_to_dog_CogSci.pdf)] [[gh](https://github.com/kennedycasey/RegisterShift)]
 
-Cristia, A. & **Casillas, M.** (2022). Nonword repetition in children learning Yélî Dnye. _Language Development Research 2_(1), 69–104. [[ms](/lab-publications/Cristia_Casillas_2022_Nonword_repetition_in_children_learning_Yeli_Dnye.pdf)] [[osf](https://osf.io/5qspb/)]
+Cristia, A. & **Casillas, M.** (2022). Nonword repetition in children learning Yélî Dnye. _Language Development Research 2_(1), 69–104. [[ms](https://ldr.lps.library.cmu.edu/article/id/424/)] [[osf](https://osf.io/5qspb/)]
 
 De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (2022). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language 98_(1), 35–62. [[ms](/lab-publications/DeVos_et_al_2022_Predicting_conversational_turns_Language.pdf)] [[resultaten video (NGT)](https://gebareninzicht.nl/onderzoeksresultaat/139)]
 
