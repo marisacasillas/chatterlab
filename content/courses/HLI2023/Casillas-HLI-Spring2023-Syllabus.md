@@ -117,51 +117,51 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ## Module 1: Introduction
 
-### Tuesday, 29 March 2022 (1.1): Introduction and syllabus
+### Tuesday, 21 March 2023 (1.1): Introduction and syllabus
 
-[[slides]](https://docs.google.com/presentation/d/1E1eI1IhWSLfaYPjsJ21fIXE-xFeKr3hT/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/GTRZcRgSS8jt4V93gdb8bWMSt5bwjXGjD0XaQLYcUcr-TcBeWzA6WBaPvxgR83pk.i-x1sk6VHvaUXEGx)
+<!--[[slides]](https://docs.google.com/presentation/d/1E1eI1IhWSLfaYPjsJ21fIXE-xFeKr3hT/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
 
 * Pre-class reading: None!
 
-### Thursday, 31 March 2022 (1.2): Language use
+### Thursday, 23 March 2023 (1.2): Language use
 
-[[slides]](https://docs.google.com/presentation/d/11VCh8BDRuEhe6WUmsxUD1Cuo66xYZkec/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/FCXZvyVVwU7dZI9RQ-0I908rXWgz79Oac1Iq65iz9HvjwFTLTUnG2Rxs-zW73pdk.ba8WTY0bRy4TG120)
+<!--[[slides]](https://docs.google.com/presentation/d/11VCh8BDRuEhe6WUmsxUD1Cuo66xYZkec/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 1
 
 ## Module 2: Foundations
 
-### Tuesday, 05 April 2022 (2.1): Joint activities
+### Tuesday, 28 March 2023 (2.1): Joint activities
 
-[[slides]](https://docs.google.com/presentation/d/1YX-YzfpDGOEmWwOX0-kMjQZQ-TXHig3H/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/ZCupHXY_1V3tHhWQ6dsL-pEiMEyOkyIY3QGnT7akwLPTqkEN1pvUHSOTVOcHaDp7.KeqlkTNsYm7L8lEu)
+<!--[[slides]](https://docs.google.com/presentation/d/1YX-YzfpDGOEmWwOX0-kMjQZQ-TXHig3H/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 2
 
-### Thursday, 07 April 2022 (2.2): Joint actions
+### Thursday, 30 March 2023 (2.2): Joint actions
 
-[[slides]](https://docs.google.com/presentation/d/1_c57MUJAXWFaoBePk2tIPnFsvSELyfV8/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/V-LdoyU2TKfS5D9_1c6IyaiqFjgeLpiVUI35ij6PtkbFknkGdIKhfmB6JlPapLyA.ZDNcBqsMO7KR9VlI)
+<!--[[slides]](https://docs.google.com/presentation/d/1_c57MUJAXWFaoBePk2tIPnFsvSELyfV8/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 3
 
 
-### Tuesday, 12 April 2022 (3.1): Common ground
+### Tuesday, 4 April 2023 (3.1): Common ground
 
-[[slides]](https://docs.google.com/presentation/d/1KJ1ysJQiCyoiaVLS7KU08sjeb1Sqmg-h/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/IWzrD7unpZzvhzQgyfzKArvpakI8H4471gPa0ppmlZDBWA9aOoVaPBv5aWA0vVqw.y1XC4MmGi9T-jE4W)
+<!--[[slides]](https://docs.google.com/presentation/d/1KJ1ysJQiCyoiaVLS7KU08sjeb1Sqmg-h/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 4
 
 * **Mini paper 1 due today**: Choose a complex joint activity that has _NOT_ been discussed in the book or in class. Describe the activity you have chosen. Using Clark's concepts, demonstrate what its component parts and other qualifiers are that make it a good example of a joint activity. Include at least one figure mapping out its component parts and their relations  (e.g., roles, layers, nested/sequential actions). [2500 words **max**; [rubric](../miniassignment1-rubric/)]
 
-### Thursday, 14 April 2022 (3.2): Introduction to Conversation Analysis
+### Thursday, 6 April 2023 (3.2): Introduction to Conversation Analysis
 
-[[slides]](https://docs.google.com/presentation/d/1FJsX9Z7y9FgbQQESfLHdDmS5UFb-HY5g/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/gNqcRjqC5U_lIwXbTFId75tCkk0dpVecmKPhmqu1WMIdpxluATOUuToIABt_0zL3.KKaVL1NDevmPMqcJ)
+<!--[[slides]](https://docs.google.com/presentation/d/1FJsX9Z7y9FgbQQESfLHdDmS5UFb-HY5g/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
 
 * Pre-class reading: [Sidnell, J. (2016). Conversation Analysis. Oxford Research Encyclopedia of Linguistics.](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-40) and [Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd.](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
 
-### Tuesday, 19 April 2022 (4.1): The Human Interaction Engine
+### Tuesday, 11 April 2023 (4.1): The Human Interaction Engine
 
-[[slides]](https://docs.google.com/presentation/d/1ienWbolsmrh79rFfsOLOx_osgqilmbrY/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/knP0KviwxSq6NlnQZKZzPAv7nLJOCIhZm5iWgue8Feca-PbxMnfdcxTo9lgv5npT.93esz1xgsvKkeZGI)
+<!--[[slides]](https://docs.google.com/presentation/d/1ienWbolsmrh79rFfsOLOx_osgqilmbrY/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
 
 * Pre-class reading: [Levinson, S. C. (2019). Interactional foundations of language: The interaction engine hypothesis. In _Human language: From genes and brain to behavior_ (pp. 189-200). MIT Press.](https://pure.mpg.de/rest/items/item_3171367_3/component/file_3186123/content)
 
@@ -170,34 +170,34 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ## Module 3: Communication, language, and action
 
-### Thursday, 21 April 2022 (4.2): Experiment preparation
+### Thursday, 13 April 2023 (4.2): Experiment preparation
 
-[[slides]](https://docs.google.com/presentation/d/1Kt6i2fukV559ecZE7WlQlqoLsFx0jwj5vEEP_4fGh7M/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/zOJfMyCJeOc3Z0KqDVR4ASfxZBaJWL8IZWDEsSZsK4A67jci6QL7xRzpScrfXUlm.pHo1ahWKgUCqiwDo)
+<!--[[slides]](https://docs.google.com/presentation/d/1Kt6i2fukV559ecZE7WlQlqoLsFx0jwj5vEEP_4fGh7M/edit?usp=sharing)--> <!--[[recording]]()-->
 
 * Pre-class reading: [Schober, M. F. & Clark, H. H. (1989). Understanding by addressees and overhearers. _Cognitive Psychology 21_, 211–232.](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0)
 
 * **Participation**: Submit two questions before class: one clarification question and one critical or theoretically engaged question about the Schober & Clark reading before class.
 
 
-### Tuesday, 26 April 2022 (5.1): Grounding 
+### Tuesday, 18 April 2023 (5.1): Grounding 
 
-[[slides]](https://docs.google.com/presentation/d/1Qo8pXMaORtScaIFbslPTv9t20YXeMnlT1Qt8u8bULuY/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/_bzEVxOXrQPZ_LjxdUqlvs92IEXxDdtd-4RtdLtkj0iE3nXLo1zNEuTU1xw4mT-S.keszyHcJwpRtUVKI)
+<!--[[slides]](https://docs.google.com/presentation/d/1Qo8pXMaORtScaIFbslPTv9t20YXeMnlT1Qt8u8bULuY/edit?usp=sharing)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 8
 
 *  <span style="color:orange">**Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE end of day on Wednesday, April 27th_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.</span>
 
-### Thursday, 28 April 2022 (5.2): Understanding intentions and signaling
+### Thursday, 20 April 2023 (5.2): Understanding intentions and signaling
 
-[[slides]](https://docs.google.com/presentation/d/1RI5Qdyk10WXO7cGRBamdnnEHIydJd2peyL89hpUlhEg/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/ayDWRZi-2ZicjGDz0QLqmwaxTTR0dOhmSL77h1TLYbavmAWbgGa4f4mjYbkSxF1_.i5JtfQqwjA_km2e0)
+<!--[[slides]](https://docs.google.com/presentation/d/1RI5Qdyk10WXO7cGRBamdnnEHIydJd2peyL89hpUlhEg/edit?usp=sharing)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 5 + UL Chapter 6
 
 * <span style="color:orange">**Due today for the scientific report**: Upload your experiment recording with the matcher and director to Box (we will provide the link).</span>
 
-### Tuesday, 03 May 2022 (6.1): Multimodal interaction
+### Tuesday, 25 April 2023 (6.1): Multimodal interaction
 
-[[slides]](https://docs.google.com/presentation/d/10MuRC7v5FCZ3UPMLBxbpH6kmjstrNl08IcJRj6w9SGk/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/aHlCoK1cDrqNEjahkRdawylXmOFChqRpPfEfGhccinyxWrPDsqIfu1Y3Du_KHeIH.ilOYPGUlrSOj8_ju)
+<!--[[slides]](https://docs.google.com/presentation/d/10MuRC7v5FCZ3UPMLBxbpH6kmjstrNl08IcJRj6w9SGk/edit?usp=sharing)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 9 + [Holler, J., & Bavelas, J. (2017). Multi-modal communication of common ground: A review of social functions. In R. B. Church, M. W. Alibali, & S. D. Kelly (Eds.), Why gesture? How the hands function in speaking, thinking and communicating (pp. 213-240). Amsterdam: Benjamins.](https://pure.mpg.de/rest/items/item_2352807_13/component/file_2459489/content)
 
@@ -205,15 +205,15 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ## Module 4: Discourse, narrative, and joint projects
 
-### Thursday, 05 May 2022 (6.2): Joint projects
+### Thursday, 27 April 2023 (6.2): Joint projects
 
-[[slides]](https://docs.google.com/presentation/d/1MXMbK10zAtjKPyvjmjFszgpwC2306FrfAKY6rKeekYA/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/SMs766vnj4OGBhCXnbyZNUtnUigpiCTzxsUj68RSEgyKuzD3qiAYaYqUUweKV3ZK.JRCmgd3B7w4zdXnC)
+<!--[[slides]](https://docs.google.com/presentation/d/1MXMbK10zAtjKPyvjmjFszgpwC2306FrfAKY6rKeekYA/edit?usp=sharing)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 7
 
-### Tuesday, 10 May 2022 (7.1): Joint commitment
+### Tuesday, 2 May 2023 (7.1): Joint commitment
 
-[[slides]](https://docs.google.com/presentation/d/1Li3tiBMgWc3OoYBQ9WkQiuEfEMiuiVKZprTtCAZa6ic/edit?usp=sharing) [[recordings]](https://uchicago.zoom.us/rec/share/ACL7_g25zOkN2i6FKfZ71HNOeHOeVhHwUWrMxP6-JRVcQDW_pzh_fmE8UWQ30sXN.0_07IQW3WNdzwAww)
+<!--[[slides]](https://docs.google.com/presentation/d/1Li3tiBMgWc3OoYBQ9WkQiuEfEMiuiVKZprTtCAZa6ic/edit?usp=sharing)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 10
 
@@ -221,9 +221,9 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 	* <span style="color:orange">**Up to 3%** for data collection</span>
 	* <span style="color:orange">**Up to 12%** for data annotation (the TAs/Dr. Casillas will spot-check your annotation files and recording for high quality segmentation and annotation)</span>
 
-### Thursday, 12 May 2022 (7.2): Conversation
+### Thursday, 4 May 2023 (7.2): Conversation
 
-[[slides]](https://docs.google.com/presentation/d/1HlLlvMrBgTCAfU4VfELzhfVb4R39b-hEe2L25T4HVGI/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/DtUqoewwjTN56UEsT0tLFvJU1GY4uYzU8Vu0JSYHyb_XED2vSrHbY2VHO-VYTwUm.HH0iA8K-3DuCSu8L)
+<!--[[slides]](https://docs.google.com/presentation/d/1HlLlvMrBgTCAfU4VfELzhfVb4R39b-hEe2L25T4HVGI/edit?usp=sharing)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 11
 
@@ -234,9 +234,9 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ## Module 5:
 
-### Tuesday, 17 May 2022 (8.1):  Layering
+### Tuesday, 9 May 2023 (8.1):  Layering
 
-[[slides]](https://docs.google.com/presentation/d/1TX-7uyapPhVSzWMz6Kv-qogWw6lWDEZnJKFNKoa2tAw/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/d8I69ez7nJ2cSWkmd9YKXtszo7KqN6Iya_07qsAyR0_FmmhivW3EqjDz3XBs1cT-.gmUGoxC74Sse-BQK)
+<!--[[slides]](https://docs.google.com/presentation/d/1TX-7uyapPhVSzWMz6Kv-qogWw6lWDEZnJKFNKoa2tAw/edit?usp=sharing)--> <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 12
 
@@ -245,27 +245,27 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 	* <span style="color:orange">**Up to 4%** for data annotation (the TAs/Dr. Casillas will spot-check your annotation files and recording for high quality segmentation and annotation)</span>
 
 
-### Thursday, 19 May 2022 (8.2): Presentation of replication findings + how to write a scientific report
+### Thursday, 11 May 2023 (8.2): Presentation of replication findings + how to write a scientific report
 
-[[slides]](https://docs.google.com/presentation/d/1LHTzJKN9NuFEaAPJd_g50GUW9P7hcx0R0Pf_qrfZCzc/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/WY5MEVunW6k-FrAihO4BMRxJIIT7PXTONbPjlazmn1KExCV8DH0Q15isf97oq0cU.dg95ORCc4nk5a3B7)
+<!--[[slides]](https://docs.google.com/presentation/d/1LHTzJKN9NuFEaAPJd_g50GUW9P7hcx0R0Pf_qrfZCzc/edit?usp=sharing)--> <!--[[recording]]()-->
 
 * Pre-class reading: None! But bring your laptop for in-class writing activities.
 
 
-### Tuesday, 24 May 2022 (9.1): Guest lecture from Jingde Liu
+### Tuesday, 16 May 2023 (9.1): Guest lecture from Jenny Haizhao Bo
 
-[[slides]](https://docs.google.com/presentation/d/1wn8UUP7IUddwhjyq6_XNrESezhaFpd2j/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/S6KAMVbBQPNYixjQPkypGdXkmd-h2H4ZNC2U2lmhQyI2F3tnvscVbtfW-l1NBt_A.VgO0iikEWsNbjpbT)
+<!--[[slides]]()--> <!--[[recording]]()-->
 
-* Pre-class reading: [Chen, Z. T. (2021). Poetic prosumption of animation, comic, game and novel in a post-socialist China: A case of a popular video-sharing social media Bilibili as heterotopia. Journal of Consumer Culture, 21(2), 257-277.](https://www.dropbox.com/s/ek7i8f0vv7diapq/Poetic%20prosumption%20of%20animation%2C%20comic%2C%20game%20and%20novel%20in%20a%20post-socialist%20China.pdf?dl=0)
+* Pre-class reading: TBD
 
-### Thursday, 26 May 2022 (9.2): Guest lecture from Jillyan Corrales
+### Thursday, 18 May 2023 (9.2): Guest lecture from Ben Morris
 
-[[slides]](https://docs.google.com/presentation/d/1CCDO2Zqnq8ruFcWUL1Iyro599NsBHKSU/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/2I4LUYSDbTTvk4I9qOOs-FVgc_E-P35z1552_eKEwmOvZZY-JV7lnSDXS4f-_omS.jf_5M1GrSq1bA4gP)
+<!--[[slides]]()--> <!--[[recording]]()-->
 
-* Pre-class reading: [Petzinger, G. V. (2017). Chapter 12: Chicken or Egg: A Brief History of Language, Brains, and Writing. In The first signs unlocking the mysteries of the world's oldest symbols. Atria paperback, pp. 173-190.](https://www.dropbox.com/s/pdfu9ro6bcyo352/Chicken_or_egg.pdf?dl=0)
+* Pre-class reading: TBD
 
 
-## Final deadline (Tuesday, 31 May 2022)
+## Final deadline (Tuesday, 23 May 2023)
 Scientific report due, including: Study 1 on our class replication of [Schober & Clark (1989)](https://www.dropbox.com/s/nlhgqs61wv387dv/SchoberClark1989.pdf?dl=0) and Study 2, a motivated, original, incremental follow-up study proposal with predicted findings (4000 words **max**; [rubric](../scientificreport-rubric/)).
 
 
