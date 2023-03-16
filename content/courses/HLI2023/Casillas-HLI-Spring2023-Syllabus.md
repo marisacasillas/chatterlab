@@ -242,7 +242,9 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 12
 
-* <span style="color:orange">**Due today for the scientific report**: Upload your annotations and transcriptions of the overhearer data (upload link in your instructions document), together with a screenshot showing that you have passed the [online annotation checker](https://aclew.shinyapps.io/schober_clark_replication/). Grades for this portion will be allocated as follows:</span>
+* <span style="color:orange">**Due TODAY for the scientific report**: Upload your experiment recording with the matcher and director to Box (we will provide the link).</span>
+
+* <span style="color:orange">**Due TOMORROW for the scientific report**: Upload your annotations and transcriptions of the overhearer data (upload link in your instructions document), together with a screenshot showing that you have passed the [online annotation checker](https://aclew.shinyapps.io/schober_clark_replication/). Grades for this portion will be allocated as follows:</span>
 	* <span style="color:orange">**Up to 1%** for data collection</span>
 	* <span style="color:orange">**Up to 4%** for data annotation (the TAs/Dr. Casillas will spot-check your annotation files and recording for high quality segmentation and annotation)</span>
 
