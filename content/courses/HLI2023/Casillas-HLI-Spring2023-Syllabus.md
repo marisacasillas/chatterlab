@@ -42,7 +42,7 @@ Info to add to the results that were presented in class
 
 # Human language and interaction
 
-Spring 2022: CHDV 23100, LING 21150, PSYC 23120, EDSO 23101
+Spring 2023: CHDV 23100, LING 21150, PSYC 23120, EDSO 23101
 
 Tuesdays and Thursdays 9:30am-10:50am Chicago time
 
@@ -52,13 +52,13 @@ It is expected that, by the end of the course, students will be able to explain 
  
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 
-**Teaching assistants:** Jillyan Corrales (jcorrales@uchicago.edu) and Jingde Liu (liujingde@uchicago.edu)
+**Teaching assistants:** Jenny Haizhao Bo (hbo@uchicago.edu) and Ben Morris (benmorris@uchicago.edu)
 
 **Office hours:**
 
-* Dr. Casillas: Mondays 4-5pm (Rosenwald Hall 318A) or by appointment
-* Jillyan Corrales: Wednesdays 10–11am (Zoom link TBD) or by appointment
-* Jingde Liu: Tuesdays 2–3pm (Zoom link TBD) or by appointment
+* Dr. Casillas: Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking).
+* Jenny Haizhao Bo: Wednesdays 1–2pm in Rosenwald 318E or Zoom (email, or by appointment at [Calendly](https://calendly.com/jennybo/oh)
+* Ben Morris: Mondays 2–3pm in Kelly 206 or Zoom (email), or by appointment (email)
 
 **Course materials:**
 
@@ -270,6 +270,7 @@ Scientific report due, including: Study 1 on our class replication of [Schober &
 
 
 # Contact
+
 **Email:** mcasillas@uchicago.edu
 
 **Office:** Rosenwald 318A
