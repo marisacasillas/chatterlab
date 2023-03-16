@@ -17,8 +17,6 @@ Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interac
 
 Cristia, A., Foushee, R., Aravena-Bravo, P., Cychosz, M., Scaff, C., & **Casillas, M.** (provisionally accepted). Combining observational and experimental approaches to the development of language and communication in rural samples: Opportunities and challenges. _Journal of Child Language XX_. [[ms](https://psyarxiv.com/u59xb/)]
 
-Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (accepted). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. _Topics in Cognitive Science XX_. [[ms](https://psyarxiv.com/4wpru)] _\* Expanded version of [Elmlinger et al. (2022)](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf) as part of the CogSci 2022 Disciplinary Diversity & Integration Award in Cognitive Science_
-
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
 ## 2023
@@ -35,6 +33,8 @@ Casey, K., & **Casillas, M.** (2022). From _doggy_ to _dog_: Developmental shift
 Cristia, A. & **Casillas, M.** (2022). Nonword repetition in children learning Yélî Dnye. _Language Development Research 2_(1), 69–104. [[ms](https://ldr.lps.library.cmu.edu/article/id/424/)] [[osf](https://osf.io/5qspb/)]
 
 De Vos, C., **Casillas, M.**, Uittenbogert, T., Crasborn, O., & Levinson, S. C. (2022). Signers' and non-signers' sensitivity to language-specific and globally accessible cues in conversational turn prediction. _Language 98_(1), 35–62. [[ms](/lab-publications/DeVos_et_al_2022_Predicting_conversational_turns_Language.pdf)] [[resultaten video (NGT)](https://gebareninzicht.nl/onderzoeksresultaat/139)]
+
+Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. _Topics in Cognitive Science XX_. [[ms](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_TopiCS.pdf)] _\* Expanded version of [Elmlinger et al. (2022)](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf) as part of the CogSci 2022 Disciplinary Diversity & Integration Award in Cognitive Science_
 
 Elmlinger, S. L., Goldstein, M., & **Casillas, M.** (2022). Immature vocalizations simplify the speech of Tseltal Mayan and US caregivers. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), _Proceedings of the 44th Annual Meeting of the Cognitive Science Society (CogSci 2022)_ (pp. 1256-1262). [[ms](/lab-publications/Elminger_Goldstein_Casillas_2022_Immature_vocalizations_simplify_the_speech_of_Tseltal_Mayan_and_US_caregivers_CogSci.pdf)]
 
