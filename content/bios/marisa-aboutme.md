@@ -24,9 +24,9 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 
 ### Courses at UChicago (last taught)
 
-[Human Language and Interaction]({{< ref "courses/HLI2022/Casillas-HLI-Spring2023-Syllabus.md" >}}) (Spring 2023)
+[Human Language and Interaction]({{< ref "courses/HLI2023/Casillas-HLI-Spring2023-Syllabus.md" >}}) (Spring 2023)
 
-[Mind III]({{< ref "courses/MIND3-2022/Casillas-MIND3-Spring2023-Syllabus.md" >}}) (Spring 2023)
+[Mind III]({{< ref "courses/MIND3-2023/Casillas-MIND3-Spring2023-Syllabus.md" >}}) (Spring 2023)
 
 [Blooming Buzzing Confusion]({{< ref "courses/BBC2023/Casillas-BBC-Winter2023-Syllabus.md" >}}) (Winter 2023)
 
