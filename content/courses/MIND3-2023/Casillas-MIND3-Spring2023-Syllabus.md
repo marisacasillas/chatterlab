@@ -43,7 +43,7 @@ You will complete 7 weekly papers: 5 synopses and 2 increments to a literature r
 
 [Instructions](../course_instructions/wkly-syn/)
 
-Synopses are due in weeks 1–5, 6, and 8. **Synopses are due BEFORE the start of section.**
+Synopses are due in weeks 1–6 and 8. **Synopses are due BEFORE the start of section.**
 
 NOTE: You get a free pass on two synopses. That is, you only need to submit 5 synopses out of the 7 opportunities to do so. You don't need to notify me. I will NOT accept late synopses, but if you're late you can take one of your two free passes.
 
