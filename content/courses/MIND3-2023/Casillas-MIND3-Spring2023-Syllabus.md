@@ -1,8 +1,8 @@
-# Mind 3 (Section 9; Casillas)
+# Mind 3 (Section 12; Casillas)
 
-Spring 2022
+Spring 2023
 
-Thursdays 11:00am-12:20am Chicago time
+Thursdays 11:00am-12:20am
 
 Office hours: Thursdays 1:00–2:00pm, or by appointment.
 
