@@ -56,7 +56,7 @@ It is expected that, by the end of the course, students will be able to explain 
 
 **Office hours:**
 
-* Dr. Casillas: Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking).
+* Dr. Casillas: Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking)
 * Jenny Haizhao Bo: Wednesdays 1–2pm in Rosenwald 318E or Zoom (email, or by appointment at [Calendly](https://calendly.com/jennybo/oh)
 * Ben Morris: Mondays 2–3pm in Kelly 206 or Zoom (email), or by appointment (email)
 
@@ -159,7 +159,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 * Pre-class reading: [Sidnell, J. (2016). Conversation Analysis. Oxford Research Encyclopedia of Linguistics.](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-40) and [Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd.](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
 
-### Tuesday, 11 April 2023 (4.1): The Human Interaction Engine
+### Tuesday, 11 April 2023 (4.1): The Human Interaction Engine (Ben Morris)
 
 <!--[[slides]](https://docs.google.com/presentation/d/1ienWbolsmrh79rFfsOLOx_osgqilmbrY/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
 
@@ -211,7 +211,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 7
 
-### Tuesday, 2 May 2023 (7.1): Joint commitment
+### Tuesday, 2 May 2023 (7.1): Joint commitment (Jenny Bo)
 
 <!--[[slides]](https://docs.google.com/presentation/d/1Li3tiBMgWc3OoYBQ9WkQiuEfEMiuiVKZprTtCAZa6ic/edit?usp=sharing)--> <!--[[recording]]()-->
 
@@ -275,7 +275,7 @@ Scientific report due, including: Study 1 on our class replication of [Schober &
 
 **Office:** Rosenwald 318A
 
-**Office hours:** Mondays 4-5pm (Rosenwald Hall 318A) or by appointment
+**Office hours:** Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking)
 
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.
