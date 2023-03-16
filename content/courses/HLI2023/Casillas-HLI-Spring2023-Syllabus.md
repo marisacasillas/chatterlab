@@ -88,7 +88,9 @@ Students enrolled in this course will be graded on the following basis:
 
 ### Mini papers (45% of grade)
 
-Over the course of the quarter, students will submit three mini papers (up to 15% each; 2500 words max). Mini papers typically engage with real data of some kind. Papers will be evaluated based on their (a) thoroughness and attention to detail with respect to the data/prompt, and (b) quality of discussion relating the data to course materials. Personal anecdotes, broad questions, and critiques not accompanied by constructive commentary will **not** count as sufficient discussion topics. Note: There are four opportunities to submit mini papers—students can choose which three they would like to submit (students may not submit a fourth paper for extra credit or for a 'redo' of a previous paper).
+Over the course of the quarter, students will submit three mini papers (up to 15% each; 2500 words max). Mini papers typically engage with real data of some kind. Papers will be evaluated based on their (a) thoroughness and attention to detail with respect to the data/prompt, and (b) quality of discussion relating the data to course materials. We strongly discourage students from centering their responses on personal anecdotes or pure critique. Responses should instead make specific, clear connections to relevant course concepts, and critical commentary should be accompanied by integrative and/or constructive framing.
+
+Note: There are four opportunities to submit mini papers—students can choose which three they would like to submit (students may NOT submit a fourth paper for extra credit or for a 'redo' of a previous paper).
 
 ### Participation (10% of grade)
 
@@ -104,7 +106,7 @@ We will replicate some of the classic findings reported in [Schober & Clark's (1
 6. Review of results (in class, led by Dr. Casillas)
 7. Scientific report (due Tuesday of finals week, 4000 words *max*; 25% of grade)
 
-We will spend some time on learning the basics of scientific report writing and you will receive a grading rubric for the final paper at that session.
+We will spend some time on learning the basics of scientific report writing.
 
 ### Extra credit
 
@@ -150,7 +152,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 4
 
-* **Mini paper 1 due today**: Choose a complex joint activity that has _NOT_ been discussed in the book or in class. Describe the activity you have chosen. Using Clark's concepts, demonstrate what its component parts and other qualifiers are that make it a good example of a joint activity. Include at least one figure mapping out its component parts and their relations  (e.g., roles, layers, nested/sequential actions). [2500 words **max**; [rubric](../miniassignment1-rubric/)]
+* **Mini paper 1 due today** <!--: Choose a complex joint activity that has _NOT_ been discussed in the book or in class. Describe the activity you have chosen. Using Clark's concepts, demonstrate what its component parts and other qualifiers are that make it a good example of a joint activity. Include at least one figure mapping out its component parts and their relations  (e.g., roles, layers, nested/sequential actions). [2500 words **max**; [rubric](../miniassignment1-rubric/)]-->
 
 ### Thursday, 6 April 2023 (3.2): Introduction to Conversation Analysis
 
@@ -165,7 +167,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: [Levinson, S. C. (2019). Interactional foundations of language: The interaction engine hypothesis. In _Human language: From genes and brain to behavior_ (pp. 189-200). MIT Press.](https://pure.mpg.de/rest/items/item_3171367_3/component/file_3186123/content)
 
-* **Mini paper 2 due today**: Devise a Schelling game (linguistic or non-linguistic) and run it on 4–6 of your friends. Describe how you set up your game, why, what you expected the outcome to be, and what the actual outcome was. Discuss your reported findings in a way that engages directly with big ideas from the course for full credit [2500 words **max**; [rubric](../miniassignment2-rubric/)]
+* **Mini paper 2 due today** <!--: Devise a Schelling game (linguistic or non-linguistic) and run it on 4–6 of your friends. Describe how you set up your game, why, what you expected the outcome to be, and what the actual outcome was. Discuss your reported findings in a way that engages directly with big ideas from the course for full credit [2500 words **max**; [rubric](../miniassignment2-rubric/)]-->
 
 
 ## Module 3: Communication, language, and action
@@ -185,7 +187,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 8
 
-*  <span style="color:orange">**Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE end of day on Wednesday, April 27th_, and send your participants the official Zoom link (we will provide one). Cc your TA to confirm that you have done this.</span>
+*  <span style="color:orange">**Due today for the scientific report**: Find two participants for the matcher-director portion of data collection, establish a testing time _BEFORE end of day on Wednesday, April 19th_, and send your participants the session information. Cc your TA to confirm that you have done this.</span>
 
 ### Thursday, 20 April 2023 (5.2): Understanding intentions and signaling
 
@@ -201,7 +203,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 9 + [Holler, J., & Bavelas, J. (2017). Multi-modal communication of common ground: A review of social functions. In R. B. Church, M. W. Alibali, & S. D. Kelly (Eds.), Why gesture? How the hands function in speaking, thinking and communicating (pp. 213-240). Amsterdam: Benjamins.](https://pure.mpg.de/rest/items/item_2352807_13/component/file_2459489/content)
 
-* **Mini paper 3 due today**: Describe the difference between signal meaning and speaker (producer) meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the producer meaning from the signal [2500 words **max**; [rubric](../miniassignment3-rubric/)]
+* **Mini paper 3 due today** <!--: Describe the difference between signal meaning and speaker (producer) meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the producer meaning from the signal [2500 words **max**; [rubric](../miniassignment3-rubric/)]-->
 
 ## Module 4: Discourse, narrative, and joint projects
 
@@ -227,9 +229,9 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 * Pre-class reading: UL Chapter 11
 
-* <span style="color:orange">**Due today for the scientific report**: Find one participant for the overhearer portion of data collection, establish a testing time _BEFORE end of day on Monday, May 16th_, and send your participant the official Zoom link (same as before). Cc your TA to confirm that you have done this.</span>
+* <span style="color:orange">**Due today for the scientific report**: Find one participant for the overhearer portion of data collection, establish a testing time _BEFORE end of day on Monday, May 8th_, and send your participant the session information. Cc your TA to confirm that you have done this.</span>
 
-* **Mini paper 4 due today**: Find an example of a conversation "in the wild" (e.g., spontaneous conversations, interviews, and the like on youtube, tiktok, etc.) in which two or more of the talkers use multiple depictive gestures. Unscripted content is strongly preferred but not required if you have a particularly interesting scripted example in mind. Provide a link where we can access the example. Describe, in detail, three of the gestures and their meanings (make sure to tell us precisely when in the conversation each gesture occurs). For each gesture, describe how it relates to other ongoing verbal and non-verbal signals by that same talker and also how it relates to the ongoing discourse context between the talkers engaged in the interaction. As part of your description of each gesture, make an argument using course concepts and your own observations about the intended function of that gesture in that particular context. [2500 words **max**; [rubric](../miniassignment4-rubric/)]
+* **Mini paper 4 due today** <!--: Find an example of a conversation "in the wild" (e.g., spontaneous conversations, interviews, and the like on youtube, tiktok, etc.) in which two or more of the talkers use multiple depictive gestures. Unscripted content is strongly preferred but not required if you have a particularly interesting scripted example in mind. Provide a link where we can access the example. Describe, in detail, three of the gestures and their meanings (make sure to tell us precisely when in the conversation each gesture occurs). For each gesture, describe how it relates to other ongoing verbal and non-verbal signals by that same talker and also how it relates to the ongoing discourse context between the talkers engaged in the interaction. As part of your description of each gesture, make an argument using course concepts and your own observations about the intended function of that gesture in that particular context. [2500 words **max**; [rubric](../miniassignment4-rubric/)]-->
 
 
 ## Module 5:
