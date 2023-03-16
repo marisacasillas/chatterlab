@@ -4,37 +4,63 @@ Spring 2023
 
 Thursdays 11:00am-12:20am
 
-Office hours: Thursdays 1:00–2:00pm, or by appointment.
+**Office hours:** Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking)
 
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 
+## Grading 
 
-## Weekly assignments
-* Wednesdays: Question and synopsis due before midnight Chicago time
-* Thursdays in class: 1-question reading comprehension quiz
+* 30% participation
+* 40% weekly paper
+* 30% final paper
+* REQUIRED: 2hr of [SONA credit](http://uchicago.sona-systems.com/)
 
-## Assignment descriptions
+### Self grading
 
-### Question and synopsis
+For each assignment and for your participation, I will give you a rubric to self assess your work. You will then be able to give yourself a proposed grade, which I can accept or change. I only plan to change your proposed grade if your proposal is substantially different from what I would give you.
 
-Post to Canvas discussion board (**in this order**):
+<!--
+1. explain self assessment, go through SA for this week, elicit clarification questions, discussion
+2–4. go through SA, elicit CQ, discussion
+5. explain LitRev, go through SA, elicit CQ, discussion
+6. go through SA, elicit CQ, discussion
+7. peer-review of proposals, self-review of proposals
+8. go through SA, elicit CQ wk 7-8, discussion wk 7-8
+9. peer-review of new lit, self-review of new lit
+-->
 
-1. A succinctly stated **question** directly derived from the week’s readings and lecture (two-three sentences at most). This should be a question that emerges from having understood the claims presented in the readings and/or lecture, not just a general question that one could ask of the topic without having read the material or heard the lecture.
-2. A **synopsis** of one of the readings (see directions for week 1 [here](../course_instructions/wk1-synopsis/) and the other weeks [here](../course_instructions/wk2to9-synopsis/))
+## Participation
 
-Your question + synopsis each week will be graded on a scale of 0 (not submitted) to 3 (great). A full score of 3 will be assigned for thoughtful, well-written posts that have all the required sub-parts (see above) and engage deeply with the cited content.
+In-class time is reserved for clarification, discussion, and self assessment activities. If you have not done the reading for that discussion, you are encouraged to spend the hour making up the reading time on your own rather than attending discussion (seriously!)
 
-### 1-question comprehension quiz
+You will rate your participation at the end of the quarter.
 
-I will pick one quick question from the readings for that week that you should be able to answer if you have read the papers. The quiz is given at the start of our Thursday section hour. There is no make-up quiz, so please come on time.
+## Weekly paper
 
-## Grading
+You will complete 7 weekly papers: 5 synopses and 2 increments to a literature review that will become your final paper.
 
-* Weekly question + synopsis: 70%
-* Final paper: 25%
-* Attendance (includes comprehension quizzes): 5%
+### Synopses 
 
-## Final paper deadline (Tuesday, 31 May 2022)
+[Instructions](../course_instructions/wkly-syn/)
+
+Synopses are due in weeks 1–5, 6, and 8. **Synopses are due BEFORE the start of section.**
+
+NOTE: You get a free pass on two synopses. That is, you only need to submit 5 synopses out of the 7 opportunities to do so. You don't need to notify me. I will NOT accept late synopses, but if you're late you can take one of your two free passes.
+
+You will assess the quality of your synopses in class.
+
+### Literature review increments
+
+[Instructions](../course_instructions/wkly-litrev/)
+
+Literature review increments are due in weeks 7 and 9. **Literature reviews are due BEFORE the start of section.**
+
+NOTE: You can NOT apply a free "pass" to a literature review assignment.
+
+You will assess the quality of your and your peers' literature review increments in class.
+
+
+## Final paper deadline (Tuesday, 23 May 2023)
 [Instructions](../course_instructions/final-paper/)
 
 # Contact
@@ -42,7 +68,7 @@ I will pick one quick question from the readings for that week that you should b
 
 **Office:** Rosenwald 318A
 
-**Office hours:** Thursdays 1:00–2:00pm, or by appointment.
+**Office hours:** Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking)
 
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.
