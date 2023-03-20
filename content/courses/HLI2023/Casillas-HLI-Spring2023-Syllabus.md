@@ -121,13 +121,13 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 21 March 2023 (1.1): Introduction and syllabus
 
-<!--[[slides]](https://docs.google.com/presentation/d/1E1eI1IhWSLfaYPjsJ21fIXE-xFeKr3hT/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1E1eI1IhWSLfaYPjsJ21fIXE-xFeKr3hT/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
 * Pre-class reading: None!
 
 ### Thursday, 23 March 2023 (1.2): Language use
 
-<!--[[slides]](https://docs.google.com/presentation/d/11VCh8BDRuEhe6WUmsxUD1Cuo66xYZkec/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/11VCh8BDRuEhe6WUmsxUD1Cuo66xYZkec/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 1
 
