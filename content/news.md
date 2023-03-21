@@ -1,10 +1,13 @@
 # chatter news
 
+### March 2023
+* [Marisa Casillas's](../bios/marisa-aboutme/) paper with [Alejandrina Cristia](https://sites.google.com/site/acrsta), [Ruthe Foushee](https://ruthefoushee.com/), [Paulina Aravena-Bravo](https://www.uchile.cl/portafolio-academico/portafolio-academico/academico/71256), [Margaret Cychosz](https://megseekosh.github.io/), and [Camila Scaff](https://camilascaff.com/) was published in the _Journal of Child Language_. Read it [here](/lab-publications/Cristia_et_al_2023_Combining_observational_and_experimental_approaches_JCL.pdf).
+
 ### January 2023
 * The Chatter Lab welcomed three new undergraduate RAs ([Carla Escalante](../bios/carla-aboutme/), [Mia Rimmer](../bios/mia-aboutme/), and [Ruby Swensen](../bios/ruby-aboutme/)) to the team!
 
 ### December 2022
-* [Dr. Camila Scaff](https://camilascaff.com/) received funding through the [Center for International Social Science Research](https://cissr.uchicago.edu/) to join us this summer! Read about her project with [Marisa Casillas](../bios/marisa-aboutme/), _Implementing a cross-cultural field-friendly infant-directed speech preference study_, [here](https://cissr.uchicago.edu/23-24-FacultyProject-Casillas).
+* [Camila Scaff](https://camilascaff.com/) received funding through the [Center for International Social Science Research](https://cissr.uchicago.edu/) to join us this summer! Read about her project with [Marisa Casillas](../bios/marisa-aboutme/), _Implementing a cross-cultural field-friendly infant-directed speech preference study_, [here](https://cissr.uchicago.edu/23-24-FacultyProject-Casillas).
 
 ### November 2022
 * [Marisa Casillas's](../bios/marisa-aboutme/) paper entitled Language learning in vivo was published in _Child Development Perspectives_! Read it [here](/lab-publications/Casillas_2022_Learning_language_in_vivo_CDP.pdf).
