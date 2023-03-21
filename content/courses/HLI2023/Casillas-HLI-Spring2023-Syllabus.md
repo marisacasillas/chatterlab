@@ -110,7 +110,7 @@ We will spend some time on learning the basics of scientific report writing.
 
 ### Extra credit
 
-You may earn up to 2 points of extra credit by participating in an ongoing experiment in the Chatter Lab. If you are interested in participating, contact lab manager Kennedy Casey (kbcasey@uchicago.edu) to schedule an appointment.
+You may earn up to 2 points of extra credit by participating in an ongoing experiment in the Chatter Lab. If you are interested in participating, contact lab manager Kennedy Casey (chatterlab@uchicago.edu) to schedule an appointment.
 
 ----
 
