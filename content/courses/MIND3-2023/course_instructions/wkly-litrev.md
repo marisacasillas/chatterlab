@@ -27,3 +27,5 @@ I will give feedback on your proposal, including recommended adjustments to the 
 * Submit synopses for the new 3 readings and add to each synopsis how that paper is citation-linked to the key paper.
 
 * Submit a 2–3 paragraph [max 1500 words] summary that briefly describes each study and how the studies interrelate. Do your best to pull out the major puzzle or theory that emerges when considering the studies together. You are encouraged to build on the text you submitted in week 7 insofar as that is useful for your summary.
+
+[[back to main page](../../casillas-mind3-spring2023-syllabus/)]

@@ -56,3 +56,5 @@ NOTE: Unless you explicitly ask for detailed feedback I will only give a summary
 ### Plagiarism
 
 Clearly attribute your sources and do not represent others' words as your own (including an AI's). The consequence of plagiarism is failing this course.
+
+[[back to main page](../../casillas-mind3-spring2023-syllabus/)]
