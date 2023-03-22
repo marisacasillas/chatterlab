@@ -28,4 +28,4 @@ After reading and analyzing the week's assigned articles by applying the methods
     
 **Implications and future directions:** What are the next steps for work, on the basis of the reviewed findings, and why? 
 
-[[back to main page](../../Casillas-MIND3-Spring2023-Syllabus/)]
+[[back to main page](../../casillas-mind3-spring2023-syllabus/)]
