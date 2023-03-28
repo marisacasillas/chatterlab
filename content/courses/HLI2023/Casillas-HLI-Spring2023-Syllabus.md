@@ -135,13 +135,13 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 28 March 2023 (2.1): Joint activities
 
-<!--[[slides]](https://docs.google.com/presentation/d/1YX-YzfpDGOEmWwOX0-kMjQZQ-TXHig3H/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1YX-YzfpDGOEmWwOX0-kMjQZQ-TXHig3H/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 2
 
 ### Thursday, 30 March 2023 (2.2): Joint actions
 
-<!--[[slides]](https://docs.google.com/presentation/d/1_c57MUJAXWFaoBePk2tIPnFsvSELyfV8/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1_c57MUJAXWFaoBePk2tIPnFsvSELyfV8/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 3
 
