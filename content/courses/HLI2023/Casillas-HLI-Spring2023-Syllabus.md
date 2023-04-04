@@ -148,7 +148,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 4 April 2023 (3.1): Common ground
 
-<!--[[slides]](https://docs.google.com/presentation/d/1KJ1ysJQiCyoiaVLS7KU08sjeb1Sqmg-h/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1KJ1ysJQiCyoiaVLS7KU08sjeb1Sqmg-h/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 4
 
@@ -156,7 +156,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 6 April 2023 (3.2): Introduction to Conversation Analysis
 
-<!--[[slides]](https://docs.google.com/presentation/d/1FJsX9Z7y9FgbQQESfLHdDmS5UFb-HY5g/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1FJsX9Z7y9FgbQQESfLHdDmS5UFb-HY5g/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
 * Pre-class reading: [Sidnell, J. (2016). Conversation Analysis. Oxford Research Encyclopedia of Linguistics.](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-40) and [Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd.](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
