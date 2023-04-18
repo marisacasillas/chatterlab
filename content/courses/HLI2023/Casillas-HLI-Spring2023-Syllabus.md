@@ -1,23 +1,6 @@
 <!--
 NOTES FOR NEXT TIME:
 
-# issues w/ DM portion of experiment
-- needed app to record (i.e., not on phone)
-- had another thing too soon after -- can't minimize screen
-- one participant needed to use phone
-- rescheduling link changed the link and that meant re-sending so caused a time panic
-- laptop dying/zoom crashing
-- can't see participants in recording
-- someone lost wifi for 20 sec
-- use official uchicago Zoom account; some didn't infer this
-- ... and from myself; i'm still worried somehow they are sharing videos
-- ... and from myself; take two full lectures to go through instructions
-
-
-MA3: Go over producer vs. signal meaning in more depth
-
-
-
 # more on what made annotation difficult after MD
 what isn't obvious in annotation?
 talk that is not on task
@@ -35,8 +18,6 @@ Info to add to the results that were presented in class
 - how often people change their placements
 - how often the overhearers are leaving things blank
 - if people are related vs. not affect accuracy (not this year)
-
-
 -->
 
 
@@ -183,7 +164,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 18 April 2023 (5.1): Grounding 
 
-<!--[[slides]](https://docs.google.com/presentation/d/1Qo8pXMaORtScaIFbslPTv9t20YXeMnlT1Qt8u8bULuY/edit?usp=sharing)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1Qo8pXMaORtScaIFbslPTv9t20YXeMnlT1Qt8u8bULuY/edit?usp=sharing) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 8
 
@@ -191,7 +172,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 20 April 2023 (5.2): Understanding intentions and signaling
 
-<!--[[slides]](https://docs.google.com/presentation/d/1RI5Qdyk10WXO7cGRBamdnnEHIydJd2peyL89hpUlhEg/edit?usp=sharing)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1RI5Qdyk10WXO7cGRBamdnnEHIydJd2peyL89hpUlhEg/edit?usp=sharing) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 5 + UL Chapter 6
 
