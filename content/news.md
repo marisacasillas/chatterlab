@@ -1,5 +1,11 @@
 # chatter news
 
+### April 2023
+* [Marisa Casillas](../bios/marisa-aboutme/) received an NSF CAREER award for her project entitled _Investigating the Noun Bias in Early Language Acquisition_. Read more [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238609&HistoricalAwards=false)!
+* Mara Duquette and [Alexander Stern](../bios/alex-aboutme) presented at the [Undergraduate Research Symposium](https://ccrf.uchicago.edu/uchicagoresearchsymposium) about the work they completed in the Chatter Lab last summer. Check out their posters [here](https://ugradresearchsymposium.omeka.net/items/show/115_) and [here](https://ugradresearchsymposium.omeka.net/items/show/103).
+* The Chatter Lab begin its first in-person infant study! In this project led by [Mandy Seccia](https://voices.uchicago.edu/bermanlab/amanda-seccia/), we are using fNIRS to measure English-learning infants' phoneme discrimination.
+* [Lizzie Mickiewicz](../bios/lizzie-aboutme.md) and [Sarah Sommer](../bios/sarah-aboutme.md) received [College Summer Institute](https://ccrf.uchicago.edu/undergraduate-research/college-summer-institute-csi) grants to work in the lab this summer!
+
 ### March 2023
 * [Marisa Casillas's](../bios/marisa-aboutme/) paper with [Alejandrina Cristia](https://sites.google.com/site/acrsta), [Ruthe Foushee](https://ruthefoushee.com/), [Paulina Aravena-Bravo](https://www.uchile.cl/portafolio-academico/portafolio-academico/academico/71256), [Margaret Cychosz](https://megseekosh.github.io/), and [Camila Scaff](https://camilascaff.com/) was published in the _Journal of Child Language_. Read it [here](/lab-publications/Cristia_et_al_2023_Combining_observational_and_experimental_approaches_JCL.pdf).
 
