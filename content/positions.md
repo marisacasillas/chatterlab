@@ -2,7 +2,7 @@
 
 ### Lab manager
 
-We are hiring a new lab manager! [Kennedy Casey](https://kennedycasey.github.io/), our inaugural LM is off to grad school and we are so so lucky to have worked with her. Perhaps you're our next dream lab manager? Please find job details [here](https://docs.google.com/document/d/1AZxkQaq-5_pa_KK1VIJjAMtgJWh78Sapmp0f64Dzn6M/edit?usp=sharing) and feel free to reach out to Dr. Casillas with any questions.
+We are hiring a new lab manager! [Kennedy Casey](https://kennedycasey.github.io/), our inaugural LM, is off to grad school and we are so so lucky to have worked with her. Perhaps you're our next dream lab manager? Please find job details [here](https://docs.google.com/document/d/1AZxkQaq-5_pa_KK1VIJjAMtgJWh78Sapmp0f64Dzn6M/edit?usp=sharing) and feel free to reach out to Dr. Casillas with any questions.
 
 
 ### PhD students
