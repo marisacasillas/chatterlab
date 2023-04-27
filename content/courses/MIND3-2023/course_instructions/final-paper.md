@@ -44,9 +44,10 @@ There are four parts to the full final paper:
 
 Final grades will reflect:
 
-1. Quality of the chosen set of readings (i.e., do they present a coherent sampling of a specific—and pre-approved—topic?);
-2. Quality of the literature review text (i.e., are the readings covered in sufficient depth and explained in a manner that draws out core concepts, common themes, and critical differences/conflicts?);
-3. Strength of the thematic connection between the topic, the literature review outcomes, and the course topic of context effects in psychology.
+1. Quality of the chosen set of readings (i.e., do you present a coherent sampling of a specific—and pre-approved—topic?);
+2. Quality of the literature review text (i.e., are the readings covered in sufficient depth and explained in a manner that draws out the core concepts and methods in each, common themes across papers, and critical differences/conflicts in methods, findings, topics, etc.?);
+3. Clarity of the theoretical content (i.e., do you effectively convey the key theories, hypotheses, and concepts that provide a basis for discourse between the publications you have selected? If your publications conflict in their theoretical content, make that clear too and describe how and why.)
+4. Strength of the thematic connection between the topic, the literature review outcomes, and the course topic of context effects in psychology.
 
 I will make my own assessment on these three points before reviewing your self assessment and I will take both our perspectives into account in giving you a final grade.
 
