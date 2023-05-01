@@ -25,13 +25,15 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 #### Senior honors students
 
-[Kimberly Shorter](/bios/kimberly-aboutme/)
+[Kimberly Shorter](/bios/kimberly-aboutme/) (2023)
 
-[Jordyn Martin](/bios/jordyn-aboutme/)
+[Jordyn Martin](/bios/jordyn-aboutme/) (2023)
+
+[Sarah Kelso](/bios/sarahk-aboutme/) (2024)
+
+[Lizzie Mickiewicz](/bios/lizzie-aboutme/) (2024)
 
 #### Research assistants
-
-[Lizzie Mickiewicz](/bios/lizzie-aboutme/)
 
 [Emily Chan](/bios/emily-aboutme/)
 
