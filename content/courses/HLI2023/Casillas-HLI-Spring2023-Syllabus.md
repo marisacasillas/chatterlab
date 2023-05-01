@@ -196,7 +196,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 2 May 2023 (7.1): Joint commitment (Jenny Bo)
 
-<!--[[slides]](https://docs.google.com/presentation/d/1Li3tiBMgWc3OoYBQ9WkQiuEfEMiuiVKZprTtCAZa6ic/edit?usp=sharing)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1tErTDRKmhq5HeHBesTVrqcRo6LosccyQ/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 10
 
@@ -206,7 +206,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 4 May 2023 (7.2): Conversation
 
-<!--[[slides]](https://docs.google.com/presentation/d/1HlLlvMrBgTCAfU4VfELzhfVb4R39b-hEe2L25T4HVGI/edit?usp=sharing)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1HlLlvMrBgTCAfU4VfELzhfVb4R39b-hEe2L25T4HVGI/edit?usp=sharing) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 11
 
