@@ -12,13 +12,11 @@ Your paper should have headings and subheadings with the following structure:
 * Abstract
 * Introduction
 * Study 1
-	* Method
-	* Results
-<!--	* Transition motivating study 2-->
+  * Method
+  * Results
 * Study 2
-<!--	* Mini intro motivating study 2-->
-	* (Proposed) Method
-	* (Anticipated) Results
+  * Proposed Method
+  * Anticipated Results
 * General discussion
 * References
 
