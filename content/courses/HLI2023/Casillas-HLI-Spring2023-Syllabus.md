@@ -219,7 +219,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 9 May 2023 (8.1):  Layering
 
-<!--[[slides]](https://docs.google.com/presentation/d/1TX-7uyapPhVSzWMz6Kv-qogWw6lWDEZnJKFNKoa2tAw/edit?usp=sharing)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1TX-7uyapPhVSzWMz6Kv-qogWw6lWDEZnJKFNKoa2tAw/edit?usp=sharing) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 12
 
