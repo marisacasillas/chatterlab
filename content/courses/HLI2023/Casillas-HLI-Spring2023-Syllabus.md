@@ -237,13 +237,12 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 * Pre-class reading: None! But bring your laptop for in-class writing activities.
 
 
-### Tuesday, 16 May 2023 (9.1): Guest lecture from Jenny Haizhao Bo
+### Tuesday, 16 May 2023 (9.1): Studying Language and Culture in Cross-Cultural Context (Jenny)
 
 <!--[[slides]]()--> <!--[[recording]]()-->
 
 * Pre-class reading:
-    * Required: [Halic, Olivia; Greenberg, Katherine; and Paulus, Trena (2009). Language and Academic Identity: A Study of the Experiences of Non-Native English Speaking International Students. International Education, Vol. 38 Issue (2).](https://www.dropbox.com/s/mu0t10t4kgn0kcz/Halic%20et%20al.%20-%20Language%20and%20Academic%20Identity%20A%20Study%20of%20the%20Exp.pdf?dl=0)
-    * Supplementary (_optional_): [Noels, Kimberly & Pon, Gordon & Clément, Richard. (1996). Language, Identity, and Adjustment: The Role of Linguistic Self-Confidence in the Acculturation Process. Journal of Language and Social Psychology. 15. 246-264. 10.1177/0261927X960153003.](https://www.dropbox.com/s/54hcxfm9yu18pfl/Noels1996JournalofLanguageandSocialPsychology.pdf?dl=0)
+    * Bo, H (2022). Acculturation and Language: An Examination of Chinese International Students Experience in the US. Knowledge UChicago, [https://doi.org/10.6082/uchicago.4059](https://doi.org/10.6082/uchicago.4059) [[pdf]](https://www.dropbox.com/s/54hcxfm9yu18pfl/Noels1996JournalofLanguageandSocialPsychology.pdf?dl=0)
 
 
 ### Thursday, 18 May 2023 (9.2): Guest lecture from Ben Morris
