@@ -249,7 +249,8 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 <!--[[slides]]()--> <!--[[recording]]()-->
 
-* Pre-class reading: TBD
+* Pre-class reading:
+    * [Morris, B., Yurovsky, D., & Shaw, A. (under review). “Um...” Thinking out loud: Children infer the social meaning of speech disfluencies.](https://www.dropbox.com/s/mzi87oajo1dp1mk/umm_manuscript_HLI.pdf?dl=0)
 
 
 ## Final deadline (Tuesday, 23 May 2023)
