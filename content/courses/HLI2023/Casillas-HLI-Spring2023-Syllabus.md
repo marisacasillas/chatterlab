@@ -232,9 +232,9 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 11 May 2023 (8.2): Presentation of replication findings + how to write a scientific report
 
-<!--[[slides]](https://docs.google.com/presentation/d/1LHTzJKN9NuFEaAPJd_g50GUW9P7hcx0R0Pf_qrfZCzc/edit?usp=sharing)--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1LHTzJKN9NuFEaAPJd_g50GUW9P7hcx0R0Pf_qrfZCzc/edit?usp=sharing) <!--[[recording]]()-->
 
-* Pre-class reading: None! But bring your laptop for in-class writing activities.
+* Pre-class reading: None!
 
 
 ### Tuesday, 16 May 2023 (9.1): Studying Language and Culture in Cross-Cultural Context (Jenny)
