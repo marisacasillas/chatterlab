@@ -242,7 +242,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 <!--[[slides]]()--> <!--[[recording]]()-->
 
 * Pre-class reading:
-    * Bo, H (2022). Acculturation and Language: An Examination of Chinese International Students Experience in the US. Knowledge UChicago, [https://doi.org/10.6082/uchicago.4059](https://doi.org/10.6082/uchicago.4059) [[pdf]](https://www.dropbox.com/s/54hcxfm9yu18pfl/Noels1996JournalofLanguageandSocialPsychology.pdf?dl=0)
+    * Bo, H (2022). Acculturation and Language: An Examination of Chinese International Students Experience in the US. Knowledge UChicago, [https://doi.org/10.6082/uchicago.4059](https://doi.org/10.6082/uchicago.4059) [[pdf]](https://www.dropbox.com/s/mwzu18chi21e47o/Bo_AcculturationandLanguage.pdf?dl=0)
 
 
 ### Thursday, 18 May 2023 (9.2): Guest lecture from Ben Morris
