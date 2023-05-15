@@ -239,7 +239,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Tuesday, 16 May 2023 (9.1): Studying Language and Culture in Cross-Cultural Context (Jenny)
 
-<!--[[slides]]()--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1hIi8IBqqFVb-wwF8JWU6GxPK8cf5eic5RbmDY1Zy0lM/edit?usp=sharing) <!--[[recording]]()-->
 
 * Pre-class reading:
     * Bo, H (2022). Acculturation and Language: An Examination of Chinese International Students Experience in the US. Knowledge UChicago, [https://doi.org/10.6082/uchicago.4059](https://doi.org/10.6082/uchicago.4059) [[pdf]](https://www.dropbox.com/s/mwzu18chi21e47o/Bo_AcculturationandLanguage.pdf?dl=0)
