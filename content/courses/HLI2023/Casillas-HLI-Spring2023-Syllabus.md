@@ -247,7 +247,7 @@ You may earn up to 2 points of extra credit by participating in an ongoing exper
 
 ### Thursday, 18 May 2023 (9.2): Guest lecture from Ben Morris
 
-<!--[[slides]]()--> <!--[[recording]]()-->
+[[slides]](https://docs.google.com/presentation/d/1YX6pADIy-K7jjK_4wuBLOGTQHLGXTbBL/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
 * Pre-class reading:
     * [Morris, B., Yurovsky, D., & Shaw, A. (under review). “Um...” Thinking out loud: Children infer the social meaning of speech disfluencies.](https://www.dropbox.com/s/mzi87oajo1dp1mk/umm_manuscript_HLI.pdf?dl=0)
