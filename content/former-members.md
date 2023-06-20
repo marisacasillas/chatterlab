@@ -2,33 +2,41 @@
 
 ### Masters students
 
-Jenny Bo
+Erika Prado (MA 2022)
 
-Bram Puete
+Jenny Bo (MA 2022)
 
-Mary Elliott
+Mary Elliott (MA 2022, UT Dallas)
+
+Bram Puete (MA 2021, Radboud University)
 
 ### Undergraduate students
 
-Xuanyi Zhang
+Emily Chan (BA 2023)
 
-Cam Friedman
+Kimberly Shorter (BA 2023)
 
-Carla Suarez Soto
+Mia Rimmer (BA 2023)
 
-Will Fisher
+Xuanyi Zhang (BA 2023)
 
-Mara Duquette
+Cam Friedman (BA 2023)
 
-Anapaula Silva Mandujano
+Carla Suarez Soto (BA 2023, UC Santa Barbara)
 
-Alyssa Guillu
+Will Fisher (BA 2024)
 
-Erica Hsieh
+Mara Duquette (BA 2024)
 
-Mary Norgan 
+Anapaula Silva Mandujano (BA 2024)
 
-Jack Demchak
+Alyssa Guillu (BA 2022)
+
+Erica Hsieh (BA 2022)
+
+Mary Norgan (BS 2022)
+
+Jack Demchak (BA 2022)
 
 ### High school students
 

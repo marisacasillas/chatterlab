@@ -15,27 +15,22 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 ### PhD students
 
-[Erika Prado](/bios/erika-aboutme/)
-
 [Isabella Di Giovanni](/bios/isabella-aboutme/)
 
 [Yuchen Jin](/bios/yuchen-aboutme/)
 
-### Undergraduate students
+### Research assistants
+
+#### Postbacs
+[Jordyn Martin](/bios/jordyn-aboutme/)
 
 #### Senior honors students
 
-[Kimberly Shorter](/bios/kimberly-aboutme/) (2023)
+[Lizzie Mickiewicz](/bios/lizzie-aboutme/) 
 
-[Jordyn Martin](/bios/jordyn-aboutme/) (2023)
+[Sarah Kelso](/bios/sarahk-aboutme/) 
 
-[Sarah Kelso](/bios/sarahk-aboutme/) (2024)
-
-[Lizzie Mickiewicz](/bios/lizzie-aboutme/) (2024)
-
-#### Research assistants
-
-[Emily Chan](/bios/emily-aboutme/)
+#### Undergraduate students
 
 [Sarah Sommer](/bios/sarah-aboutme/)
 
@@ -43,10 +38,9 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Carla Escalante](/bios/carla-aboutme/)
 
-[Mia Rimmer](/bios/mia-aboutme/)
-
 [Ruby Swensen](/bios/ruby-aboutme/)
 
+[Alex Klerman](/bios/alexk-aboutme/)
 
 ### <a href="/former-members/"><span style="color:#88941c"> Former members</span></a>
 

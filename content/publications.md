@@ -50,8 +50,6 @@ Peute, A. A. K. & **Casillas, M.** (in press). (Non-)effects of linguistic envir
 
 ## 2021
 
-**Prado, E.** & Bucholtz, M. (2021). Getting dressed as a social activity: The interactional competence of an autistic teenager who doesn't use speech. _Research on Children and Social Interaction, 5_(2), 239–270. [[ms](/lab-publications/Prado_Bucholtz_2021_RoCSI.pdf)]
-
 Soderstrom, M., **Casillas, M.**, Gornik, M., Bouchard, A., MacEwan, S., Shokrkon, A., & Bunce, J. (2021). English-speaking adults' labeling of child- and adult-directed speech across languages and its relationship to perception of affect. _Frontiers in Psychology 12_:708887. [[ms](/lab-publications/Soderstrom_et_al_2021_English_speaking_adults_labeling_of_child_and_adult_directed_speech_across_languages_Frontiers.pdf)]
 
 Vilà‐Giménez, I., **Dowling, N.**, Demir‐Lira, Ö. E., Prieto, P., & Goldin‐Meadow, S. (2021). The Predictive Value of Non‐Referential Beat Gestures: Early Use in Parent–Child Interactions Predicts Narrative Abilities at 5 Years of Age. _Child Development, 92_(6), 2335-2355. [[ms](/lab-publications/VilaGimenez_et_al-2021-The_predictive_value_of_nonreferential_beat_gestures-ChiDev.pdf)]
