@@ -2,7 +2,7 @@
 
 ### June 2023
 * Chatter Lab members Emily Chan, [Jordyn Martin](../bios/jordyn-aboutme/), Mia Rimmer, and Kimberly Shorter graduated from the college. Congratulations!
-* We welcomed [Alex Klerman](../bios-aboutme/) as a new research assistant and [Sarah Kelso](../bios/sarahk-aboutme/) as an undergraduate honors thesis student.
+* We welcomed [Alex Klerman](../bios/alexk-aboutme/) as a new research assistant and [Sarah Kelso](../bios/sarahk-aboutme/) as an undergraduate honors thesis student.
 * [Jordyn Martin](../bios/jordyn-aboutme/) rejoined the lab as a postbac staff member for the next year.
 
 ### April 2023
