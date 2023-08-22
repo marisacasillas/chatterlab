@@ -1,5 +1,11 @@
 # chatter news
 
+### August 2023
+* Chatter Lab has temporarily relocated to Pick Hall while Green Hall is undergoing important renovations to increase building accessibility.
+* We bid our farewells to Ruthe Foushee, Claire Bergey, and Kennedy Casey as they took off for their next exciting opportunities.
+* [Subin Kim](../bios/subin-aboutme/) joined the lab as the new lab manager!
+* [Sarah Sommer](../bios/sarah-aboutme/) and [Lizzie Mickiewicz](../bios/lizzie-aboutme/) presented their summer work in the lab at the [College Summer Institute](https://ccrf.uchicago.edu/undergraduate-research/college-summer-institute-csi)!
+
 ### June 2023
 * Chatter Lab members Emily Chan, [Jordyn Martin](../bios/jordyn-aboutme/), Mia Rimmer, and Kimberly Shorter graduated from the college. Congratulations!
 * We welcomed [Alex Klerman](../bios/alexk-aboutme/) as a new research assistant and [Sarah Kelso](../bios/sarahk-aboutme/) as an undergraduate honors thesis student.

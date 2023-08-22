@@ -1,5 +1,9 @@
 # Former members
 
+### Lab managers
+
+Kennedy Casey
+
 ### Masters students
 
 Erika Prado (MA 2022)
