@@ -2,9 +2,12 @@
 
 ### August 2023
 * Chatter Lab has temporarily relocated to Pick Hall while Green Hall is undergoing important renovations to increase building accessibility.
-* We bid our farewells to Ruthe Foushee, Claire Bergey, and Kennedy Casey as they took off for their next exciting opportunities.
-* [Subin Kim](../bios/subin-aboutme/) joined the lab as the new lab manager!
-* [Sarah Sommer](../bios/sarah-aboutme/) and [Lizzie Mickiewicz](../bios/lizzie-aboutme/) presented their summer work in the lab at the [College Summer Institute](https://ccrf.uchicago.edu/undergraduate-research/college-summer-institute-csi)!
+* We bid our farewells to [Ruthe Foushee](https://ruthefoushee.com/), [Claire Bergey](https://clairebergey.net/), and [Kennedy Casey](https://kennedycasey.github.io/) as they took off for their next exciting opportunities.
+* [Subin Kim](../bios/subin-aboutme/) joined the lab as the new lab manager.
+* [Sarah Sommer](../bios/sarah-aboutme/) and [Lizzie Mickiewicz](../bios/lizzie-aboutme/) presented their summer work in the lab at the [College Summer Institute](https://ccrf.uchicago.edu/undergraduate-research/college-summer-institute-csi).
+* [Jordyn Martin](../bios/jordyn-aboutme/), [Yuchen Jin](../bios/yuchen-aboutme/), and [Kennedy Casey](https://kennedycasey.github.io/) had abstracts accepted at [MPaL](https://www.mpi.nl/events/many-paths-language-mpal-2023) and [BUCLD](https://www.bu.edu/bucld/). Congratulations!
+* [Natalie Dowling](https://www.nrdowling.com/) will soon start up a new position as an Assistant Instructional Professor in Psychology in the UChicago [MAPSS](https://mapss.uchicago.edu/) program. Congratulations, Natalie!
+* [Isabella di Giovanni](../bios/isabella-aboutme/) passed her TR and is graduating with her MA! Congratulations, Isabella!
 
 ### June 2023
 * Chatter Lab members Emily Chan, [Jordyn Martin](../bios/jordyn-aboutme/), Mia Rimmer, and Kimberly Shorter graduated from the college. Congratulations!
