@@ -6,6 +6,8 @@ Kennedy Casey
 
 ### Masters students
 
+Isabella Di Giovanni (MA 2023)
+
 Erika Prado (MA 2022)
 
 Jenny Bo (MA 2022)

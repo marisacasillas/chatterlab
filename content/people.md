@@ -15,8 +15,6 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 ### PhD students
 
-[Isabella Di Giovanni](/bios/isabella-aboutme/)
-
 [Yuchen Jin](/bios/yuchen-aboutme/)
 
 ### Research assistants
