@@ -58,9 +58,9 @@ Active participation is mandatory—any absences should be cleared by the instru
 
 ### Week 6 - Introduction/literature review 2
 
-- Sunday, October 22, 2023 (**Assignment deadline**): <span style="color:green">Carefully read the introductions/literature reviews written by your classmates. For each one: Identify and post at least 2 strong points and 2 constructive criticisms. Comments especially welcome on: organization of ideas, depth of detail, clarity of key concepts.</span>
+- Sunday, October 29, 2023 (**Assignment deadline**): <span style="color:green">Carefully read the introductions/literature reviews written by your classmates. For each one: Identify and post at least 2 strong points and 2 constructive criticisms. Comments especially welcome on: organization of ideas, depth of detail, clarity of key concepts.</span>
 - Monday, October 30, 2023 (**Class**): Workshopping introductions and literature reviews.
-- Thursday, October 26, 2023 (**Assignment deadline**): <span style="color:green">Re-draft the introduction/literature review. Run with the feedback you got in class—even if you think your first draft was mostly good you need to try something new.</span>
+- Thursday, November 2, 2023 (**Assignment deadline**): <span style="color:green">Re-draft the introduction/literature review. Run with the feedback you got in class—even if you think your first draft was mostly good you need to try something new.</span>
 
 ### Week 7 - Stepping back
 
