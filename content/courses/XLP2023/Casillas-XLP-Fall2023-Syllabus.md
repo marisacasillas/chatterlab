@@ -12,8 +12,16 @@ This discussion-based course covers cross-linguistic evidence concerning similar
 
 ## Grading 
 
-* 70% participation
+* 30% reading notes
+* 40% participation
 * 30% final presentation
+
+## Reading notes
+
+For most readings, students are expected to demonstrate their understanding by responding to a handful of questions. There are three general types of readings: journal articles, scientific reviews, and book chapters. For journal articles, students should copy/download and complete the notes worksheet [here](https://docs.google.com/document/d/1mT6H6fQCqaydiYF4awt2YDIXPdRtIvrBP5BRyKYFFZM/edit?usp=sharing). For scientific reviews, book chapters, and opinion/persuasion pieces, students should copy/download and complete the notes worksheet [this worksheet](https://docs.google.com/document/d/1lcwO0JyfbTNhpwvRlScTnhBfJfIzfgLL4Zs4dhDYR0E/edit?usp=sharing).
+
+NOTE: It is up to you to determine which worksheet fits best for a reading, but if individual study methods and findings are detailed in the reading, it is almost always better to use the journal articles worksheet.
+
 
 ## Participation
 
@@ -115,6 +123,8 @@ During the last 1–2 days of class (depending on class size), students will giv
 #### Readings: None!
 
 - Wednesday, November 29, 2023 (**Class**): Research proposal presentations. Attendance is mandatory.
+- Wednesday, November 29, 2023 (**Assignment deadline**): <span style="color:green">Submit your slides and other presentation materials for final evaluation.</span>
+- Wednesday, November 29, 2023 (**Assignment deadline**): <span style="color:green">Submit a self-assessment of your participation this quarter (1 paragraph) for final evaluation.</span>
 
 
 ### Exams week
