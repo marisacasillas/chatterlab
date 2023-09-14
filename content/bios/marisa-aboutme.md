@@ -24,6 +24,10 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 
 ### Courses at UChicago (last taught)
 
+[Crosslinguistic Perspectives on Language Development]({{< ref "courses/XLP2023/Casillas-XLP-Fall2023-Syllabus.md" >}}) (Fall 2023)
+
+[Trial Research II]({{< ref "courses/TR2-2023/Casillas-TR2-Fall2023-Syllabus.md" >}}) (Fall 2023)
+
 [Human Language and Interaction]({{< ref "courses/HLI2023/Casillas-HLI-Spring2023-Syllabus.md" >}}) (Spring 2023)
 
 [Mind III]({{< ref "courses/MIND3-2023/Casillas-MIND3-Spring2023-Syllabus.md" >}}) (Spring 2023)
@@ -48,8 +52,6 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 ### Contact
 
 Office: Rosenwald 318A
-
-Phone: TBA
 
 Email: mcasillas@uchicago.edu
 
