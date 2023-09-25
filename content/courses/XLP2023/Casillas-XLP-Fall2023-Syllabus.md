@@ -4,7 +4,7 @@
 
 **Class:** Wednesdays 1:30pm-4:20pm
 
-**Office hours:** Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking)
+**Office hours:** Book online [here](https://calendar.app.google/9DB3dUzBffuLWqHA9) in Rosenwald 318A or Zoom (please indicate in your online booking)
 
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 
@@ -45,9 +45,9 @@ During the last 1–2 days of class (depending on class size), students will giv
 ### Week 2
 
 #### Readings:
-1. Singh, L., Rajendra, S. J., & Mazuka, R. (2022). Diversity and representation in studies of infant perceptual narrowing. _Child Development Perspectives_, _16_(4), 191-199.
-2. Byers‐Heinlein, K., & Fennell, C. T. (2014). Perceptual narrowing in the context of increased variation: Insights from bilingual infants. _Developmental Psychobiology_, _56_(2), 274-291.
-3. Matusevych, Y., Schatz, T., Kamper, H., Feldman, N., & Goldwater, S. (2022, September 29). Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models. 
+1. Singh, L., Rajendra, S. J., & Mazuka, R. (2022). Diversity and representation in studies of infant perceptual narrowing. _Child Development Perspectives_, _16_(4), 191-199. [https://doi.org/10.1111/cdep.12468]()
+2. Byers‐Heinlein, K., & Fennell, C. T. (2014). Perceptual narrowing in the context of increased variation: Insights from bilingual infants. _Developmental Psychobiology_, _56_(2), 274-291. [https://doi.org/10.1002/dev.21167]()
+3. Matusevych, Y., Schatz, T., Kamper, H., Feldman, N., & Goldwater, S. (2023). Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models. _Cognitive Science_, _47_(7), e13314. [https://doi.org/10.1111/cogs.13314]()
 <!--Bundgaard-Nielsen, R. L., Baker, B. J., Kroos, C. H., Harvey, M., & Best, C. T. (2015). Discrimination of multiple coronal stop contrasts in Wubuy (Australia): A natural referent consonant account. _PLoS One_, _10_(12), e0142054.
 -->
 
@@ -138,7 +138,7 @@ During the last 1–2 days of class (depending on class size), students will giv
 
 **Office:** Rosenwald 318A
 
-**Office hours:** Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking)
+**Office hours:** Book online [here](https://calendar.app.google/9DB3dUzBffuLWqHA9) in Rosenwald 318A or Zoom (please indicate in your online booking)
 
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.
