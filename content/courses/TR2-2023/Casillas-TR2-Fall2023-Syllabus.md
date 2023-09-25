@@ -4,7 +4,7 @@
 
 **Class:** Mondays 1:30pm-4:20pm
 
-**Office hours:** Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking)
+**Office hours:** Book online [here](https://calendar.app.google/9DB3dUzBffuLWqHA9) in Rosenwald 318A or Zoom (please indicate in your online booking)
 
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 
@@ -104,7 +104,7 @@ Active participation is mandatory—any absences should be cleared by the instru
 
 **Office:** Rosenwald 318A
 
-**Office hours:** Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking)
+**Office hours:** Book online [here](https://calendar.app.google/9DB3dUzBffuLWqHA9) in Rosenwald 318A or Zoom (please indicate in your online booking)
 
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.
