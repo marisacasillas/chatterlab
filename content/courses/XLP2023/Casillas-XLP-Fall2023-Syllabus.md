@@ -40,7 +40,7 @@ During the last 1–2 days of class (depending on class size), students will giv
 
 #### Readings: None!
 
-- Wednesday, September 27, 2023 (**Class**): Introductions, background lecture, and reading planning.
+- Wednesday, September 27, 2023 (**Class**): Introductions and [background lecture](https://docs.google.com/presentation/d/1jhLG2ij4U48jrQJWuKQQMQQnasHaAMCVV1eat9IMmeI/edit?usp=sharing).
 
 ### Week 2
 
