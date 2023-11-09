@@ -55,39 +55,37 @@ Active participation is mandatory—any absences should be cleared by the instru
 - Wednesday, October 25, 2023 (**Assignment deadline**): <span style="color:green">Read (don't skim) the introductions selected by your classmates. For each one: Identify and post at least 2 strong points and 1 weak point of the introduction as a piece of academic writing, in your opinion.</span>
 - Thursday, October 26, 2023 (**ZOOM Class**): Introduction to introductions (and literature reviews).
 
-### Week 6 - Introduction/literature review 2
+### Week 6 - canceled
 
-- Tuesday, October 31, 2023 (**Assignment deadline**): <span style="color:green">Draft a rough introduction/literature review to your paper, as appropriate to your subfield. Your draft should motivate and state your research questions and also give the required background to contextualize your study. It does not need to be polished but it does need to be more than bullet points.</span>
-- Wednesday, November 1, 2023 (**Assignment deadline**): <span style="color:green">Carefully read the introductions/literature reviews written by your classmates. For each one: Identify and post at least 2 strong points and 2 constructive criticisms. Comments especially welcome on: organization of ideas, depth of detail, clarity of key concepts.</span>
-- Thursday, November 2, 2023 (**Class**): Workshopping introductions and literature reviews.
+### Week 7 - Introduction/literature review 2
 
-### Week 7 - Stepping back
+- Tuesday, November 7, 2023 (**Assignment deadline**): <span style="color:green">Draft a rough introduction/literature review to your paper, as appropriate to your subfield. Your draft should motivate and state your research questions and also give the required background to contextualize your study. It does not need to be polished but it does need to be more than bullet points.</span>
+- Wednesday, November 8, 2023 (**Assignment deadline**): <span style="color:green">Carefully read the introductions/literature reviews written by your classmates. For each one: Identify and post at least 2 strong points and 2 constructive criticisms. Comments especially welcome on: organization of ideas, depth of detail, clarity of key concepts.</span>
+- Thursday, November 9, 2023 (**Class**): Workshopping introductions and literature reviews.
 
-- Tuesday, November 7, 2023 (**Assignment deadline**): <span style="color:green">Re-draft the introduction/literature review. Run with the feedback you got in class—even if you think your first draft was mostly good you need to try something new.</span>
-- Wednesday, November 8, 2023 (**Assignment deadline**): <span style="color:green">Carefully read the introductions/literature reviews written by your classmates. For each one: Identify and post at least 2 strong points and 2 constructive criticisms. As before, comments especially welcome on: organization of ideas, depth of detail, clarity of key concepts.</span>
-- Wednesday, November 8, 2023 (**Assignment deadline**): <span style="color:green">BEFORE CLASS, read your paper draft from introduction through results section and make a list of what you think still needs to change. Identify the biggest issues you are having in your writing so that we can talk through them together in class. You do not need to post your list, but please have it ready for class.</span>
-- Thursday, November 9, 2023 (**Class**): Troubleshooting and introduction to the publication process.
+### Week 8 - Revised introductions + Stepping back
 
-### Week 8 - Discussion 1
-
-- Tuesday, November 14, 2023 (**Assignment deadline**): <span style="color:green">Outline (bullet points okay) and post a discussion/conclusion section that summarizes the contributions of this project, as appropriate to your field.</span>
-- Wednesday, November 15, 2023 (**Assignment deadline**): <span style="color:green">Carefully read through your classmates' discussion/conclusion outlines. For each one: Identify and post at least 2 strong points and 2 constructive criticisms. I encourage you to briefly look back at their latest posted introduction-to-results draft in making your comments.</span>
-- Thursday, November 16, 2023 (**Class**): Workshopping discussions/conclusions and discussion of other paper parts (abstract, references, acknowledgements, appendies, repositories).
+- Tuesday, November 14, 2023 (**Assignment deadline**): <span style="color:green">Re-draft the introduction/literature review. Run with the feedback you got in class—even if you think your first draft was mostly good you need to try something new.</span>
+- Wednesday, November 15, 2023 (**Assignment deadline**): <span style="color:green">Carefully read the introductions/literature reviews written by your classmates. For each one: Identify and post at least 2 strong points and 2 constructive criticisms. As before, comments especially welcome on: organization of ideas, depth of detail, clarity of key concepts.</span>
+- Wednesday, November 15, 2023 (**Assignment deadline**): <span style="color:green">BEFORE CLASS, read your paper draft from introduction through results section and make a list of what you think still needs to change. Identify the biggest issues you are having in your writing so that we can talk through them together in class. You do not need to post your list, but please have it ready for class.</span>
+- Thursday, November 16, 2023 (**Class**): Troubleshooting, introduction to the publication process, and discussion outlines.
 
 ### Thanksgiving week (no classes)
 
-### Week 9 - Discussion 2
+### Week 9 - Discussion
 
 - Tuesday, November 28, 2023 (**Assignment deadline**): <span style="color:green">Post a full discussion/conclusion draft for your paper.</span>
 - Wednesday, November 29, 2023 (**Assignment deadline**): <span style="color:green">Carefully read your classmates' discussion/conclusion drafts. For each one: Identify and post at least 2 strong points and 2 constructive criticisms.</span>
-- Thursday, November 30, 2023 (**Class**): Full manuscript review (what still needs to be done?), how to peer review, and how to respond to reviews.
+- Thursday, November 30, 2023 (**Class**): Workshop discussions (quickly) + Full manuscript review (what still needs to be done?), how to peer review, and how to respond to reviews.
 
 
-### Exams week - Final paper deadline
+### Exams week - Make-up session
 
 - Monday, December 4, 2023 (**Assignment deadline**): <span style="color:green">Post a revised **full** draft of your paper and any notes on further improvements you would still like to make.</span>
 - Wednesday, December 6, 2023 (**Assignment deadline**): <span style="color:green">Post a peer review for one of your classmates' papers (to be assigned).</span>
-- Saturday, December 9, 2023 (**Assignment deadline**): <span style="color:green">Submit a polished full draft of your paper (document 1) with a response to your peer's review (document 2) and a paragraph that (a) reflects on how you did/didn't achieve your set goals for the quarter from your strategic plan and (b) what grade you think you deserve for the course (document 3).</span>
+- Thursday, December 7, 2023  (**Class**): Retrospective + revise strategic plans (what still needs to be done?) + reflections (pre-class preparation for this is _optional_):
+    - How you did/didn't achieve your set goals for the quarter from your strategic plan and
+    - What could make this class more useful in the future.</span>
 
 ### Optional, but recommended at the end of the quarter
 1. Run your latest draft by your advisor and initiate a meeting to figure out the following:
