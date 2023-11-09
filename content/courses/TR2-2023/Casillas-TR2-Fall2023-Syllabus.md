@@ -68,7 +68,7 @@ Active participation is mandatory—any absences should be cleared by the instru
 - Tuesday, November 14, 2023 (**Assignment deadline**): <span style="color:green">Re-draft the introduction/literature review. Run with the feedback you got in class—even if you think your first draft was mostly good you need to try something new.</span>
 - Wednesday, November 15, 2023 (**Assignment deadline**): <span style="color:green">Carefully read the introductions/literature reviews written by your classmates. For each one: Identify and post at least 2 strong points and 2 constructive criticisms. As before, comments especially welcome on: organization of ideas, depth of detail, clarity of key concepts.</span>
 - Wednesday, November 15, 2023 (**Assignment deadline**): <span style="color:green">BEFORE CLASS, read your paper draft from introduction through results section and make a list of what you think still needs to change. Identify the biggest issues you are having in your writing so that we can talk through them together in class. You do not need to post your list, but please have it ready for class.</span>
-- Thursday, November 16, 2023 (**Class**): Troubleshooting, introduction to the publication process, and discussion outlines.
+- Thursday, November 16, 2023 (**Class**): Review of issues in stitching parts together, introduction to the publication process, and discussion outlines.
 
 ### Thanksgiving week (no classes)
 
