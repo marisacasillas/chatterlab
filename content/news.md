@@ -8,7 +8,7 @@
 
 ### December 2023
 * [Marisa Casillas](../bios/marisa-aboutme/) was reappointed to the Department of Comparative Human Development. Congratulations!
-* Findings from [Marisa Casillas's](../bios/marisa-aboutme/) coauthored [paper](https://www.pnas.org/doi/10.1073/pnas.2300671120) was featured on [Science](https://www.science.org/content/article/kids-chattier-parents-are-more-talkative-may-have-bigger-vocabulary)!
+* Findings from [Marisa Casillas's](../bios/marisa-aboutme/) coauthored [paper](https://www.pnas.org/doi/10.1073/pnas.2300671120) was featured in [Science magazine](https://www.science.org/content/article/kids-chattier-parents-are-more-talkative-may-have-bigger-vocabulary)!
 * Now up and running is [Yuchen Jin's](../bios/yuchen-aboutme/) (and the lab's) first [Lookit](https://lookit.mit.edu/) study on overhearing word recognition.
 * We received funding through the [Center for International Social Science Research](https://cissr.uchicago.edu/) to continue the collaborative project with [Camila Scaff](https://camilascaff.com/) and [Ruthe Foushee](https://ruthefoushee.com/) started with [Camila's](https://camilascaff.com/) visit this past summer.
 
