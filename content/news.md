@@ -1,5 +1,29 @@
 # chatter news
 
+### January 2024
+* The following Chatter Lab presentations took place at the [American Dialect Society](https://americandialect.org/) 2024 Conference:
+	* [Jordyn Martin](../bios/jordyn-aboutme/) presented her work with [Claire Bergey](https://clairebergey.net/), [Sharese King](https://www.drshareseking.com/), and [Marisa Casillas](../bios/marisa-aboutme/) (Copula absence variation in child and adult corpus speech)
+	* [Sharese King](https://www.drshareseking.com/) presented her work with [Marisa Casillas](../bios/marisa-aboutme/) on Kimberly Shorter's thesis work (The interplay of dialect and legal profession in the courtroom)
+* We welcomed Dalia Querenet Onfroy de Breville as a new research assistant.
+
+### December 2023
+* [Marisa Casillas](../bios/marisa-aboutme/) was reappointed to the Department of Comparative Human Development. Congratulations!
+* Findings from [Marisa Casillas's](../bios/marisa-aboutme/) coauthored [paper](https://www.pnas.org/doi/10.1073/pnas.2300671120) was featured on [Science](https://www.science.org/content/article/kids-chattier-parents-are-more-talkative-may-have-bigger-vocabulary)!
+* Now up and running is [Yuchen Jin's](../bios/yuchen-aboutme/) (and the lab's) first [Lookit](https://lookit.mit.edu/) study on overhearing word recognition.
+* We received funding through the [Center for International Social Science Research](https://cissr.uchicago.edu/) to continue the collaborative project with [Camila Scaff](https://camilascaff.com/) and [Ruthe Foushee](https://ruthefoushee.com/) started with [Camila's](https://camilascaff.com/) visit this past summer.
+
+### October & November 2023
+* [Marisa Casillas](../bios/marisa-aboutme/) presented at the Center for Gesture, Sign, and Language ([CGSL](https://voices.uchicago.edu/cgsl/)) Mini Conference (Input analyses from three (spoken) languages—Tseltal, Yélî Dnye, and U.S. English—what have we learned?).
+* There were several Chatter Lab presentations at Many Paths To Language ([MPaL]((https://www.mpi.nl/events/many-paths-language-mpal-2023))) and the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
+	* [Yuchen Jin](../bios/yuchen-aboutme/) gave a talk (Vocal maturity predicts adult responsiveness in a Tseltal Mayan community)
+	* [Jordyn Martin](../bios/jordyn-aboutme/) gave a talk (Copula Absence Variation in Adult and Child Corpus Speech)
+	* [Kennedy Casey](https://kennedycasey.github.io/) presented a poster (Multimodal predictors of early object noun recognition in Tseltal)
+* [Divya Swaminathan](https://ssm-lab.org/researchers) presented at the American Speech-Language-Hearing Association ([ASHA](https://convention.asha.org/)) Convention (Can You Tell Apart Adult and Child Speakers? Accuracy of LENA ASR Models in Indian Languages).
+
+### September 2023
+* [Marisa Casillas's](../bios/marisa-aboutme/) fieldwork in Chiapas, Mexico was featured on the [UChicago News](https://news.uchicago.edu/story/israeli-digs-greenland-villages-uchicagoans-travel-world-research) (Studying how children learn language in Mexico)!
+* We welcomed Fulbright Scholar [Divya Swaminathan](https://ssm-lab.org/researchers), MAPSS students Mia Zhang and Kaiwen Yang, and new research assistant Ariana Maisonet.
+
 ### August 2023
 * Chatter Lab has temporarily relocated to Pick Hall while Green Hall is undergoing important renovations to increase building accessibility.
 * We bid our farewells to [Ruthe Foushee](https://ruthefoushee.com/), [Claire Bergey](https://clairebergey.net/), and [Kennedy Casey](https://kennedycasey.github.io/) as they took off for their next exciting opportunities.
