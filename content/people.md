@@ -36,9 +36,9 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Carla Escalante](/bios/carla-aboutme/)
 
-[Ruby Swensen](/bios/ruby-aboutme/)
-
 [Alex Klerman](/bios/alexk-aboutme/)
+
+[Dalia Querenet](/bios/dalia-aboutme/)
 
 ### <a href="/former-members/"><u><span style="color:#88941c"> Former members</span></u></a>
 
