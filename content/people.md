@@ -21,7 +21,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Yiqun (Mia) Zhang](/bios/mia-aboutme/)
 
-Kaiwen (Katia) Yang
+[Kaiwen (Katia) Yang](/bios/kaiwen-aboutme/)
 
 ### Research assistants
 
