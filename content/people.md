@@ -19,7 +19,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 ### Masters students
 
-Yiqun (Mia) Zhang
+[Yiqun (Mia) Zhang](/bios/mia-aboutme/)
 
 Kaiwen (Katia) Yang
 
