@@ -17,6 +17,12 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Yuchen Jin](/bios/yuchen-aboutme/)
 
+### Masters students
+
+Yiqun (Mia) Zhang
+
+Kaiwen (Katia) Yang
+
 ### Research assistants
 
 #### Postbacs
