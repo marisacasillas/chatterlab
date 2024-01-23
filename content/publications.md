@@ -7,29 +7,37 @@ Looking for [tools](../tools/)?
 
 <!--[[ms]()] [[sm]()] [[gh]()]-->
 
-## selected preprints
+## select preprints
 
-Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (under review, September 2022). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
+Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (in revision, January 2024). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
+
+**Casillas, M.**, & Casey, K. (under review, December 2024). Daylong egocentric recordings in small- and large-scale language communities: A practical introduction. [[ms](https://doi.org/10.31234/osf.io/b3jxs)]
+
 
 ## in press/accepted
 
-Bergelson, E., Soderstrom, M., Schwarz, I.C., Rowland, C., Ramirez-Esparza, N., Rague Hamrick, L., Marklund, E., Kalashnikova, M., Guez, A., **Casillas, M.**, Benetti, L., van Alphen, P., Cristia, A. (in press). Everyday language input and production in 1001 children from 6 continents. PNAS. [[ms](https://www.pnas.org/doi/10.1073/pnas.2300671120)]
-
-**Casillas, M.**, Foushee, R., Méndez Girón, J., Polian, G., & Brown, P. (in press). Little evidence for a noun bias in Tseltal spontaneous speech. First Language. [[ms](https://journals.sagepub.com/doi/10.1177/01427237231216571)]
-
 Lutzenberger, H., **Casillas, M.**, Fikkert, P., Crasborn, O., de Vos, C. (in press) More than looks: Exploring methods to test phonological discrimination in the sign language Kata Kolok. Language Learning and Development. [[ms](https://osf.io/d38c6/download/?format=pdf)]
-
-Scaff, C., **Casillas, M.**, Stieglitz, J., & Cristia, A. (accepted). Characterization of children’s verbal input in a forager-farmer population using long-form audio recordings and diverse input definitions. Infancy. [[ms](https://pubmed.ncbi.nlm.nih.gov/38014953/)]
 
 Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](/lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
+Kempe, V., & Casillas, M. (accepted). Studying child-directed speech. In L. Raviv & C. Boeckx (Eds.), The Oxford Handbook of Approaches to Language Evolution. [[ms](https://osf.io/preprints/psyarxiv/jv54a)]
+
+## 2024
+
+**Casillas, M.**, Foushee, R., Méndez Girón, J., Polian, G., & Brown, P. (in press). Little evidence for a noun bias in Tseltal spontaneous speech. _First Language_, _OnlineFirst_, 1–29. [[ms](https://journals.sagepub.com/doi/10.1177/01427237231216571)]
+
+
 ## 2023
+
+Bergelson, E., Soderstrom, M., Schwarz, I.C., Rowland, C., Ramirez-Esparza, N., Rague Hamrick, L., Marklund, E., Kalashnikova, M., Guez, A., **Casillas, M.**, Benetti, L., van Alphen, P., Cristia, A. (2023). Everyday language input and production in 1001 children from 6 continents. _PNAS_, _120_(52), e2300671120 [[ms](https://www.pnas.org/doi/10.1073/pnas.2300671120)]
 
 Cristia, A., Foushee, R., Aravena-Bravo, P., Cychosz, M., Scaff, C., & **Casillas, M.** (2023). Combining observational and experimental approaches to the development of language and communication in rural samples: Opportunities and challenges. _Journal of Child Language 13_, 1-23. [[ms](/lab-publications/Cristia_et_al_2023_Combining_observational_and_experimental_approaches_JCL.pdf)]
 
 **Casillas, M.** (2023). Learning language in vivo. _Child Development Perspectives 17_(1), 10-17. [[ms](/lab-publications/Casillas_2022_Learning_language_in_vivo_CDP.pdf)]
+
+Scaff, C., **Casillas, M.**, Stieglitz, J., & Cristia, A. (2023). Characterization of children’s verbal input in a forager-farmer population using long-form audio recordings and diverse input definitions. _Infancy_, _EarlyView_, 1–20. [[ms](https://pubmed.ncbi.nlm.nih.gov/38014953/)]
 
 
 ## 2022
