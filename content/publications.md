@@ -9,14 +9,12 @@ Looking for [tools](../tools/)?
 
 ## select preprints
 
-Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (in revision, January 2024). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
+Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (resubmitted, February 2024). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
 
 **Casillas, M.**, & Casey, K. (under review, December 2024). Daylong egocentric recordings in small- and large-scale language communities: A practical introduction. [[ms](https://doi.org/10.31234/osf.io/b3jxs)]
 
 
 ## in press/accepted
-
-Lutzenberger, H., **Casillas, M.**, Fikkert, P., Crasborn, O., de Vos, C. (in press) More than looks: Exploring methods to test phonological discrimination in the sign language Kata Kolok. Language Learning and Development. [[ms](https://osf.io/d38c6/download/?format=pdf)]
 
 Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](/lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
 
@@ -27,6 +25,8 @@ Kempe, V., & Casillas, M. (accepted). Studying child-directed speech. In L. Ravi
 ## 2024
 
 **Casillas, M.**, Foushee, R., Méndez Girón, J., Polian, G., & Brown, P. (in press). Little evidence for a noun bias in Tseltal spontaneous speech. _First Language_, _OnlineFirst_, 1–29. [[ms](https://journals.sagepub.com/doi/10.1177/01427237231216571)]
+
+Lutzenberger, H., **Casillas, M.**, Fikkert, P., Crasborn, O., de Vos, C. (in press) More than looks: Exploring methods to test phonological discrimination in the sign language Kata Kolok. _Language Learning and Development_, _XX_, 1–27. [[ms](/lab-publications/Lutzenberger_et_al_2024_More_than_looks.pdf)]
 
 
 ## 2023
