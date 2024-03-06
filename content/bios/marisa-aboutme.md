@@ -30,13 +30,13 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 
 [Human Language and Interaction]({{< ref "courses/HLI2023/Casillas-HLI-Spring2023-Syllabus.md" >}}) (Spring 2023)
 
-[Mind III]({{< ref "courses/MIND3-2023/Casillas-MIND3-Spring2024-Syllabus.md" >}}) (Spring 2024)
+[Mind III]({{< ref "courses/MIND3-2024/Casillas-MIND3-Spring2024-Syllabus.md" >}}) (Spring 2024)
 
 [Blooming Buzzing Confusion]({{< ref "courses/BBC2023/Casillas-BBC-Winter2023-Syllabus.md" >}}) (Winter 2023)
 
 [Methods in Child Development Research]({{< ref "courses/MCDR2023/Casillas-MCDR-Winter2023-Syllabus.md" >}}) (Winter 2023)
 
-[The Development of Communicative Competence]({{< ref "courses/DCC2022/Casillas-DevCommComp-Spring2024-Syllabus.md" >}}) (Spring 2024)
+[The Development of Communicative Competence]({{< ref "courses/DCC2024/Casillas-DevCommComp-Spring2024-Syllabus.md" >}}) (Spring 2024)
 
 [From Data to Manuscript in R]({{< ref "courses/D2M2022/Casillas-D2M-Winter2022-Syllabus.md" >}}) (Winter 2022)
 
