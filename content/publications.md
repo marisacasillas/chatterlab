@@ -24,9 +24,9 @@ Kempe, V., & Casillas, M. (accepted). Studying child-directed speech. In L. Ravi
 
 ## 2024
 
-**Casillas, M.**, Foushee, R., Méndez Girón, J., Polian, G., & Brown, P. (in press). Little evidence for a noun bias in Tseltal spontaneous speech. _First Language_, _OnlineFirst_, 1–29. [[ms](https://journals.sagepub.com/doi/10.1177/01427237231216571)]
+**Casillas, M.**, Foushee, R., Méndez Girón, J., Polian, G., & Brown, P. (2024). Little evidence for a noun bias in Tseltal spontaneous speech. _First Language_, _OnlineFirst_, 1–29. [[ms](/lab-publications/Casillas_et_al_2024_Little-evidence-for-a-noun-bias-in-Tseltal-spontaneous-speech_First_Language.pdf)] [[Español](https://docs.google.com/document/d/1dgwkyT9zQD8kdNoKfwPLiGLND__Hr49bei-9FsAxryE/edit?usp=sharing)]
 
-Lutzenberger, H., **Casillas, M.**, Fikkert, P., Crasborn, O., de Vos, C. (in press) More than looks: Exploring methods to test phonological discrimination in the sign language Kata Kolok. _Language Learning and Development_, _XX_, 1–27. [[ms](/lab-publications/Lutzenberger_et_al_2024_More_than_looks.pdf)]
+Lutzenberger, H., **Casillas, M.**, Fikkert, P., Crasborn, O., de Vos, C. (2024) More than looks: Exploring methods to test phonological discrimination in the sign language Kata Kolok. _Language Learning and Development_, _XX_, 1–27. [[ms](/lab-publications/Lutzenberger_et_al_2024_More_than_looks.pdf)]
 
 
 ## 2023
