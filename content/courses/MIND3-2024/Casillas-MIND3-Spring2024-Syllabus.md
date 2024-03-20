@@ -24,7 +24,7 @@ For full participation credit, you must complete:
 
 * A critical reflection for your writing advisor (completed in class)
 * The week 5 writing workshop (completed in class)
-* A 1-on-1 meeting with your writing advisor (schedule yourself: Danny Jacobs, dwjacobs@uchicago.edu) **DUE by end of day on Friday, May 15th, 2024**
+* A 1-on-1 meeting with your writing advisor (schedule yourself: Danny Jacobs, dwjacobs@uchicago.edu) **DUE by end of day on Friday, May 17th, 2024**
 
 
 ## Weekly assignments
