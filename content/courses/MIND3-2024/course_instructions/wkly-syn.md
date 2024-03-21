@@ -2,13 +2,11 @@
 
 After reading the week's assigned articles, write a synopsis for ONE of them. Your synopsis should succinctly address the points outlined below. You should be able to respond to most of these points using 1 sentence, though #4 and #5 may take a little more explanation). Bulleted responses are okay.
 
-Please mark which each response you give with the prompt title, e.g.:
+Please mark each response you give with the prompt title, e.g. with bolded text:
 
-YES:
 "**Specific question:** In this paper, the authors ask how..."
 
-NO:
-"In this paper, the authors ask how..."
+----
 
 ### There are two varieties of synopsis, one for empirical papers and one for reviews—make sure you pick the right format for your paper
 
