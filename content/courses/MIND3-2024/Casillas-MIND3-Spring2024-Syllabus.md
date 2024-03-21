@@ -4,7 +4,7 @@ Spring 2024
 
 Thursdays 11:00am-12:20am
 
-**Office hours:** Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) for a meeting in Rosenwald 318A or on Zoom (please indicate in your online booking)
+**Office hours:** Book online [here](https://calendar.app.google/g3mwVsxEbQAZHoDT6) for a meeting in Rosenwald 318A or on Zoom (please indicate in your online booking)
 
 **Instructor:** Marisa Casillas (mcasillas@uchicago.edu)
 
@@ -56,7 +56,7 @@ I won't accept late assignments. However, you get a free pass on one synposis _o
 
 **Office:** Rosenwald 318A
 
-**Office hours:** Book online [here](https://calendar.app.google/fkdDh37gZbpBQsNx6) in Rosenwald 318A or Zoom (please indicate in your online booking)
+**Office hours:** Book online [here](https://calendar.app.google/g3mwVsxEbQAZHoDT6) in Rosenwald 318A or Zoom (please indicate in your online booking)
 
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.
