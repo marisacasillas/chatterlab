@@ -46,6 +46,14 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Dalia Querenet](/bios/dalia-aboutme/)
 
+[Ariel Wang](/bios/ariel-aboutme/)
+
+[Eva Smolen](/bios/eva-aboutme/)
+
+[Egheosase (Osa) Odiase](/bios/osa-aboutme/)
+
+[Marvin Diaz](/bios/marvin-aboutme/)
+
 ### <a href="/former-members/"><u><span style="color:#88941c"> Former members</span></u></a>
 
 ### <span style="color:#88941c"> Some recent and frequent collaborators </span>
