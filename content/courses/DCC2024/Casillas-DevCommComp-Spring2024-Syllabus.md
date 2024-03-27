@@ -22,17 +22,19 @@ Students enrolled in this course will be graded on the following basis:
 
 | Component | Percentage |
 |-----------|------------|
-| [Reading notes](../course_instructions/reading_notes/) | 45% |
+| [Reading notes](../course_instructions/reading_notes/) | 42% |
 | [Transcription mini-project](../course_instructions/transcription_mini_project/) | 15% |
 | [Research proposal](../course_instructions/research_proposal/) | 20% |
 | [Participation](../course_instructions/participation/) | 20% |
+| Points you get for free :) | 3% |
 
 
 ### Reading notes (45%)
 
-Students are expected to submit digital notes summarizing and reacting to each assigned reading (~1/2 page+ each). Dr. Casillas will evaluate each student's notes for each reading: tips for effective note-taking will be covered in the first class. Notes are only required for 30 of the readings, and students may pick which 30 readings to submit notes for (i.e., students earn 1.5% for each reading with satisfactory notes).
+Students are expected to submit digital notes summarizing and reacting to each assigned reading (~1/2 page+ each). Dr. Casillas will evaluate each student's notes for each reading: tips for effective note-taking will be covered in the first class. Notes are only required for 28** of the readings, and students may pick which 28 readings to submit notes for (i.e., students earn 1.5% for each reading with satisfactory notes).
+** This number was originally "30" but Dr. Casillas changed it to 28 on 26 March 2024
 
-* 30 x 1.5 point for every [reading with notes](../course_instructions/reading_notes/)
+* 28 x 1.5 points for every [reading with notes](../course_instructions/reading_notes/)
 
 ### Transcription mini-project (15%)
 
@@ -119,6 +121,17 @@ Manrique, E., Rossi, G., & Levinson, S. C. (2020). Sequence organization: A univ
 
 ### Week 2: Thursday, 28 March 2024
 
+Catch up on Tuesday's [[slides]](https://docs.google.com/presentation/d/1RcfVkhqwiO0Hy6ZZPZ6grAViS3GOqRJiQPhRFgdjrJU/edit?usp=sharing)
+
+#### Pre-class reading
+None!
+
+#### Assignments due
+1. Annotations: Diarization (due by Sunday, March 31st at 11:59pm)
+2. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations? (due by Sunday, March 31st at 11:59pm)
+
+### Week 3: Tuesday, 2 April 2024
+
 [[slides]](https://docs.google.com/presentation/d/11LbKKoWN52ltpyv24JfRUG_8KhWTa5UgkhjLadpZH3M/edit?usp=sharing)
 
 #### Pre-class reading
@@ -130,22 +143,6 @@ Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: 
 
 #### Assignments due
 1. Reading notes
-2. Annotations: Diarization (due by Sunday, March 31st at 11:59pm)
-3. Reflection paragraph: In what ways did the organization of turns in your clips align with the ideas we have covered so far? In what ways did it deviate from expectations? (due by Sunday, March 31st at 11:59pm)
-
-### Week 3: Tuesday, 2 April 2024
-
-[[slides]](https://docs.google.com/presentation/d/1aIfcz83XrP8s69_gHMEcsmzNawmCY_R8y04e9zN_AAQ/edit?usp=sharing)
-
-#### Pre-class reading
-Ratner, N., & Bruner, J. (1978). Games, social exchange and the acquisition of language. _Journal of Child Language, 5_(3), 391-401. [pdf](https://www.dropbox.com/s/lzv71p3xdbbjgi8/ratner1978games.pdf?dl=0)
-
-Gaskins, S. (2006). Cultural perspectives on infant-caregiver interaction. In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 279-298). Oxford: Berg. [pdf](https://www.dropbox.com/s/hu1gtlfqy2uduhr/gaskins2006cultural.pdf?dl=0)
-
-Bornstein, M. H., Putnick, D. L., Cote, L. R., Haynes, O. M., & Suwalsky, J. T. (2015). Mother-infant contingent vocalizations in 11 countries. _Psychological Science, 26_(8), 1272-1284. [pdf](https://www.dropbox.com/s/1sl63pmmrf3y84t/bornstein2015mother.pdf?dl=0)
-
-#### Assignments due
-1. Reading notes
 
 ## Cognitive models of interaction
 
@@ -154,9 +151,11 @@ Bornstein, M. H., Putnick, D. L., Cote, L. R., Haynes, O. M., & Suwalsky, J. T. 
 [[slides]](https://docs.google.com/presentation/d/1JctgsRfPOR8j9BBhW60VpWj3I4XBPGy9FBHMs2FgZ54/edit?usp=sharing)
 
 #### Pre-class reading
-Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. _Frontiers in Psychology, 6_: 731. doi:10.3389/fpsyg.2015.00731. [pdf](https://www.dropbox.com/s/wc9gsga25j3co5h/levinson2015timing.pdf?dl=0)
+Duncan, S. (1972). Some signals and rules for taking speaking turns in conversations. _Journal of Personality and Social Psychology_, _23_(2), 283–292.
 
-Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
+Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-taking. _Psychonomic Bulletin & Review, 12_(6), 957-968. [pdf](https://www.dropbox.com/s/avo8i069iqy593c/wilson2005oscillator.pdf?dl=0)
+
+Heldner, M., & Edlund, J. (2010). Pauses, gaps and overlaps in conversations. _Journal of Phonetics_, 38(4), 555-568.
 
 #### Assignments due
 1. Reading notes
@@ -166,16 +165,12 @@ Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialog
 
 ### Week 4: Tuesday, 9 April 2024
 
-[[slides]](https://docs.google.com/presentation/d/1EyuoG3nFLRrilp7BPhi4br5tBk9fVLeRgQA_Al3EkLI/edit?usp=sharing)
+In-class work on turn taking feature presentations: [[slides]](https://docs.google.com/presentation/d/1EyuoG3nFLRrilp7BPhi4br5tBk9fVLeRgQA_Al3EkLI/edit?usp=sharing)
 
 #### Pre-class reading
-Bögels, S., & Torreira, F. (2015). Listeners use intonational phrase boundaries to project turn ends in spoken interaction. _Journal of Phonetics, 52_, 46-57. [pdf](https://www.dropbox.com/s/iwckfce6w2c6g3y/bogels2015listeners.pdf?dl=0)
+Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
 
-Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-taking. _Psychonomic Bulletin & Review, 12_(6), 957-968. [pdf](https://www.dropbox.com/s/avo8i069iqy593c/wilson2005oscillator.pdf?dl=0)
-
-\*Bögels, S., & Levinson, S. C. (2017). The brain behind the response: Insights into turn-taking in conversation from neuroimaging. _Research on Language and Social Interaction, 50_, 71-89. [pdf](https://www.dropbox.com/s/ubrgiythawyzq1j/bogels2017brain.pdf?dl=0)
-
-\*  = Optional
+Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implications for processing models of language. _Frontiers in Psychology, 6_: 731. doi:10.3389/fpsyg.2015.00731. [pdf](https://www.dropbox.com/s/wc9gsga25j3co5h/levinson2015timing.pdf?dl=0)
 
 #### Assignments due
 1. Reading notes
@@ -183,16 +178,15 @@ Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-ta
 
 ### Week 4: Thursday, 11 April 2024
 
-[[slides]](https://docs.google.com/presentation/d/14VjZgP4TzMp-dSBeyFcKIuXgjrYNPHFA_eHp0IKwJUM/edit?usp=sharing)
+In-class turn-taking feature presentations
+<!--[[slides]](https://docs.google.com/presentation/d/14VjZgP4TzMp-dSBeyFcKIuXgjrYNPHFA_eHp0IKwJUM/edit?usp=sharing)-->
 
 #### Pre-class reading
 Bögels, S. (2020). Neural correlates of turn taking in the wild: Response planning starts early in free interviews. _Cognition, 203_:104347. [pdf](https://www.dropbox.com/s/5tg9nqkikzrqn1h/bogels2020neural.pdf?dl=0)
 
 Lelonkiewicz, J. R., Gambi, C., Weller, L., & Pfister, R. (2020). Action-effect anticipation and temporal adaptation in social interactions. _Journal of Experimental Psychology: Human Perception and Performance, 46_(4), 335--349. [pdf](https://www.dropbox.com/s/jqj12ijqq9xddgg/lelonkiewicz2020action.pdf?dl=0)
 
-\*Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness for understanding language. _Journal of Experimental Psychology: General, 147_(2), 190. [pdf](https://www.dropbox.com/s/8ogvg2452iaedit/rabagliati2018importance.pdf?dl=0)
-
-\*  = Optional
+Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness for understanding language. _Journal of Experimental Psychology: General, 147_(2), 190. [pdf](https://www.dropbox.com/s/8ogvg2452iaedit/rabagliati2018importance.pdf?dl=0)
 
 #### Assignments due
 1. Reading notes
@@ -203,15 +197,13 @@ Lelonkiewicz, J. R., Gambi, C., Weller, L., & Pfister, R. (2020). Action-effect 
 ### Week 5: Tuesday, 16 April 2024
 [[slides]](https://docs.google.com/presentation/d/1YmQgn_S2UuHk_e8bzyK0NbQhopI61bsHcNqGAbAYMzE/edit?usp=sharing)
 
-
 #### Pre-class reading
+Clark, H. H. (2016). Depicting as a method of communication. _Psychological Review_, _123_(3), 324–347.
+
 Holler, J. & Levinson, S. C. (2019). Multimodal language processing in human communication. _Trends in Cognitive Sciences 23_(8), p. 639--652. [pdf](https://www.dropbox.com/s/dd53spft3m9vcac/holler2019multimodal.pdf?dl=0)
 
-De Vos, C., Torreira, F., & Levinson, S. C. (2015). Turn-timing in signed conversations: Coordinating stroke-to-stroke turn boundaries. _Frontiers in Psychology, 6_:268. doi:10.3389/fpsyg.2015.00268. [pdf](https://www.dropbox.com/s/h2dyu8lj2297av5/devos2015turntiming.pdf?dl=0)
+Pouw, W., Proksch, S., Drijvers, L., Gamba, M., Holler, J., Kello, C., Schaefer, R. S., & Wiggins, G. A. (2021). Multilevel rhythms in multimodal communication. _Philosophical Transactions B, 376:_20200334. [pdf](https://www.dropbox.com/s/annubmpn82kosbq/pouw2021multilevel.pdf?dl=0)
 
-\*Holler, J., Kendrick, K. H., & Levinson, S. C. (2018). Processing language in face-to-face conversation: Questions with gestures get faster responses. _Psychonomic Bulletin & Review, 25_(5), 1900-1908. doi:10.3758/s13423-017-1363-z. [pdf](https://www.dropbox.com/s/4uer2ny6vto6b97/holler2018processing.pdf?dl=0)
-
-\*  = Optional
 
 #### Assignments due
 1. Reading notes
@@ -224,13 +216,11 @@ De Vos, C., Torreira, F., & Levinson, S. C. (2015). Turn-timing in signed conver
 [[slides]](https://docs.google.com/presentation/d/1kSzM6O8m6KklIqsQCvswFGRenY4fmj-AmBeapsjxE68/edit?usp=sharing)
 
 #### Pre-class reading
+De Vos, C., Torreira, F., & Levinson, S. C. (2015). Turn-timing in signed conversations: Coordinating stroke-to-stroke turn boundaries. _Frontiers in Psychology, 6_:268. doi:10.3389/fpsyg.2015.00268. [pdf](https://www.dropbox.com/s/h2dyu8lj2297av5/devos2015turntiming.pdf?dl=0)
+
+Holler, J., Kendrick, K. H., & Levinson, S. C. (2018). Processing language in face-to-face conversation: Questions with gestures get faster responses. _Psychonomic Bulletin & Review, 25_(5), 1900-1908. doi:10.3758/s13423-017-1363-z. [pdf](https://www.dropbox.com/s/4uer2ny6vto6b97/holler2018processing.pdf?dl=0)
+
 Hömke, P., Holler, J., & Levinson, S. C. (2018). Eye blinks are perceived as communicative signals in human face-to-face interaction. _PLoS One, 13_(12): e0208030. doi:10.1371/journal.pone.0208030. [pdf](https://www.dropbox.com/s/tg6b9m43ctw8cx2/homke2018eye.pdf?dl=0)
-
-Pouw, W., Proksch, S., Drijvers, L., Gamba, M., Holler, J., Kello, C., Schaefer, R. S., & Wiggins, G. A. (2021). Multilevel rhythms in multimodal communication. _Philosophical Transactions B, 376:_20200334. [pdf](https://www.dropbox.com/s/annubmpn82kosbq/pouw2021multilevel.pdf?dl=0)
-
-\*Latif, N., Alsius, A., & Munhall, K. G. (2018). Knowing when to respond: the role of visual information in conversational turn exchanges. _Attention, Perception, & Psychophysics, 80_(1), 27-41. [pdf](https://www.dropbox.com/s/x8kch00tz3wgp7q/latif2018knowing.pdf?dl=0)
-
-\*  = Optional
 
 #### Assignments due
 1. Reading notes
@@ -240,9 +230,12 @@ Pouw, W., Proksch, S., Drijvers, L., Gamba, M., Holler, J., Kello, C., Schaefer,
 ### Week 6: Tuesday, 23 April 2024
 
 [[slides]](https://docs.google.com/presentation/d/15e_Ejpa7QBWAw_oj9YV-RlgCyOElIsnXlFhrYeHTM_Y/edit?usp=sharing)
+<!--[[slides]](https://docs.google.com/presentation/d/1aIfcz83XrP8s69_gHMEcsmzNawmCY_R8y04e9zN_AAQ/edit?usp=sharing)-->
 
 #### Pre-class reading
 Snow, C. E. (1977). The development of conversation between mothers and babies. _Journal of Child Language, 4_(1), 1-22. [pdf](https://www.dropbox.com/s/ow3x0mii5ptxdhd/snow1977development.pdf?dl=0)
+
+Ratner, N., & Bruner, J. (1978). Games, social exchange and the acquisition of language. _Journal of Child Language, 5_(3), 391-401. [pdf](https://www.dropbox.com/s/lzv71p3xdbbjgi8/ratner1978games.pdf?dl=0)
 
 Casillas, M., & Hilbrink, E. (2020). Communicative act development. In K. P. Schneider, & E. Ifantidou (Eds.), _Developmental and Clinical Pragmatics_. De Gruyter Mouton. [pdf](https://www.dropbox.com/s/1vmy11ug5o2sk8y/casillasIPcommunicative.pdf?dl=0)
 
@@ -252,24 +245,6 @@ Casillas, M., & Hilbrink, E. (2020). Communicative act development. In K. P. Sch
 
 
 ### Week 6: Thursday, 25 April 2024
-[[slides]](https://docs.google.com/presentation/d/1sgffSEES4qfomqvwT1IUhthFBLuj9Pa8UrsBq4WTL_Y/edit?usp=sharing)
-
-#### Pre-class reading
-Stivers, T., Sidnell, J., & Bergen, C. (2018). Children's responses to questions in peer interaction: A window into the ontogenesis of interactional competence. Journal of Pragmatics, 124, 14-30. [pdf](https://www.dropbox.com/s/7g3hlpy7p1jfqgx/stivers2018childrens.pdf?dl=0)
-
-Shatz, M. (1978). On the development of communicative understandings: An early strategy for interpreting and responding to messages. _Cognitive Psychology, 10_(3), 271-301. [pdf](https://www.dropbox.com/s/w2lmn797yla46kf/shatz1978development.pdf?dl=0)
-
-\*Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A reassessment of two-year-olds' behaviour in miscommunication episodes. _Journal of Child Language, 17_(1), 131-146. [pdf](https://www.dropbox.com/s/9tch2s9vmz13zfd/shatz1990conversational.pdf?dl=0)
-
-\*  = Optional
-
-#### Assignments due
-1. Reading notes
-
-## Language meets interaction in development
-
-### Week 7: Tuesday, 30 April 2024
-
 [[slides]](https://docs.google.com/presentation/d/1AoTUjYVUdNji0Wnn7ohNIhtoAPvhuaUOOxUTMTuuRPQ/edit?usp=sharing)
 
 #### Pre-class reading
@@ -277,7 +252,23 @@ Hilbrink, E., Gattis, M., & Levinson, S. C. (2015). Early developmental changes 
 
 Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and planning in early language acquisition. _Journal of Child Language, 43_, 1310-1337. [pdf](https://www.dropbox.com/s/dez5j7tc0guxzjp/casillas2016turntaking.pdf?dl=0)
 
-\*Lindsay, L., Gambi, C., & Rabagliati, H. (2019). Preschoolers optimize the timing of their conversational turns through flexible coordination of language comprehension and production. _Psychological Science_. [pdf](https://www.dropbox.com/s/yct1j7xj6juuxkl/lindsay2019preschoolers.pdf?dl=0)
+Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. (2018). Beyond the 30-million-word gap: Children’s conversational exposure is associated with language-related brain function. _Psychological Science, 29_(5), 700-710. [pdf](https://www.dropbox.com/s/pgavrbc35if309v/romeo2018beyond.pdf?dl=0)
+
+#### Assignments due
+1. Reading notes
+
+
+### Week 7: Tuesday, 30 April 2024
+[[slides]](https://docs.google.com/presentation/d/1sgffSEES4qfomqvwT1IUhthFBLuj9Pa8UrsBq4WTL_Y/edit?usp=sharing)
+
+#### Pre-class reading
+Stivers, T., Sidnell, J., & Bergen, C. (2018). Children's responses to questions in peer interaction: A window into the ontogenesis of interactional competence. Journal of Pragmatics, 124, 14-30. [pdf](https://www.dropbox.com/s/7g3hlpy7p1jfqgx/stivers2018childrens.pdf?dl=0)
+
+Shatz, M. (1978). On the development of communicative understandings: An early strategy for interpreting and responding to messages. _Cognitive Psychology, 10_(3), 271-301. [pdf](https://www.dropbox.com/s/w2lmn797yla46kf/shatz1978development.pdf?dl=0)
+
+Tatsumi, T., & Pine, J. (2023, November 14). Shifting toward progressive and balanced interaction: a longitudinal corpus study on children's response to Who-questions in Japanese. [preprint](https://doi.org/10.31234/osf.io/h583t)
+
+\*Shatz, M., & O'Reilly, A. W. (1990). Conversational or communicative skill? A reassessment of two-year-olds' behaviour in miscommunication episodes. _Journal of Child Language, 17_(1), 131-146. [pdf](https://www.dropbox.com/s/9tch2s9vmz13zfd/shatz1990conversational.pdf?dl=0)
 
 \*  = Optional
 
@@ -295,40 +286,40 @@ Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and plann
 #### Pre-class reading
 Casillas, M., & Frank, M. C. (2017). The development of children's ability to track and predict turn structure in conversation. _Journal of Memory and Language, 92_, 234-253. [pdf](https://www.dropbox.com/s/hp5fmpjoyd2mso0/casillas2017development.pdf?dl=0)
 
-Clark, E. V. (2020). Conversational repair and the acquisition of language. _Discourse Processes, XX_, 1–19. [pdf](https://www.dropbox.com/s/nydxxgoy3g6jidx/clark2020conversational.pdf?dl=0)
+Lindsay, L., Gambi, C., & Rabagliati, H. (2019). Preschoolers optimize the timing of their conversational turns through flexible coordination of language comprehension and production. _Psychological Science_. [pdf](https://www.dropbox.com/s/yct1j7xj6juuxkl/lindsay2019preschoolers.pdf?dl=0)
 
-Chouinard, M. M., & Clark, E. V. (2003). Adult reformulations of child errors as negative evidence. _Journal of Child Language, 30_(3), 637-669. [pdf](https://www.dropbox.com/s/1ddj6gxqdu4w7uk/chouinard2003adult.pdf?dl=0)
+von Hofsten, C., Uhlig, H., Adell, M., & Kochukhova, O. (2009). How children with Autism look at events. _Research in Autism Spectrum Disorders_, _3_(2), 556-569.
 
 #### Assignments due
 1. Reading notes
 
-## Conversational "input"
+## Becoming a conversationalist
+
+[[slides]](https://docs.google.com/presentation/d/1d0hgMyOZqXHA28mM9mbkhYO-Au7cnJe8n39oZWrgF4w/edit?usp=sharing)
 
 ### Week 8: Tuesday, 7 May 2024
+Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399-410. [pdf](https://www.dropbox.com/s/lhbh8njfhb40a1z/dunn1989becoming.pdf?dl=0)
 
-[[slides]](https://docs.google.com/presentation/d/1NvBAgEqqP9RL1RUBc56rk00fGtrpRIOio6TBBAj1dxc/edit?usp=sharing)
+Gaskins, S. (2006). Cultural perspectives on infant-caregiver interaction. In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 279-298). Oxford: Berg. [pdf](https://www.dropbox.com/s/hu1gtlfqy2uduhr/gaskins2006cultural.pdf?dl=0)
 
-#### Pre-class reading
-Rowe, M. L. (2012). A longitudinal investigation of the role of quantity and quality of child‐directed speech in vocabulary development. _Child Development, 83_(5), 1762-1774. [pdf](https://www.dropbox.com/s/fps0qekzfqnoatv/rowe2012longitudinal.pdf?dl=0)
+\*Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mother‐infant‐sibling triads. _Child Development, 62_(3), 517-529. [pdf](https://www.dropbox.com/s/qsrj0mj02v263w8/barton1991joint.pdf?dl=0)
 
-Donnellan, E., Bannard, C., McGillion, M. L., Slocombe, K. E., & Matthews, D. (2020). Infants’ intentionally communicative vocalizations elicit responses from caregivers and are the best predictors of the transition to language: A longitudinal investigation of infants’ vocalizations, gestures and word production. _Developmental Science_, e12843. [pdf](https://www.dropbox.com/s/d0zmuwqtrso418o/donnellan2019infants.pdf?dl=0)
+\*Brown, P. (2011). The cultural organization of attention. In A. Duranti, E. Ochs, & B. B. Schieffelin (Eds.), _The Handbook of Language Socialization_ (pp. 29-55). Malden, MA: Wiley-Blackwell. [pdf](https://www.dropbox.com/s/pmad9n8gdlbtkpd/brown2011cultural.pdf?dl=0)
 
-\*Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. (2018). Beyond the 30-million-word gap: Children’s conversational exposure is associated with language-related brain function. _Psychological Science, 29_(5), 700-710. [pdf](https://www.dropbox.com/s/pgavrbc35if309v/romeo2018beyond.pdf?dl=0)
+\* = Optional
 
 #### Assignments due
 1. Reading notes
 2. OPTIONAL: Draft of research proposal outline
 
+## Conversation with robots
+
 ### Week 8: Thursday, 9 May 2024
 
-[[slides]](https://docs.google.com/presentation/d/1d0hgMyOZqXHA28mM9mbkhYO-Au7cnJe8n39oZWrgF4w/edit?usp=sharing)
-
 #### Pre-class reading
-Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399-410. [pdf](https://www.dropbox.com/s/lhbh8njfhb40a1z/dunn1989becoming.pdf?dl=0)
+Clark, H. H., & Fischer, K. (2023). Social robots as depictions of social agents. _Behavioral and Brain Sciences_, _46_, e21.
 
-Brown, P. (2011). The cultural organization of attention. In A. Duranti, E. Ochs, & B. B. Schieffelin (Eds.), _The Handbook of Language Socialization_ (pp. 29-55). Malden, MA: Wiley-Blackwell. [pdf](https://www.dropbox.com/s/pmad9n8gdlbtkpd/brown2011cultural.pdf?dl=0)
-
-Barton, M. E., & Tomasello, M. (1991). Joint attention and conversation in mother‐infant‐sibling triads. _Child Development, 62_(3), 517-529. [pdf](https://www.dropbox.com/s/qsrj0mj02v263w8/barton1991joint.pdf?dl=0)
+... more to come...
 
 #### Assignments due
 1. Reading notes
