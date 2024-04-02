@@ -165,7 +165,7 @@ Heldner, M., & Edlund, J. (2010). Pauses, gaps and overlaps in conversations. _J
 
 ### Week 4: Tuesday, 9 April 2024
 
-In-class work on turn taking feature presentations: [[slides]](https://docs.google.com/presentation/d/1EyuoG3nFLRrilp7BPhi4br5tBk9fVLeRgQA_Al3EkLI/edit?usp=sharing)
+Continue with cognitive models [[slides]](https://docs.google.com/presentation/d/1JctgsRfPOR8j9BBhW60VpWj3I4XBPGy9FBHMs2FgZ54/edit?usp=sharing)
 
 #### Pre-class reading
 Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. _Behavioral and Brain Sciences, 27_(2), 169-190. [pdf](https://www.dropbox.com/s/906as329e0nz8ko/pickering2004toward.pdf?dl=0)
@@ -174,12 +174,10 @@ Levinson, S. C., & Torreira, F. (2015). Timing in turn-taking and its implicatio
 
 #### Assignments due
 1. Reading notes
-2. Outline for presentation on turn-taking feature
 
 ### Week 4: Thursday, 11 April 2024
 
-In-class turn-taking feature presentations
-<!--[[slides]](https://docs.google.com/presentation/d/14VjZgP4TzMp-dSBeyFcKIuXgjrYNPHFA_eHp0IKwJUM/edit?usp=sharing)-->
+DEBATE + assign groups for turn-taking feature presentations [[slides]](https://docs.google.com/presentation/d/1EyuoG3nFLRrilp7BPhi4br5tBk9fVLeRgQA_Al3EkLI/edit?usp=sharing)
 
 #### Pre-class reading
 Bögels, S. (2020). Neural correlates of turn taking in the wild: Response planning starts early in free interviews. _Cognition, 203_:104347. [pdf](https://www.dropbox.com/s/5tg9nqkikzrqn1h/bogels2020neural.pdf?dl=0)
@@ -190,7 +188,6 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 
 #### Assignments due
 1. Reading notes
-2. Presentation on turn-taking feature
 
 ## Visible conversation
 
@@ -209,11 +206,12 @@ Pouw, W., Proksch, S., Drijvers, L., Gamba, M., Holler, J., Kello, C., Schaefer,
 1. Reading notes
 2. Second-pass transcribe conversation clips
 3. Reflection paragraph: What did you neglect to notice when you first transcribed the clips? What do you think you would discover if you made a further correctional pass?
+4. Outline for presentation on turn-taking feature
 
 
-### Week 5: Thursday, 18 April 2024
+### Week 5: Thursday, 18 April 2024 [Zoom]
 
-[[slides]](https://docs.google.com/presentation/d/1kSzM6O8m6KklIqsQCvswFGRenY4fmj-AmBeapsjxE68/edit?usp=sharing)
+Turn-taking feature presentations + [[slides]](https://docs.google.com/presentation/d/1kSzM6O8m6KklIqsQCvswFGRenY4fmj-AmBeapsjxE68/edit?usp=sharing)
 
 #### Pre-class reading
 De Vos, C., Torreira, F., & Levinson, S. C. (2015). Turn-timing in signed conversations: Coordinating stroke-to-stroke turn boundaries. _Frontiers in Psychology, 6_:268. doi:10.3389/fpsyg.2015.00268. [pdf](https://www.dropbox.com/s/h2dyu8lj2297av5/devos2015turntiming.pdf?dl=0)
@@ -224,10 +222,12 @@ Hömke, P., Holler, J., & Levinson, S. C. (2018). Eye blinks are perceived as co
 
 #### Assignments due
 1. Reading notes
+2. Presentation on turn-taking feature
+
 
 ## Conversation with child interactants
 
-### Week 6: Tuesday, 23 April 2024
+### Week 6: Tuesday, 23 April 2024 [Zoom]
 
 [[slides]](https://docs.google.com/presentation/d/15e_Ejpa7QBWAw_oj9YV-RlgCyOElIsnXlFhrYeHTM_Y/edit?usp=sharing)
 <!--[[slides]](https://docs.google.com/presentation/d/1aIfcz83XrP8s69_gHMEcsmzNawmCY_R8y04e9zN_AAQ/edit?usp=sharing)-->
@@ -259,6 +259,8 @@ Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe,
 
 
 ### Week 7: Tuesday, 30 April 2024
+
+FLASH talks on annotation + 
 [[slides]](https://docs.google.com/presentation/d/1sgffSEES4qfomqvwT1IUhthFBLuj9Pa8UrsBq4WTL_Y/edit?usp=sharing)
 
 #### Pre-class reading
