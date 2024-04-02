@@ -151,11 +151,11 @@ Pika, S., Wilkinson, R., Kendrick, K. H., & Vernes, S. C. (2018). Taking turns: 
 [[slides]](https://docs.google.com/presentation/d/1JctgsRfPOR8j9BBhW60VpWj3I4XBPGy9FBHMs2FgZ54/edit?usp=sharing)
 
 #### Pre-class reading
-Duncan, S. (1972). Some signals and rules for taking speaking turns in conversations. _Journal of Personality and Social Psychology_, _23_(2), 283–292.
+Duncan, S. (1972). Some signals and rules for taking speaking turns in conversations. _Journal of Personality and Social Psychology_, _23_(2), 283–292. [pdf](https://www.dropbox.com/scl/fi/00vvcis53zj2a97zom6ao/duncan72some.pdf?rlkey=rm4qxezueotktxw3jc9zwyreg&dl=0)
 
 Wilson, M., & Wilson, T. P. (2005). An oscillator model of the timing of turn-taking. _Psychonomic Bulletin & Review, 12_(6), 957-968. [pdf](https://www.dropbox.com/s/avo8i069iqy593c/wilson2005oscillator.pdf?dl=0)
 
-Heldner, M., & Edlund, J. (2010). Pauses, gaps and overlaps in conversations. _Journal of Phonetics_, 38(4), 555-568.
+Heldner, M., & Edlund, J. (2010). Pauses, gaps and overlaps in conversations. _Journal of Phonetics_, 38(4), 555-568. [pdf](https://www.dropbox.com/scl/fi/m5wt4t9fcc1qa1xpxdt4u/heldner2010pauses.pdf?rlkey=zbgxdqeakmkkv4d0ost22pd59&dl=0)
 
 #### Assignments due
 1. Reading notes
@@ -195,7 +195,7 @@ Rabagliati, H., Robertson, A., & Carmel, D. (2018). The importance of awareness 
 [[slides]](https://docs.google.com/presentation/d/1YmQgn_S2UuHk_e8bzyK0NbQhopI61bsHcNqGAbAYMzE/edit?usp=sharing)
 
 #### Pre-class reading
-Clark, H. H. (2016). Depicting as a method of communication. _Psychological Review_, _123_(3), 324–347.
+Clark, H. H. (2016). Depicting as a method of communication. _Psychological Review_, _123_(3), 324–347. [pdf](https://www.dropbox.com/scl/fi/edr8s20jiorlq92w6epq6/clark2016depicting.pdf?rlkey=njz6cnkp374xvkeb9ifuwdi23&dl=0)
 
 Holler, J. & Levinson, S. C. (2019). Multimodal language processing in human communication. _Trends in Cognitive Sciences 23_(8), p. 639--652. [pdf](https://www.dropbox.com/s/dd53spft3m9vcac/holler2019multimodal.pdf?dl=0)
 
@@ -290,7 +290,7 @@ Casillas, M., & Frank, M. C. (2017). The development of children's ability to tr
 
 Lindsay, L., Gambi, C., & Rabagliati, H. (2019). Preschoolers optimize the timing of their conversational turns through flexible coordination of language comprehension and production. _Psychological Science_. [pdf](https://www.dropbox.com/s/yct1j7xj6juuxkl/lindsay2019preschoolers.pdf?dl=0)
 
-von Hofsten, C., Uhlig, H., Adell, M., & Kochukhova, O. (2009). How children with Autism look at events. _Research in Autism Spectrum Disorders_, _3_(2), 556-569.
+von Hofsten, C., Uhlig, H., Adell, M., & Kochukhova, O. (2009). How children with Autism look at events. _Research in Autism Spectrum Disorders_, _3_(2), 556-569. [pdf](https://www.dropbox.com/scl/fi/r3e76mogm54g3nma589f2/vonhofsten2009how.pdf?rlkey=5xbj5vl0g1gm7v1kkq0aa1lt6&dl=0)
 
 #### Assignments due
 1. Reading notes
@@ -319,7 +319,7 @@ Gaskins, S. (2006). Cultural perspectives on infant-caregiver interaction. In N.
 ### Week 8: Thursday, 9 May 2024
 
 #### Pre-class reading
-Clark, H. H., & Fischer, K. (2023). Social robots as depictions of social agents. _Behavioral and Brain Sciences_, _46_, e21.
+Clark, H. H., & Fischer, K. (2023). Social robots as depictions of social agents. _Behavioral and Brain Sciences_, _46_, e21. [pdf](https://www.dropbox.com/scl/fi/8dcuxb8zu56yuwddrdddn/clark2023social.pdf?rlkey=xdy4xfpee53djnqa57z5ou0kg&dl=0)
 
 ... more to come...
 
