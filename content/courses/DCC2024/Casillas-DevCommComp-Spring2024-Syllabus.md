@@ -211,7 +211,7 @@ Pouw, W., Proksch, S., Drijvers, L., Gamba, M., Holler, J., Kello, C., Schaefer,
 
 ### Week 5: Thursday, 18 April 2024 [Zoom]
 
-Turn-taking feature presentations + [[slides]](https://docs.google.com/presentation/d/1kSzM6O8m6KklIqsQCvswFGRenY4fmj-AmBeapsjxE68/edit?usp=sharing)
+Turn-taking feature presentations + [[slides]](https://docs.google.com/presentation/d/1YmQgn_S2UuHk_e8bzyK0NbQhopI61bsHcNqGAbAYMzE/edit?usp=sharing)
 
 #### Pre-class reading
 De Vos, C., Torreira, F., & Levinson, S. C. (2015). Turn-timing in signed conversations: Coordinating stroke-to-stroke turn boundaries. _Frontiers in Psychology, 6_:268. doi:10.3389/fpsyg.2015.00268. [pdf](https://www.dropbox.com/s/h2dyu8lj2297av5/devos2015turntiming.pdf?dl=0)
