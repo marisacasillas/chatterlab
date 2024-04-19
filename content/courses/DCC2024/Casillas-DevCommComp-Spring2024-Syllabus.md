@@ -254,6 +254,10 @@ Casillas, M., Bobb, S. C., & Clark, E. V. (2016). Turn taking, timing, and plann
 
 Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. (2018). Beyond the 30-million-word gap: Children’s conversational exposure is associated with language-related brain function. _Psychological Science, 29_(5), 700-710. [pdf](https://www.dropbox.com/s/pgavrbc35if309v/romeo2018beyond.pdf?dl=0)
 
+\*Cosper, S. H., & Pika, S. (2024). Human turn-taking development: A multi-faceted review of turn-taking comprehension and production in the first years of life. [preprint](https://osf.io/preprints/psyarxiv/yjad2)
+
+\*  = Optional
+
 #### Assignments due
 1. Reading notes
 
