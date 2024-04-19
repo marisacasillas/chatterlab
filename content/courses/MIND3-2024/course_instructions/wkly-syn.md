@@ -12,6 +12,8 @@ Please mark each response you give with the prompt title, e.g. with bolded text:
 
 #### For empirical papers...
 
+**Citation:** APA citation of the paper you are summarizing
+
 **The phenomenon:** Identify the scientific issue. What is the BIG, “why-do-we-care” question the authors want to understand?
     
 **Specific question:**  What aspect of that BIG issue do the authors seek to address? Often this is about how they position their question in relation to prior research or theory (e.g., expanding, diving deeper, filling a gap, resolving a conflict, etc.).
@@ -25,6 +27,8 @@ Please mark each response you give with the prompt title, e.g. with bolded text:
 **Implications for hypotheses (Discussion):** What do the authors conclude about how this pattern of results informs their experimental hypotheses and specific question of interest? 
 
 #### For reviews...
+
+**Citation:** APA citation of the paper you are summarizing
 
 **The phenomenon:** Identify the scientific issue. What is the BIG, “why-do-we-care” question the authors want to understand?
     
