@@ -325,7 +325,13 @@ Gaskins, S. (2006). Cultural perspectives on infant-caregiver interaction. In N.
 #### Pre-class reading
 Clark, H. H., & Fischer, K. (2023). Social robots as depictions of social agents. _Behavioral and Brain Sciences_, _46_, e21. [pdf](https://www.dropbox.com/scl/fi/8dcuxb8zu56yuwddrdddn/clark2023social.pdf?rlkey=xdy4xfpee53djnqa57z5ou0kg&dl=0)
 
-... more to come...
+Cai, Z. G., Haslett, D. A., Duan, X., Wang, S., & Pickering, M. J. (2023). Does ChatGPT resemble humans in language use? [preprint](https://www.dropbox.com/scl/fi/1u2wjaptes5htd14bbqtd/cai2023large.pdf?rlkey=q77gqfxawb09j5cgf9obi2n5f&st=vifnbiwb&dl=0)
+
+Argyle, L. P., Bail, C. A., Busby, E. C., Gubler, J. R., Howe, T., Rytting, C., ... & Wingate, D. (2023). Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale. Proceedings of the National Academy of Sciences, 120(41), e2311627120. [pdf](https://www.dropbox.com/scl/fi/evj5v7v6w87u42k55ddo2/argyle2023leveraging.pdf?rlkey=cpcrhwsuvgzqxtxt95q6ye21g&st=dwa2wy58&dl=0)
+
+\*Agrawal, A., Nikolaus, M., Favre, B., & Fourtassi, A. (2024, March 21). Automatic Coding of Contingency in Child-Caregiver Conversations. https://doi.org/10.31234/osf.io/hwnms [preprint](https://www.dropbox.com/scl/fi/w643g76m6cfbipqsunzkh/agrawal2024automatic.pdf?rlkey=rr969it26wv6vcro1f9jdn2gd&st=2go2xx7h&dl=0)
+
+\* = Optional
 
 #### Assignments due
 1. Reading notes
