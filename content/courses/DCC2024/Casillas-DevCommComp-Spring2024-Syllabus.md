@@ -344,7 +344,7 @@ Argyle, L. P., Bail, C. A., Busby, E. C., Gubler, J. R., Howe, T., Rytting, C., 
 #### Pre-class reading: None!
 
 #### Assignments due
-1. Research proposal flash talks (1st half)
+1. [Research proposal flash talks](../course_instructions/research_proposal/#flash-presentation-of-the-proposed-research) (1st half)
 2. OPTIONAL: Draft of research proposal literature review
 
 ### Week 9: Thursday, 16 May 2024
@@ -352,10 +352,11 @@ Argyle, L. P., Bail, C. A., Busby, E. C., Gubler, J. R., Howe, T., Rytting, C., 
 #### Pre-class reading: None!
 
 #### Assignments due
-1. Research proposal flash talks (2nd half)
+1. [Research proposal flash talks](../course_instructions/research_proposal/#flash-presentation-of-the-proposed-research) (2nd half)
 
 # Finals week
 <span style="color:red">**DUE 21 MAY 2024 AT 11.59pm CHICAGO TIME:** </span> Full research proposal (8–10 pages; see [rubric](../course_instructions/research_proposal/#full-proposal-of-research-project))
+
 
 
 # Contact
