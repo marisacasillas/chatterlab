@@ -31,6 +31,8 @@ For full participation credit, you must complete:
 
 The weekly assignments include: 3–4 paper synopses, 2 debate preparations, and 2 phases of a literature review to get your final paper started.  **ALL assignments are due _BEFORE_ the start of section.**
 
+An important note on readings: Please be sure to read all footnotes, tables, and information boxes. It is not necessary to read supplementary materials, appendices, or post-article commentaries.
+
 ### Assignment deadlines
 
 * Week 1 (March 21, 2024): [Retrospective](../course_instructions/retrospective/)
