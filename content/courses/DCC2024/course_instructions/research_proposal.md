@@ -40,7 +40,7 @@ The answers to these questions, together with the minimal criteria (below), will
 
 ### All proposals must fulfill three minimal criteria:
 - Be submitted on time: 21 May 2024 at 11.59 Chicago time
-- Be between 8 and 10 pages long (single-spaced, one-inch margins, US letter paper, 12 pt Arial font)
+- Be between 8 and 10 pages long (double-spaced, one-inch margins, US letter paper, 12 pt Arial font)
 - Include all of the following sections:
     1. Literature review
     2. Research question
