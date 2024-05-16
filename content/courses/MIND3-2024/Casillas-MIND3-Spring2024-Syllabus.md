@@ -50,7 +50,7 @@ An important note on readings: Please be sure to read all footnotes, tables, and
 I won't accept late assignments. However, you get a free pass on one synposis _or_ debate weekly assignment. You don't need to notify me. **This pass does not apply to the literature review parts.**
 
 
-## [Final paper](../course_instructions/final-paper/) deadline (Tuesday, 21 May 2024)
+## [Final paper](../course_instructions/final-paper/) deadline (Wednesday, 22 May 2024)
 
 
 # Contact
