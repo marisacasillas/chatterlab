@@ -9,10 +9,6 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Subin Kim](/bios/subin-aboutme/)
 
-### Postdocs
-
-[Natalie Dowling](https://nrdowling.com)
-
 ### PhD students
 
 [Yuchen Jin](/bios/yuchen-aboutme/)
@@ -21,28 +17,12 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Yiqun (Mia) Zhang](/bios/mia-aboutme/)
 
-[Kaiwen (Katia) Yang](/bios/kaiwen-aboutme/)
-
 ### Research assistants
 
 #### Postbacs
 [Jordyn Martin](/bios/jordyn-aboutme/)
 
-#### Senior honors students
-
-[Lizzie Mickiewicz](/bios/lizzie-aboutme/) 
-
-[Sarah Kelso](/bios/sarahk-aboutme/) 
-
 #### Undergraduate students
-
-[Sarah Sommer](/bios/sarah-aboutme/)
-
-[Alexander Stern](/bios/alexander-aboutme/)
-
-[Carla Escalante](/bios/carla-aboutme/)
-
-[Alex Klerman](/bios/alexk-aboutme/)
 
 [Dalia Querenet](/bios/dalia-aboutme/)
 

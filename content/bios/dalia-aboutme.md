@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a second-year undergraduate student at the University of Chicago. I joined Chatter Lab in January 2024. As a Cognitive Science student, I am interested in learning about the relationship between environment and language.
+I am a third-year undergraduate student at the University of Chicago. I joined Chatter Lab in January 2024. As a Cognitive Science student, I am interested in learning about the relationship between environment and language.
 
 ### Contact 
 Email: dquerenet@uchicago.edu

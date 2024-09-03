@@ -4,7 +4,13 @@
 
 Kennedy Casey
 
+### Postdocs
+
+Natalie Dowling
+
 ### Masters students
+
+Kaiwen (Katia) Yang (MA 2024)
 
 Isabella Di Giovanni (MA 2023)
 
@@ -17,6 +23,18 @@ Mary Elliott (MA 2022, UT Dallas)
 Bram Puete (MA 2021, Radboud University)
 
 ### Undergraduate students
+
+Carla Escalante (BA 2024)
+
+Sarah Kelso (BA 2024)
+
+Lizzie Mickiewicz (BA 2024)
+
+Sarah Sommer (BA 2024)
+
+Alexander Stern (BA 2024)
+
+Alex Klerman (BA 2026)
 
 Emily Chan (BA 2023)
 

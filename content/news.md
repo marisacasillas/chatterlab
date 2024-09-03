@@ -1,10 +1,40 @@
 # chatter news
 
+### August 2024
+* The following Chatter Lab presentations took place at the [International Association for the Study of Child Language](https://iascl2024.com/) 2024 Conference:
+	* [Yuchen Jin](../bios/yuchen-aboutme/) presented her work on overheard speech (What do US children overhear: Evidence from daylong recordings and parental reports)
+	* [Kennedy Casey](https://kennedycasey.github.io/) gave a talk (Object handling predicts age of noun acquisition in a Tseltal Mayan community)
+	* [Ruthe Foushee](https://ruthefoushee.com/) gave a talk (Nonverbal communication between hearing caregivers and their deaf and hearing children)
+	* [Marisa Casillas](../bios/marisa-aboutme/) gave a talk (Verb bias but no noun bias in early Tseltal lexical development) and led a workshop with colleagues from the [ACLEW project](https://sites.google.com/view/aclewdid/home) (Daylong data: raw audio to transcript via automated & manual open-science tools)
+* [Jocelyn Zacarias](../bios/jocelyn-aboutme/) gave her summer apprenticeship talk at the [Child Language Lab](https://childlanguagelab.northwestern.edu/) at Northwestern University (Infant-Directed Speech (IDS) Preference).
+* Blossom Onwubuariri gave her internship talk for the Leadership Alliance (Exploring the Relationship Between Heritage Language Fluency and Ethnic Identity in the US: An Ethnographic Study).
+* [Mia Zhang](../bios/mia-aboutme/) graduated from MAPSS. Congratulations!
+
+### June 2024
+* Chatter Lab members [Carla Escalante](../bios/carla-aboutme/), [Sarah Kelso](../bios/sarahk-aboutme/), [Lizzie Mickiewicz](../bios/lizzie-aboutme/), [Sarah Sommer](../bios/sarah-aboutme/), and [Alexander Stern](../bios/alexander-aboutme/) graduated from the college. Congratulations!
+* [Kaiwen Yang](../bios/kaiwen-aboutme/) graduated from MAPSS and [Ben Morris](https://benjamincmorris.github.io/) graduated from his PhD program in Developmental Psychology. Congratulations!
+* [Carla Escalante](../bios/carla-aboutme/) and [Sarah Sommer](../bios/sarah-aboutme/) rejoined the lab as postbac staff for the summer. Lucky to have them one quarter longer!
+* [Jocelyn Zacarias](../bios/jocelyn-aboutme/) joined the lab as a summer apprentice (Early Communicative Development Research Apprenticeship, funded by the College Curriculum Innovation Fund).
+
+### May 2024
+* [Jenny Lu](https://lcdlab.berkeley.edu/people/) and [Imme Lammertink](https://www.ru.nl/en/people/lammertink-i) visited the lab!
+* Chatter Lab members attended [Meg Cychosz's](https://megseekosh.github.io/) talk at Northwestern University (Linguistics Colloquium Series: Harnessing children’s messy, naturalistic environments to understand speech development).
+* We bid our farewells to [Divya Swaminathan](https://ssm-lab.org/researchers) as she took off to exciting new chapters in her PhD journey.
+
+### April 2024
+* [Marisa Casillas](../bios/marisa-aboutme/) visited Stanford University as a [Wasow Visiting Scholar in Symbolic Systems](https://symsys.stanford.edu/events/wasow-visiting-scholars-symbolic-systems). She gave two talks: (1) Rethinking the noun bias in children’s early vocabulary development, and (2) What does it take for a child to learn a language?
+
+### March 2024
+* [Marisa Casillas](../bios/marisa-aboutme/) gave a colloquium at UCSD (Becoming a conversationalist: A cross-cultural perspective on the link between everyday talk and language development).
+* [Marisa Casillas](../bios/marisa-aboutme/) and [Ruthe Foushee](https://ruthefoushee.com/) went on their fieldwork trip to Chiapas, Mexico.
+* We welcomed [Marvin Diaz](../bios/marvin-aboutme/), [Osa Odiase](../bios/osa-aboutme/), [Eva Smolen](../bios/eva-aboutme/), and [Ariel Wang](../bios/ariel-aboutme/) as new research assistants.
+
 ### January 2024
 * The following Chatter Lab presentations took place at the [American Dialect Society](https://americandialect.org/) 2024 Conference:
 	* [Jordyn Martin](../bios/jordyn-aboutme/) presented her work with [Claire Bergey](https://clairebergey.net/), [Sharese King](https://www.drshareseking.com/), and [Marisa Casillas](../bios/marisa-aboutme/) (Copula absence variation in child and adult corpus speech)
 	* [Sharese King](https://www.drshareseking.com/) presented her work with [Marisa Casillas](../bios/marisa-aboutme/) on Kimberly Shorter's thesis work (The interplay of dialect and legal profession in the courtroom)
-* We welcomed Dalia Querenet Onfroy de Breville as a new research assistant.
+* [Marisa Casillas](../bios/marisa-aboutme/) gave a colloquium at Princeton University (Becoming a conversationalist: A cross-cultural perspective on the link between everyday talk and language development)
+* We welcomed [Dalia Querenet Onfroy de Breville](../bios/dalia-aboutme/) as a new research assistant.
 
 ### December 2023
 * [Marisa Casillas](../bios/marisa-aboutme/) was reappointed to the Department of Comparative Human Development. Congratulations!
