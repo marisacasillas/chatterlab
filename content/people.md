@@ -24,6 +24,8 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 #### Undergraduate students
 
+[Jocelyn Zacarias](/bios/jocelyn-aboutme/)
+
 [Dalia Querenet](/bios/dalia-aboutme/)
 
 [Ariel Wang](/bios/ariel-aboutme/)
