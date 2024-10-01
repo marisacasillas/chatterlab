@@ -1,5 +1,12 @@
 # chatter news
 
+### September 2024
+* [Marisa Casillas's](../bios/marisa-aboutme/) paper with John Bunce, [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), [Elika Bergelson](https://bergelsonlab.com/bergelson-personal-page.html), Celia Rosemberg, Alejandra Stein, Florencia Alam, and Maia Julieta Migdalek was published in the _Journal of Child Language_. Read it [here](https://doi.org/10.1017/S030500092400028X).
+* [Mia Zhang](../bios/mia-aboutme/) gave a talk (Linguistic and Methodological Factors Shaping the Noun Bias in Early Language Production) at the [Crosslinguistic Perspectives on Processing and learning](https://www.comparativelinguistics.uzh.ch/en/events/x-ppl2024.html) Conference.
+* We welcomed MAPSS student Kristen Johnson.
+* Former undergraduate research assistant and postbac staff [Jordyn Martin](../bios/jordyn-aboutme/) is starting her PhD program at UChicago Linguistics. Congratulations, Jordyn!
+* Blossom Onwubuariri had her abstract accepted for a poster presentation (Exploring the Relationship Between Heritage Language fluency and Ethnic Identity in the US Healthcare System: An Ethnographic Study) at the Annual Biomedical Research Conference for Minoritized Scientists [(ABRCMS 2024)](https://www.abrcms.org/).
+
 ### August 2024
 * The following Chatter Lab presentations took place at the [International Association for the Study of Child Language](https://iascl2024.com/) 2024 Conference:
 	* [Yuchen Jin](../bios/yuchen-aboutme/) presented her work on overheard speech (What do US children overhear: Evidence from daylong recordings and parental reports)
