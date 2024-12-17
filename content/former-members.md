@@ -1,8 +1,16 @@
 # Former members
 
+### Postdocs
+
+[Natalie Dowling](https://nrdowling.com)
+
 ### Lab managers
 
-Kennedy Casey
+[Kennedy Casey](https://kennedycasey.github.io/)
+
+### PhD students
+
+[Divya Swaminathan (visitor 2024)](https://ssm-lab.org/researchers)
 
 ### Postdocs
 
@@ -10,7 +18,13 @@ Natalie Dowling
 
 ### Masters students
 
+<<<<<<< Updated upstream
 Kaiwen (Katia) Yang (MA 2024)
+=======
+Kaiwen Yang (MA 2024)
+
+Yiqun (Mia) Zhang (MA 2024)
+>>>>>>> Stashed changes
 
 Isabella Di Giovanni (MA 2023)
 
@@ -22,8 +36,19 @@ Mary Elliott (MA 2022, UT Dallas)
 
 Bram Puete (MA 2021, Radboud University)
 
+### Postbacc students
+
+Jordyn Martin (BA 2023)
+
+Ariana Maisonet (BA 2023)
+
+Sarah Sommer (BA 2024)
+
+Carla Escalante (BA 2024)
+
 ### Undergraduate students
 
+<<<<<<< Updated upstream
 Carla Escalante (BA 2024)
 
 Sarah Kelso (BA 2024)
@@ -36,6 +61,16 @@ Alexander Stern (BA 2024)
 
 Alex Klerman (BA 2026)
 
+=======
+Alex Klerman (BA ongoing!)
+
+Lizzie Mickiewicz (BA 2024)
+
+Sarah Kelso (BA 2024)
+
+Alexander Stern (BA 2024)
+
+>>>>>>> Stashed changes
 Emily Chan (BA 2023)
 
 Kimberly Shorter (BA 2023)
@@ -54,7 +89,7 @@ Mara Duquette (BA 2024)
 
 Anapaula Silva Mandujano (BA 2024)
 
-Alyssa Guillu (BA 2022)
+[Solana (Alyssa) Guillu (BA 2022)](https://www.meredith-rowe.com/lab)
 
 Erica Hsieh (BA 2022)
 
