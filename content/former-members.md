@@ -18,13 +18,9 @@ Natalie Dowling
 
 ### Masters students
 
-<<<<<<< Updated upstream
-Kaiwen (Katia) Yang (MA 2024)
-=======
 Kaiwen Yang (MA 2024)
 
 Yiqun (Mia) Zhang (MA 2024)
->>>>>>> Stashed changes
 
 Isabella Di Giovanni (MA 2023)
 
@@ -48,20 +44,6 @@ Carla Escalante (BA 2024)
 
 ### Undergraduate students
 
-<<<<<<< Updated upstream
-Carla Escalante (BA 2024)
-
-Sarah Kelso (BA 2024)
-
-Lizzie Mickiewicz (BA 2024)
-
-Sarah Sommer (BA 2024)
-
-Alexander Stern (BA 2024)
-
-Alex Klerman (BA 2026)
-
-=======
 Alex Klerman (BA ongoing!)
 
 Lizzie Mickiewicz (BA 2024)
@@ -70,7 +52,6 @@ Sarah Kelso (BA 2024)
 
 Alexander Stern (BA 2024)
 
->>>>>>> Stashed changes
 Emily Chan (BA 2023)
 
 Kimberly Shorter (BA 2023)

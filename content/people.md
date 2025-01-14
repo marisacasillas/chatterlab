@@ -13,14 +13,9 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Yuchen Jin](/bios/yuchen-aboutme/)
 
-### Masters students
-
-[Yiqun (Mia) Zhang](/bios/mia-aboutme/)
+[Jordyn Martin](/bios/jordyn-aboutme/)
 
 ### Research assistants
-
-#### Postbacs
-[Jordyn Martin](/bios/jordyn-aboutme/)
 
 #### Undergraduate students
 
