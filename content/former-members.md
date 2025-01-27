@@ -12,10 +12,6 @@
 
 [Divya Swaminathan (visitor 2024)](https://ssm-lab.org/researchers)
 
-### Postdocs
-
-Natalie Dowling
-
 ### Masters students
 
 Kaiwen Yang (MA 2024)
