@@ -12,7 +12,7 @@ A typical class will involve: Pre-class reading and in-class expert presentation
 
 Classes will take place on Tuesdays and Thursdays, each lasting 1 hour. The exact start time of each session is not yet established** but a final calendar will be shared with all attendees as soon as possible. In general, Tuesdays will take place early morning (6–9am) for attendees in Asia/Oceania and Thursdays will take place in the late afternoon (4–7) for attendees in Europe/Africa. Attendees in the Americas could participate in either or both days, at will.
 
-**Course convenor:** Dr. Marisa Casillas (mcasillas@uchicago.edu).
+**Lead instructor:** Dr. Marisa Casillas (mcasillas@uchicago.edu).
 
 _** Course timing will not be the same every week due to constraints on guest lecturer availability and variable daylight savings start times across the globe :)_
 
@@ -65,5 +65,6 @@ Shanley Allen
 
 This course is made possible (and much better and much much more interesting) by the contributions of the 19 guest lecturers in attendance (in reverse alphabetical order): Andrea Taverna, Alejandra Stein, Laura Shneidman, Camila Scaff, Hannah Sarvasy, Paul Okyere Omane, Tanya MacGillivray, Hannah Lutzenberger, Lourdes de León, Marvin Lavechin, Laura Horton, Birgit Hellwig, Rowena Garcia, Ruthe Foushee, Abdellah Elouatiq, Rebecca Defina, Margaret Cychosz, Jaime Chi Pech, Shanley Allen.
 
-This course is supported by a NSF CAREER grant to Marisa Casillas... in theory. We'll move forward with it even if funding gets paused.
+This course is supported by a NSF CAREER grant (2238609) to Marisa Casillas... in theory. We'll move forward with it even if funding gets paused/revised :)
 
+If you're interested in learning more about our lab's work, please check us out at [chatterlab.uchicago.edu](). Our lab at the University of Chicago is located on the traditional homelands of the Ojibwe, Odawa, and Potawatomi nations (learn more: [1](https://www.ala.org/aboutala/offices/diversity/chicago-indigenous), [2](https://aicchicago.org/), [3](https://chicagoaicc.com/) and [4](https://www.wttw.com/playlist/2018/11/08/native-americans-chicago)).
