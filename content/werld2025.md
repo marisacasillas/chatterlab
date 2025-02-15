@@ -20,7 +20,7 @@ _** Course timing will not be the same every week due to constraints on guest le
 
 - Registration is currently OPEN (through 1 March 2025)
 - Please complete the registration request form [here](https://forms.gle/zoxRc9mhtU2u3mvi8)
-- NOTE: We plan to have this course open as possible. In the unexpected case of overwhelming interest, we may need to limit live attendance.
+- NOTE: We plan to have this course as open as possible. In the unexpected case of overwhelming interest, we may need to limit live attendance.
 
 ## Course materials
 
