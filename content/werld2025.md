@@ -67,4 +67,4 @@ This course is made possible (and much better and much much more interesting) by
 
 This course is supported by a NSF CAREER grant (2238609) to Marisa Casillas... in theory. We'll move forward with it even if funding gets paused/revised :)
 
-If you're interested in learning more about our lab's work, please check us out at [chatterlab.uchicago.edu](). Our lab at the University of Chicago is located on the traditional homelands of the Ojibwe, Odawa, and Potawatomi nations (learn more: [1](https://www.ala.org/aboutala/offices/diversity/chicago-indigenous), [2](https://aicchicago.org/), [3](https://chicagoaicc.com/) and [4](https://www.wttw.com/playlist/2018/11/08/native-americans-chicago)).
+If you're interested in learning more about our lab's work, please check us out at [chatterlab.uchicago.edu](). Our lab at the University of Chicago is located on the traditional homelands of the Ojibwe, Odawa, and Potawatomi nations, among others (learn more: [1](https://www.ala.org/aboutala/offices/diversity/chicago-indigenous), [2](https://aicchicago.org/), [3](https://chicagoaicc.com/) and [4](https://www.wttw.com/playlist/2018/11/08/native-americans-chicago)).
