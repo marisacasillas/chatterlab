@@ -12,7 +12,7 @@ A typical class will involve: Pre-class reading and in-class guest lecture(s) an
 
 Classes will take place on Tuesdays and Thursdays, each lasting 1 hour. The exact start time of each session is not yet established** but a final calendar will be shared with all attendees as soon as possible. In general, Tuesdays will take place early morning (6–9am) for attendees in Asia/Oceania and Thursdays will take place in the late afternoon (4–7) for attendees in Europe/Africa. Attendees in the Americas could participate in either or both days, at will. Attendees are typically only expected to attend class once per week (i.e., Tuesdays or Thursdays).
 
-**Lead instructor:** Dr. Marisa Casillas (mcasillas@uchicago.edu).
+**Lead instructor:** [Marisa Casillas](https://chatterlab.uchicago.edu/bios/marisa-aboutme/)
 
 _** Course timing will not be the same every week due to constraints on guest lecturer availability and variable daylight savings start times across the globe :)_
 
@@ -51,32 +51,32 @@ Final course materials will be published in a public repository following course
 
 ### Week 1 (25/27 March 2025)
 - **Topics:** What is "fieldwork"?, Ethics, and Grants
-- **Guest panelists:** Hannah Sarvasy, Birgit Hellwig, Lourdes de León, 
-Shanley Allen
+- **Guest panelists:** [Hannah Sarvasy](https://www.westernsydney.edu.au/marcs/about/our_people/researchers/dr_hannah_sarvasy), [Birgit Hellwig](https://ifl.phil-fak.uni-koeln.de/en/general-linguistics/people/prof-birgit-hellwig), [Lourdes de León](https://ciesas.edu.mx/de-leon-pasquel-maria-de-lourdes/), 
+[Shanley Allen](https://sowi.rptu.de/fgs/psycholinguistics/team/professor-dr-shanley-em-allen)
 
 ### Week 2 (1/3 April 2025)
 - **Topics:** Observation, interviews, and linguistic elicitation
-- **Guest panelists:** Alejandra Stein, Abdellah Elouatiq, Laura Horton
+- **Guest panelists:** [Alejandra Stein](https://www.conicet.gov.ar/new_scp/detalle.php?id=33934&datos_academicos=yes), [Abdellah Elouatiq](https://www.mpi.nl/people/elouatiq-abdellah), [Laura Horton](https://sites.google.com/view/laurahorton)
 
 ### Week 3 (8/10 April 2025)
 - **Topics:** Transcription, annotation, and automation
-- **Guest panelists:** Rebecca Defina, Weng Garcia, Marvin Lavechin, Hannah Lutzenberger
+- **Guest panelists:** [Rebecca Defina](https://findanexpert.unimelb.edu.au/profile/772260-rebecca-defina), [Rowena Garcia](https://rgarcia.owlstown.net/), [Marvin Lavechin](https://marvinlvn.github.io/), [Hannah Lutzenberger](https://www.su.se/english/profiles/halu7408-1.767175)
 
 ### Week 4 (15/17 April 2025)
 - **Topics:** Bridge session: Recap + moving towards combining observation and experimentation
 
 ### Week 5 (22/24 April 2025)
 - **Topics:** Infant experiment methods
-- **Guest panelists:** Tanya MacGillivray, Camila Scaff, Paul Okyere Omane, Ruthe Foushee
+- **Guest panelists:** [Tanya MacGillivray](https://www.sfu.ca/psychology/research/culture-and-development-lab/who-we-are/our-team.html#), [Camila Scaff](https://camilascaff.com/), [Paul Okyere Omane](https://scholar.google.com/citations?user=7lhMqLsAAAAJ&hl=en), [Ruthe Foushee](https://ruthefoushee.com/)
 
 ### Week 6 (29 April/1 May 2025)
 - **Topics:** Early childhood experiment methods
-- **Guest panelists:** Jaime Chi Pech, Meg Cychosz, Andrea Taverna, Laura Shneidman
+- **Guest panelists:** [Jaime Chi Pech](https://scholar.google.com/citations?user=iClAznAAAAAJ&hl=es), [Meg Cychosz](https://megseekosh.github.io/), [Andrea Taverna](https://www.learningnatures.com/andrea-taverna), [Laura Shneidman](https://www.plu.edu/psychology/staff/laura-shneidman/)
 
 ### Week 7 (6/8 May 2025)
 - **Topics:** Proposal planning workshop
 
-###  Week 8 (13/15 May 2025)
+### Week 8 (13/15 May 2025)
 - **Topics:** Student proposal presentations
 
 
