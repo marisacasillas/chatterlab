@@ -4,23 +4,42 @@
 
 What underlies the human capacity for learning language? The human language capacity is flexibly adapted to language learning in situ—children all over the world gain basic fluency in their home languages in the first few years of life. However, to understand how this adaptive cognitive capacity evolved, we must expand our view of how children learn language beyond the populations traditionally studied. 
 
-This is a methods course about language development research. It's intended primarily for graduate students and early-career researchers from anywhere around the globe, however, any researcher who would benefit from this course is welcome to join.
+This is a **free, online** methods course about language development research. It's intended primarily for graduate students and early-career researchers from anywhere around the globe, however, any researcher who would benefit from this course is welcome to join (see registration notes below).
 
-The course aims to create a space where researchers new to field research can develop plans for working with under-represented communities. Most of the class sessions will feature lectures and discussion opportunities with researchers who have wide-ranging expertise on fieldwork methods. These incredible guest lecturers  (see below) bring expertise from many subdomains of language acquisition research, provide perspectives from a range of academic positions (PhD student to senior academic), and share experiences from many different linguistic communities.
+The course aims to create a space where researchers new to field research can develop plans for working with understudied participant communities. Most of the class sessions will feature lectures and discussion opportunities with researchers who have wide-ranging expertise on fieldwork methods. These incredible guest lecturers (see below) bring expertise from many subdomains of language acquisition research, provide perspectives from a range of academic positions (PhD student to senior academic), and share experiences from many different linguistic communities.
 
-A typical class will involve: Pre-class reading and in-class expert presentations and discussion. The readings, presentations, and notes from the discussion (but not any recording of the discussion) will be shared with participants during the course (and publicly after the course) to increase the visibility and long-term utility of this endeavor.
+A typical class will involve: Pre-class reading and in-class guest lecture(s) and discussion. The readings, presentations, and notes from the discussion (but not any recording of the discussion) will be shared with participants during the course (and publicly after the course) to increase the visibility and long-term utility of this endeavor.
 
-Classes will take place on Tuesdays and Thursdays, each lasting 1 hour. The exact start time of each session is not yet established** but a final calendar will be shared with all attendees as soon as possible. In general, Tuesdays will take place early morning (6–9am) for attendees in Asia/Oceania and Thursdays will take place in the late afternoon (4–7) for attendees in Europe/Africa. Attendees in the Americas could participate in either or both days, at will.
+Classes will take place on Tuesdays and Thursdays, each lasting 1 hour. The exact start time of each session is not yet established** but a final calendar will be shared with all attendees as soon as possible. In general, Tuesdays will take place early morning (6–9am) for attendees in Asia/Oceania and Thursdays will take place in the late afternoon (4–7) for attendees in Europe/Africa. Attendees in the Americas could participate in either or both days, at will. Attendees are typically only expected to attend class once per week (i.e., Tuesdays or Thursdays).
 
 **Lead instructor:** Dr. Marisa Casillas (mcasillas@uchicago.edu).
 
 _** Course timing will not be the same every week due to constraints on guest lecturer availability and variable daylight savings start times across the globe :)_
 
-## Registration
+## Expectations and Registration
+
+### Who might benefit most from this course?
+
+Given the instructors and their areas of expertise (see below), the topics and questions raised in this course will be most familiar to students with experience in linguistics and/or cognitive and developmental psychology. Scholars from adjacent fields (e.g., education, sociology, anthropology) are very welcome to join, but the course topics may be somewhat unfamiliar and less directly applicable to interests specific to those disciplines.
+
+The emphasis of this course is on child language learning in home contexts. The topics are unlikely to be directly applicable for those interested in second language (L2) learning or language learning in schools or clinical settings.
+
+All teaching and reading will be done in English.
+
+### What is expected of registered attendees?
+
+- Attendees are typically only expected to attend one session per week (i.e., Tuesdays or Thursdays).
+- Attendees should make concrete plans to attend at least once per week for at least 5 of the 8 weeks, and should expect to make a presentation to the class in Week 8.
+    - NOTE: These guidelines for 5/8 class attendance and Week 8 participation are the minimum requirements for a certificate of course completion.
+
+### How will course registration work?
 
 - Registration is currently OPEN (through 1 March 2025)
-- Please complete the registration request form [here](https://forms.gle/zoxRc9mhtU2u3mvi8)
-- NOTE: We plan to have this course as open as possible. In the unexpected case of overwhelming interest, we may need to limit live attendance.
+- You can submit a registration request [here](https://forms.gle/zoxRc9mhtU2u3mvi8)
+- We plan to have this course as open as possible, but we are **limiting registration to 30 attendees to preserve a discussion-friendly environment**. If more than 30 people request registration, we will select a set of attendees based on the following criteria:
+    1. Aim for an 80/20 division of enrollees among the global South/North, respectively ([Aravena-Bravo et al., 2023](https://uchicago.box.com/s/5ptuo7qtyo1qpppkljokpfrufmnja54s))
+    2. Prioritize early-career researchers (graduate students, early-career faculty, and community-member linguists) who are conducting active research on child language acquisition or who have definite plans to do so in the coming year
+
 
 ## Course materials
 
@@ -44,7 +63,7 @@ Shanley Allen
 - **Guest panelists:** Rebecca Defina, Weng Garcia, Marvin Lavechin, Hannah Lutzenberger
 
 ### Week 4 (15/17 April 2025)
-- **Topics:** Bridge session: Combining observation and experimentation
+- **Topics:** Bridge session: Recap + moving towards combining observation and experimentation
 
 ### Week 5 (22/24 April 2025)
 - **Topics:** Infant experiment methods
@@ -63,7 +82,9 @@ Shanley Allen
 
 ## Acknowledgements
 
-This course is made possible (and much better and much much more interesting) by the contributions of the 19 guest lecturers in attendance (in reverse alphabetical order): Andrea Taverna, Alejandra Stein, Laura Shneidman, Camila Scaff, Hannah Sarvasy, Paul Okyere Omane, Tanya MacGillivray, Hannah Lutzenberger, Lourdes de León, Marvin Lavechin, Laura Horton, Birgit Hellwig, Rowena Garcia, Ruthe Foushee, Abdellah Elouatiq, Rebecca Defina, Margaret Cychosz, Jaime Chi Pech, Shanley Allen.
+This course is made possible (and much better and much much more interesting) by the contributions of the 19 guest lecturers (in reverse alphabetical order): Andrea Taverna, Alejandra Stein, Laura Shneidman, Camila Scaff, Hannah Sarvasy, Paul Okyere Omane, Tanya MacGillivray, Hannah Lutzenberger, Lourdes de León, Marvin Lavechin, Laura Horton, Birgit Hellwig, Rowena Garcia, Ruthe Foushee, Abdellah Elouatiq, Rebecca Defina, Margaret Cychosz, Jaime Chi Pech, Shanley Allen.
+
+Thanks also to the following friends-of-the-course who have helped improve these materials: Ruthe Foushee, Margaret Cychosz, Caroline Rowland, Evan Kidd, Adriana Weisleder, Rowena Garcia, and Elika Bergelson. Any remaining shortcomings belong exclusively to Marisa Casillas.
 
 This course is supported by a NSF CAREER grant (2238609) to Marisa Casillas... in theory. We'll move forward with it even if funding gets paused/revised :)
 
