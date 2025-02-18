@@ -14,6 +14,8 @@ Classes will take place on Tuesdays and Thursdays, each lasting 1 hour. The exac
 
 **Lead instructor:** [Marisa Casillas](https://chatterlab.uchicago.edu/bios/marisa-aboutme/)
 
+**Course email address:** werld2025@uchicago.edu
+
 _** Course timing will not be the same every week due to constraints on guest lecturer availability and variable daylight savings start times across the globe :)_
 
 ## Expectations and Registration
@@ -43,7 +45,7 @@ All teaching and reading will be done in English.
 
 ## Course materials
 
-Registered participants will receive an email with links to all course materials, including the course calendar, video call links, all lecture recordings, readings, discussion notes, and more. <!--If you are a registered participant but have not received your link to the materials, please reach out to .-->
+Registered participants will receive an email with links to all course materials, including the course calendar, video call links, all lecture recordings, readings, discussion notes, and more. If you are a registered participant but have not received your link to the materials, please reach out to werld2025@uchicago.edu.
 
 Final course materials will be published in a public repository following course completion; link to be shared here in spring/summer 2025.
 
@@ -86,6 +88,6 @@ This course is made possible (and much better and much much more interesting) by
 
 Thanks also to the following friends-of-the-course who have helped improve these materials: Ruthe Foushee, Margaret Cychosz, Caroline Rowland, Evan Kidd, Adriana Weisleder, Rowena Garcia, and Elika Bergelson. Any remaining shortcomings belong exclusively to Marisa Casillas.
 
-This course is supported by a NSF CAREER grant (2238609) to Marisa Casillas... in theory. We'll move forward with it even if funding gets paused/revised :)
+This course is supported by [NSF CAREER grant 2238609](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238609&HistoricalAwards=false)... in theory. We'll move forward with it even if our funding gets paused/revised.
 
 If you're interested in learning more about our lab's work, please check us out at [chatterlab.uchicago.edu](). Our lab at the University of Chicago is located on the traditional homelands of the Ojibwe, Odawa, and Potawatomi nations, among others (learn more: [1](https://www.ala.org/aboutala/offices/diversity/chicago-indigenous), [2](https://aicchicago.org/), [3](https://chicagoaicc.com/) and [4](https://www.wttw.com/playlist/2018/11/08/native-americans-chicago)).
