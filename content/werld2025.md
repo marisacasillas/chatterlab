@@ -62,7 +62,7 @@ Final course materials will be published in a public repository following course
 
 ### Week 3 (8/10 April 2025)
 - **Topics:** Transcription, annotation, and automation
-- **Guest panelists:** [Rebecca Defina](https://findanexpert.unimelb.edu.au/profile/772260-rebecca-defina), [Rowena Garcia](https://rgarcia.owlstown.net/), [Marvin Lavechin](https://marvinlvn.github.io/), [Hannah Lutzenberger](https://www.su.se/english/profiles/halu7408-1.767175)
+- **Guest panelists:** [Rebecca Defina](https://findanexpert.unimelb.edu.au/profile/772260-rebecca-defina), [Rowena Garcia](https://rgarcia.owlstown.net/), [Marvin Lavechin](https://marvinlvn.github.io/), [Hannah Lutzenberger](https://hannahlutzenberger.github.io/)
 
 ### Week 4 (15/17 April 2025)
 - **Topics:** Bridge session: Recap + moving towards combining observation and experimentation
