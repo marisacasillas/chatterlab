@@ -43,7 +43,7 @@ All teaching and reading will be done in English.
 
 ## Course materials
 
-Registered participants should receive an email with links to all course materials, including the course calendar, video call links, all lecture recordings, readings, discussion notes, and more. If you are a registered participant but have not received your link to the materials, please reach out to mcasillas@uchicago.edu.
+Registered participants will receive an email with links to all course materials, including the course calendar, video call links, all lecture recordings, readings, discussion notes, and more. <!--If you are a registered participant but have not received your link to the materials, please reach out to .-->
 
 Final course materials will be published in a public repository following course completion; link to be shared here in spring/summer 2025.
 
@@ -56,7 +56,7 @@ Final course materials will be published in a public repository following course
 
 ### Week 2 (1/3 April 2025)
 - **Topics:** Observation, interviews, and linguistic elicitation
-- **Guest panelists:** [Alejandra Stein](https://www.conicet.gov.ar/new_scp/detalle.php?id=33934&datos_academicos=yes), [Abdellah Elouatiq](https://www.mpi.nl/people/elouatiq-abdellah), [Laura Horton](https://sites.google.com/view/laurahorton)
+- **Guest panelists:** [Alejandra Stein](https://www.conicet.gov.ar/new_scp/detalle.php?id=33934&datos_academicos=yes), [Abdellah Elouatiq](https://www.ru.nl/en/people/elouatiq-a), [Laura Horton](https://sites.google.com/view/laurahorton)
 
 ### Week 3 (8/10 April 2025)
 - **Topics:** Transcription, annotation, and automation
