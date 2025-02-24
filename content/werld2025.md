@@ -60,6 +60,12 @@ Final course materials will be published in a public repository following course
 - **Topics:** Observation, interviews, and linguistic elicitation
 - **Guest panelists:** [Alejandra Stein](https://www.conicet.gov.ar/new_scp/detalle.php?id=33934&datos_academicos=yes), [Abdellah Elouatiq](https://www.ru.nl/en/people/elouatiq-a), [Laura Horton](https://sites.google.com/view/laurahorton)
 
+<!--
+Readings
+- HORTON -- safar2021whats.pdf: "The paper looks long, but has a lengthy list of stims at the end in an appendix. The content is about 25 pages. I think Josefina gives a really nice overview of using photos for lexical elicitation."
+
+-->
+
 ### Week 3 (8/10 April 2025)
 - **Topics:** Transcription, annotation, and automation
 - **Guest panelists:** [Rebecca Defina](https://findanexpert.unimelb.edu.au/profile/772260-rebecca-defina), [Rowena Garcia](https://rgarcia.owlstown.net/), [Marvin Lavechin](https://marvinlvn.github.io/), [Hannah Lutzenberger](https://hannahlutzenberger.github.io/)
