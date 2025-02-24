@@ -2,124 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bios on chatterlab</title>
-    <link>https://chatterlab.uchicago.edu/bios/</link>
+    <link>http://localhost:1313/bios/</link>
     <description>Recent content in Bios on chatterlab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://chatterlab.uchicago.edu/bios/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/bios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/alexander-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/alexander-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/alexander-aboutme/</guid>
-      <description>[Alex]ander Stern (he/him/his) About me I am a fourth-year undergraduate student at the University of Chicago studying Linguistics and Urban Studies. I joined the chatterlab as a research assistant in June 2022. At the confluence of my academic interests, I want to investigate how language mediates an individual’s interactions with their society.
-Contact Email: alexanderstern@uchicago.edu</description>
+      <guid>http://localhost:1313/bios/_archived/alexander-aboutme/</guid>
+      <description>&lt;h2 id=&#34;alexander-stern-hehimhis&#34;&gt;[Alex]ander Stern (he/him/his)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/alexander-stern.jpg&#34; width=&#34;360&#34; height=&#34;460&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I am a fourth-year undergraduate student at the University of Chicago studying Linguistics and Urban Studies. I joined the chatterlab as a research assistant in June 2022. At the confluence of my academic interests, I want to investigate how language mediates an individual’s interactions with their society.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:alexanderstern@uchicago.edu&#34;&gt;alexanderstern@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/alexk-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/alexk-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/alexk-aboutme/</guid>
-      <description>Alex Klerman (he/him/his) Contact Email: alexklerman@uchicago.edu</description>
+      <guid>http://localhost:1313/bios/_archived/alexk-aboutme/</guid>
+      <description>&lt;h2 id=&#34;alex-klerman-hehimhis&#34;&gt;Alex Klerman (he/him/his)&lt;/h2&gt;&#xA;&lt;p&gt;I am a second year undergraduate at the University of Chicago studying mathematics and psychology. I joined the Chatter Lab summer of 2023 and am most interested in learning how the mechanisms behind early language acquisition change across cultures.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:alexklerman@uchicago.edu&#34;&gt;alexklerman@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/carla-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/carla-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/carla-aboutme/</guid>
-      <description>Carla Escalante (she/her/hers) About me I am a fourth year undergraduate studying linguistics and biochemistry at the University of Chicago. I joined the chatter lab as a research assistant in January of 2023. I am interested in language acquisition in early childhood, particularly in multilingual environments.
-Contact Email: cdescalante@uchicago.edu</description>
+      <guid>http://localhost:1313/bios/_archived/carla-aboutme/</guid>
+      <description>&lt;h2 id=&#34;carla-escalante-sheherhers&#34;&gt;Carla Escalante (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a fourth year undergraduate studying linguistics and biochemistry at the University of Chicago. I joined the chatter lab as a research assistant in January of 2023. I am interested in language acquisition in early childhood, particularly in multilingual environments.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:cdescalante@uchicago.edu&#34;&gt;cdescalante@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/isabella-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/isabella-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/isabella-aboutme/</guid>
-      <description>Isabella Di Giovanni (she/her) About me I am a second year PhD student in the Department of Comparative Human Development at the University of Chicago. I received my BA from Cornell University, where I studied Linguistics and Psychology with a minor in Cognitive Science. As an undergrad I worked with Professor Michael Goldstein and was involved in multiple research projects exploring early language learning in social contexts. Broadly, I am interested in language acquisition and development in social contexts, and in cross-linguistic and cross-cultural comparison.</description>
+      <guid>http://localhost:1313/bios/_archived/isabella-aboutme/</guid>
+      <description>&lt;h2 id=&#34;isabella-di-giovanni-sheher&#34;&gt;Isabella Di Giovanni (she/her)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/isabella-digiovanni.jpg&#34; width=&#34;360&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I am a second year PhD student in the Department of Comparative Human Development at the University of Chicago. I received my BA from Cornell University, where I studied Linguistics and Psychology with a minor in Cognitive Science. As an undergrad I worked with Professor Michael Goldstein and was involved in multiple research projects exploring early language learning in social contexts. Broadly, I am interested in language acquisition and development in social contexts, and in cross-linguistic and cross-cultural comparison. I am particularly interested in working with understudied languages, and I also have an interest in endangered language revitalization.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/jordyn-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/kaiwen-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/jordyn-aboutme/</guid>
-      <description>Jordyn Martin Contact Email: jordynmartin@uchicago.edu</description>
+      <guid>http://localhost:1313/bios/_archived/kaiwen-aboutme/</guid>
+      <description>&lt;h2 id=&#34;kaiwen-katia-yang-sheherhers&#34;&gt;Kaiwen (Katia) Yang (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/kaiwen-yang.jpeg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;I am a master student with a concentration in Psychology from the MAPSS program at UChicago. Before coming to Chicago, I completed my BA in Portuguese Language and Literature at Peking University, China. My research interests primarily focus on developmental psychology, social inequality and gender studies.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:kaiweny@uchicago.edu&#34;&gt;kaiweny@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/kennedy-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/kennedy-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/kennedy-aboutme/</guid>
-      <description>Kennedy Casey (she/her/hers) About me I am the current lab manager. I joined the chatter lab in summer 2021 after completing my BA degree at Princeton University, where I concentrated in Psychology and also studied Cognitive Science, Linguistics, and Neuroscience. During undergrad, I worked primarily with Dr. Casey Lew-Williams, and my thesis research combined eye-tracking and corpus-based observational methods to investigate how infants learn and represent some of their earliest words.</description>
+      <guid>http://localhost:1313/bios/_archived/kennedy-aboutme/</guid>
+      <description>&lt;h2 id=&#34;kennedy-casey-sheherhers&#34;&gt;Kennedy Casey (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/kennedy-casey.jpg&#34; width=&#34;430&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I am the current lab manager. I joined the chatter lab in summer 2021 after completing my BA degree at Princeton University, where I concentrated in Psychology and also studied Cognitive Science, Linguistics, and Neuroscience. During undergrad, I worked primarily with Dr. Casey Lew-Williams, and my thesis research combined eye-tracking and corpus-based observational methods to investigate how infants learn and represent some of their earliest words. I am excited to continue using multi-method—and particularly naturalistic—approaches to better understand the richness and diversity of children&amp;rsquo;s early language environments. Broadly, my ongoing research focuses on how young learners extract meaningful information from complex, everyday communicative contexts and explores which cues (linguistic, environmental, social, etc.) may support them most in doing so.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/lizzie-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/lizzie-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/lizzie-aboutme/</guid>
-      <description>Lizzie Mickiewicz (she/her/hers) About me I am a fourth year undergraduate student majoring in psychology and neuroscience at the University of Chicago. I am interested in exploring how cognitive processes influence language and vice versa. Specifically, I am fascinated by the idea of music as a language and means of communication, and I would like to study music medicine in the future.
-Publications Casey, K., Elliott, M., Mickiewicz, E., Silva Mandujano, A.</description>
+      <guid>http://localhost:1313/bios/_archived/lizzie-aboutme/</guid>
+      <description>&lt;h2 id=&#34;lizzie-mickiewicz-sheherhers&#34;&gt;Lizzie Mickiewicz (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/lizzie-mickiewicz.jpg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a fourth year undergraduate student majoring in neuroscience and psychology at the University of Chicago. I am interested in exploring the influence of cognitive processes on language and vice versa, with a focus on incorporating both naturalistic and experimental measures in my work.&lt;/p&gt;&#xA;&lt;p&gt;Currently, I am working on my senior thesis project, studying whether the phenomenon of infant phoneme discrimination can accurately be measured using functional near-infrared spectroscopy (fNIRS).  I am also using fNIRS to investigate how the use of gestures may influence children’s learning of math on a project headed by Amanda Seccia, a post-doctoral student in the &lt;a href=&#34;https://voices.uchicago.edu/bermanlab/&#34;&gt;Environmental Neuroscience Lab&lt;/a&gt; and &lt;a href=&#34;https://voices.uchicago.edu/goldinmeadowlab/&#34;&gt;Goldin-Meadow Lab&lt;/a&gt;.  I am also helping conduct an eye-tracking study interested in what features of spoken language children use to predict turn-taking in conversations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/marisa-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/mia-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/marisa-aboutme/</guid>
-      <description>Principal investigator Dr. Marisa Casillas Photo credit: Erielle Bakkum
-About Broadly speaking, I am interested in exploring how cognitive and social processes shape the ways in which we learn, perceive, and produce language. My primary research examines the relationship between communicative skills and linguistic processing in children and adults. I use a combination of experimental- and observation-based methods to comparatively investigate these processes in both urban, Western contexts and rural, Indigenous contexts.</description>
+      <guid>http://localhost:1313/bios/_archived/mia-aboutme/</guid>
+      <description>&lt;h2 id=&#34;yiqun-mia-zhang-sheherhers&#34;&gt;Yiqun (Mia) Zhang (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/mia-zhang.jpg&#34; height=&#34;300&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a master student with a concentration in Psychology from the MAPSS program at UChicago. Before coming to Chicago, I completed my BA in Psychology at the University of California, Irvine. My research interests primarily focus on developmental psychology and psycholinguistics.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:yiqunz4@uchicago.edu&#34;&gt;yiqunz4@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/ruby-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/ruby-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/ruby-aboutme/</guid>
-      <description>Ruby Swensen Hi! My name is Ruby Swensen. I am in my second year as an undergraduate student studying linguistics with an emphasis in American Sign Language and a special interest in comparative human development. I joined the Chatter Lab in January 2023 excited to learn more about the many applications of language on human interaction and behavior. When I’m not studying or working in the lab, I love to go ice skating on the midway!</description>
+      <guid>http://localhost:1313/bios/_archived/ruby-aboutme/</guid>
+      <description>&lt;h2 id=&#34;ruby-swensen&#34;&gt;Ruby Swensen&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/ruby-swensen.jpg&#34; width=&#34;360&#34; height=&#34;460&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;Hi! My name is Ruby Swensen. I am in my second year as an undergraduate student studying linguistics with an emphasis in American Sign Language and a special interest in comparative human development. I joined the Chatter Lab in January 2023 excited to learn more about the many applications of language on human interaction and behavior. When I’m not studying or working in the lab, I love to go ice skating on the midway!&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:rtswensen@uchicago.edu&#34;&gt;rtswensen@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/sarah-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/sarah-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/sarah-aboutme/</guid>
-      <description>Sarah Sommer (she/her/hers) About me I am a fourth year undergrad double majoring in Comparative Human Development and English at the University of Chicago. I joined the lab in June of 2022 and I am interested in language development across different social and cultural settings.
-Contact Email: ssommer@uchicago.edu</description>
+      <guid>http://localhost:1313/bios/_archived/sarah-aboutme/</guid>
+      <description>&lt;h2 id=&#34;sarah-sommer-sheherhers&#34;&gt;Sarah Sommer (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a fourth year undergrad double majoring in Comparative Human Development and English at the University of Chicago. I joined the lab in June of 2022 and I am interested in language development across different social and cultural settings.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:ssommer@uchicago.edu&#34;&gt;ssommer@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/sarahk-aboutme/</link>
+      <link>http://localhost:1313/bios/_archived/sarahk-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/sarahk-aboutme/</guid>
-      <description>Sarah Kelso (she/her/hers) About me I am a fourth year studying Psychology and Comparative Human Development. I joined the Chatter Lab in April 2023. I am especially interested in childhood development and often find myself drawn to topics involving language acquisition, but I am also interested in mental health and psychiatric disorders.
-Contact Email: sarahkelso@uchicago.edu</description>
+      <guid>http://localhost:1313/bios/_archived/sarahk-aboutme/</guid>
+      <description>&lt;h2 id=&#34;sarah-kelso-sheherhers&#34;&gt;Sarah Kelso (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/sarah-kelso.jpg&#34; width=&#34;330&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I am a fourth year studying Psychology and Comparative Human Development. I joined the Chatter Lab in April 2023. I am especially interested in childhood development and often find myself drawn to topics involving language acquisition, but I am also interested in mental health and psychiatric disorders.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:sarahkelso@uchicago.edu&#34;&gt;sarahkelso@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://chatterlab.uchicago.edu/bios/yuchen-aboutme/</link>
+      <link>http://localhost:1313/bios/anushka-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chatterlab.uchicago.edu/bios/yuchen-aboutme/</guid>
-      <description>Yuchen Jin (she/her/hers) About me I am a doctoral student in the Department of Comparative Human Development. Before coming to Chicago, I completed my BA in Education at Zhejiang University and Ed.M. in Human Development and Psychology at Harvard University. Broadly, my research interests include child lingusitic and communicative development, parent-child interaction, and in particular, how children become adapted to conversational turn-taking.
-Contact Email: yuchenjin@uchicago.edu</description>
+      <guid>http://localhost:1313/bios/anushka-aboutme/</guid>
+      <description>&lt;h2 id=&#34;anushka-guru-sheherhers&#34;&gt;Anushka Guru (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a second year undergraduate student studying Environmental Science and Biology on the Pre-Health track at the University of Chicago. I joined the Chatter Lab in February 2025. I am interested in the way that the human body forms (both normally and abnormally) to support speech development.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:aguru@uchicago.edu&#34;&gt;aguru@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/ariel-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/ariel-aboutme/</guid>
+      <description>&lt;h2 id=&#34;ariel-wang-sheherhers&#34;&gt;Ariel Wang (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/ariel-wang.jpg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a second year undergraduate student intending to major in Public Policy and Economics at the University of Chicago. I am interested in exploring the intersection between behavioral science and law in the realm of policy, economics and beyond, with a focus on the criminal justice system. I joined the Chatter Lab in February 2024, hoping to learn more about how language and dialect influence the developmental pathways of people from different backgrounds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/bri-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/bri-aboutme/</guid>
+      <description>&lt;h2 id=&#34;bri-kay-sheherhers&#34;&gt;Bri Kay (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a third-year undergrad at the University of Chicago, double majoring in Linguistics in French. I joined Chatter Lab in February of 2025 and am interested in how children learn first and second languages.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:briannakay228@uchicago.edu&#34;&gt;briannakay228@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/dalia-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/dalia-aboutme/</guid>
+      <description>&lt;h2 id=&#34;dalia-querenet-sheherhers&#34;&gt;Dalia Querenet (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a third-year undergraduate student at the University of Chicago. I joined Chatter Lab in January 2024. As a Cognitive Science student, I am interested in learning about the relationship between environment and language.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:dquerenet@uchicago.edu&#34;&gt;dquerenet@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/eva-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/eva-aboutme/</guid>
+      <description>&lt;h2 id=&#34;eva-smolen-sheherhers&#34;&gt;Eva Smolen (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a third year undergraduate studying Psychology and Music at the University of Chicago. I joined the Chatter Lab in February 2024 and am most interested in understanding the role language plays in identity formation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:smolen@uchicago.edu&#34;&gt;smolen@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/jocelyn-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/jocelyn-aboutme/</guid>
+      <description>&lt;h2 id=&#34;jocelyn-zacarias-sheherhers&#34;&gt;Jocelyn Zacarias (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a second-year undergraduate studying psychology and comparative human development at the University of Chicago. I joined the Chatter Lab in June of 2024. I am interested in the social factors that shape language mechanisms and acquisition, particularly how cultural settings and interactions within them influence this process.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:jzacarias@uchicago.edu&#34;&gt;jzacarias@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/jordyn-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/jordyn-aboutme/</guid>
+      <description>&lt;h2 id=&#34;jordyn-martin-sheherhers&#34;&gt;Jordyn Martin (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/jordyn-martin.jpg&#34; width=&#34;430&#34; height=&#34;410&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I am a PhD student in Linguistics who has worked in the Chatter Lab since January 2023. I am interested in how children use language to form concepts of identity and social belonging.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:jordynmartin@uchicago.edu&#34;&gt;jordynmartin@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/marisa-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/marisa-aboutme/</guid>
+      <description>&lt;h1 id=&#34;principal-investigator&#34;&gt;Principal investigator&lt;/h1&gt;&#xA;&lt;h2 id=&#34;dr-marisa-casillas&#34;&gt;Dr. Marisa Casillas&lt;/h2&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/MarisaCasillas2022_photobyErielleBakkum_smaller.jpg&#34; width=&#34;300&#34; height=&#34;375&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Photo credit: &lt;a href=&#34;https://www.eriellebakkumphotography.com/&#34;&gt;Erielle Bakkum&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;&#xA;&lt;p&gt;Broadly speaking, I am interested in exploring how cognitive and social processes shape the ways in which we learn, perceive, and produce language. My primary research examines the relationship between communicative skills and linguistic processing in children and adults. I use a combination of experimental- and observation-based methods to comparatively investigate these processes in both urban, Western contexts and rural, Indigenous contexts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/marvin-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/marvin-aboutme/</guid>
+      <description>&lt;h2 id=&#34;marvin-diaz-hehimhis&#34;&gt;Marvin Diaz (he/him/his)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a second-year undergraduate student at the University of Chicago studying Economics and Applied Mathematics. I joined the Chatter Lab in February 2024. I am interested in the development of bilingualism when exposed to different environments.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:marvindiaz@uchicago.edu&#34;&gt;marvindiaz@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/osa-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/osa-aboutme/</guid>
+      <description>&lt;h2 id=&#34;egheosase-osa-odiase-sheherhers&#34;&gt;Egheosase (Osa) Odiase (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/osa-odiase.JPG&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I&amp;rsquo;m a third year undergraduate student at the University of Chicago majoring in Cognitive Science. I joined the lab in February 2024 to explore my interest of the cognitive and linguistic processes within child development.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:eodiase@uchicago.edu&#34;&gt;eodiase@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/subin-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/subin-aboutme/</guid>
+      <description>&lt;h2 id=&#34;subin-kim-sheherhers&#34;&gt;Subin Kim (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/subin-kim.JPEG&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I joined the Chatter Lab in summer 2023 after graduating from the University of Pennsylvania with majors in Linguistics and Computer Information Science. During undergrad, I worked primarily with Dr. Delphine Dahan to study how communicative goals drive the interpretation of utterances in everyday conversation. Here at the Chatter Lab, I&amp;rsquo;m involved in projects investigating the co-development of interactional and linguistic competence in children through experimental and observational methods. My primary research interest is in the development of pragmatic reasoning in the context of naturalistic language production and comprehension.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/yuchen-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/yuchen-aboutme/</guid>
+      <description>&lt;h2 id=&#34;yuchen-jin-sheherhers&#34;&gt;Yuchen Jin (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/yuchen-jin.JPEG&#34; width=&#34;430&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I am a joint PhD student in Comparative Human Development and Psychology. Before coming to Chicago, I completed my BA in Education at Zhejiang University and Ed.M. in Human Development and Psychology at Harvard University. I am broadly interested in early linguistic and communication development. Currently, I am focusing on how varying participatory roles within interactions—such as those of direct addressees and overhearers—contribute to the acquisition of linguistic knowledge and communicative acts.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

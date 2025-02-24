@@ -19,17 +19,21 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 #### Undergraduate students
 
-[Jocelyn Zacarias](/bios/jocelyn-aboutme/)
+[Marvin Diaz](/bios/marvin-aboutme/)
 
-[Dalia Querenet](/bios/dalia-aboutme/)
+[Anushka Guru](/bios/anushka-aboutme/)
 
-[Ariel Wang](/bios/ariel-aboutme/)
-
-[Eva Smolen](/bios/eva-aboutme/)
+[Bri Kay](/bios/bri-aboutme/)
 
 [Egheosase (Osa) Odiase](/bios/osa-aboutme/)
 
-[Marvin Diaz](/bios/marvin-aboutme/)
+[Dalia Querenet](/bios/dalia-aboutme/)
+
+[Eva Smolen](/bios/eva-aboutme/)
+
+[Ariel Wang](/bios/ariel-aboutme/)
+
+[Jocelyn Zacarias](/bios/jocelyn-aboutme/)
 
 ### <a href="/former-members/"><u><span style="color:#88941c"> Former members</span></u></a>
 
