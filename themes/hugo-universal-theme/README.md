@@ -127,7 +127,7 @@ Leave the `googleAnalytics` key empty to disable it.
 
 ### Logo
 
-A logo can be selected, two parameters `logo` and `logo_small` can be defined. By default `logo` is used for medium and big screens and the `logo_small` value will be used when the site is rendered on small screens. Also there is the possibility to disable the logo and render a alternative text.
+A logo can be selected, two parameters `logo` and `new_logo` can be defined. By default `logo` is used for medium and big screens and the `new_logo` value will be used when the site is rendered on small screens. Also there is the possibility to disable the logo and render a alternative text.
 
 ```toml
 [params]
@@ -135,7 +135,7 @@ A logo can be selected, two parameters `logo` and `logo_small` can be defined. B
     logo_text = "Universal"
 
     logo = "img/new_logo.png"
-    logo_small = "img/logo-small.png"
+    new_logo = "img/logo-small.png"
 ```
 
 ### Contact form
