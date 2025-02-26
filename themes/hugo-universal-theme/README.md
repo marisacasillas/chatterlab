@@ -135,7 +135,7 @@ A logo can be selected, two parameters `logo` and `new_logo` can be defined. By 
     logo_text = "Universal"
 
     logo = "img/new_logo.png"
-    new_logo = "img/logo-small.png"
+    new_logo = "img/new_logo.png"
 ```
 
 ### Contact form

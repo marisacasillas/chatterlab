@@ -173,7 +173,7 @@ paginate = 10
     logo_text = "chatter lab"
 
     logo = "img/new_logo.png"
-    new_logo = "img/logo-small.png"
+    new_logo = "img/new_logo.png"
     logo_large = "img/new_logo.png"
     contact_url = "/contact/"
     address = """<p class="text-uppercase"><strong>Green Hall Room 011</strong>
