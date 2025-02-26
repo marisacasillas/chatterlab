@@ -134,7 +134,7 @@ A logo can be selected, two parameters `logo` and `logo_small` can be defined. B
     disabled_logo = false
     logo_text = "Universal"
 
-    logo = "img/logo.png"
+    logo = "img/new_logo.png"
     logo_small = "img/logo-small.png"
 ```
 

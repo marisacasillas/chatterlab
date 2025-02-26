@@ -450,7 +450,7 @@ paginate = 10
     disabled_logo = false
     logo_text = "Universal"
 
-    logo = "img/logo.png"
+    logo = "img/new_logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>

@@ -12,14 +12,14 @@ With Jekyll, something that looked like
 
     ▾ <root>/
         ▾ images/
-            logo.png
+            new_logo.png
 
 should become
 
     ▾ <root>/
         ▾ static/
             ▾ images/
-                logo.png
+                new_logo.png
 
 Additionally, you'll want any files that should reside at the root (such as `CNAME`) to be moved to `static`.
 
