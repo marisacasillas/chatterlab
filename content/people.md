@@ -1,4 +1,4 @@
-# <span style="color:#88941c"> chatter boxes </span>
+# chatter boxes
 
 ### Principal Investigator: Dr. Marisa Casillas
 Marisa (she/her) is an assistant professor in the University of Chicago's Comparative Human Development department. Before coming to Chicago, she completed her BA (UCLA) and PhD (Stanford University) in Linguistics, followed by postdoctoral work at the [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/) in the Netherlands. Her research draws on linguistics, psychology, and conversation analysis to investigate the foundations of human language cognition. She conducts observational and experimental work on adult and child language behavior in American English, Dutch, Tseltal (Mayan), and Yélî Dnye (isolate; Papua New Guinea), but maintains active collaborations with researchers working on other languages, including Sign Language of the Netherlands and Tsimane'. Her work, which has been funded by the National Science Foundation, the Acoustical Society of America, and the Netherlands Organization for Scientific Research, touches on a wide range of language topics, from comparative developmental language theory to open-source speech technology. You can learn more about the Dr. Casillas on her [personal page](/bios/marisa-aboutme/).
@@ -19,21 +19,25 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 #### Undergraduate students
 
-[Jocelyn Zacarias](/bios/jocelyn-aboutme/)
+[Marvin Diaz](/bios/marvin-aboutme/)
 
-[Dalia Querenet](/bios/dalia-aboutme/)
+[Anushka Guru](/bios/anushka-aboutme/)
 
-[Ariel Wang](/bios/ariel-aboutme/)
-
-[Eva Smolen](/bios/eva-aboutme/)
+[Bri Kay](/bios/bri-aboutme/)
 
 [Egheosase (Osa) Odiase](/bios/osa-aboutme/)
 
-[Marvin Diaz](/bios/marvin-aboutme/)
+[Dalia Querenet](/bios/dalia-aboutme/)
 
-### <a href="/former-members/"><u><span style="color:#88941c"> Former members</span></u></a>
+[Eva Smolen](/bios/eva-aboutme/)
 
-### <span style="color:#88941c"> Some recent and frequent collaborators </span>
+[Ariel Wang](/bios/ariel-aboutme/)
+
+[Jocelyn Zacarias](/bios/jocelyn-aboutme/)
+
+### <a href="/former-members/"><u> Former members</u></a>
+
+### Some recent and frequent collaborators
 
 #### Turn taking
 

@@ -7,7 +7,7 @@
                       <h4>{{ .Site.Params.logo_text }}</h4>
                     {{ else }}
                       <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Title }} logo" class="hidden-xs hidden-sm" />
-                      <img src="{{ .Site.Params.logo_small | relURL }}" alt="{{ .Title }} logo" class="visible-xs visible-sm" />
+                      <img src="{{ .Site.Params.new_logo | relURL }}" alt="{{ .Title }} logo" class="visible-xs visible-sm" />
                     {{ end }}
                     <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
                 </a>
