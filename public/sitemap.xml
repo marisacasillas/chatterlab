@@ -216,6 +216,8 @@
   </url><url>
     <loc>http://localhost:1313/tools/</loc>
   </url><url>
+    <loc>http://localhost:1313/werld-coc/</loc>
+  </url><url>
     <loc>http://localhost:1313/werld2025/</loc>
   </url><url>
     <loc>http://localhost:1313/archived_courses/</loc>
