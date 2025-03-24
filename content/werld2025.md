@@ -10,7 +10,7 @@ The course aims to create a space where researchers new to field research can de
 
 A typical class will involve: Pre-class reading and in-class guest lecture(s) and discussion. The readings, presentations, and notes from the discussion (but not any recording of the discussion) will be shared with participants during the course (and publicly after the course) to increase the visibility and long-term utility of this endeavor.
 
-Classes will take place on Tuesdays and Thursdays, each lasting 1 hour. The exact start time of each session is not yet established** but a final calendar will be shared with all attendees as soon as possible. In general, Tuesdays will take place early morning (6–9am) for attendees in Asia/Oceania and Thursdays will take place in the late afternoon (4–7) for attendees in Europe/Africa. Attendees in the Americas could participate in either or both days, at will. Attendees are typically only expected to attend class once per week (i.e., Tuesdays or Thursdays).
+Classes will take place on Tuesdays and Thursdays, each lasting 1 hour. The exact start time of each session is not yet established** but a final calendar will be shared with all attendees as soon as possible. In general, "Tuesdays" will take place early Wednesdat morning (6–9am) for attendees in Asia/Oceania and "Thursdays" will take place in the late Thursday afternoon (4–7) for attendees in Europe/Africa. Attendees in the Americas could participate in either or both days, at will. Attendees are typically only expected to attend class once per week (i.e., Tuesdays or Thursdays).
 
 **Lead instructor:** [Marisa Casillas](https://chatterlab.uchicago.edu/bios/marisa-aboutme/)
 
@@ -26,7 +26,7 @@ Given the instructors and their areas of expertise (see below), the topics and q
 
 The emphasis of this course is on child language learning in home contexts. The topics are unlikely to be directly applicable for those interested in second language (L2) learning or language learning in schools or clinical settings.
 
-All teaching and reading will be done in English.
+All primary teaching and reading will be done in English. Lecturers may make materials available in other languages at their discretion.
 
 ### What is expected of registered attendees?
 
@@ -36,16 +36,16 @@ All teaching and reading will be done in English.
 
 ### How will course registration work?
 
-- Registration is currently OPEN (through 1 March 2025)
-- You can submit a registration request [here](https://forms.gle/zoxRc9mhtU2u3mvi8)
-- We plan to have this course as open as possible, but we are **limiting registration to 30 attendees to preserve a discussion-friendly environment**. If more than 30 people request registration, we will select a set of attendees based on the following criteria:
+- Registration is currently CLOSED (ended 1 March 2025)
+<!--- You can submit a registration request [here](https://forms.gle/zoxRc9mhtU2u3mvi8)-->
+- We planned to have this course as open as possible, but we are **limited registration to 40 attendees to preserve a discussion-friendly environment**. <!--If more than 30 people request registration, we will select a set of attendees based on the following criteria-->Attendees were chosen based on the following criteria:
     1. Aim for an 80/20 division of enrollees among the global South/North, respectively ([Aravena-Bravo et al., 2023](https://uchicago.box.com/s/5ptuo7qtyo1qpppkljokpfrufmnja54s))
     2. Prioritize early-career researchers (graduate students, early-career faculty, and community-member linguists) who are conducting active research on child language acquisition or who have definite plans to do so in the coming year
 
 
 ## Course materials
 
-Registered participants will receive an email with links to all course materials, including the course calendar, video call links, all lecture recordings, readings, discussion notes, and more. If you are a registered participant but have not received your link to the materials, please reach out to werld2025@uchicago.edu.
+Registered participants have received an email with links to all course materials, including the course calendar, video call links, all lecture recordings, readings, discussion notes, and more. If you are a registered participant but have not received your link to the materials, please reach out to werld2025@uchicago.edu.
 
 Final course materials will be published in a public repository following course completion; link to be shared here in spring/summer 2025.
 
@@ -90,7 +90,7 @@ Readings
 
 ## Acknowledgements
 
-This course is made possible (and much better and much much more interesting) by the contributions of the 19 guest lecturers (in reverse alphabetical order): Andrea Taverna, Alejandra Stein, Laura Shneidman, Camila Scaff, Hannah Sarvasy, Paul Okyere Omane, Tanya MacGillivray, Hannah Lutzenberger, Lourdes de León, Marvin Lavechin, Laura Horton, Birgit Hellwig, Rowena Garcia, Ruthe Foushee, Abdellah Elouatiq, Rebecca Defina, Margaret Cychosz, Jaime Chi Pech, Shanley Allen.
+This course is made possible (and much better and much much more interesting) by the contributions of the 19 guest lecturers (in reverse alphabetical order): Andrea Taverna, Alejandra Stein, Laura Shneidman, Camila Scaff, Hannah Sarvasy, Paul Okyere Omane, Tanya MacGillivray, Hannah Lutzenberger, Lourdes de León, Marvin Lavechin, Laura Horton, Birgit Hellwig, Rowena Garcia, Ruthe Foushee, Abdellah Elouatiq, Rebecca Defina, Margaret Cychosz, Jaime Chi Pech, Shanley Allen. We are also deeply grateful for our volunteer note-takers and meta-note-takers: Raba Abu-Zhaya, Yuchen Jin, Subin Kim, Chunan Li, and Yiqun (Mia) Zhang.
 
 Thanks also to the following friends-of-the-course who have helped improve these materials: Ruthe Foushee, Margaret Cychosz, Caroline Rowland, Evan Kidd, Adriana Weisleder, Rowena Garcia, and Elika Bergelson. Any remaining shortcomings belong exclusively to Marisa Casillas.
 
