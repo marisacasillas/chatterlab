@@ -102,8 +102,6 @@
   </url><url>
     <loc>http://localhost:1313/bios/_archived/mia-aboutme/</loc>
   </url><url>
-    <loc>http://localhost:1313/bios/_archived/ruby-aboutme/</loc>
-  </url><url>
     <loc>http://localhost:1313/bios/_archived/sarah-aboutme/</loc>
   </url><url>
     <loc>http://localhost:1313/bios/_archived/sarahk-aboutme/</loc>
@@ -127,6 +125,8 @@
     <loc>http://localhost:1313/bios/marvin-aboutme/</loc>
   </url><url>
     <loc>http://localhost:1313/bios/osa-aboutme/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bios/ruby-aboutme/</loc>
   </url><url>
     <loc>http://localhost:1313/bios/subin-aboutme/</loc>
   </url><url>
