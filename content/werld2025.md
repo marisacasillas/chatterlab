@@ -90,7 +90,7 @@ Readings
 
 ## Acknowledgements
 
-This course is made possible (and much better and much much more interesting) by the contributions of the 19 guest lecturers (in reverse alphabetical order): Andrea Taverna, Alejandra Stein, Laura Shneidman, Camila Scaff, Hannah Sarvasy, Paul Okyere Omane, Tanya MacGillivray, Hannah Lutzenberger, Lourdes de León, Marvin Lavechin, Laura Horton, Birgit Hellwig, Rowena Garcia, Ruthe Foushee, Abdellah Elouatiq, Rebecca Defina, Margaret Cychosz, Jaime Chi Pech, Shanley Allen. We are also deeply grateful for our volunteer note-takers and meta-note-takers: Raba Abu-Zhaya, Yuchen Jin, Subin Kim, Chunan Li, and Yiqun (Mia) Zhang.
+This course is made possible (and much better and much much more interesting) by the contributions of the 19 guest lecturers (in reverse alphabetical order): Andrea Taverna, Alejandra Stein, Laura Shneidman, Camila Scaff, Hannah Sarvasy, Paul Okyere Omane, Tanya MacGillivray, Hannah Lutzenberger, Lourdes de León, Marvin Lavechin, Laura Horton, Birgit Hellwig, Rowena Garcia, Ruthe Foushee, Abdellah Elouatiq, Rebecca Defina, Margaret Cychosz, Jaime Chi Pech, Shanley Allen. We are also deeply grateful for our volunteer note-takers and meta-note-takers: Rana Abu-Zhaya, Yuchen Jin, Subin Kim, Chunan Li, and Yiqun (Mia) Zhang.
 
 Thanks also to the following friends-of-the-course who have helped improve these materials: Ruthe Foushee, Margaret Cychosz, Caroline Rowland, Evan Kidd, Adriana Weisleder, Rowena Garcia, and Elika Bergelson. Any remaining shortcomings belong exclusively to Marisa Casillas.
 
