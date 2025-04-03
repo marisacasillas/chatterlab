@@ -31,7 +31,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Eva Smolen](/bios/eva-aboutme/)
 
-[Ruby Swenson](/bios/ruby-aboutme/)
+[Ruby Swensen](/bios/ruby-aboutme/)
 
 [Ariel Wang](/bios/ariel-aboutme/)
 
