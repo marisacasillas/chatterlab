@@ -1,5 +1,23 @@
 # chatter news
 
+### March 2025
+* [Marisa Casillas](../bios/marisa-aboutme/) went on her fieldwork trip to Chiapas, Mexico.
+* [Marisa Casillas](../bios/marisa-aboutme/) kickstarted the Workshop on Expanding Research in Language Development ([WERLD](https://chatterlab.uchicago.edu/werld2025/))!
+
+### February 2025
+* We welcomed [Anushka Guru](../bios/anushka-aboutme/) and [Bri Kay](../bios/bri-aboutme/) as new research assistants.
+
+### November 2024
+* There were several Chatter Lab presentations at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
+	* [Mia Zhang](../bios/mia-aboutme/) gave a talk (Word order, morphological
+	typology, and method predict the size of the noun bias: A meta analysis)
+	* [Yuchen Jin](../bios/yuchen-aboutme/) presented a poster (Developmental change in acquiring overhearable words
+	within naturalistic contexts)
+	* [Kennedy Casey](https://kennedycasey.github.io/) gave a talk (Tseltal children show a verb bias in early vocabulary development)
+
+### October 2024
+* [Marisa Casillas](../bios/marisa-aboutme/) went on her fieldwork trip to Rossel Island, Papua New Guinea.
+
 ### September 2024
 * [Marisa Casillas's](../bios/marisa-aboutme/) paper with John Bunce, [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), [Elika Bergelson](https://bergelsonlab.com/bergelson-personal-page.html), Celia Rosemberg, Alejandra Stein, Florencia Alam, and Maia Julieta Migdalek was published in the _Journal of Child Language_. Read it [here](https://doi.org/10.1017/S030500092400028X).
 * [Mia Zhang](../bios/mia-aboutme/) gave a talk (Linguistic and Methodological Factors Shaping the Noun Bias in Early Language Production) at the [Crosslinguistic Perspectives on Processing and learning](https://www.comparativelinguistics.uzh.ch/en/events/x-ppl2024.html) Conference.
