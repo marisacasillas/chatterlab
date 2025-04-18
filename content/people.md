@@ -15,6 +15,10 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Jordyn Martin](/bios/jordyn-aboutme/)
 
+### PhD students
+
+[Kristen Johnson](https://www.linkedin.com/in/kristen-johnson-122b4329)
+
 ### Research assistants
 
 #### Undergraduate students
