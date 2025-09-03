@@ -7,11 +7,13 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 ### Lab manager
 
-[Subin Kim](/bios/subin-aboutme/)
+[Claire Chen](/bios/claire-aboutme/)
 
 ### PhD students
 
 [Yuchen Jin](/bios/yuchen-aboutme/)
+
+[Subin Kim](/bios/subin-aboutme/)
 
 [Jordyn Martin](/bios/jordyn-aboutme/)
 
