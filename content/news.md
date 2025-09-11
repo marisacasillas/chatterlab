@@ -1,19 +1,30 @@
 # chatter news
 
+<!-- news to be added in november -->
+<!-- There were several Chatter Lab projects presented at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
+	* [Subin Kim](../bios/subin-aboutme/) presented a poster (Using honorifics in Korean CDS to scaffold socio-pragmatic learning: A corpus analysis )
+	* [Subin Kim](../bios/subin-aboutme/) gave a talk (Multi-party talk in the US homes: Developmental shifts in interaction structure)
+	* [Marisa Casillas](../bios/marisa-aboutme/) gave an invited symposium talk with Mike Frank, Shanley Allen, Leher Singh, Caroline Rowland, Alex Cristia, and Paul Bloom (Innateness is not a dirty word: Reframing the origins of language development) -->
+
+### September 2025
+* [Claire Chen](../bios/claire-aboutme/) joined the lab as the new lab manager.
+* The Chatter Lab welcomed two new graduate students!
+	* [Subin Kim](../bios/subin-aboutme/) and Camille Osumah are starting their PhD programs in the Department of Comparative Human Development.
+<!-- tweak to three and add a bullet point if we get a mapss student -->
+
 ### August 2025
-* [Finn Galarneau](../bios/finn-aboutme/) gave a talk on xxxxxxx in Adriana Weisleder's [Child Language Lab](https://childlanguagelab.northwestern.edu) at Northwestern University.
-* [Tessa Bracken](../bios/tessa-aboutme/) gave a talk on Infant-Directed Speech (IDS) preference at the oral presentations hosted by the [College Summer Institute](https://ccrf.uchicago.edu/undergraduate-research/college-summer-institute-csi).
+* [Finn Galarneau](../bios/finn-aboutme/) gave her summer apprenticeship talk at the [Child Language Lab](https://childlanguagelab.northwestern.edu) at Northwestern University (Using Syntactic Priming to Investigate the Verb Bias in Tseltal-Speaking Children).
+* [Tessa Bracken](../bios/tessa-aboutme/) presented her summer work in the lab at the [College Summer Institute](https://ccrf.uchicago.edu/undergraduate-research/college-summer-institute-csi) (Infant-Directed Speech (IDS) preference).
 
 ### July 2025
-* There are several Chatter Lab projects to be presented at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
-	* [Subin Kim](../bios/subin-aboutme/) is presenting a poster (Using honorifics in Korean CDS to scaffold socio-pragmatic learning: A corpus analysis ) and received the [Paula Menyuk Travel Award](https://www.bu.edu/bucld/attending/travel/travel/paula-menyuk-award/)
-	* [Subin Kim](../bios/subin-aboutme/) is giving a talk (Multi-party talk in the US homes: Developmental shifts in interaction structure)
-	* [Marisa Casillas](../bios/marisa-aboutme/) is giving a symposium with Mike Frank, Shanley Allen, Leher Singh, Caroline Rowland, Alex Cristia, and Paul Bloom (Innateness is not a dirty word: Reframing the origins of language development)
-* We finished data collection for our kinship studies in collaboration with Ohio State University's [Center for Science and Industry](https://cosi.org).
+* [Subin Kim](../bios/subin-aboutme/) and the NSF CAREER transcription team ([Dalia Querenet Onfroy de Breville](../bios/dalia-aboutme/), [Eva Smolen](../bios/eva-aboutme/), [Ruby Swensen](../bios/ruby-aboutme/), and [Ariel Wang](../bios/ariel-aboutme/)) had their abstract accepted for a talk at [BUCLD](https://www.bu.edu/bucld/). Congratulations!
+* [Subin Kim](../bios/subin-aboutme/) had her abstract accepted for a poster presentation at [BUCLD](https://www.bu.edu/bucld/) and received the [Paula Menyuk Travel Award](https://www.bu.edu/bucld/attending/travel/travel/paula-menyuk-award/).
 
 ### June 2025
-* [Kristen Johnson](https://www.linkedin.com/in/kristen-johnson-122b4329/) successfully completed her Master's degree!
+* [Kristen Johnson](https://www.linkedin.com/in/kristen-johnson-122b4329/) graduated from [MAPSS](https://mapss.uchicago.edu/). Congratulations!
 * We welcomed [Tessa Bracken](../bios/tessa-aboutme/) and [Finn Galarneau](../bios/finn-aboutme/) as new research assistants.
+* [Dalia Querenet Onfroy de Breville](../bios/dalia-aboutme/) received funding from [SISRM](https://voices.uchicago.edu/socscisummermethods/about/) to continue her research assistantship in the lab over the summer.
+* We kickstarted joint data collection at the [Center of Science and Industry (COSI)](https://cosi.org) in collaboration with [Laura Wagner](https://psychology.osu.edu/people/wagner.602) at Ohio State University!
 
 ### March 2025
 * [Marisa Casillas](../bios/marisa-aboutme/) went on her fieldwork trip to Chiapas, Mexico.
@@ -35,7 +46,7 @@
 ### September 2024
 * [Marisa Casillas's](../bios/marisa-aboutme/) paper with John Bunce, [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), [Elika Bergelson](https://bergelsonlab.com/bergelson-personal-page.html), Celia Rosemberg, Alejandra Stein, Florencia Alam, and Maia Julieta Migdalek was published in the _Journal of Child Language_. Read it [here](https://doi.org/10.1017/S030500092400028X).
 * [Mia Zhang](../bios/mia-aboutme/) gave a talk (Linguistic and Methodological Factors Shaping the Noun Bias in Early Language Production) at the [Crosslinguistic Perspectives on Processing and learning](https://www.comparativelinguistics.uzh.ch/en/events/x-ppl2024.html) Conference.
-* We welcomed MAPSS student Kristen Johnson.
+* We welcomed [MAPSS](https://mapss.uchicago.edu/) student Kristen Johnson.
 * Former undergraduate research assistant and postbac staff [Jordyn Martin](../bios/jordyn-aboutme/) is starting her PhD program at UChicago Linguistics. Congratulations, Jordyn!
 * Blossom Onwubuariri had her abstract accepted for a poster presentation (Exploring the Relationship Between Heritage Language fluency and Ethnic Identity in the US Healthcare System: An Ethnographic Study) at the Annual Biomedical Research Conference for Minoritized Scientists [(ABRCMS 2024)](https://www.abrcms.org/).
 
@@ -47,11 +58,11 @@
 	* [Marisa Casillas](../bios/marisa-aboutme/) gave a talk (Verb bias but no noun bias in early Tseltal lexical development) and led a workshop with colleagues from the [ACLEW project](https://sites.google.com/view/aclewdid/home) (Daylong data: raw audio to transcript via automated & manual open-science tools)
 * [Jocelyn Zacarias](../bios/jocelyn-aboutme/) gave her summer apprenticeship talk at the [Child Language Lab](https://childlanguagelab.northwestern.edu/) at Northwestern University (Infant-Directed Speech (IDS) Preference).
 * Blossom Onwubuariri gave her internship talk for the Leadership Alliance (Exploring the Relationship Between Heritage Language Fluency and Ethnic Identity in the US: An Ethnographic Study).
-* [Mia Zhang](../bios/mia-aboutme/) graduated from MAPSS. Congratulations!
+* [Mia Zhang](../bios/mia-aboutme/) graduated from [MAPSS](https://mapss.uchicago.edu/). Congratulations!
 
 ### June 2024
 * Chatter Lab members [Carla Escalante](../bios/carla-aboutme/), [Sarah Kelso](../bios/sarahk-aboutme/), [Lizzie Mickiewicz](../bios/lizzie-aboutme/), [Sarah Sommer](../bios/sarah-aboutme/), and [Alexander Stern](../bios/alexander-aboutme/) graduated from the college. Congratulations!
-* [Kaiwen Yang](../bios/kaiwen-aboutme/) graduated from MAPSS and [Ben Morris](https://benjamincmorris.github.io/) graduated from his PhD program in Developmental Psychology. Congratulations!
+* [Kaiwen Yang](../bios/kaiwen-aboutme/) graduated from [MAPSS](https://mapss.uchicago.edu/) and [Ben Morris](https://benjamincmorris.github.io/) graduated from his PhD program in Developmental Psychology. Congratulations!
 * [Carla Escalante](../bios/carla-aboutme/) and [Sarah Sommer](../bios/sarah-aboutme/) rejoined the lab as postbac staff for the summer. Lucky to have them one quarter longer!
 * [Jocelyn Zacarias](../bios/jocelyn-aboutme/) joined the lab as a summer apprentice (Early Communicative Development Research Apprenticeship, funded by the College Curriculum Innovation Fund).
 
@@ -91,7 +102,7 @@
 
 ### September 2023
 * [Marisa Casillas's](../bios/marisa-aboutme/) fieldwork in Chiapas, Mexico was featured on the [UChicago News](https://news.uchicago.edu/story/israeli-digs-greenland-villages-uchicagoans-travel-world-research) (Studying how children learn language in Mexico)!
-* We welcomed Fulbright Scholar [Divya Swaminathan](https://ssm-lab.org/researchers), MAPSS students Mia Zhang and Kaiwen Yang, and new research assistant Ariana Maisonet.
+* We welcomed Fulbright Scholar [Divya Swaminathan](https://ssm-lab.org/researchers), [MAPSS](https://mapss.uchicago.edu/) students Mia Zhang and Kaiwen Yang, and new research assistant Ariana Maisonet.
 
 ### August 2023
 * Chatter Lab has temporarily relocated to Pick Hall while Green Hall is undergoing important renovations to increase building accessibility.
@@ -137,7 +148,7 @@
 	* Kimberly Shorter and Jordyn Martin joined the lab as undergraduate honors thesis students. 
 
 ### August 2022
-* Jenny Bo completed her Master's degree through [MAPSS](https://mapss.uchicago.edu/). Congratulations, Jenny!
+* Jenny Bo completed her Master's degree through [[MAPSS](https://mapss.uchicago.edu/)](https://[MAPSS](https://mapss.uchicago.edu/).uchicago.edu/). Congratulations, Jenny!
 
 ### July 2022
 * The Chatter Lab had an exciting, conference-heavy summer with presentations at [ICIS](https://infantstudies.org/2022-congress/), [ISGS](https://isgs9conference.wixsite.com/isgs9), and [CogSci](https://cognitivesciencesociety.org/cogsci-2022/). Here's the full lineup:
