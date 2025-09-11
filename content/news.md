@@ -1,5 +1,20 @@
 # chatter news
 
+### August 2025
+* [Finn Galarneau](../bios/finn-aboutme/) gave a talk on xxxxxxx in Adriana Weisleder's [Child Language Lab](https://childlanguagelab.northwestern.edu) at Northwestern University.
+* [Tessa Bracken](../bios/tessa-aboutme/) gave a talk on Infant-Directed Speech (IDS) preference at the oral presentations hosted by the [College Summer Institute](https://ccrf.uchicago.edu/undergraduate-research/college-summer-institute-csi).
+
+### July 2025
+* There are several Chatter Lab projects to be presented at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
+	* [Subin Kim](../bios/subin-aboutme/) is presenting a poster (Using honorifics in Korean CDS to scaffold socio-pragmatic learning: A corpus analysis ) and received the [Paula Menyuk Travel Award](https://www.bu.edu/bucld/attending/travel/travel/paula-menyuk-award/)
+	* [Subin Kim](../bios/subin-aboutme/) is giving a talk (Multi-party talk in the US homes: Developmental shifts in interaction structure)
+	* [Marisa Casillas](../bios/marisa-aboutme/) is giving a symposium with Mike Frank, Shanley Allen, Leher Singh, Caroline Rowland, Alex Cristia, and Paul Bloom (Innateness is not a dirty word: Reframing the origins of language development)
+* We finished data collection for our kinship studies in collaboration with Ohio State University's [Center for Science and Industry](https://cosi.org).
+
+### June 2025
+* [Kristen Johnson](https://www.linkedin.com/in/kristen-johnson-122b4329/) successfully completed her Master's degree!
+* We welcomed [Tessa Bracken](../bios/tessa-aboutme/) and [Finn Galarneau](../bios/finn-aboutme/) as new research assistants.
+
 ### March 2025
 * [Marisa Casillas](../bios/marisa-aboutme/) went on her fieldwork trip to Chiapas, Mexico.
 * [Marisa Casillas](../bios/marisa-aboutme/) kickstarted the Workshop on Expanding Research in Language Development ([WERLD](https://chatterlab.uchicago.edu/werld2025/))!
@@ -11,8 +26,7 @@
 * There were several Chatter Lab presentations at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
 	* [Mia Zhang](../bios/mia-aboutme/) gave a talk (Word order, morphological
 	typology, and method predict the size of the noun bias: A meta analysis)
-	* [Yuchen Jin](../bios/yuchen-aboutme/) presented a poster (Developmental change in acquiring overhearable words
-	within naturalistic contexts)
+	* [Yuchen Jin](../bios/yuchen-aboutme/) presented a poster (Developmental change in acquiring overhearable words within naturalistic contexts)
 	* [Kennedy Casey](https://kennedycasey.github.io/) gave a talk (Tseltal children show a verb bias in early vocabulary development)
 
 ### October 2024

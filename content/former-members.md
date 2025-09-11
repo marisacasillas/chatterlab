@@ -14,6 +14,8 @@
 
 ### Masters students
 
+[Kristen Johnson](https://www.linkedin.com/in/kristen-johnson-122b4329)
+
 Kaiwen Yang (MA 2024)
 
 Yiqun (Mia) Zhang (MA 2024)
