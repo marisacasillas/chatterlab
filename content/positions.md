@@ -1,18 +1,10 @@
 # come join us!
 
-### Lab manager position to start late summer 2025!
-
-Our lab is seeking a lab manager to start in late summer 2025. Full job details can be found [here](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Lab-Manager_JR30390).
-
-To apply: Visit UChicago Workday ([Posting JR30390](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Lab-Manager_JR30390)) and submit your **CV/resume**, **cover letter** (see ad for suggested content), and the information for **three references**.
-
-We are accepting applications on a rolling basis, but will begin reviewing them on <span style="color: red;">**June 20th**</span>. We aim to interview and hire a candidate for this position by <span style="color: red;">**mid/late July**</span> at the latest.
-
-----
-
 ### PhD students
 
-If you are interested in applying for a PhD in Comparative Human Development to work with Dr. Casillas, please get in touch with her. Include a CV and a brief description of what your mutual interests are and what you would like to know more about regarding the program and work in the lab.
+Dr. Casillas will not be accepting students for the upcoming 2025-26 PhD application cycle in Comparative Human Development. Please check back for future cycles!
+
+<!-- If you are interested in applying for a PhD in Comparative Human Development to work with Dr. Casillas, please get in touch with her. Include a CV and a brief description of what your mutual interests are and what you would like to know more about regarding the program and work in the lab. -->
 
 ----
 
