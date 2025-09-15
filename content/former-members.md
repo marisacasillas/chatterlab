@@ -14,7 +14,7 @@
 
 ### Masters students
 
-[Kristen Johnson](https://www.linkedin.com/in/kristen-johnson-122b4329)
+[Kristen Johnson (MA 2025)](https://www.linkedin.com/in/kristen-johnson-122b4329)
 
 Kaiwen Yang (MA 2024)
 
