@@ -2,14 +2,14 @@
 
 <!-- news to be added in november -->
 <!-- There were several Chatter Lab projects presented at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
-	* [Subin Kim](../bios/subin-aboutme/) presented a poster (Using honorifics in Korean CDS to scaffold socio-pragmatic learning: A corpus analysis )
-	* [Subin Kim](../bios/subin-aboutme/) gave a talk (Multi-party talk in the US homes: Developmental shifts in interaction structure)
+	* [Subin Kim](https://subinkim00.github.io) presented a poster (Using honorifics in Korean CDS to scaffold socio-pragmatic learning: A corpus analysis )
+	* [Subin Kim](https://subinkim00.github.io) gave a talk (Multi-party talk in the US homes: Developmental shifts in interaction structure)
 	* [Marisa Casillas](../bios/marisa-aboutme/) gave an invited symposium talk with Mike Frank, Shanley Allen, Leher Singh, Caroline Rowland, Alex Cristia, and Paul Bloom (Innateness is not a dirty word: Reframing the origins of language development) -->
 
 ### September 2025
 * [Claire Chen](../bios/claire-aboutme/) joined the lab as the new lab manager.
 * The Chatter Lab welcomed two new graduate students!
-	* [Subin Kim](../bios/subin-aboutme/) and Camille Osumah are starting their PhD programs in the Department of Comparative Human Development.
+	* [Subin Kim](https://subinkim00.github.io) and Camille Osumah are starting their PhD programs in the Department of Comparative Human Development.
 <!-- tweak to three and add a bullet point if we get a mapss student -->
 
 ### August 2025
@@ -17,8 +17,8 @@
 * [Tessa Bracken](../bios/tessa-aboutme/) presented her summer work in the lab at the [College Summer Institute](https://ccrf.uchicago.edu/undergraduate-research/college-summer-institute-csi) (Infant-Directed Speech (IDS) preference).
 
 ### July 2025
-* [Subin Kim](../bios/subin-aboutme/) and the NSF CAREER transcription team ([Dalia Querenet Onfroy de Breville](../bios/dalia-aboutme/), [Eva Smolen](../bios/eva-aboutme/), [Ruby Swensen](../bios/ruby-aboutme/), and [Ariel Wang](../bios/ariel-aboutme/)) had their abstract accepted for a talk at [BUCLD](https://www.bu.edu/bucld/). Congratulations!
-* [Subin Kim](../bios/subin-aboutme/) had her abstract accepted for a poster presentation at [BUCLD](https://www.bu.edu/bucld/) and received the [Paula Menyuk Travel Award](https://www.bu.edu/bucld/attending/travel/travel/paula-menyuk-award/).
+* [Subin Kim](https://subinkim00.github.io) and the NSF CAREER transcription team ([Dalia Querenet Onfroy de Breville](../bios/dalia-aboutme/), [Eva Smolen](../bios/eva-aboutme/), [Ruby Swensen](../bios/ruby-aboutme/), and [Ariel Wang](../bios/ariel-aboutme/)) had their abstract accepted for a talk at [BUCLD](https://www.bu.edu/bucld/). Congratulations!
+* [Subin Kim](https://subinkim00.github.io) had her abstract accepted for a poster presentation at [BUCLD](https://www.bu.edu/bucld/) and received the [Paula Menyuk Travel Award](https://www.bu.edu/bucld/attending/travel/travel/paula-menyuk-award/).
 
 ### June 2025
 * [Kristen Johnson](https://www.linkedin.com/in/kristen-johnson-122b4329/) graduated from [MAPSS](https://mapss.uchicago.edu/). Congratulations!
@@ -107,7 +107,7 @@
 ### August 2023
 * Chatter Lab has temporarily relocated to Pick Hall while Green Hall is undergoing important renovations to increase building accessibility.
 * We bid our farewells to [Ruthe Foushee](https://ruthefoushee.com/), [Claire Bergey](https://clairebergey.net/), and [Kennedy Casey](https://kennedycasey.github.io/) as they took off for their next exciting opportunities.
-* [Subin Kim](../bios/subin-aboutme/) joined the lab as the new lab manager.
+* [Subin Kim](https://subinkim00.github.io) joined the lab as the new lab manager.
 * [Sarah Sommer](../bios/sarah-aboutme/) and [Lizzie Mickiewicz](../bios/lizzie-aboutme/) presented their summer work in the lab at the [College Summer Institute](https://ccrf.uchicago.edu/undergraduate-research/college-summer-institute-csi).
 * [Jordyn Martin](../bios/jordyn-aboutme/), [Yuchen Jin](../bios/yuchen-aboutme/), and [Kennedy Casey](https://kennedycasey.github.io/) had abstracts accepted at [MPaL](https://www.mpi.nl/events/many-paths-language-mpal-2023) and [BUCLD](https://www.bu.edu/bucld/). Congratulations!
 * [Natalie Dowling](https://www.nrdowling.com/) will soon start up a new position as an Assistant Instructional Professor in Psychology in the UChicago [MAPSS](https://mapss.uchicago.edu/) program. Congratulations, Natalie!

@@ -13,7 +13,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Yuchen Jin](/bios/yuchen-aboutme/)
 
-[Subin Kim](/bios/subin-aboutme/)
+[Subin Kim](https://subinkim00.github.io)
 
 [Jordyn Martin](/bios/jordyn-aboutme/)
 
