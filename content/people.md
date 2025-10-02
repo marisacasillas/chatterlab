@@ -25,8 +25,6 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Tessa Bracken](/bios/tessa-aboutme/)
 
-[Marvin Diaz](/bios/marvin-aboutme/)
-
 [Finn Galarneau](/bios/finn-aboutme/)
 
 [Anushka Guru](/bios/anushka-aboutme/)
@@ -42,8 +40,6 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 [Ruby Swensen](/bios/ruby-aboutme/)
 
 [Ariel Wang](/bios/ariel-aboutme/)
-
-[Jocelyn Zacarias](/bios/jocelyn-aboutme/)
 
 ### <a href="/former-members/"><u> Former members</u></a>
 

@@ -37,6 +37,13 @@
     </item>
     <item>
       <title></title>
+      <link>http://localhost:1313/bios/_archived/jocelyn-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/_archived/jocelyn-aboutme/</guid>
+      <description>&lt;h2 id=&#34;jocelyn-zacarias-sheherhers&#34;&gt;Jocelyn Zacarias (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a third-year undergraduate studying psychology and comparative human development at the University of Chicago. I joined the Chatter Lab in June of 2024. I am interested in the social factors that shape language mechanisms and acquisition, particularly how cultural settings and interactions within them influence this process.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:jzacarias@uchicago.edu&#34;&gt;jzacarias@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/bios/_archived/kaiwen-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/_archived/kaiwen-aboutme/</guid>
@@ -55,6 +62,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/_archived/lizzie-aboutme/</guid>
       <description>&lt;h2 id=&#34;lizzie-mickiewicz-sheherhers&#34;&gt;Lizzie Mickiewicz (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/lizzie-mickiewicz.jpg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a fourth year undergraduate student majoring in neuroscience and psychology at the University of Chicago. I am interested in exploring the influence of cognitive processes on language and vice versa, with a focus on incorporating both naturalistic and experimental measures in my work.&lt;/p&gt;&#xA;&lt;p&gt;Currently, I am working on my senior thesis project, studying whether the phenomenon of infant phoneme discrimination can accurately be measured using functional near-infrared spectroscopy (fNIRS).  I am also using fNIRS to investigate how the use of gestures may influence children’s learning of math on a project headed by Amanda Seccia, a post-doctoral student in the &lt;a href=&#34;https://voices.uchicago.edu/bermanlab/&#34;&gt;Environmental Neuroscience Lab&lt;/a&gt; and &lt;a href=&#34;https://voices.uchicago.edu/goldinmeadowlab/&#34;&gt;Goldin-Meadow Lab&lt;/a&gt;.  I am also helping conduct an eye-tracking study interested in what features of spoken language children use to predict turn-taking in conversations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/_archived/marvin-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/_archived/marvin-aboutme/</guid>
+      <description>&lt;h2 id=&#34;marvin-diaz-hehimhis&#34;&gt;Marvin Diaz (he/him/his)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a third-year undergraduate student at the University of Chicago studying Economics and Applied Mathematics. I joined the Chatter Lab in February 2024. I am interested in the development of bilingualism when exposed to different environments.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:marvindiaz@uchicago.edu&#34;&gt;marvindiaz@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -135,13 +149,6 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/bios/jocelyn-aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bios/jocelyn-aboutme/</guid>
-      <description>&lt;h2 id=&#34;jocelyn-zacarias-sheherhers&#34;&gt;Jocelyn Zacarias (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a third-year undergraduate studying psychology and comparative human development at the University of Chicago. I joined the Chatter Lab in June of 2024. I am interested in the social factors that shape language mechanisms and acquisition, particularly how cultural settings and interactions within them influence this process.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:jzacarias@uchicago.edu&#34;&gt;jzacarias@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/bios/jordyn-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/jordyn-aboutme/</guid>
@@ -153,13 +160,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/marisa-aboutme/</guid>
       <description>&lt;h1 id=&#34;principal-investigator&#34;&gt;Principal investigator&lt;/h1&gt;&#xA;&lt;h2 id=&#34;dr-marisa-casillas&#34;&gt;Dr. Marisa Casillas&lt;/h2&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/MarisaCasillas2022_photobyErielleBakkum_smaller.jpg&#34; width=&#34;300&#34; height=&#34;375&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Photo credit: &lt;a href=&#34;https://www.eriellebakkumphotography.com/&#34;&gt;Erielle Bakkum&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;&#xA;&lt;p&gt;Broadly speaking, I am interested in exploring how cognitive and social processes shape the ways in which we learn, perceive, and produce language. My primary research examines the relationship between communicative skills and linguistic processing in children and adults. I use a combination of experimental- and observation-based methods to comparatively investigate these processes in both urban, Western contexts and rural, Indigenous contexts.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/bios/marvin-aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bios/marvin-aboutme/</guid>
-      <description>&lt;h2 id=&#34;marvin-diaz-hehimhis&#34;&gt;Marvin Diaz (he/him/his)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a third-year undergraduate student at the University of Chicago studying Economics and Applied Mathematics. I joined the Chatter Lab in February 2024. I am interested in the development of bilingualism when exposed to different environments.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:marvindiaz@uchicago.edu&#34;&gt;marvindiaz@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

@@ -42,6 +42,10 @@ Carla Escalante (BA 2024)
 
 ### Undergraduate students
 
+Jocelyn Zacarias (BA ongoing!)
+
+Marvin Diaz (BA ongoing!)
+
 Alex Klerman (BA ongoing!)
 
 Lizzie Mickiewicz (BA 2024)
