@@ -22,6 +22,14 @@ Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language 
 
 Kempe, V., & Casillas, M. (accepted). Studying child-directed speech. In L. Raviv & C. Boeckx (Eds.), The Oxford Handbook of Approaches to Language Evolution. [[ms](https://osf.io/preprints/psyarxiv/jv54a)]
 
+## 2025
+
+**Casillas, M.**, Foushee, R., Gómez Pérez, H., Méndez Girón, J., Polian, G., Casey, K., & Brown, P. (2025). A vocabulary checklist for early lexical development in Tseltal. _Language Development Research_, _5(3)_, 245–275. [[ms](http://doi.org/10.34842/ldr2025-862)]
+
+Bergey, C. A., **Casillas, M.**, Messinger, D., & Sparks, R. Z. (2025). Naturalistic observation of language development outside the home. _Proceedings of the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025)_ (pp.38-39). [[ms](https://escholarship.org/uc/item/0xd3r8t8)]
+
+Lammertink, I., de Vries, M., Rowland, C., & **Casillas, M.** (2025). From age two, children use pronouns to predict who will speak next in conversation. _Journal of Experimental Child Psychology_, _261_, 106358. [[ms](https://doi.org/10.1016/j.jecp.2025.106358)]
+
 ## 2024
 
 **Casillas, M.**, Foushee, R., Méndez Girón, J., Polian, G., & Brown, P. (2024). Little evidence for a noun bias in Tseltal spontaneous speech. _First Language_, _OnlineFirst_, 1–29. [[ms](/lab-publications/Casillas_et_al_2024_Little-evidence-for-a-noun-bias-in-Tseltal-spontaneous-speech_First_Language.pdf)] [[Español](https://docs.google.com/document/d/1dgwkyT9zQD8kdNoKfwPLiGLND__Hr49bei-9FsAxryE/edit?usp=sharing)]
