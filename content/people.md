@@ -17,7 +17,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Jordyn Martin](/bios/jordyn-aboutme/)
 
-[Camille Osumah](/bios/camille-aboutme/)
+[Camille Osumah](https://camille-osumah.notion.site)
 
 ### Research assistants
 
