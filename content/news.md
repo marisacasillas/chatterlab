@@ -1,16 +1,19 @@
 # chatter news
 
-<!-- news to be added in november -->
-<!-- There were several Chatter Lab projects presented at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
-	* [Subin Kim](https://subinkim00.github.io) presented a poster (Using honorifics in Korean CDS to scaffold socio-pragmatic learning: A corpus analysis )
-	* [Subin Kim](https://subinkim00.github.io) gave a talk (Multi-party talk in the US homes: Developmental shifts in interaction structure)
-	* [Marisa Casillas](../bios/marisa-aboutme/) gave an invited symposium talk with Mike Frank, Shanley Allen, Leher Singh, Caroline Rowland, Alex Cristia, and Paul Bloom (Innateness is not a dirty word: Reframing the origins of language development) -->
+### Novermber 2025
+* There were several Chatter Lab projects presented at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
+	* [Subin Kim](https://subinkim00.github.io) presented a poster (Using honorifics in Korean CDS to scaffold socio-pragmatic learning: A corpus analysis).
+	* [Subin Kim](https://subinkim00.github.io) gave a talk (Multi-party talk in the US homes: Developmental shifts in interaction structure).
+	* [Marisa Casillas](../bios/marisa-aboutme/) gave an invited symposium talk with Mike Frank, Shanley Allen, Leher Singh, Caroline Rowland, Alex Cristia, and Paul Bloom (Innateness is not a dirty word: Reframing the origins of language development).
+
+### October 2025
+* [Subin Kim](https://subinkim00.github.io) presented a poster at Language Evolution, Acquisition, and Processing Workshop ([LEAP](https://voices.uchicago.edu/leap/)) (Using honorifics in Korean CDS to scaffold socio-pragmatic learning: A corpus analysis).
+* [Marisa Casillas](../bios/marisa-aboutme/) gave an invited talk at Northwestern University's [Cognitive Science Colloquia](https://cogsci.northwestern.edu/events/) (What makes some words harder to learn?).
 
 ### September 2025
 * [Claire Chen](../bios/claire-aboutme/) joined the lab as the new lab manager.
 * The Chatter Lab welcomed two new graduate students!
-	* [Subin Kim](https://subinkim00.github.io) and Camille Osumah are starting their PhD programs in the Department of Comparative Human Development.
-<!-- tweak to three and add a bullet point if we get a mapss student -->
+	* [Subin Kim](https://subinkim00.github.io) and [Camille Osumah](https://camille-osumah.notion.site) are starting their PhD programs in the Department of Comparative Human Development.
 
 ### August 2025
 * [Finn Galarneau](../bios/finn-aboutme/) gave her summer apprenticeship talk at the [Child Language Lab](https://childlanguagelab.northwestern.edu) at Northwestern University (Using Syntactic Priming to Investigate the Verb Bias in Tseltal-Speaking Children).
