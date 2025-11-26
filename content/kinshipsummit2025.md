@@ -9,7 +9,7 @@ This week-long workshop (5–9 January 2026) aims to bring together researchers 
 **Course email address:** mcasillas@uchicago.edu
 
 
-## TENTATIVE workshop schedule
+## TENTATIVE summit schedule (Friday, 9 January 2026)
 
 | California time | Chicago time | Cologne time | Speaker(s) | Title/Content |
 | :-----------    | :----------- | :----------- | :--------- | :------------ |
