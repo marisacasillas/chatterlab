@@ -31,6 +31,10 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Bri Kay](/bios/bri-aboutme/)
 
+[Franziska Kungys](/bios/franziska-aboutme/)
+
+[Andrea Liu](/bios/andrea-aboutme/)
+
 [Egheosase (Osa) Odiase](/bios/osa-aboutme/)
 
 [Dalia Querenet](/bios/dalia-aboutme/)

@@ -387,6 +387,13 @@
     </item>
     <item>
       <title></title>
+      <link>http://localhost:1313/bios/andrea-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/andrea-aboutme/</guid>
+      <description>&lt;h2 id=&#34;andrea-liu-hehimhis&#34;&gt;Andrea Liu (he/him/his)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/andrea-liu.JPG&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a second-year undergrad at the University of Chicago majoring in Neuroscience and Linguistics. I joined the Chatter Lab in December 2025. Broadly, I’m interested in how children’s early environments shape language development at both the behavioral and neural levels. I hope to explore how linguistic input, social context, and cognitive processes interact to support language learning, and I’m thrilled to grow alongside the lab as I deepen my research experience!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/bios/anushka-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/anushka-aboutme/</guid>
@@ -440,6 +447,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/finn-aboutme/</guid>
       <description>&lt;h2 id=&#34;finn-galarneau-sheherhers&#34;&gt;Finn Galarneau (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a third-year undergraduate student at the University of Chicago majoring in linguistics. Since I joined the Chatter Lab in June of 2025, I&amp;rsquo;ve been so excited to work with the children we bring in for participant testing. I hope to continue learning about how the environment shapes the way children acquire and use language in different contexts.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:finngalarneau@uchicago.edu&#34;&gt;finngalarneau@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/franziska-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/franziska-aboutme/</guid>
+      <description>&lt;h2 id=&#34;franziska-kungys-sheherhers&#34;&gt;Franziska Kungys (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/franziska-kungys.jpeg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am an undeclared second-year undergraduate student at the University of Chicago. I joined the Chatter Lab in December 2025, and I am interested in the way children first learn languages personally and environmentally especially in bilingual and multilingual homes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:fkungys@uchicago.edu&#34;&gt;fkungys@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -747,7 +761,7 @@
       <link>http://localhost:1313/kinshipsummit2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kinshipsummit2025/</guid>
-      <description>&lt;h1 id=&#34;uchicago-kinship-workshop-and-summit-2025&#34;&gt;&lt;span style=&#34;color:#88941c&#34;&gt; UChicago Kinship Workshop and Summit 2025 &lt;/span&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;event-description&#34;&gt;Event description&lt;/h2&gt;&#xA;&lt;p&gt;This week-long workshop aims to bring together researchers working on kin concept development and kin term acquisition. The first portion of the workshop (Mon–Thurs) will include training, hands-on data preparation, and analysis time. The workshop will then conclude (Fri) with a research summit featuring presentations from scientists in the US and abroad. Our goal is to train up-and-coming researchers and further develop ties among the small but active community of researchers already working on issues of kin concept development.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;uchicago-kinship-workshop-and-summit-2025&#34;&gt;&lt;span style=&#34;color:#88941c&#34;&gt; UChicago Kinship Workshop and Summit 2025 &lt;/span&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;event-description&#34;&gt;Event description&lt;/h2&gt;&#xA;&lt;p&gt;This week-long workshop (5–9 January 2026) aims to bring together researchers working on kin concept development and kin term acquisition. The first portion of the workshop (Mon–Thurs) will include training, hands-on data preparation, and analysis time. The workshop will then conclude (Fri; 9 January 2026) with a research summit featuring presentations from scientists in the US and abroad. Our goal is to train up-and-coming researchers and further develop ties among the small but active community of researchers already working on issues of kin concept development.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
