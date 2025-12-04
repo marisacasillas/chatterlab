@@ -1,7 +1,8 @@
 ## Dalia Querenet (she/her/hers)
 
 ### About me
-
+{{< figure src="/img/people/dalia-querenet.jpg" height=400 >}}
+<br>
 I am a fourth-year undergraduate student at the University of Chicago. I joined Chatter Lab in January 2024. As a Cognitive Science student, I am interested in learning about the relationship between environment and language.
 
 ### Contact 
