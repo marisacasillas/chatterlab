@@ -17,9 +17,9 @@ This week-long workshop (5–9 January 2026) aims to bring together researchers 
 | 07:45–08:15     | 09:45–10:15  | 16:45–17:15  | 03:45–04:15   | [Alice Mitchell](https://afrikanistik.phil-fak.uni-koeln.de/en/people/people/professors/mitchell-alice)/[Fiona Jordan](https://excd.org/bio-2/) | Adults across diverse communities accommodate to children in reference to kin. |
 | 08:15–08:45     | 10:15–10:45  | 17:15–17:45  | 04:15–04:45   | [Christina Steele](https://www.harvardlds.org/our-labs/thomas-lab/thomas-lab-members/)/[Ashley Thomas](https://www.ashleyjthomas.com/) |  The conceptual and the specific: Challenges to representing kin concepts in infancy and childhood. |
 | 08:45–09:00     | 10:45–11:00  | 17:45–18:00  | 04:45–05:00   | -- | Break |
-| 09:00–09:30     | 11:00–11:30  | 18:00–18:30  | 05:00–05:30   | [Nina Schoener](https://lcdlab.berkeley.edu/people/) | TBD |
+| 09:00–09:30     | 11:00–11:30  | 18:00–18:30  | 05:00–05:30   | [Nina Schoener](https://lcdlab.berkeley.edu/people/) | Evidence of pressures towards communicative efficiency in developing semantic systems. |
 | 09:30–10:00     | 11:30–12:00  | 18:30–19:00  | 05:30–06:00   | [Joseph Leisz](https://www.linkedin.com/in/joseph-leisz-64b123327/)/[Dalia Querenet](https://chatterlab.uchicago.edu/bios/dalia-aboutme/) | TBD |
-| 10:00–10:30     | 12:00–12:30  | 19:00–19:30  | 06:00–06:30   | [Yuchen Jin](https://chatterlab.uchicago.edu/bios/yuchen-aboutme/) | Why Is “Uncle” So Hard? Developmental Paths in Chinese Kinship Term Learning. |
+| 10:00–10:30     | 12:00–12:30  | 19:00–19:30  | 06:00–06:30   | [Yuchen Jin](https://chatterlab.uchicago.edu/bios/yuchen-aboutme/) | Why is “uncle” so hard? Developmental paths in Chinese kinship term learning. |
 | 10:30–11:30     | 12:30–13:30  | 19:30–20:30  | 06:30–07:30   | -- | Lunch break |
 | 11:30–12:00     | 13:30–14:00  | 20:30–21:00  | 07:30–08:00   | [Subin Kim](https://subinkim00.github.io/) | TBD |
 | 12:00–12:30     | 14:00–14:30  | 21:00–21:30  | 08:00–08:30   | [Marisa Casillas](https://chatterlab.uchicago.edu/bios/marisa-aboutme/) | Discussion and closing |
