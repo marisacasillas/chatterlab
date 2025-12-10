@@ -14,7 +14,7 @@ This week-long workshop (5–9 January 2026) aims to bring together researchers 
 | Berkeley time   | Chicago time | Cologne time | Canberra time++ | Speaker(s) | Title/Content |
 | :-----------    | :----------- | :----------- | :------------ | :--------- | :------------ |
 | 07:00–07:45     | 09:00–09:45  | 16:00–16:45  | 03:00–03:45   | [Marisa Casillas](https://chatterlab.uchicago.edu/bios/marisa-aboutme/) | Opening and introductions |
-| 07:45–08:15     | 09:45–10:15  | 16:45–17:15  | 03:45–04:15   | [Alice Mitchell](https://afrikanistik.phil-fak.uni-koeln.de/en/people/people/professors/mitchell-alice) | TBD |
+| 07:45–08:15     | 09:45–10:15  | 16:45–17:15  | 03:45–04:15   | [Alice Mitchell](https://afrikanistik.phil-fak.uni-koeln.de/en/people/people/professors/mitchell-alice)/[Fiona Jordan](https://excd.org/bio-2/) | Adults across diverse communities accommodate to children in reference to kin. |
 | 08:15–08:45     | 10:15–10:45  | 17:15–17:45  | 04:15–04:45   | [Christina Steele](https://www.harvardlds.org/our-labs/thomas-lab/thomas-lab-members/)/[Ashley Thomas](https://www.ashleyjthomas.com/) |  The conceptual and the specific: Challenges to representing kin concepts in infancy and childhood. |
 | 08:45–09:00     | 10:45–11:00  | 17:45–18:00  | 04:45–05:00   | -- | Break |
 | 09:00–09:30     | 11:00–11:30  | 18:00–18:30  | 05:00–05:30   | [Nina Schoener](https://lcdlab.berkeley.edu/people/) | TBD |
