@@ -1,4 +1,4 @@
-# <span style="color:#88941c"> UChicago Kinship Workshop and Summit 2025 </span>
+# <span style="color:#88941c"> UChicago Kinship Workshop and Summit 2026 </span>
 
 ## Event description
 

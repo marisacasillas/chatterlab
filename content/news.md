@@ -1,5 +1,10 @@
 # chatter news
 
+### December 2025
+* We welcomed [Andrea Liu](../bios/andrea-aboutme/) and [Franziska Kungys](../bios/franziska-aboutme/) as new research assistants.
+* [Adaora Mbanefo](https://www.linkedin.com/in/adaora-mbanefo/?originalSubdomain=za) from the University of Illinois Urbana-Champaign received the [ICIS Founding Generation Summer Fellowship for Undergraduates](https://infantstudies.org/founding-generation-fellowship/) and will join the Chatter Lab as a Summer 2026 intern.
+* The Chatter Lab will host the week-long [2026 UChicago Kinship Workshop and Summit](../kinshipsummit2026/) in January 2026.
+
 ### Novermber 2025
 * There were several Chatter Lab projects presented at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
 	* [Subin Kim](https://subinkim00.github.io) presented a poster (Using honorifics in Korean CDS to scaffold socio-pragmatic learning: A corpus analysis).
