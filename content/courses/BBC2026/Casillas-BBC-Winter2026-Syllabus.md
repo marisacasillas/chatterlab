@@ -12,12 +12,12 @@ It is expected that, by the end of the course, students will grasp the basic mec
 
 **Instructor:** Marisa Casillas (she/her; mcasillas@uchicago.edu).
 
-**Teaching assistants (TAs):** Yuchen Jin () and Mei Mei ().
+**Teaching assistants (TAs):** Yuchen Jin (yuchenjin@uchicago.edu) and Mei Mei (mei2@uchicago.edu).
 
 **Office hours:**
 
-* **Jin:** TBA.
-* **Mei:** TBA.
+* **Jin:** Thursdays 9:45am–10:45am in Green 507 (book [here](https://calendar.app.google/PC4vi15HGt7Wwbrc9)).
+* **Mei:** Wednesdays 1:30–3:00 pm in Rosenwald 325 (book appointments via email).
 * **Casillas:** Fridays 11:00am–12:00pm in Rosenwald 318A (book [here](https://calendar.app.google/SnnbvEJxeJPv52Vc9)).
 
 **Course links:**
@@ -45,7 +45,7 @@ For participation credit, students are expected to come to class and [actively p
 
 For 20 of the 24 readings (it's up to each student which 20 readings to do!), students are expected to demonstrate their understanding by responding to a handful of questions. There are three types of readings: journal articles, scientific reviews, and book chapters. For journal articles (indicated below with <span style="color:green">**(JA)**</span>), students should copy/download and then complete the notes worksheet [here](https://docs.google.com/document/d/1mT6H6fQCqaydiYF4awt2YDIXPdRtIvrBP5BRyKYFFZM/edit?usp=sharing). For scientific reviews and book chapters (indicated below with <span style="color:purple">**(RV)**</span> or <span style="color:purple">**(BC)**</span>), the students should copy/download and then complete the notes worksheet [here](https://docs.google.com/document/d/1lcwO0JyfbTNhpwvRlScTnhBfJfIzfgLL4Zs4dhDYR0E/edit?usp=sharing). A well-done worksheet is complete, thoughtfully written, and has _minimal direct quotations_ from the readings. Notes should be a maximum of 2 pages.
 
-Notes are pass/fail assignments, each worth 1% of the final grade. Why put effort into them? These notes are will be made available to you during your exams. Students may submit notes for all 24 readings; notes for the 21st–24th reading assignments may earn students up to 4% extra credit (i.e., 1% each).
+Notes are pass/fail assignments, each worth 1% of the final grade. Why put effort into them? These notes will be made available to you during your exams. Students may submit notes for all 24 readings; notes for the 21st–24th reading assignments may earn students up to 4% extra credit (i.e., 1% each).
 
 
 ### Midterm exams (40%)
