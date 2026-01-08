@@ -121,8 +121,8 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 <!--https://docs.google.com/presentation/d/1Gt84PicQqaAyW_fARSLzZFJfdG44ygTWGk_tF_8X9Xo/edit?usp=sharing-->
 
 * **Pre-class reading:** 
-    * Herrmann, E., Call, J., Hernández-Lloreda, M. V., Hare, B., & Tomasello, M. (2007). Humans have evolved specialized skills of social cognition: The cultural intelligence hypothesis._Science_, _317_(5843), 1360-1366. <span style="color:green">**(JA)**</span> ([pdf]())
-    * Gergely, G., Bekkering, H., & Király, I. (2002). Rational imitation in preverbal infants. _Nature_, _415_(6873), 755-755. <span style="color:green">**(JA)**</span> ([pdf]())
+    * Herrmann, E., Call, J., Hernández-Lloreda, M. V., Hare, B., & Tomasello, M. (2007). Humans have evolved specialized skills of social cognition: The cultural intelligence hypothesis._Science_, _317_(5843), 1360-1366. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/scl/fi/38oud3yfogex9bsmm5v3f/herrmann2007humans.pdf?rlkey=fx9ii6oc21favr0mnbfz1z7kw&st=qnvhtdaf&dl=0))
+    * Gergely, G., Bekkering, H., & Király, I. (2002). Rational imitation in preverbal infants. _Nature_, _415_(6873), 755-755. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/scl/fi/p0key60bd3zgjw82ffest/gergely2002rational.pdf?rlkey=rxvxjq1pacyb13jrlmakl1w2x&st=klxeebfn&dl=0))
 
 * **Assignments due today:** Reading notes
 
