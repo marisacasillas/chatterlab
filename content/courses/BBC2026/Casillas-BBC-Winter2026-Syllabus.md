@@ -56,7 +56,7 @@ Students will be able to use their submitted reading notes and submitted lecture
 
 ### Final paper (30%)
 
-Each student is expected to submit a ~1500 word final paper, in the form of a research proposal. Rubric to be shared here.
+Each student is expected to submit a ~1500 word final paper, in the form of a research proposal. Suggested workflow and evaluation guidelines [here](https://chatterlab.uchicago.edu/courses/bbc2026/course-instructions/proposal/).
 
 ----
 
@@ -222,7 +222,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 
 ### Final deadline (Tuesday, 10 March 2026)
 
-Final paper (project proposal) due by 11:59pm Chicago time.
+Final paper (project proposal) due by 11:59pm Chicago time. See the suggested workflow and evaluation guidelines [here](https://chatterlab.uchicago.edu/courses/bbc2026/course-instructions/proposal/).
 
 (_**NB:** We reserve the right to conduct an oral exam on any submission if we suspect any kind of plagiarism or over-reliance on AI. If an in-person oral exam is needed, we will require that it be scheduled before 5pm on 13 March, 2026._)
 
