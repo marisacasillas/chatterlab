@@ -101,8 +101,8 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 <!--https://docs.google.com/presentation/d/1FLPLP8BjkugjK5bNH5udI4OvoGuedzPt28aXbznvkDA/edit?usp=sharing-->
 
 * **Pre-class reading:** 
-    * Cristia, A., & Casillas, M. (2022). Non-word repetition in children learning Yélî Dnye. _Language Development Research_, _2_(1), 69-104. <span style="color:green">**(JA)**</span> ([pdf]())
-    * Goldin-Meadow, S. (2020). Discovering the biases children bring to language learning. _Child Development Perspectives_, _14_(4), 195-201. <span style="color:purple">**(RV)**</span> ([pdf]())
+    * Cristia, A., & Casillas, M. (2022). Non-word repetition in children learning Yélî Dnye. _Language Development Research_, _2_(1), 69-104. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/scl/fi/jd6ramnvl740qvcdhaljc/cristia2022nonword.pdf?rlkey=9h1f58xy4g4rlr25odjh7cjbf&st=hvdr7ip7&dl=0))
+    * Goldin-Meadow, S. (2020). Discovering the biases children bring to language learning. _Child Development Perspectives_, _14_(4), 195-201. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/scl/fi/b8yk0drg39nafks1bu6mk/goldinmeadow2020discovering.pdf?rlkey=h0ywo0wzx9xrfousy0inrg0o7&st=06nleb6e&dl=0))
 
 * **Assignments due today:** Reading notes
 
