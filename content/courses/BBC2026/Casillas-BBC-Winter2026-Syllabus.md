@@ -139,7 +139,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 
 * **Pre-class reading:** 
     * Vlach & Johnson (2013). Memory constraints on infants’ cross-situational statistical learning. _Cognition, 127_(3), 375-382. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/jj301x8eqqldi8t/vlach2013memory.pdf?dl=0))
-    * Kail, R. (1991). Development of processing speed in childhood and adolescence. _Advances in Child Development and Behavior_, _23_, 151-185. <span style="color:purple">**(BC)**</span> ([pdf]())
+    * Kail, R. (1991). Development of processing speed in childhood and adolescence. _Advances in Child Development and Behavior_, _23_, 151-185. <span style="color:purple">**(BC)**</span> ([pdf](https://www.dropbox.com/scl/fi/s34b2jcf7g5gtmluk09fv/kail1991development.pdf?rlkey=vlfaehnimjg4zwx783458pkzu&st=tju8sk3b&dl=0))
 
 
 * **Assignments due today:** Reading notes
@@ -148,7 +148,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 ### [Thursday, 5 February 2026 (5.2)](https://docs.google.com/presentation/d/1K9N5FA0DMhC9NzQHivw080wLQDBvnBmq9OyrDgOWhbM/edit?usp=sharing)
 
 * **Pre-class reading:** 
-    * Kuhl, P. K., Tsao, F. M., & Liu, H. M. (2003). Foreign-language experience in infancy: Effects of short-term exposure and social interaction on phonetic learning. _Proceedings of the National Academy of Sciences_, _100_(15), 9096-9101.  <span style="color:green">**(JA)**</span> ([pdf]())
+    * Kuhl, P. K., Tsao, F. M., & Liu, H. M. (2003). Foreign-language experience in infancy: Effects of short-term exposure and social interaction on phonetic learning. _Proceedings of the National Academy of Sciences_, _100_(15), 9096-9101.  <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/scl/fi/vs0rqlwwyulsel3mqhusj/kuhl2003foreign.pdf?rlkey=3acsmawdzwway9ig3girjs2eb&st=yuq2bkza&dl=0))
     * Fausey et al. (2016). From faces to hands: Changing visual input in the first two years. _Cognition, 152_, 101-107. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/e7a0r0zx0swynsw/fausey2016faces.pdf?dl=0))
 
 
@@ -212,7 +212,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 
 * **Pre-class reading:**
     * Sperry et al. (2018). Reexamining the verbal environments of children from different socioeconomic backgrounds. _Child Development, 90_(4), 1303-1318. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/pky2b07bh2jm0fx/sperry2019reexamining.pdf?dl=0))
-    * De León, L. (2011). Language socialization and multiparty participation frameworks. In A. Duranti, E. Ochs, & B. B. Schieffelin (Eds.) _The Handbook of Language Socialization_ (pp. 81-111). Wiley. <span style="color:purple">**(BC)**</span> ([pdf]())
+    * De León, L. (2011). Language socialization and multiparty participation frameworks. In A. Duranti, E. Ochs, & B. B. Schieffelin (Eds.) _The Handbook of Language Socialization_ (pp. 81-111). Wiley. <span style="color:purple">**(BC)**</span> ([pdf](https://www.dropbox.com/scl/fi/njw75htq78jel7ywauthc/deleon2011language.pdf?rlkey=7nsg0a7qt5t94bewv9sp45hsn&st=6rljx6j0&dl=0))
 
 * **Assignments due today:** Reading notes
 
