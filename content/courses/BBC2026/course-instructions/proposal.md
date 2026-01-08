@@ -17,7 +17,7 @@ The project proposal is your chance to get creative and propose a little develop
 Your paper should be ~1500 words (max 2500), and clearly include the following (headings are encouraged):
 
 * **Title, student number, and word count**
-* **Introduction:** Motivate and explain your core hypotheses and study ideas.
+* **Introduction:** Motivate and explain your core hypotheses and study ideas. Rather than a literature review of your key papers, this introduction should be built to lead the reader along your thinking and foreshadow your study design and predictions. References to prior work are typically then key pieces of evidence or theoretical perspectives that lead you to the present study.
 * **Method:** Explain your study design (should be fairly detailed).
 * **Discussion:** Tell us what it would be mean if your results turned out as anticipated; and what would it mean if not? What is the bigger picture of your study, and what are the relevant next steps (and why)?
 * **References:** Your key paper, your influential empirical papers (should be 2 or more), and any other relevant references; check with your TA if you're unsure about including a reference.
