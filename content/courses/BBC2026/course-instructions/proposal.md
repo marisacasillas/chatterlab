@@ -9,7 +9,7 @@ The project proposal is your chance to get creative and propose a little develop
 5. Generate at least two "iterative" study ideas: These are research study ideas that use _mostly_ the same methods as reported in a paper you read, with the exception of one or two small changes that you think might make a difference.
 6. Generate at least two study ideas that build more freely on a research concept: These are research study ideas for which you begin with a hypothesis or core question based on your key and extra empirical papers... and then you create a study design to best suit your hypothesis/question, even if it's fairly different from any of the individual study methods you came across.
 7. Check in with your TA to discuss your ideas. They can help you choose between them and/or refine them, which will help you write an effective proposal.
-8. Once you have at least two core papers, your key paper and 1+ new ones for your research idea, spend some time taking reading notes on the new papers—that will allow you to more easily compare the papers most influential in your proposal, specify their respective contributions, and construct a justification for your proposed research.
+8. Once you have at least two core papers, your key paper and 2+ new ones for your research idea, spend some time taking reading notes on the new papers—that will allow you to more easily compare the papers most influential in your proposal, specify their respective contributions, and construct a justification for your proposed research.
 9. Draft the proposal and check in again with your TA for feedback.
 
 ## Structure and format
