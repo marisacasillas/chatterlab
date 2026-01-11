@@ -4,6 +4,7 @@ A few notes of context:
 
 - These glossary entries are meant to help students understand jargon terms/opaque expressions as they read. Most students in the class don't have a background in linguistics, cogsci, or infant psychological methods!
 - This is an extra task for me and supplemental information for students, so I'm not closely checking for typos etc.. Please do let me know if there's something especially unclear and I'll do what I can to correct it.
+- Rather than being alphabetically listed, these terms are in approximate order of mention during a paper. If students REALLY want it, I can go back and alphabetize them. But for now I'm resisting the extra step :)
 - We covered some glossary items for Saffran et al. (1996) and Saffran (2020) in class. So, at least for now, I'm not going back and adding them.
 - If I've covered a term in one reading, I won't list it again for the following readings. So this page is meant to be reviewed from top to bottom.
 
