@@ -44,12 +44,13 @@ All course materials will be available via this chatterlab course webpage. All a
 
 * **Assignments due today:** Complete the exercises: Search Yourself (p.27), Let Boredom Be Your Guide (p.33) and Go Small or Go Home (p.36). Come to class with a list of questions from these exercises which you are ready to share and discuss.
 
+* **Primary class activity:** Visit from [Holiday Vega](https://www.lib.uchicago.edu/about/directory/staff/holiday-vega/)
 
 ### Thursday, 15 January 2026 (2.2)
 
 * **Pre-class reading:** WRB Chapter 2 (pp. 43–66)
 
-* **Assignments due today:** Complete the exercises: Run a Diagnostic Test on Your Questions (p.47), Use Primary Sources to Educate Your Questions (if applicable to your project) (p.51), Make Your Assumptions Visible (p.59), Identify the Problem That Connects Your Questions (p.64). Come to class prepared to discuss the results of your exercises.
+* **Assignments due today:** Complete the exercises: Run a Diagnostic Test on Your Questions (p.47), Use Primary Sources to Educate Your Questions (if applicable to your project) (p.51). Come to class prepared to discuss the results of your exercises.
 
 * **Primary class activity:** Hear from Yuchen and Alex about their TR experiences. Come to class prepared with questions for them.
 
