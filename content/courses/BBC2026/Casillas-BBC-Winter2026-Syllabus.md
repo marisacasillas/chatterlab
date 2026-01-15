@@ -92,7 +92,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 * **Assignments due today:** Reading notes
 
 
-### Thursday, 15 January 2026 (2.2)
+### [Thursday, 15 January 2026 (2.2)](https://docs.google.com/presentation/d/1j79M5Y-8KljyoHS2t801yQePIZUEEUcBDvFOO1o7Yco/edit?usp=sharing)
 
 * **Review and proposal work session**
 
