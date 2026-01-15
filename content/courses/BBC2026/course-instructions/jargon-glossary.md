@@ -44,3 +44,97 @@ Happy reading!
 - **target vs. distracter vs. filler**: Target refers to a stimulus that is of interest for hypothesis testing. Distracter refers to a stimulus that acts as a foil to a target (e.g., a plausible alternative if the infant doesn't perceive some key difference). A filler is a stimulus that is not of interest for hypothesis testing, but may be useful for other reasons, such as getting infants' attention, providing evidence that learning is restricted to target items, or masking the hypothesis from the participants.
 - **hypothesis-driven learning**: A view of learning in which individual learners hold a set of hypotheses about how the world works that can then be assessed when new evidence is presented. So, for example, if I hear "zimble" and see two novel objects, under this learning framework, I'd randomly pick one of the two objects as a zimble. Then, on a later trial, if I'm wrong, I'll re-assign the meaning of "zimble" to the other object (or if I'm right, I'll keep it).
 - **associative learning**: Contrasts with hypothesis-driven learning in that learners never need to "commit" to a set of hypotheses. So, when I hear "zimble" with two novel objects, I they each become equally associated with "zimble" (e.g., the probability that I see object A when I hear "zimble" is 1/1, same as object B). When I hear "zimble" again later, and I only see object B, the associations begin to diverge: 1 instance of object A across two mentions of "zimble" (1/2 = 50%) but 2 instances of object B across two mentions of "zimble" (2/2 = 100%). There is never any "hypothesis" in this framework—just stronger or weaker associations built up by co-occurrence over time.
+
+
+## Cristia & Casillas (2022)
+
+Okay there are a lot of specialized concepts in this paper, so I've organized them by general domain
+
+### phonology and phonetics words
+- **phonology**: The set of abstract representations and processes for a language's sound system; also the name of the discipline that studies such sound systems. "sound" system is actually a little wrong, because sign languages also have phonology—the core phenomenon in phonology is the unit of language that is combined to create minimal meanings (e.g., sounds within a spoken word, handshape of a signed word). contrasts with phonetics, which concerns how (abstract) phonological systems are realized in the physical world (especially articulatorily and acoustically). We observe phonetic facts and infer phonological ones.
+- **phonologically legal / phonotactics**: In any given language, there are limitations on what phonological sequences are permitted. "stsots" is a normal-sounding word in the Mayan language Tseltal (it means 'his/her hair'), while "fry" is a normal-sounding word in English but impossible in Tseltal phonology. Legal sequences include both legal _sounds_ that are _combined_ in a legal way. So English has 't' and 's' but never combines them into 'sts' at the start of words; therefore it's not phonotactically legal in English. The permitted ones are sometimes called "legal" or "grammatical" and non-permitted "illegal" or (more commonly) "ungrammatical".
+- **phonological development**: The process by which children acquire the phonology of the languages in their home environments.
+- **phonological inventory**: The full collection of abstract sound representations that can be combined to create meaningful forms (e.g., words) in a language.
+- **phonologization**: A language change process by which some variation in phonetic forms becomes integrated into the _phonology_ of the language; this kind of process typically takes several (perhaps many) generations.
+- **phonological working memory**: A special memory mechanism we have in our brains that holds on—for a short period—onto acoustically detailed signals that a hearer encountered in their sound environment. This can include rehearsed speech that the hearer is preparing to speak aloud. Sometimes called the "phonological loop".
+- **place of articulation (phonetics)**: A feature of consonants that refers to where, in the oral tract, there is full or partial closure that gives the consonant its distinct quality. "Labial" consonants are produced with full/partial closure on the lips; "Alveolar" consonants are produced with full/partial closure on the alveolar ridge (the bump on the roof of your mouth, just behind your teeth), etc. Organized into column names in the International Phonetic Alphabet: https://en.wikipedia.org/wiki/International_Phonetic_Alphabet.
+- **voicing contrast**: These are pairs of sounds that differ only in when and whether the vocal folds are vibrating. In English, the following pairs have voicing contrasts (the second one is 'voiced'): p-b, t-d, k-g, f-v, th-th (thigh-thy), s-z, ch-dj (cheese-jeez), sh-zh (mesher-measure; tbh there's nore really a good minimal pair for this one...).
+- **simplex versus doubly-articulated**: Consonants that are produced with only one closure point (simplex) versus two closure points (complex - specifically here 'doubly-articulated', sometimes 'co-articulated'), such as kp and tp. These are not produced as distinct sequences of consonant closures, but as near-simultaneous consonant productions. These consonants are common in languages of Africa and Papua New Guinea. English only has simplex consonants.
+- **nasal/oral and short/long vowels**: Vowels can contrast in whether their airflow goes primarily through the mouth (oral) or the nose (nasal). In French, for example, beau /bo/ versus bon /bõ/ (sounds shown between slashes indicate phonological representation; sounds shown between square brackets indicate phonetic ones). Vowel nasalization isn't contrastive in English. Vowels can also contrast in length (short/long), for example in Finnish: .
+- **pre-nasalized, nasally released, labialized, palatalized**: Consonants can have a 'secondary' articulation, which is basically like having a tagalong consonant right before or after the consonant is produced. For reasons we won't get into, the tagalong doesn't get to count as a full sound on its own. But prenasalized means nasal airflow before the consonant starts 'ndoo' (tooth; Yélî Dnye); nasally released means nasal airflow after the consonant ends 'dnye' (sound; Yélî **Dnye**); labialized release means lip rounding on the consonant end (like the tw in 'twin'); palatalized repease means a 'y' like sound on the consonant end (like the py sound at the start of 'puny').
+- **continuant**: A consonant that can be produced with continuous airflow. Compare s, z, m, and ch to p, d, and k.
+- **plosive/stop consonant**: These two words are used jointly to refer to consonants that have a full closure of air at some point in their production (stop = no airflow; plosive = burst of air when the closure is released): in English, p, b, t, d, k, g.
+- **Levenshtein distance (a "phoneme-level score")**: A method for calculating how different two strings of sounds are for each other.  Can be defined in slightly different ways—look in the paper for our way of defining it!
+- **deletion/insertion/substitution/metathesis**: Mechanisms by which strings might differ when measuring Levenshein difference: deletion (leaving a sound out), insertion (adding a sound in that wasn't in the original word), substitution (adding an alternative sound in place of a sound from the original word), and metathesis (switching the order of two sounds in the original word).
+- **lateral consonant**: Consonants produced by having a central point of closure in the oral tract while allowing continuous airflow around the sides of the tongue. English has one of these 'l'. Other languages may have more, including Ku Waru, the Papuan language mentioned in the paper.
+- **graphemes**: Representations of sound categories in written language (written letters).
+- **non-word repetition (NWR)**: A method by which children's phonological system is tested by having them listen to and repeat back phonologically legal strings of sound that have no meaning. The meaningless legal strings ("non-words") can be easier or harder. This task involves children's phonological working memory (for decoding, remembering, and encoding what they hear) as well as their stable phonological representations.
+
+### other linguistic unit words
+- **the lexicon**: the mental dictionary; at least including words, their meanings, and their interconnections, but also information about their use and associations in actual interaction.
+- **morphemes**: the smallest meaningful unit of language. For example, the word 'dogs' has two morphemes: dog (noun) and -s (plural marker).
+- **monosyllables**: one-syllable form ('ba'); disyllable ('baba'); trisyllable ('bababa'), etc..
+- **CV and CVC syllable formats (and syllable complexity)**: The abstract structure of a syllable, where C = consonant and V = vowel. The most complex syllable in English would be a CCCVCCC: strengths /stɹɛŋθs/.
+- **resyllabification**: When the boundary between two syllables moves because of the conditions under which they are combined, which means consonants may attach to vowels in articulation in a different way. Take, e.g., how in 'run' the '-n' is attached to the 'u' vowel, but in 'running' it becomes attached to the 'i' of 'ing' (ruh-ning not run-ing).
+- **word types**: see the **(acoustic) tokens** entry above—this is the same, but with words.
+- **lexical neighbor**: All the words that are similar to a target word (often limited to those with a one-sound difference). So for 'coffee', close neighbor would be 'toffee' and 'coughing', and further neighbors would be 'coffer' and 'iffy'.
+
+### language evolution and variation
+- **isolate**: Languages evolve and spread in 'families'. For example, English is part of the Germanic family, which includes English, Dutch, German, Icelandic, Danish, and many more. A language with no known 'family' is referred to as an 'isolate'.
+- **typologically frequent**: Broadly refers to the fact that some linguistic structures recur frequently across diverse language families. If, in contrast, a structure is rare across language families, it is typologically infrequent.
+- **diachronic language change**: Change in language over chronological time.
+
+### community description
+- **ethnographic**: pertaining to the scientific description of a social or cultural group.
+- **patrilocal**: a system in which women, upon marriage, move into their husband's family's land/dwellings; the complimentary system type is called 'matrilocal'.
+- **swidden horticulturalists**: small-scale farmers who move their garden plots from newly-burned clearing to newly-burned clearing in a forested area.
+- **hamlet**: a small collection of households; smaller than a village, which may include several hamlets.
+
+### statistics and open science
+- **descriptive statistics**: statistics summarizing the distribution of data, or the relationship between sources of data in a dataset; contrasts with "inferential statistics", which are used to extrapolate beyond the data itself.
+- **pre-registering (a study)**: declaring, in some public scientific forum, the hypotheses and planned analyses for a study before analysis is done. Sometimes pre-registration may also involve declaring planned methods for data collection. Pre-registration is a practice that developed to counter the practice of 'p-hacking', which is widely attributed as a factor underlying the replication crisis in psychology. more [here](https://en.wikipedia.org/wiki/Data_dredging) and [here](https://en.wikipedia.org/wiki/Replication_crisis).
+- **exploratory analysis**: analysis from which no inferential claims will be made—the scientist is planning purely on observing the patterns in the data descriptively, perhaps with the plan to later form hypothesis and test them more rigorously in future work.
+- **natural logarithm**: ln (x) - practically used in statistical analyses to help make skewed distributions approximate a normal (Gaussian) distribution. This is done to better align with the assumptions of the statistical models being used (i.e., that the data are normally distributed).
+- **monotonic**: changing in one direction (always increasing/decreasing)
+- **meta- or mega-analysis**: quantitative analyses in which the datasets are a collection of prior empirical findings (meta-analysis) or a collection of prior meta-analyses (mega-analysis). This approach is used to assess the evidence for a phenomenon across all the relevant work produced in a field.
+
+### other
+- **"online" processes**: Cognitive processes that aid the listener in processing unfolding language live (in real time).
+- **spontaneous speech**: Speech that is not pre-rehearsed and/or produced in the moment.
+- **informant**: In field linguistics, a native speaker of the language in question whose expertise is key to understanding linguistic patterns in the data and ensuring the quality of linguistic stimuli.
+- **elicitation**: Methods by which linguists get participants to produce language data of one kind or another (e.g., asking participants to read a list aloud or to talk to each other, or asking questions for participants to answer, etc.)
+- **(un)attested**: Attested = observed; unattested = not observed.
+- **usage frequency**: How often something is used in everyday speech.
+- **MacArthur-Bates Communicative Development Inventory ("CDI")**: A vocabulary checklist that is used in many languages to assess how many words children know; it's typically filled out by the kid's parents and to record which words the parents think their kids understand and say.
+
+
+## Goldin-Meadow (2020)
+- **(cognitive) biases**: Tendencies or predispositions that lead us to be more likely to come to some conclusions over others when faced with ambiguous information. Think of these like shortcuts to the 'right' answer for learners.
+- **conventional language model**: Sufficient input from a fluent user of a language for a learner to acquire the core representations and processes of that language.
+- **homesigns**: Semi-conventionalized gestures used to communicate between deaf children and their non-deaf, non-signing family members.
+- **subject (syntax)**: the noun phrase that controls a verb - often (but not always) the agent of a clause.
+- **hierarchy/hierarchical structure**: structure whereby some elements are grouped as sub-parts of higher-level elements (like branches on a tree).
+- **Bayesian statistical model**: A statistical approach used sometimes for analysis and sometimes for simulation that generates inferential conclusions using [Bayes' Rule](https://en.wikipedia.org/wiki/Bayes%27_theorem).
+- **determiner-noun construction**: I'm going to restrict this to English to keep it simple... determiners in English tyipcally refer to the/a/this/that/these/those and numerals. You hopefully know what nouns are! A "construction" is a linguistic unit made by combining two or more components (often considered a type of syntax). So a det-noun construction would be like: the-ball, this-shoe, two-apples.
+- **co-speech gesture**: Gestures produced in the course of speaking.
+- **resilient properties of language**: Features of linguistic structure that emerge in new languages even if there is no conventional language model from which learners can directly observe those features.
+- **established sign language**: A sign language that is stably used among a community of fluent signers.
+- **narrowly referential**: picking out specific aspects of a scene to convey to an addressee (contrasted with full depictive coverage of a scene).
+- **depictive forms**: Representations of objects that are designed to remind the addressee of the perceptual properties of the referent (e.g., referring to a tree by stretching out the arms and fingers above one's head so they look like brances)
+- **symmetrical versus reciprocal relations**: contrasts actions that are construed as joint endeavors (e.g., high-fiving) versus simultaneous actions that are not joint but may perceptually resemble symmetrical relations (e.g., punching each other).
+- **handshape versus motion forms**: handshape refers to a phonological feature of signs: the ways in which hand is arranged to create a recognizable shape that can be moved and/or placed in different ways to produce different meanings. Motion refers to another phonological feature: the ways in which articulators are moved in conventional ways to produce different meanings (e.g., the same handshape with motion A means something different from motion B).
+- **number marking**: A kind of inflection indicating the plurality or number class of a referent.
+- **iconic gestures**: See depictive forms above; gestures that seek to convey the perceptual features of a referent (e.g., referring to a tree by holding out the hand in a splayed high-five shape with the elbow flexed so the fingers point toward the sky in front of the gesturer).
+- **deictic gestures/pointing gestures**: Deictic gestures canonically highlight a referent in the here and now (e.g., pointing to my cat while referring to her).
+- **thematic roles**: various actors and objects involved in events. an agent is the doer of an action. a patient is the recipient of an action, etc.
+- **consistent word order/canonical word order**: word order has to do with the default ways in which words are strung together to form sentences. some languages, like English, are pretty strict (consistent) about their word order. other languages, like Turkish, are not strict at all—and it's still easy to follow meaning because Turkish has other cues to tell you who did what to whom in any given sentence (English lacks these other cues!). Canonical word order is another way of saying 'default' word order for a language.
+- **(O)VS word order**: a default word order in which objects come first, then verbs, then subjects. an example would be apple-eats-Susan.
+- **silent gesture**: gesture produced in the absence of speech.
+- **cognitively basic**: used in the paper to imply a **cognitive bias** (see above)
+- **multigesture nominals**: noun expressions created by the combination of multiple gestures.
+- **productivity**: an indication of how 'abstract' children's linguistic knowledge is. if they have learned a generalized pattern  (e.g., is VERB-ing) or an abstraction (determiner-noun) then they can produce novel versions of those structures (e.g., is BLICKETing and the BLICKET).
+- **transmitting language**: the transmission of language happens when new generations of learners encounter a pre-existing language system and then learn it sufficiently to become fluent users themselves.
+- **internal processes**: In this work, processes that occur mentally—in the head of the speaker/addressee/learner.
+- **language-learning models (simulations)**: Computational models used to examine theoretical assumptions and hypotheses in fully controlled circumstances.
+- **ontongenetic versus historical time**: another way of contrasting individual learning and development (i.e., in the human lifespan) versus language evolution and change (i.e., over many generations).
+- **language emergence**: the process by which new languages come to arise; this can and has happened for a variety of reasons; this paper concerns sign language emergence in deaf communities without access to a pre-existing sign language.
