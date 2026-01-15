@@ -12,6 +12,9 @@ Happy reading!
 
 \- Marisa
 
+## Requested additions
+- **domain-general versus domain-specific**: "Domain" here refers to cognitive domains (e.g., language, attention, social cognition, ...). Domain-general indicates a mechanism or feature of cognition or learning that crosses multiple domains. Domain-specific, in contrast, refers to mechanisms that are only available to one area of cognition. In the case of our course, "domain-specific" will almost always refer to "language-specific" cognition.
+
 ## Maye et al. (2002)
 - **perception of speech sounds**: In this paper and other work we read on infant speech perception, this phrase refers to whether, when, and how infants come to think that individual instances of sounds fall into the same sound CATEGORY (e.g., two spoken productions of "p") versus not (e.g., one "p" and one "k"). This has to do with the infants' growing mental (INTERNAL) representations of which categories are relevant in their language environment.
 - **native language input**: "Native langage" is also referred to as home language or mother tongue. Infants may of course have more than one of these. "Input" is the experience they have hearing (or in the case of visual sign languages, seeing) that language. Some theories mostly care about "input" addressed to the child ("child-directed input") and others think more broadly about what children learn from the ambient language around them.
