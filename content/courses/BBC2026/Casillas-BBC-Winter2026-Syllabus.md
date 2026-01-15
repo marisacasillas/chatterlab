@@ -47,7 +47,7 @@ For 20 of the 24 readings (it's up to each student which 20 readings to do!), st
 
 Notes are pass/fail assignments, each worth 1% of the final grade. Why put effort into them? These notes will be made available to you during your exams. Students may submit notes for all 24 readings; notes for the 21st–24th reading assignments may earn students up to 4% extra credit (i.e., 1% each).
 
-There's lot of jargon in these readings, so we'll try and provide a glossary [here](https://chatterlab.uchicago.edu/courses/bbc2026/course-instructions/jargon-glossary/) (it's meant to be read to to bottom).
+There's lot of jargon in these readings, so we'll try and provide a glossary [here](https://chatterlab.uchicago.edu/courses/bbc2026/course-instructions/jargon-glossary/) (it's meant to be read top to bottom).
 
 
 ### Midterm exams (40%)
