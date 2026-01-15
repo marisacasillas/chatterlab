@@ -12,6 +12,8 @@ Happy reading!
 
 \- Marisa
 
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+
 ## Requested additions
 - **domain-general versus domain-specific**: "Domain" here refers to cognitive domains (e.g., language, attention, social cognition, ...). Domain-general indicates a mechanism or feature of cognition or learning that crosses multiple domains. Domain-specific, in contrast, refers to mechanisms that are only available to one area of cognition. In the case of our course, "domain-specific" will almost always refer to "language-specific" cognition.
 
@@ -141,3 +143,6 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - **language-learning models (simulations)**: Computational models used to examine theoretical assumptions and hypotheses in fully controlled circumstances.
 - **ontongenetic versus historical time**: another way of contrasting individual learning and development (i.e., in the human lifespan) versus language evolution and change (i.e., over many generations).
 - **language emergence**: the process by which new languages come to arise; this can and has happened for a variety of reasons; this paper concerns sign language emergence in deaf communities without access to a pre-existing sign language.
+
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
