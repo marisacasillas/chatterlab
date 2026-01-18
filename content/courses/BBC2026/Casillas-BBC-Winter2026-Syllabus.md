@@ -127,6 +127,12 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 
 * **Assignments due today:** Reading notes
 
+* <span style="color:red">**8:30am CST on Wednesday, January 28th, 2026 is the FINAL printing deadline** for:
+    * _Revised notes_ (revisions of submitted reading notes),
+    * _Missed notes_ (reading notes you never submitted but have completed anyway), and
+    * _Supplementary notes_ (additional notes you may have, e.g, from lectures). You may submit a maximum of 8 pages of supplementary reading notes for Midterm 1.</span>
+* <span style="color:red">Email your revised, missed, and supplementary notes directly to Yuchen AND Mei (see email addresses above).</span>
+
 
 ### Thursday, 29 January 2026 (4.2)
 
