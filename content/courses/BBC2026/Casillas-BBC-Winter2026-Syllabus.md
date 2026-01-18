@@ -99,8 +99,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 
 ## Module 2: Cognitive biases
 
-### Tuesday, 20 January 2026 (3.1)
-<!--https://docs.google.com/presentation/d/1FLPLP8BjkugjK5bNH5udI4OvoGuedzPt28aXbznvkDA/edit?usp=sharing-->
+### [Tuesday, 20 January 2026 (3.1)](https://docs.google.com/presentation/d/10PBWqI9oUo90NFMJm58Uv82yNWEArhKiZW6I-6ZQrRA/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * Cristia, A., & Casillas, M. (2022). Non-word repetition in children learning Yélî Dnye. _Language Development Research_, _2_(1), 69-104. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/scl/fi/jd6ramnvl740qvcdhaljc/cristia2022nonword.pdf?rlkey=9h1f58xy4g4rlr25odjh7cjbf&st=hvdr7ip7&dl=0))
