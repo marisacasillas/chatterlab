@@ -132,7 +132,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 * <span style="color:red">Midterm 1 written component — in class (today)</span>
 * <span style="color:red">Midterm 1 oral component — by appointment (book [here](https://calendar.app.google/xLW8VKd7skRDECYL7))</span>
 
-* <span style="color:purple">You may print and bring the following notes to the exam:</span>
+* <span style="color:purple">You may print and bring the following notes to the exam. They should be your OWN notes (and not a peers'):</span>
     * <span style="color: purple">**Reading notes:** These are the notes you've submitted with each class session. You are allowed up to 2 pages PER reading assignment (_"2 pages" means: 1 double-sided page or 2 single-sided pages_).</span>
         * <span style="color: purple">Print and bring your **submitted or revised** notes (revisions of submitted reading notes), and any **missed** notes (reading notes you never submitted but have completed anyway).</span>
         * <span style="color: purple">We will check that your notes total to a maximum of 2 pages PER reading.</span>
