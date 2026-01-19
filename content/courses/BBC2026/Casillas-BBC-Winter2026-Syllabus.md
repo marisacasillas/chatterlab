@@ -130,7 +130,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 ### Thursday, 29 January 2026 (4.2)
 
 * <span style="color:red">Midterm 1 written component — in class (today)</span>
-* <span style="color:red">Midterm 1 oral component — by appointment</span>
+* <span style="color:red">Midterm 1 oral component — by appointment (book [here](https://calendar.app.google/xLW8VKd7skRDECYL7))</span>
 
 * <span style="color:purple">You may print and bring the following notes to the exam:</span>
     * <span style="color: purple">_**Reading notes:**_ These are the notes you've submitted with each class session. You are allowed up to 2 pages PER reading assignment (_"2 pages" means: 1 double-sided page or 2 single-sided pages_).</span>
