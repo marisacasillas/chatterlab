@@ -136,7 +136,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
     * <span style="color: purple">_**Reading notes:**_ These are the notes you've submitted with each class session. You are allowed up to 2 pages PER reading assignment (_"2 pages" means: 1 double-sided page or 2 single-sided pages_).</span>
         * <span style="color: purple">Print and bring your **submitted or revised** notes (revisions of submitted reading notes), and any **missed** notes (reading notes you never submitted but have completed anyway).</span>
         * <span style="color: purple">We will check that your notes total to a maximum of 2 pages PER reading.</span>
-    * <span style="color: purple">_**Supplementary notes:**_ These are any additional notes you may want (e.g., from lectures). You may submit a maximum of 8 pages of supplementary reading notes for Midterm 1 (total: 4 double-sided pages or 8 single-sided pages).</span>
+    * <span style="color: purple">_**Supplementary notes:**_ These are any additional notes you may want (e.g., from lectures). You may submit a maximum of 8 pages of supplementary reading notes for Midterm 1 (_"8 pages" means: 4 double-sided pages or 8 single-sided pages_).</span>
 
 <span style="color: purple">You will submit your printed notes with your exam. We will keep your notes until grading is completed, and then we will return them to you. You will have access to your notes during both the oral and written exam components.</span>
 
