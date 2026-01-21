@@ -36,6 +36,8 @@ Happy reading!
 - **interstimulus interval (ISI)**: The period of "silent" time between playback tokens in the experiment.
 - **masking music**: The adults accompanying the infant participants (often including the experimenter!) are often asked to wear headphones over which the scientists play music that interferes with their ability to hear what the infant is hearing. The adult may also be asked to wear masking glasses (usually sunglasses with the lenses blocked out). This keeps the adult from (even unintentionally) influencing the infants' behavior during the experiment.
 
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+
 ## Smith & Yu (2008)
 - **referent**: The meaning that a word or expression refers to. When I say "look at that dog", the referent of the linguistic symbol 'dog' is the canine I'm drawing attention to. The _mapping_ (i.e., established linkage) between referring expressions and their referents is complex. For example, I can refer to the same canine referent as 'Fido' or 'my dog' or 'him'. Mappings depend on context, but can also show considerable consistency (the word 'dog' has a decent tendency in referring to canine creatures).
 - **constraints**: In this use, constraints refers to mechanisms that helpfully restrict children's understanding of the world. An example of a constraint is the Whole Object Assumption, which basically states that children, by default, assume that words refer to whole objects (and not, e.g., individual parts of objects). This may save the learner a lot of trouble in deciding whether 'dog' refers to the whole creature, the creature and the ball in his mouth, or just his wagging tail—the Whole Object Assumption may nail down the candidate referents to just the dog or the ball objects.
@@ -50,6 +52,7 @@ Happy reading!
 - **hypothesis-driven learning**: A view of learning in which individual learners hold a set of hypotheses about how the world works that can then be assessed when new evidence is presented. So, for example, if I hear "zimble" and see two novel objects, under this learning framework, I'd randomly pick one of the two objects as a zimble. Then, on a later trial, if I'm wrong, I'll re-assign the meaning of "zimble" to the other object (or if I'm right, I'll keep it).
 - **associative learning**: Contrasts with hypothesis-driven learning in that learners never need to "commit" to a set of hypotheses. So, when I hear "zimble" with two novel objects, I they each become equally associated with "zimble" (e.g., the probability that I see object A when I hear "zimble" is 1/1, same as object B). When I hear "zimble" again later, and I only see object B, the associations begin to diverge: 1 instance of object A across two mentions of "zimble" (1/2 = 50%) but 2 instances of object B across two mentions of "zimble" (2/2 = 100%). There is never any "hypothesis" in this framework—just stronger or weaker associations built up by co-occurrence over time.
 
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
 
 ## Cristia & Casillas (2022)
 
@@ -112,6 +115,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - **usage frequency**: How often something is used in everyday speech.
 - **MacArthur-Bates Communicative Development Inventory ("CDI")**: A vocabulary checklist that is used in many languages to assess how many words children know; it's typically filled out by the kid's parents and to record which words the parents think their kids understand and say.
 
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
 
 ## Goldin-Meadow (2020)
 - **(cognitive) biases**: Tendencies or predispositions that lead us to be more likely to come to some conclusions over others when faced with ambiguous information. Think of these like shortcuts to the 'right' answer for learners.
@@ -144,5 +148,41 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - **ontongenetic versus historical time**: another way of contrasting individual learning and development (i.e., in the human lifespan) versus language evolution and change (i.e., over many generations).
 - **language emergence**: the process by which new languages come to arise; this can and has happened for a variety of reasons; this paper concerns sign language emergence in deaf communities without access to a pre-existing sign language.
 
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+
+## He & Arunachalam (2017)
+- **productive/expressive versus receptive vocabulary**: productive (aka expressive) vocabulary is the set of words children are known to produce (now or previously), while receptive vocabulary is the set of words children appear to understand, even if they do not yet produce them themselves.
+- **phonological form**: the "label" to which a referent should be mapped 
+- **extension (of word meaning)**: broadening a referent's category to include a variety of members (e.g., unseen cases, non-prototypical cases, etc.)
+- **hypothesis space**: in cognitive science, the possible inferences a learner might draw, given data about the world. the word learning literature, this most often refers to the space of possible label-referent mappings.
+- **open versus closed class**: "open class" refers to categories of words (e.g., nouns and verbs) that readily add new members. for example, new technologies are a constant source of new nouns and verbs, and we have a number of processes for innovating new nouns and verbs in English (e.g., thinking of our course name, "to BBC something" or to "pull a BBC"). "closed class" refers to categories of words (e.g., number words, determiners) that have fixed vocabularies to which new words are rarely added (if so, only in historical time).
+- **ideal learners**: this refers to the computational modeling literature, in which learners are simulated. the IDEAL learner is typically a rational learner that uses some proposed constraint in learning from in input in a predictable way.
+- **free and bound morphology**:  morphemes are the smallest units of meaning in a language. free morphemes tend to have word-like content, and can stand alone in the language (e.g., "dog", "walk", "here"). bound morphemes have meaning, but can't stand on their own—they must be bound onto a free morpheme, like -ing and -s in "walking" and "walks". Sometimes these bound morphemes are called "function" morphemes because they do inflection. This meaning of "function" is also sometimes extended to free morphemes whose work is primarily grammatica (e.g., "the" and "from").
+- **prosody**: approximately, the rhythm and intonation of language
+- **heuristic**: in cognitive science, a shortcut principle for reasoning about something/making an inference about experiences
+- **core knowledge**: inborn knowledge about how the world is structured; if you're very interested, check out [this short paper](https://www.harvardlds.org/wp-content/uploads/2017/01/SpelkeKinzler07-1.pdf)
+- **lexical constraint**: some bias, mechanism, or heuristic that makes a learner more likely to entertain some mapping hypotheses over others (e.g., the whole object assumption)
+- **communicative intent**: the meaning that a speaker wants to convey to their addressee (regardless of what linguistic form they actually use or their success in communicating it)
+- **speaker's reliability**: in this context, the authors are referring to experiments in which speakers have a history of being 'unreliable' (e.g., calling a 'shoe' by the wrong name) versus 'reliable' (calling it by its right name: 'shoe'). children know to trust reliable speakers over unreliable ones.
+- **scaffolding**: in developmental psychology, guidance from a more knowledgeable other that is designed to help the recipient demonstrate their potential ability. typically exceeds their “actual” ability. see vygotsky!
+- **causative**: verbs that describe an action brought about by an agent; classically contrasted with non-causative verbs, with this difference encoded as transitive (causative)-intransitive (non-causative) pairs. for example: fall versus drop ("I dropped it" is okay but "I falled it" is not). English-speaking children use non-causative verbs causatively quite often. [Melissa Bowerman](learning-the-structure-of-causative-verbs-a-study-in-the-mselzqigjs.pdf) has some really nice examples of this ("giggle me" = "make me giggle") if you want to learn more. 
+- **sentential complement**: basically, a sentence that tags onto another sentence as a sub-structure. you can keep it simple for English by thinking of it as full sentences within sentences that start with that, e.g., "she wanted to know that they were actually using the glossary". the "they were using the glossary" bit is the sentential complement. note that it contains its own inflected verb + and arguments (e.g., subject, object).
+- **transitive versus intransitive**: transitive verbs take a subject and an object (subject-"unlock"-object) while intransitive verbs only take a subject (subject-"sleep").
+- **(overt) arguments**: in this paper they are talking about verb arguments, such that arguments are the things that verbs link together. like how a transitive verb links together a subject and an object. overt arguments are arguments that are explicitly included in the sentence "we eat apples" and dropped (aka elided) arguments are implied but not explicitly stated like "eat apples". English generally requires subjects, so "eat apples" is not a good way to say "we eat apples", but lots of languages allow this kind of argument dropping, like Spanish: "comemos manzanas".
+- **taxonomic level**: the level at which a concept is sorted. in this framework, concepts are interrelated within hierarchies of types: animal > mammal > dog > Dalmatian. for each of these taxonomic hierarchies, there is a kind of intuitive "basic" taxonomic level (in this case, "dog"), that has a super-categories ("animal", "mammal"), and sub-categories ("Dalmation", "Fido")
+- **LENA**: a recording device with accompanying software that allows researchers to record children's home audio environments for up to 16 hours on a given day and to automatically analyze several aspects of the audio file.
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+
+## Frank et al. (2020)
+- **nominals**: another word for nouns
+- **predicates**: predicates are words that link concepts together. in this paper we're only concerned about verbs (link nouns), adjectives (modify nouns), and adverbs (modify verbs).
+- **partition (concepts)**: think of a conceptual space (e.g., actions) as being cut into pieces and assigned labels (e.g., walking versus running). this process of dividing up the perceptual space is sometimes referred to as 'partitioning'.
+- **morphologically complex**: words with a lot of bound morphology (see "free and bound morphology" above)
+- **sentence-medial**: not at the start of the sentence! not at the end! but... in the middle :)
+- **caregiver**: a person, typically an adult, who is responsible for a child's wellbeing
+- **WG and WS**: two versions of the CDI (see "MacArthur-Bates Communicative Development Inventory ("CDI")" above). WG = Words and Gestures—this is the version for younger kids who don't talk much. WS = Words and Sentences—this is the version for older kids who are definitely talking. Kids usually hit ceiling (i.e., know all the words) on the WS version around age 2.5 years.
+- **instrument (psychometric)**: a tool and/or method used to conduct a test, in this case a parental questionnaire.
+- **administration (of a task)**: how an instrument or task is carried out by the person running it.
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
