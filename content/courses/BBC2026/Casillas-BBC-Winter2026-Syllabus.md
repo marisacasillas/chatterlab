@@ -108,8 +108,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 * **Assignments due today:** Reading notes
 
 
-### Thursday, 22 January 2026 (3.2)
-<!--https://docs.google.com/presentation/d/14cDE8fX9813Oucyua324i9iM2ozKPLSho0tjAR9tlcY/edit?usp=sharing-->
+### [Thursday, 22 January 2026 (3.2)](https://docs.google.com/presentation/d/14cDE8fX9813Oucyua324i9iM2ozKPLSho0tjAR9tlcY/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * He & Arunachalam (2017). Word learning mechanisms. _Wiley Interdisciplinary Reviews: Cognitive Science, 8_(4), e1435. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/6c8bbiq9b4j45t3/he2017wordlearning.pdf?dl=0))
