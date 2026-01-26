@@ -47,7 +47,7 @@ Happy reading!
 - <span style="color:green">**voiced and voiceless unaspirated stops**:</span> Voiced = if your vocal folds are vibrating; voiceless = if the're not. Unaspirated = no substantial puff of air when transitioning between the consonant and its following vowel. Stop = a consonant that involves full closure of the airway (e.g., by closing the lips, or putting the tongue on the roof of the mouth).
 - <span style="color:green">**VOT**:</span> VOT = voice onset time. VOT is the measurement, in milliseconds, of the period between the release of a stop's closure and the very beginning of vocal fold vibration in the following vowel. So think about the consonant 'pa'. There's a very short period of transition between the 'p' and the 'a'. This transition time is VOT. VOT can be really long in English, where 'p' sounds at the start of many syllables have a puff of air following them ('p__a'); in this case, voicing starts when the 'a' begins. VOT is close to zero in English 'b', which is otherwise identical to English 'p' ('pa'). In Spanish and many other languages, VOT is actually negative for 'b', because the vocal folds are already vibrating while the lips are still closed ('--ba'); this is sometimes referred to as 'prevoicing'. In the Maye et al. paper, English-learning infants are exposed  to the Spanish-like system: VOT that ranges from negative to zero VOT. Why might that matter for their research aims (for a clue, check footnote 4)?
 
-[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
 
 ## Smith & Yu (2008)
 - <span style="color:green">**associative learning**:</span> Contrasts with hypothesis-driven learning in that learners never need to "commit" to a set of hypotheses. So, when I hear "zimble" with two novel objects, I they each become equally associated with "zimble" (e.g., the probability that I see object A when I hear "zimble" is 1/1, same as object B). When I hear "zimble" again later, and I only see object B, the associations begin to diverge: 1 instance of object A across two mentions of "zimble" (1/2 = 50%) but 2 instances of object B across two mentions of "zimble" (2/2 = 100%). There is never any "hypothesis" in this framework—just stronger or weaker associations built up by co-occurrence over time.
@@ -63,7 +63,7 @@ Happy reading!
 - <span style="color:green">**reliability**:</span> When measurements are made on the basis of human judgments, it's often a good idea to have a second human judge independently measure the data and make sure that the two sets of judgments are reasonably similar. This is typically what is happening when researchers refer to reliability in our papers. There are other kinds of reliabiity measures (e.g., measuring a machine's performance against a human's) but we won't cover them.
 - <span style="color:green">**target vs. distracter vs. filler**:</span> Target refers to a stimulus that is of interest for hypothesis testing. Distracter refers to a stimulus that acts as a foil to a target (e.g., a plausible alternative if the infant doesn't perceive some key difference). A filler is a stimulus that is not of interest for hypothesis testing, but may be useful for other reasons, such as getting infants' attention, providing evidence that learning is restricted to target items, or masking the hypothesis from the participants.
 
-[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
 
 ## Cristia & Casillas (2022)
 
@@ -126,7 +126,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - <span style="color:green">**(un)attested**:</span> Attested = observed; unattested = not observed.
 - <span style="color:green">**usage frequency**:</span> How often something is used in everyday speech.
 
-[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
 
 ## Goldin-Meadow (2020)
 - <span style="color:green">**Bayesian statistical model**:</span> A statistical approach used sometimes for analysis and sometimes for simulation that generates inferential conclusions using [Bayes' Rule](https://en.wikipedia.org/wiki/Bayes%27_theorem).
@@ -159,7 +159,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - <span style="color:green">**thematic roles**:</span> various actors and objects involved in events. an agent is the doer of an action. a patient is the recipient of an action, etc.
 - <span style="color:green">**transmitting language**:</span> the transmission of language happens when new generations of learners encounter a pre-existing language system and then learn it sufficiently to become fluent users themselves.
 
-[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
 
 ## He & Arunachalam (2017)
 - <span style="color:green">**causative**:</span> verbs that describe an action brought about by an agent; classically contrasted with non-causative verbs, with this difference encoded as transitive (causative)-intransitive (non-causative) pairs. for example: fall versus drop ("I dropped it" is okay but "I falled it" is not). English-speaking children use non-causative verbs causatively quite often. [Melissa Bowerman](learning-the-structure-of-causative-verbs-a-study-in-the-mselzqigjs.pdf) has some really nice examples of this ("giggle me" = "make me giggle") if you want to learn more. 
@@ -183,7 +183,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - <span style="color:green">**taxonomic level**:</span> the level at which a concept is sorted. in this framework, concepts are interrelated within hierarchies of types: animal > mammal > dog > Dalmatian. for each of these taxonomic hierarchies, there is a kind of intuitive "basic" taxonomic level (in this case, "dog"), that has a super-categories ("animal", "mammal"), and sub-categories ("Dalmation", "Fido")
 - <span style="color:green">**transitive versus intransitive**:</span> transitive verbs take a subject and an object (subject-"unlock"-object) while intransitive verbs only take a subject (subject-"sleep").
 
-[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
 
 ## Frank et al. (2020)
 - <span style="color:green">**administration (of a task)**:</span> how an instrument or task is carried out by the person running it.
@@ -196,7 +196,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - <span style="color:green">**sentence-medial**:</span> not at the start of the sentence! not at the end! but... in the middle :)
 - <span style="color:green">**WG and WS**:</span> two versions of the CDI (see "MacArthur-Bates Communicative Development Inventory ("CDI")" above). WG = Words and Gestures—this is the version for younger kids who don't talk much. WS = Words and Sentences—this is the version for older kids who are definitely talking. Kids usually hit ceiling (i.e., know all the words) on the WS version around age 2.5 years.
 
-[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
 
 ## Gergely et al. (2002)
 - <span style="color:green">**emulation**:</span> goal-directed action that relies on a pre-existing set of behaviors the organism already has command of; a kind of semi-flexible problem solving. If infants emulated in the task, they would simply turn on the light with their hands.
@@ -204,7 +204,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - <span style="color:green">**imitative learning**:</span> a flexible type of learning by which the learner reproduces the behavior of someone else; a type of social learning. In this paper, infants' imitative learning implies that they think there is some advantage/reason for turning the light on with their head.
 - <span style="color:green">**principle of rational action**:</span> the assumption that actions are planned so as to achieve goals in an efficient or effective manner.
 
-[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
 
 ## Herrmann et al. (2007)
 - <span style="color:green">**cladistic**:</span> relating groups of organisms by their evolutionary ancestry (think of 'trees' of evolution that you've seen.
@@ -220,4 +220,4 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - <span style="color:green">**spatial orientation**:</span> how objects are arranged, as it relates to each other (left-right), the arranger (my left/my right), or some external reference (west-east).
 - <span style="color:green">**theory of mind**:</span> we could spend a whole class on this, but generally refers to the ability we have to consider others' psychological states (i.e., what they know and what they're thinking about). you can consider this a kind of 'mindreading'. children gradually become able to model others' mental states, eventually becoming able to recognize that others can hold beliefs about the world that contradict their own, certain, beliefs.
 
-[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
