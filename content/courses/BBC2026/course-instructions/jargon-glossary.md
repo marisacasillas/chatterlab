@@ -14,7 +14,7 @@ Happy reading!
 
 ## Paper index:
 
-1. [Maye et al. (2002)](./maye2002infant)
+1. [Maye et al. (2002)](#maye-et-al-2002)
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
 
