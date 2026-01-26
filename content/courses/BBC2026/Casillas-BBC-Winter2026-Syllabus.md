@@ -143,7 +143,8 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 
 ## Module 3: Maturation
 
-### [Tuesday, 3 February 2026 (5.1)](https://docs.google.com/presentation/d/1lgXqW7vTrervwDwOB5Sua8V1XS1OrR1cvXOKi_GXrvo/edit?usp=sharing)
+### Tuesday, 3 February 2026 (5.1)
+<!--https://docs.google.com/presentation/d/1lgXqW7vTrervwDwOB5Sua8V1XS1OrR1cvXOKi_GXrvo/edit?usp=sharing-->
 
 * **Pre-class reading:** 
     * Vlach & Johnson (2013). Memory constraints on infants’ cross-situational statistical learning. _Cognition, 127_(3), 375-382. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/jj301x8eqqldi8t/vlach2013memory.pdf?dl=0))
@@ -153,7 +154,8 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 * **Assignments due today:** Reading notes
 
 
-### [Thursday, 5 February 2026 (5.2)](https://docs.google.com/presentation/d/1K9N5FA0DMhC9NzQHivw080wLQDBvnBmq9OyrDgOWhbM/edit?usp=sharing)
+### Thursday, 5 February 2026 (5.2)
+<!--https://docs.google.com/presentation/d/1K9N5FA0DMhC9NzQHivw080wLQDBvnBmq9OyrDgOWhbM/edit?usp=sharing-->
 
 * **Pre-class reading:** 
     * Kuhl, P. K., Tsao, F. M., & Liu, H. M. (2003). Foreign-language experience in infancy: Effects of short-term exposure and social interaction on phonetic learning. _Proceedings of the National Academy of Sciences_, _100_(15), 9096-9101.  <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/scl/fi/vs0rqlwwyulsel3mqhusj/kuhl2003foreign.pdf?rlkey=3acsmawdzwway9ig3girjs2eb&st=yuq2bkza&dl=0))
