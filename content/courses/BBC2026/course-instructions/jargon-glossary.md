@@ -15,6 +15,13 @@ Happy reading!
 ## Paper index:
 
 1. [Maye et al. (2002)](#maye-et-al-2002)
+2. [Smith & Yu (2008)](#smith--yu-2008)
+3. [Cristia & Casillas (2022)](#cristia--casillas-2022)
+4. [Goldin-Meadow (2020)](#goldin-meadow-2020)
+5. [He & Arunachalam (2017)](#he--arunachalam-2017)
+6. [Frank et al. (2020)](#frank-et-al-2020)
+7. [Gergely et al. (2002)](#gergely-et-al-2002)
+8. [Herrmann et al. (2007)](#herrmann-et-al-2007)
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
 
