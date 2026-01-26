@@ -186,3 +186,27 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - **administration (of a task)**: how an instrument or task is carried out by the person running it.
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+
+## Gergely et al. (2002)
+- **emulation**: goal-directed action that relies on a pre-existing set of behaviors the organism already has command of; a kind of semi-flexible problem solving. If infants emulated in the task, they would simply turn on the light with their hands.
+- **goal-directed action**: actions planned and executed as a means to an end (i.e., to get something done).
+- **imitative learning**: a flexible type of learning by which the learner reproduces the behavior of someone else; a type of social learning. In this paper, infants' imitative learning implies that they think there is some advantage/reason for turning the light on with their head.
+- **principle of rational action**: the assumption that actions are planned so as to achieve goals in an efficient or effective manner.
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+
+## Herrmann et al. (2007)
+- **cladistic**: relating groups of organisms by their evolutionary ancestry (think of 'trees' of evolution that you've seen.
+- **counterbalancing**: dividing some (scientifically uninteresting) feature of stimuli across participants, conditions, or testing groups so that any differences found are not attributable to the uninteresting thing. For example, if you have a battery of tasks (Task A and Task B), you want to counterbalance the order of the tasks, so that one half of your participants do A then B and one half do B than A; in this case you are trying to make sure that any conclusions you draw don't depend on a specific ordering of the tasks.
+- **ecological intelligence hypothesis**: humans got their smarts from the evolotionary advantages gained by becoming better foragers.
+- **"live" coding**: noting participant responses in real time during an experimental or observational study.
+- **meta-analysis**: a scientific framework that involves a quantitative analysis of prior empirical findings. so basically the scientist comprehensively gathers prior experimental articles and extracts quantitative measures of the experimental findings from each. then they quantitatively analyze the literature as a whole to infer how reliable some experimental effect is, given all available past work. the scientist can also sometimes use these data to reason about what causes an experimental effect to show up more strongly or more weakly. fun fact: a meta-analysis of meta-analyses is called a mega-analysis :)
+- **mediators**: some secondary explanatory factor that changes how we understand the relationship between a primary explanatory factor and an outcome. for example, in the US, more parental talk to 1.5 year-old kids is associated with larger child vocabulary sizes a half year later, but there's a twist! child-directed speech also predicts how quickly children recognize the referents of familiar words. if we make a statistical model that lets child-directed speech predict recognition speed, and then let recognition speed predict vocabulary, we have a mediation model (i.e., here recognition speed is mediating the relationship between child-directed speech and vocabulary size). in fact, in this case, once recognition speed is taken into account, child-directed speech has nothing else to explain about vocabulary size. [(see Weisleder & Fernald, 2013 for more on this specific example)](https://doi.org/10.1177/0956797613488145)
+- **ontogeny (vs. phylogeny)**: individual development of an organism (vs. evolutionary change of a group of organism).
+- **social intelligence hypothesis**: humans got their smarts from the evolotionary advantages gained by cooperating on complex tasks.
+- **socio-cultural cognition**: social cognition includes the mental processes and representations dedicated to understanding and interacting with others. socio-cultural cognition implies that this social cognition is sophisticated enough to support the evolution and maintenance of 'culture', which involves the accumulation of relatively stable (and inter-generationally transmitted) knowledge systems that include social customs and social institutions (e.g., language, political systems, cultural artifacts)
+- **spatial language**: linguistic phenomena relating to locating objects, relations, and trajectories in space. most commonly refers to spatial deixis (English: here/there and this/that) or spatial relations (English: in/on, left/right, north/south). languages vary quite a bit in how they encode spatial relations!
+- **spatial orientation**: how objects are arranged, as it relates to each other (left-right), the arranger (my left/my right), or some external reference (west-east).
+- **theory of mind**: we could spend a whole class on this, but generally refers to the ability we have to consider others' psychological states (i.e., what they know and what they're thinking about). you can consider this a kind of 'mindreading'. children gradually become able to model others' mental states, eventually becoming able to recognize that others can hold beliefs about the world that contradict their own, certain, beliefs.
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
