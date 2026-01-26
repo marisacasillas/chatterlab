@@ -117,8 +117,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 * **Assignments due today:** Reading notes
 
 
-### Tuesday, 27 January 2026 (4.1)
-<!--https://docs.google.com/presentation/d/1Gt84PicQqaAyW_fARSLzZFJfdG44ygTWGk_tF_8X9Xo/edit?usp=sharing-->
+### [Tuesday, 27 January 2026 (4.1)](https://docs.google.com/presentation/d/1Gt84PicQqaAyW_fARSLzZFJfdG44ygTWGk_tF_8X9Xo/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * Herrmann, E., Call, J., Hernández-Lloreda, M. V., Hare, B., & Tomasello, M. (2007). Humans have evolved specialized skills of social cognition: The cultural intelligence hypothesis._Science_, _317_(5843), 1360-1366. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/scl/fi/38oud3yfogex9bsmm5v3f/herrmann2007humans.pdf?rlkey=fx9ii6oc21favr0mnbfz1z7kw&st=qnvhtdaf&dl=0))
