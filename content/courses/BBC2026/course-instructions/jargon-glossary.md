@@ -48,6 +48,7 @@ Happy reading!
 - **VOT**: VOT = voice onset time. VOT is the measurement, in milliseconds, of the period between the release of a stop's closure and the very beginning of vocal fold vibration in the following vowel. So think about the consonant 'pa'. There's a very short period of transition between the 'p' and the 'a'. This transition time is VOT. VOT can be really long in English, where 'p' sounds at the start of many syllables have a puff of air following them ('p__a'); in this case, voicing starts when the 'a' begins. VOT is close to zero in English 'b', which is otherwise identical to English 'p' ('pa'). In Spanish and many other languages, VOT is actually negative for 'b', because the vocal folds are already vibrating while the lips are still closed ('--ba'); this is sometimes referred to as 'prevoicing'. In the Maye et al. paper, English-learning infants are exposed  to the Spanish-like system: VOT that ranges from negative to zero VOT. Why might that matter for their research aims (for a clue, check footnote 4)?
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to top](#reading-glossary)
 
 ## Smith & Yu (2008)
 - **associative learning**: Contrasts with hypothesis-driven learning in that learners never need to "commit" to a set of hypotheses. So, when I hear "zimble" with two novel objects, I they each become equally associated with "zimble" (e.g., the probability that I see object A when I hear "zimble" is 1/1, same as object B). When I hear "zimble" again later, and I only see object B, the associations begin to diverge: 1 instance of object A across two mentions of "zimble" (1/2 = 50%) but 2 instances of object B across two mentions of "zimble" (2/2 = 100%). There is never any "hypothesis" in this framework—just stronger or weaker associations built up by co-occurrence over time.
@@ -64,6 +65,7 @@ Happy reading!
 - **target vs. distracter vs. filler**: Target refers to a stimulus that is of interest for hypothesis testing. Distracter refers to a stimulus that acts as a foil to a target (e.g., a plausible alternative if the infant doesn't perceive some key difference). A filler is a stimulus that is not of interest for hypothesis testing, but may be useful for other reasons, such as getting infants' attention, providing evidence that learning is restricted to target items, or masking the hypothesis from the participants.
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to top](#reading-glossary)
 
 ## Cristia & Casillas (2022)
 
@@ -127,6 +129,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - **usage frequency**: How often something is used in everyday speech.
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to top](#reading-glossary)
 
 ## Goldin-Meadow (2020)
 - **Bayesian statistical model**: A statistical approach used sometimes for analysis and sometimes for simulation that generates inferential conclusions using [Bayes' Rule](https://en.wikipedia.org/wiki/Bayes%27_theorem).
@@ -160,6 +163,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - **transmitting language**: the transmission of language happens when new generations of learners encounter a pre-existing language system and then learn it sufficiently to become fluent users themselves.
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to top](#reading-glossary)
 
 ## He & Arunachalam (2017)
 - **causative**: verbs that describe an action brought about by an agent; classically contrasted with non-causative verbs, with this difference encoded as transitive (causative)-intransitive (non-causative) pairs. for example: fall versus drop ("I dropped it" is okay but "I falled it" is not). English-speaking children use non-causative verbs causatively quite often. [Melissa Bowerman](learning-the-structure-of-causative-verbs-a-study-in-the-mselzqigjs.pdf) has some really nice examples of this ("giggle me" = "make me giggle") if you want to learn more. 
@@ -184,6 +188,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - **transitive versus intransitive**: transitive verbs take a subject and an object (subject-"unlock"-object) while intransitive verbs only take a subject (subject-"sleep").
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to top](#reading-glossary)
 
 ## Frank et al. (2020)
 - **administration (of a task)**: how an instrument or task is carried out by the person running it.
@@ -197,6 +202,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - **WG and WS**: two versions of the CDI (see "MacArthur-Bates Communicative Development Inventory ("CDI")" above). WG = Words and Gestures—this is the version for younger kids who don't talk much. WS = Words and Sentences—this is the version for older kids who are definitely talking. Kids usually hit ceiling (i.e., know all the words) on the WS version around age 2.5 years.
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to top](#reading-glossary)
 
 ## Gergely et al. (2002)
 - **emulation**: goal-directed action that relies on a pre-existing set of behaviors the organism already has command of; a kind of semi-flexible problem solving. If infants emulated in the task, they would simply turn on the light with their hands.
@@ -205,6 +211,7 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - **principle of rational action**: the assumption that actions are planned so as to achieve goals in an efficient or effective manner.
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to top](#reading-glossary)
 
 ## Herrmann et al. (2007)
 - **cladistic**: relating groups of organisms by their evolutionary ancestry (think of 'trees' of evolution that you've seen.
@@ -221,3 +228,4 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - **theory of mind**: we could spend a whole class on this, but generally refers to the ability we have to consider others' psychological states (i.e., what they know and what they're thinking about). you can consider this a kind of 'mindreading'. children gradually become able to model others' mental states, eventually becoming able to recognize that others can hold beliefs about the world that contradict their own, certain, beliefs.
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
+[Back to top](#reading-glossary)
