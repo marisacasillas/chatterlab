@@ -159,8 +159,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 
 * **Pre-class reading:** 
     * Kuhl, P. K., Tsao, F. M., & Liu, H. M. (2003). Foreign-language experience in infancy: Effects of short-term exposure and social interaction on phonetic learning. _Proceedings of the National Academy of Sciences_, _100_(15), 9096-9101.  <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/scl/fi/vs0rqlwwyulsel3mqhusj/kuhl2003foreign.pdf?rlkey=3acsmawdzwway9ig3girjs2eb&st=yuq2bkza&dl=0))
-    * Fausey et al. (2016). From faces to hands: Changing visual input in the first two years. _Cognition, 152_, 101-107. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/e7a0r0zx0swynsw/fausey2016faces.pdf?dl=0))
-
+    * Smith, L. B., Jayaraman, S., Clerkin, E., & Yu, C. (2018). The developing infant creates a curriculum for statistical learning. _Trends in Cognitive Sciences_, _22_(4), 325-336. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/scl/fi/89fo91i9mzfn1a127aitx/smith2018developing.pdf?rlkey=i9jsj635tgk44bz8ddsio53d5&st=qn3smlnx&dl=0))
 
 * **Assignments due today:** Reading notes
 
@@ -169,14 +168,16 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 
 * **Review and proposal work session**
 
+
 ## Module 4: Environment
 
 ### Thursday, 12 February 2026 (6.2)
 <!--https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing-->
 
 * **Pre-class reading:**
-    * Tomasello & Carpenter (2007). Shared intentionality. _Developmental Science, 10_(1), 121-125. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/ofbkl31ik3ooyuc/tomasello2007sharedintentionality.pdf?dl=0))
+    * Liszkowski et al. (2012). A prelinguistic gestural universal of human communication. _Cognitive Science, 36_(4), 698-713. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/3a8wkzo6q4jd2pm/liszkowski2012prelinguistic.pdf?dl=0))
     * Yu & Smith (2013). Joint attention without gaze following: Human infants and their parents coordinate visual attention to objects through eye-hand coordination. _PloS one, 8_(11), e79659. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/rw4yz3ylllu6d52/yu2013coordinate.pdf?dl=0)) 
+    <!--mention also: https://onlinelibrary.wiley.com/doi/full/10.1111/desc.12735 and imco paper-->
 
 * **Assignments due today:** Reading notes
 
@@ -184,10 +185,9 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 ### Tuesday, 17 February 2026 (7.1)
 <!--https://docs.google.com/presentation/d/1aCRpVgD1e_anCKahXMc5e3xsqlZqNUQ8Vc2DOseyWhE/edit?usp=sharing-->
 
-
 * **Pre-class reading:** 
-    * Liszkowski et al. (2012). A prelinguistic gestural universal of human communication. _Cognitive Science, 36_(4), 698-713. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/3a8wkzo6q4jd2pm/liszkowski2012prelinguistic.pdf?dl=0))
-    * Carstensen et al. (2019). Context shapes early diversity in abstract thought. _Proceedings of the National Academy of Sciences, 116_(28), 13891-13896. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/rb7qpt0dkf4kot5/carstensen2019context.pdf?dl=0))
+    * Gaskins, S. (2006). Cultural perspectives on infant-caregiver interaction. In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 279-298). Oxford: Berg. <span style="color:purple">**(BC)**</span> ([pdf](https://www.dropbox.com/scl/fi/83by3nrgqbnv0yvx7phkh/gaskins06cultural.pdf?rlkey=4ry76gdjbunkefy813o3rqcka&st=ptnzass0&dl=0))
+    * Casillas, M., Brown, P., & Levinson, S. C. (2020). Early language experience in a Tseltal Mayan village. _Child Development_, _91_(5), 1819-1835. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/scl/fi/wdvdh89wnp174kcu5pslf/casillas2020early.pdf?rlkey=vprfld3qtgg5bsgwglomhzjfv&st=6k6xxguq&dl=0))
 
 * **Assignments due today:** Reading notes
 
