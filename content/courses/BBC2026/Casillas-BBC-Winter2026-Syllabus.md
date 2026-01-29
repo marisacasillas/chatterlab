@@ -196,7 +196,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 <!--https://docs.google.com/presentation/d/1A6HZ-ZZqOShXoQ5sXu22dJgtNlN0IpnnrG6feuGN_I0/edit?usp=sharing-->
 
 * **Pre-class reading:**
-    * **This counts as two readings (it's long & detailed) -- please adjust your notes so that they are equivalent to two readings of effort:** Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0))
+    * **This counts as two readings (it's long & detailed) -- please adjust your notes so that they are equivalent to two readings of effort (it's okay for your reading notes to be twice as long, 4 pages total):** Rowe & Weisleder (2020). Language development in context. _Annual Review of Developmental Psychology, 2_, 201-223. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/17m084575li5tvi/rowe2020context.pdf?dl=0))
 
 * **Assignments due today:** Reading notes
 
