@@ -22,23 +22,27 @@ My research into children's development of turn-taking skills shows that even ve
 
 I also work on a number of smaller projects relating to linguistic and cultural phenomena of special relevance to the two Indigenous communities I work with, a Tseltal Mayan community in Chiapas, Mexico and the rural Rossel Island community in Milne Bay Province, Papua New Guinea.
 
-### Courses at UChicago (last taught)
+### Courses at UChicago
 
-[Crosslinguistic Perspectives on Language Development]({{< ref "courses/XLP2023/Casillas-XLP-Fall2023-Syllabus.md" >}}) (Fall 2023)
+[Crosslinguistic Perspectives on Language Development]({{< ref "courses/XLP2023/Casillas-XLP-Fall2023-Syllabus.md" >}}) (last taught Fall 2023)
 
-[Trial Research II]({{< ref "courses/TR2-2023/Casillas-TR2-Fall2023-Syllabus.md" >}}) (Fall 2023)
+[Trial Research 1]({{< ref "courses/TR1-2026/Casillas-TR1-Winter2026-Syllabus.md" >}}) (last taught Winter 2026)
 
-[Human Language and Interaction]({{< ref "courses/HLI2023/Casillas-HLI-Spring2023-Syllabus.md" >}}) (Spring 2023)
+[Trial Research II]({{< ref "courses/TR2-2023/Casillas-TR2-Fall2023-Syllabus.md" >}}) (last taught Fall 2023)
 
-[Mind III]({{< ref "courses/MIND3-2024/Casillas-MIND3-Spring2024-Syllabus.md" >}}) (Spring 2024)
+[Human Language and Interaction]({{< ref "courses/HLI2023/Casillas-HLI-Spring2023-Syllabus.md" >}}) (last taught Spring 2023; coming Spring 2026)
 
-[Blooming Buzzing Confusion]({{< ref "courses/BBC2023/Casillas-BBC-Winter2023-Syllabus.md" >}}) (Winter 2023)
+[Mind III]({{< ref "courses/MIND3-2024/Casillas-MIND3-Spring2024-Syllabus.md" >}}) (last taught Spring 2024; coming Spring 2026)
 
-[Methods in Child Development Research]({{< ref "courses/MCDR2023/Casillas-MCDR-Winter2023-Syllabus.md" >}}) (Winter 2023)
+[Blooming Buzzing Confusion]({{< ref "courses/BBC2023/Casillas-BBC-Winter2023-Syllabus.md" >}}) (last taught Winter 2026)
 
-[The Development of Communicative Competence]({{< ref "courses/DCC2024/Casillas-DevCommComp-Spring2024-Syllabus.md" >}}) (Spring 2024)
+[Methods in Child Development Research]({{< ref "courses/MCDR2023/Casillas-MCDR-Winter2023-Syllabus.md" >}}) (last taught Winter 2023)
 
-[From Data to Manuscript in R]({{< ref "courses/D2M2022/Casillas-D2M-Winter2022-Syllabus.md" >}}) (Winter 2022)
+[The Development of Communicative Competence]({{< ref "courses/DCC2024/Casillas-DevCommComp-Spring2024-Syllabus.md" >}}) (last taught Spring 2024)
+
+#### Retired
+
+[From Data to Manuscript in R]({{< ref "courses/D2M2022/Casillas-D2M-Winter2022-Syllabus.md" >}}) (Winter 2022; now taught by [Natalie Dowling](https://nrdowling.com/))
 
 
 ### Professional organizations (co-)led
