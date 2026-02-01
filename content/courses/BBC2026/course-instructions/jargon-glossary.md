@@ -21,6 +21,9 @@ Happy reading!
 6. [Frank et al. (2020)](#frank-et-al-2020)
 7. [Gergely et al. (2002)](#gergely-et-al-2002)
 8. [Herrmann et al. (2007)](#herrmann-et-al-2007)
+9. [Kail (1991)](#kail-2020)
+10. [Vlach & Johnson (2013)](#vlach--johnson-2013)
+
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
 
@@ -218,5 +221,40 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - <span style="color:green">**spatial language**:</span> linguistic phenomena relating to locating objects, relations, and trajectories in space. most commonly refers to spatial deixis (English: here/there and this/that) or spatial relations (English: in/on, left/right, north/south). languages vary quite a bit in how they encode spatial relations!
 - <span style="color:green">**spatial orientation**:</span> how objects are arranged, as it relates to each other (left-right), the arranger (my left/my right), or some external reference (west-east).
 - <span style="color:green">**theory of mind**:</span> we could spend a whole class on this, but generally refers to the ability we have to consider others' psychological states (i.e., what they know and what they're thinking about). you can consider this a kind of 'mindreading'. children gradually become able to model others' mental states, eventually becoming able to recognize that others can hold beliefs about the world that contradict their own, certain, beliefs.
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
+
+## Kail (1991)
+- <span style="color:green">**cognitive activities**:</span> mental tasks to which cognitive resources must be allocated.
+- <span style="color:green">**cognitive resources**:</span> mental capacities for perceiving, processing, storing, and retrieving information. Kail refers to "processing resources"---in his case, processing speed, and "attentional resources" which focuses more on the person's capacity for allocating attention on tasks (e.g., selectively, for a sustained period, etc.).
+- <span style="color:green">**cross-sectional**:</span> a study technique that examines change in age (or time) by recruiting different groups of participants for each age-point (or timepoint) sampled.
+- <span style="color:green">**cycle time**:</span> Kail draws on analogy from computer science here; think of it sort of like the basic unit of information processign as slower (longer cycles) or faster (shorter cycles); as kids get older, they appear to have shorter cycle time, such that they can keep up with responses to more and more rapidly unfolding stimuli.
+- <span style="color:green">**declarative knowledge**:</span> knowledge that can be consciously experienced or examined (e.g., knowledge you can tell to yourself/others).
+- <span style="color:green">**developmental function**:</span> "function" here is used in the mathematical sense; Kail is interested in creating a mathematical model of developmental chance in processing speed. His models are expressed as equations that fit observed data with minimal error. To achieve that, his models have some parameters (variables) that he can input to get a more accurate fit to his data. Late in the paper he also mentions a "step function", which looks like [this](https://www.allmathwords.org/en/s/stepfunction.html). You can read a little more about continuous change (as opposed to step functions) in [this blogpost](https://babieslearninglanguage.blogspot.com/2019/02/nothing-in-childhood-makes-sense-except.html).
+- <span style="color:green">**dual-task**:</span> when a participant is asked to engage in two distinct, simultaneous cognitive tasks (e.g., remembering a number and listening for a word in a speech stream).
+- <span style="color:green">**empirical journals**:</span> Academic journals that publish empirical studies (like this one)! AKA the journals that publish all the "JA" articles on our syllabus.
+- <span style="color:green">**group mean**:</span> the average of a score across a group of participants.
+- <span style="color:green">**information processing**:</span> mechanisms for analyzing and storing information (e.g., as received through sensory channels, like speech perception) or as created by internal processes (e.g., conscious reasoning)
+- <span style="color:green">**instance theory**:</span> the idea that practice effects (i.e., increased speed with practice) happens because participants start up with slow, algorithmic approaches (stepping through a problem step by step) and eventually shift to semi-automatic approaches (from diret access of a preformulated appropriate response).
+- <span style="color:green">**longitudinal**:</span> a study technique that examines change in age (or time) by recruiting a groups of participant and observing them repeatedly over age (or time).
+- <span style="color:green">**negatively decelerate**:</span> slowing down more quickly at first, and then continuing to slow down, but more slowly later on.
+- <span style="color:green">**null hypothesis**:</span> a [statistical term](https://en.wikipedia.org/wiki/Null_hypothesis) that, here, specifically implicates the situation in which a researcher's theory predicts NO difference between two conditions. The problem is that, with traditional frequentist statistics (e.g., p-values), the lack of statistical evidence for difference (i.e., a null outcome) is NOT satisfactory evidence for similarity. So Kail is saying that he's putting himself in a tough situation by predicting the null hypothesis. Contemporary researchers in the psychological sciences now occasionally use [Bayesian statistics](https://en.wikipedia.org/wiki/Bayes_factor) to get evidence for similarity rather than evidence for difference.
+- <span style="color:green">**positive transfer**:</span> when practice or improvement in one task benefits performance in another task, typically via cognitive processes that are shared between tasks.
+- <span style="color:green">**R^2^ (R-squared)**:</span> a measure that tells you how well a statistical or computational model fits observed data; that's why it's often referred to as measuring "explained variance"—what's leftover is the observations that don't fit the model's predictions. Basically, higher R-squared is usually better. Read more and see examples [here](https://en.wikipedia.org/wiki/Coefficient_of_determination)!
+- <span style="color:green">**Raven's Progressive Matrices**:</span> an IQ test with a wide age range of potential test takers (summary [here](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices))
+- <span style="color:green">**recall (free vs. cued)**:</span> retrieving some information with no support, versus with some kind of memory cue as support.
+- <span style="color:green">**Wechsler Intelligence Scale for Children**:</span> IQ test for kids (summary [here](https://en.wikipedia.org/wiki/Wechsler_Intelligence_Scale_for_Children)).
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
+
+## Vlach & Johnson (2013)
+- <span style="color:green">**eye-tracker**:</span> device that records participants eye movements in real time while they observe stimuli.
+- <span style="color:green">**attention getter**:</span> trials that serve to get the participant's attention back to an optimal location before a target trial begins. In this experiment, the attention getters not only gave kids a 'break' from the main stimuli, but also helped to re-center gaze on the screen before the target-trial LEFT-RIGHT objects appeared.
+- <span style="color:green">**block (experimental)**:</span> a preformulated set of trials to which participants are exposed during an experiment (e.g., 4 blocks of 10 trials each).
+- <span style="color:green">**dwell time**:</span> the time a participant spent fixating on a region of interest (e.g., on a computer monitor).
+- <span style="color:green">**correct for multiple comparisons**:</span> when an analysis requires lots of statistical tests, the researcher can avoid spurious positive statistical outcomes by proportionally lowering their significance threshold. this is known as "correcting" for multiple comparisons, typically using the [Bonferroni](https://en.wikipedia.org/wiki/Bonferroni_correction) method.
+- <span style="color:green">**selective attention**:</span> the ability to foreground one's attention to some specific aspect of incoming information.
+- <span style="color:green">**spacing effect**:</span> the meta-analytically supported finding that—at least in adults—learning outcomes tend to improve when recall of information is spread out over time, rather than clustered together in time.
+
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
