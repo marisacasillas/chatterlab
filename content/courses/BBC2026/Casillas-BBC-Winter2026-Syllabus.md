@@ -162,15 +162,9 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 * **Assignments due today:** Reading notes
 
 
-### Tuesday, 10 February 2026 (6.1)
-
-* **Review and proposal work session**
-
-
 ## Module 4: Environment
 
-### Thursday, 12 February 2026 (6.2)
-<!--https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing-->
+### Tuesday, 10 February 2026 (6.1)
 
 * **Pre-class reading:**
     * Liszkowski et al. (2012). A prelinguistic gestural universal of human communication. _Cognitive Science, 36_(4), 698-713. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/3a8wkzo6q4jd2pm/liszkowski2012prelinguistic.pdf?dl=0))
@@ -180,14 +174,20 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 * **Assignments due today:** Reading notes
 
 
-### Tuesday, 17 February 2026 (7.1)
-<!--https://docs.google.com/presentation/d/1aCRpVgD1e_anCKahXMc5e3xsqlZqNUQ8Vc2DOseyWhE/edit?usp=sharing-->
+### Thursday, 12 February 2026 (6.2)
+<!--https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing-->
 
 * **Pre-class reading:** 
     * Gaskins, S. (2006). Cultural perspectives on infant-caregiver interaction. In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 279-298). Oxford: Berg. <span style="color:purple">**(BC)**</span> ([pdf](https://www.dropbox.com/scl/fi/83by3nrgqbnv0yvx7phkh/gaskins06cultural.pdf?rlkey=4ry76gdjbunkefy813o3rqcka&st=ptnzass0&dl=0))
     * Casillas, M., Brown, P., & Levinson, S. C. (2020). Early language experience in a Tseltal Mayan village. _Child Development_, _91_(5), 1819-1835. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/scl/fi/wdvdh89wnp174kcu5pslf/casillas2020early.pdf?rlkey=vprfld3qtgg5bsgwglomhzjfv&st=6k6xxguq&dl=0))
 
 * **Assignments due today:** Reading notes
+
+
+### Tuesday, 17 February 2026 (7.1)
+<!--https://docs.google.com/presentation/d/1aCRpVgD1e_anCKahXMc5e3xsqlZqNUQ8Vc2DOseyWhE/edit?usp=sharing-->
+
+* **Review and proposal work session**
 
 
 ### Thursday, 19 February 2026 (7.2)
