@@ -24,6 +24,8 @@ Happy reading!
 9. [Kail (1991)](#kail-2020)
 10. [Vlach & Johnson (2013)](#vlach--johnson-2013)
 
+<span style="color:red">**(Week 5 Thursday glossary entries are delayed, sorry! Check back on late Weds, Feb 4)**</span>
+
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
 
