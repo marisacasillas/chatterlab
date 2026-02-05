@@ -278,17 +278,15 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
 
 ## Smith et al. (2018)
-- <span style="color:green">**timepoint**:</span> 
-- <span style="color:green">**infant sensors**:</span> 
-- <span style="color:green">**egocentric**:</span> 
-- <span style="color:green">**sensitive period**:</span> 
-- <span style="color:green">**skewed distribution**:</span> 
-- <span style="color:green">**consistency**:</span> 
-- <span style="color:green">**bootstrapping**:</span> 
-- <span style="color:green">**desirable difficulty**:</span> 
-- <span style="color:green">**"starting small" hypothesis**:</span> 
-- <span style="color:green">**ordered datasets**:</span> 
-- <span style="color:green">**segregated datasets**:</span> 
-- 
+- <span style="color:green">**bootstrapping**:</span> from a learning standpoint, using something you know to learn something you don't know. here posed as a process by which children might take advantage of skewed distributions in their visual input. the example given is that children can more effectively segment objects (and thus potential referents!) from their environment by having a grasp on what is NOT being referred to (the familiar thing, for which they may already know the name).
+- <span style="color:green">**consistency**:</span> reliance on repeated exposure to some items (likely within similar, repeated contexts). here posed as a process by which children might take advantage of skewed distributions in their visual input. smith et al. point out here that consistent datasets change with infant age, calling them "small lessons".
+- <span style="color:green">**desirable difficulty**:</span> aspects of the input that make it harder for the learner to understand what is happening in the short term, but result in more robust learning in the long term. here posed as a process by which children might take advantage of skewed distributions in their visual input.
+- <span style="color:green">**egocentric**:</span> in this work, 'egocentric' refers to the location of recording sensors on the infant, which gives the researcher a 'child-centered' view onto the world.
+- <span style="color:green">**infant sensors**:</span> recording devices that the infant can wear, which give the researchers data on what the child is perceptually experiencing as they navigate their environment from a first-person perspective. this can include visual data (as in smith), audio data, movement data, heart rate, and more.
+- <span style="color:green">**ordered datasets**:</span> here smith refers to training data, specifically data that is fed to a learner in such an order that learning is (a) better suited to the child's maturational state, (b) makes the learning task easier or more robust, or (c) all of the above. the relevant example from smith's study is the faces before hands content of infants' visual experiences.
+- <span style="color:green">**sensitive period**:</span> kind of like a critical period, but typically implies a more gradual onset and offset of the sensitive window, possibly a much longer overall window of sensitivity, and a less fundamental effect on the related innate capacity (e.g., something that can still be supported in learning by supplementary means).
+- <span style="color:green">**skewed distribution**:</span> think of a bell curve—that's a "normal" distribution. a skewed distribution has most of its mass on only one side (e.g., the left or the right), leaving a long tail on the other side. see an example [here](https://en.wikipedia.org/wiki/Skewness#/media/File:Relationship_between_mean_and_median_under_different_skewness.png).
+- <span style="color:green">**"starting small" hypothesis**:</span> this has to do with the idea that infants' immature processing capacity is possibly helpful for learning, such that they begin learning by picking out only the most unmissable, frequent statistical patterns in their environment, forming a reliable and useful foundation for learning more nuanced statistical patterns (once their general processing abilities mature further). smith points out that this hypothesis is typically used to point to similar statistical learning capacity and similar inputs in adults and infants, with only differences in general processing; she is arguing instead that the input changes dramatically with development.
+- <span style="color:green">**timepoint**:</span> in a developmental study, the ages at which data are sampled. for a study of infants' mobility in the first year, we might propose monthly samples, which would create 12 timepoints (one for each month) in our analysis.
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
