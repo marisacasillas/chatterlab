@@ -23,8 +23,8 @@ Happy reading!
 8. [Herrmann et al. (2007)](#herrmann-et-al-2007)
 9. [Kail (1991)](#kail-2020)
 10. [Vlach & Johnson (2013)](#vlach--johnson-2013)
-
-<span style="color:red">**(Week 5 Thursday glossary entries are delayed, sorry! Check back on late Weds, Feb 4)**</span>
+11. [Kuhl et al. (2003)](#kuhl-et-al-2003)
+12. [Smith et al. (2018)](#smith-et-al-2018)
 
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
@@ -258,5 +258,37 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - <span style="color:green">**selective attention**:</span> the ability to foreground one's attention to some specific aspect of incoming information.
 - <span style="color:green">**spacing effect**:</span> the meta-analytically supported finding that—at least in adults—learning outcomes tend to improve when recall of information is spread out over time, rather than clustered together in time.
 
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
+
+## Kuhl et al. (2003)
+- <span style="color:green">**alveolo-palatal fricative/affricate**:</span> you do NOT need to know this for any test. this is a phonetic description of two kinds of consonants that are native and commonly used in Mandarin. alveolo-palatal describes where the tongue touches the roof of the mouth (a bit higher up the palate, after the 'bump' behind the teeth). **fricative** means the tongue is open JUST enough to create a kind of fuzzy staticky sound. in contast to fricative, affricate means that the tongue starts out all the way closed and then, subsequently, is opened up to fricative position. an example of a palatal fricative-affricate minimal pair in English is sh-ch.
+- <span style="color:green">**frication**:</span> you do NOT need to know this for any test. this just describes the key characteristic of a fricative (which is defined under **alveolo-palatal fricative/affricate**)
+- <span style="color:green">**fundamental frequency**:</span> you do NOT need to know this for any test. the lowest component of a complex wave... but unless you're really into phonetics or physics, this is always going to refer to something simpler: pitch (i.e., note). so you know what high and low pitch sound like if you're talking? that's also high and low fundamental frequency. sometimes noted as "F0".
+- <span style="color:green">**head turn (HT) conditioning procedure**:</span> when we learned about speech perception before (e.g., with Maye) we heard about preferential looking. head turn is very different, but is used to achieve the same thing: finding out what infants can and can't discriminate between. the HT procedure requires a pretty long and involved training period (~15 min) where you gradually train infants to look to one side if they detect a change in an auditory signal. you do that by having something really attractive (e.g., a moving toy) that only appears on the infant's side just after a change in the signal happens. after a little while, the infant learns the association and begins to look anticipatorily at the toy BEFORE it actually appears. once you've solidly trained them to turn their head anticipatorily after hearing change, you can play the target stimuli to see if they turn their heads when they hear the sound you're interested in. HT has a larger infant drop-out rate than other methods, because it's arduous! however, meta-analyses show that the discrimination data you get from this method can be clearer to interpret.
+- <span style="color:green">**neural commitment**:</span> (permanent) entrenchment of neural pathways that are optimized for responding to stimuli. So in Kuhl's case, this would be neural pathways for recognizing different phonetic categories in spoken language; she's arguing that some neural pathways become permanently expert at processing the listener's native sound system, and as a trade off, the listener loses some flexibility in their ability to perceive differences among non-native sounds.
+- <span style="color:green">**neural readiness**:</span> Kuhl is arguing that, around the time of perceptual narrowing (8–10mo), infants' minds are maturationally in a state that is highly sensitive to environmental information, so as to effectively make neural commitments to the relevant sounds in their linguistic environment. While infants at this age may appear to be "committing" behaviorally, she argues that her work shows that they are still highly responsive to social language use, which rapidly opens their perceptual ability to non-native sound contrasts.
+- <span style="color:green">**sensitivity**:</span> in Kuhl's case, this refers to the listener's ability to detect differences between sounds. Thus "sensitivity" here means "discrimination" as we saw it in the Saffran and Maye work earlier.
+- <span style="color:green">**sound-treated room**:</span> a room for running experiments and/or for recording audio stimuli. the rooms are designed for situations in which background noise might hinder the quality of science being conducted. the rooms are "sound treated" by various means, but often some amount of sound-diffusing insulation material and air-tight chambers separating the room from other parts of the building. in this case, Kuhl exposes the English-speaking infants to Mandarin in a sound-treated room, therefore minimizing interferring background noises that might distract or overlap with the Mandarin speakers' voices.
+- <span style="color:green">**spectrogram**:</span> you do NOT need to know this for any test. this is a way of analyzing the energy profile of an acoustic signal (here, speech). you can see an example in Fig 1. the darker the point on the figure, the more acoustic energy the speech has at that point in time. some sounds—like fricatives—have a kind of 'raincloud' looking energy, with lots of black-to-gray energy spread across a wide band of the y-axis (i.e., the upper left-hand raincloud forms of panels C and D in figure 1). other sounds, like vowels, show distinct horizontal bands of energy (these horizontal energy bands on vowels are called "**formants**"), with bands of low energy between formants. we can primarily hear the difference between vowels thanks to changes in the position of these formants from one vowel type to another (e.g., see formants for the vowels in "see" [i], "Sue" [u], and "saw" [a] [here](https://en.wikipedia.org/wiki/Formant#/media/File:Spectrogram_-iua-.png)).
+- <span style="color:green">**steady-state vowel formant frequencies**:</span> you do NOT need to know this for any test. FORMANT is defined under **spectrogram**. so the additional information here is "steady state", which is just referring to the portion of the vowel where the horizontal lines are staying pretty constant in their frequency (i.e., while they're flat). this is often in the middle of the vowel.
+- <span style="color:green">**visual attention**:</span> in this study, "visual attention" refers to a coder's perception of how often the infant participant is looking at the speaker in the exposure sessions.
+
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
+
+## Smith et al. (2018)
+- <span style="color:green">**timepoint**:</span> 
+- <span style="color:green">**infant sensors**:</span> 
+- <span style="color:green">**egocentric**:</span> 
+- <span style="color:green">**sensitive period**:</span> 
+- <span style="color:green">**skewed distribution**:</span> 
+- <span style="color:green">**consistency**:</span> 
+- <span style="color:green">**bootstrapping**:</span> 
+- <span style="color:green">**desirable difficulty**:</span> 
+- <span style="color:green">**"starting small" hypothesis**:</span> 
+- <span style="color:green">**ordered datasets**:</span> 
+- <span style="color:green">**segregated datasets**:</span> 
+- 
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
