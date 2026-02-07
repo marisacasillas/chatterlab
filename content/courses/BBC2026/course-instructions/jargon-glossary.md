@@ -25,6 +25,8 @@ Happy reading!
 10. [Vlach & Johnson (2013)](#vlach--johnson-2013)
 11. [Kuhl et al. (2003)](#kuhl-et-al-2003)
 12. [Smith et al. (2018)](#smith-et-al-2018)
+13. [Liszkowski et al. (2012)](#liszkowski-et-al-2012)
+14. [Yu & Smith (2013)](#yu--smith-2013)
 
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
@@ -290,3 +292,29 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 - <span style="color:green">**timepoint**:</span> in a developmental study, the ages at which data are sampled. for a study of infants' mobility in the first year, we might propose monthly samples, which would create 12 timepoints (one for each month) in our analysis.
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
+
+## Liszkowski et al. (2012)
+- <span style="color:green">**conventionalized**:</span> in language, the process by which some behavior gains a shared, recognized, and used meaning among a community of language users. words are one type of of linguistic convention: English speakers agree that "dog" refers to dogs (e.g., and not all mammals)
+- <span style="color:green">**cooperative (pragmatics)**:</span> there's at least one citation of "cooperative" here that refers indireclty to the [Cooperative Principle](https://plato.stanford.edu/entries/implicature/), which (broadly) is the idea that communication is only possible if the interactants can assume that the other is producing their communicative signals in a way that is intended to be understood by the addressee in the context in which it is produced. Successful communication is proposed to rely on interactants' trust that they are all following the cooperative principle; even during conflict (like in a verbal disput), interactants depend on cooperation and coordination to engage in organized interaction.
+- <span style="color:green">**deictic/deixis**:</span> communicative forms (often words or gestures) whose referential meaning depends on context. so "here" is an example of a deictic word—it can refer to literally anywhere, and thus can only be interpreted meaningfully in context.
+- <span style="color:green">**dyadic**:</span> involving two people.
+- <span style="color:green">**elicitation**:</span> any task whose primary purpose is to get participants to produce linguistic or communicative behavior. in this case, Liszkowski and colleagues are trying to elicit spontaneous communicative behavior.
+- <span style="color:green">**industrialized societies**:</span> societies that rely on mass production and technology; often used for **post-industrial society** which more emphasizes economic production on the basis of services and information creation.
+- <span style="color:green">**language socialization**:</span> this is a field of study AND a theoretical approach. it examines how children learn to become social agents in their community in part by learning language, and ALSO how children learn language in part by learning to become social agents.
+- <span style="color:green">**modality**:</span> in language, the production system being used to create communicative signals. for example, contrast the "gestural" modality" with the "spoken" modality. sometimes in the readings, signals are referred to as "multimodal", which simplt means that more than one modality is being used to create the communicative signal.
+- <span style="color:green">**morphology (gesture)**:</span> here, the FORM of the gesture.
+- <span style="color:green">**perspective taking**:</span> in language, refers to the individual's ability to attend to (and appropriately utilize) another person's mental state in their language understanding, language production, or mental reasoning. expression choice often involves perspective taking; depending on whether they know her or not I might use "Edna" or "my daughter" to refer to my child in conversation.
+- <span style="color:green">**spatial cognition**:</span> a set of mental and linguistic capacities and processes related to tracking and relating objects in space.
+- <span style="color:green">**subsistence farming**:</span> refers to agriculturalists who farm the food and many of the other materials they consume.
+- <span style="color:green">**vocalization**:</span> a sound produced with the vocal folds; typically, but not necessarily to communicate something. a vocalization may be linguistic or not, e.g., "bababa" and a high-pitched squeal are both examples of a vocalization an infant might make; "hello baby" is also a vocalization (by a more linguistically mature speaker).
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
+
+## Yu & Smith (2013)
+- <span style="color:green">**cross-recurrence analysis**:</span> a method for measuring pattern recurrences across time-organized data. it can be used to study the temporal coordination of behavior between two individuals. here, cross-recurrence analyses allow the researchers to reason about how reliably the child and parent's coordinated visual fixations occur across time.
+- <span style="color:green">**gaze following**:</span> as covered in lecture, the behavior in which a person (e.g., a child) observes the gaze of another (e.g., a parent) and then follows the target of that person's gaze when it shifts laterally (e.g., the child looking off to the side where the parent is looking).
+- <span style="color:green">**regions of interest (ROI)**:</span> the portion of a visual scene in which the researcher is interested to know whether the participant fixates or not (and for how long). in the Yu & Smith study, the ROIs are the three toys on the table betwen the child and the parent, as well as the face of each interactant.
+- <span style="color:green">**(triadic) joint attention**:</span> as covered in lecture, the attentional state in which two individuals are attending to the same, third, object of attention, AND are aware that the other is aware that they are attending to the same object of attention.
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
+
