@@ -164,7 +164,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 
 ## Module 4: Environment
 
-### Tuesday, 10 February 2026 (6.1)
+### [Tuesday, 10 February 2026 (6.1)](https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing)
 
 * **Pre-class reading:**
     * Liszkowski et al. (2012). A prelinguistic gestural universal of human communication. _Cognitive Science, 36_(4), 698-713. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/3a8wkzo6q4jd2pm/liszkowski2012prelinguistic.pdf?dl=0))
