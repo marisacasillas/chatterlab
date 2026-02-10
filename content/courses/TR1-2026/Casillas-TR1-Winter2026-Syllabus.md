@@ -106,7 +106,7 @@ All course materials will be available via this chatterlab course webpage. All a
 
 * **Pre-class reading:** WRB Chapter 4 (pp. 117–151)
 
-* **Assignments due today:** Complete the exercises: Change One Variable (p.125), Before and After (p.133), Map Out Your Collective (Secondary Source Search) (p.138), Find and Replace All “Insider Language” (p.146). Circulate the “lay version” of your research proposal (the result of the Find and Replace exercise) with the class by 8pm on _Wednesday, February 11th_.
+* **Assignments due today:** Complete the exercises: Change One Variable (p.125), Before and After (p.133), Map Out Your Collective (Secondary Source Search) (p.138), Find and Replace All “Insider Language” (p.146). Circulate the “lay version” of your research proposal (the result of the Find and Replace exercise) with the class by 8pm on _Sunday, February 15th_.
 
 
 ### Tuesday, 17 February 2026 (7.1)
