@@ -27,6 +27,8 @@ Happy reading!
 12. [Smith et al. (2018)](#smith-et-al-2018)
 13. [Liszkowski et al. (2012)](#liszkowski-et-al-2012)
 14. [Yu & Smith (2013)](#yu--smith-2013)
+15. [Gaskins (2006)](#gaskins-2006)
+16. [Casillas et al. (2020)](#casillas-et-al-2020)
 
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus)
@@ -318,3 +320,24 @@ Okay there are a lot of specialized concepts in this paper, so I've organized th
 
 [Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
 
+## Gaskins (2006)
+- <span style="color:green">**interactional taboo**:</span> taboos are typically behaviors to be strenuously avoided (often associated with some supernatural consequence). when she uses this term in the paper, Gaskins is referring back to the case of eye contact avoidance by Gusii moms to their infants.
+
+_(All the other terms I found are common or already defined above!)_
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
+
+## Casillas et al. (2020)
+- <span style="color:green">**canonical babbling**:</span> production of syllables that have a "CV" format—a consonant (C) followed by a vowel (V). canonical babble is considered "speech-like" babble, and its consistent use indicates that the infant has the basic motor skills needed to begin producing first words.
+- <span style="color:green">**daylong recording**:</span> this is a non-literal term, because the vast majority of daylong recordings are <24 hours. but typically it refers to a type of recording that aims to continuously capture _most_ of a waking day. the most common tool for making daylong recordings is a system called **LENA**, which is described in an earlier glossary entry.
+- <span style="color:green">**ethnolinguistic**:</span> characterized by not just a shared language but also a shared membership in an ethnic group.
+- <span style="color:green">**input-consolidation cycle**:</span> a learning mechanism proposed in Casillas et al. suggesting that infants learn efficiently from sporadic bouts of language input by then falling asleep, facilitating consolidation of the short information bout. 
+- <span style="color:green">**language delay**:</span> a developmental pattern in which an child's language skills appear significantly less mature than their same-aged peers. "language delay" is a description of this apparent difference in language skill, and does not identify a cause for the difference.
+- <span style="color:green">**lexical diversity**:</span> a measure of the variety of words used in a span of speech. a three word sentence might have low lexical diversity ("dog dog dog"; 1 word type/3 words total) or high lexical diversity ("dog cat cow"; 3 word types/3 words total).
+- <span style="color:green">**non-child-centered**:</span> a term referring to the cultural tendency to not center children in mixed-age social interaction. in such communities, children are encouraged to attend to the interactions going on around them, including adult interactions, rather than expecting to be the center of social attention.
+- <span style="color:green">**patrilineal**:</span> pertaining to the father's ancestral line; see also **patrilocal** above.
+- <span style="color:green">**polysynthetic (language)**:</span> a language that tends to have more than one morpheme per word (e.g., by using inflections). Tseltal is mentioned as mildly polysynthetic, due to having lots of obligatory inflection types. Chintang and Inuktitut are a famous cases of high polysynthesis in the language development literature, in which a single word (with its inflections) can express what would take a sentence in English.
+- <span style="color:green">**TCDS/CDS/ODS**:</span> these acronyms stand for different potential sources of language input: Target Child Directed Speech (speech that is exclusively directed to the child being studied); Child Directed Speech (speech that is directed to any child); ODS (speech that is directed to anyone other than the child being studied).
+- <span style="color:green">**vocal maturity**:</span> a rating that indicates how linguistically mature a given infant vocalization is. the same infant can (and will) produce a variety of babble types of varying vocal maturity. from least to most mature, the types are: noncanonical babble, canonical babble, single-word vocalizations, and multi-word vocalizations.
+
+[Back to main page](/courses/bbc2026/casillas-bbc-winter2026-syllabus) / [Back to top](#reading-glossary)
