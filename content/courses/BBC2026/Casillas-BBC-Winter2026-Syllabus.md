@@ -174,8 +174,7 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 * **Assignments due today:** Reading notes
 
 
-### Thursday, 12 February 2026 (6.2)
-<!--https://docs.google.com/presentation/d/13KPfrM_LHs8wqTf4OMG-FvOD8IOULEVuNc4y4UmGg68/edit?usp=sharing-->
+### [Thursday, 12 February 2026 (6.2)](https://docs.google.com/presentation/d/1ZdyI-3AdLUxmsIOoWUX99i5BmWRY7AuAH1K5q9hpgaU/edit?usp=sharing)
 
 * **Pre-class reading:** 
     * Gaskins, S. (2006). Cultural perspectives on infant-caregiver interaction. In N. J. Enfield, & S. C. Levinson (Eds.), _Roots of Human Sociality: Culture, Cognition and Interaction_ (pp. 279-298). Oxford: Berg. <span style="color:purple">**(BC)**</span> ([pdf](https://www.dropbox.com/scl/fi/83by3nrgqbnv0yvx7phkh/gaskins06cultural.pdf?rlkey=4ry76gdjbunkefy813o3rqcka&st=ptnzass0&dl=0))
