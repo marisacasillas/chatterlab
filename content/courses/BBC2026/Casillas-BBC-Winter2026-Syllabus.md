@@ -203,6 +203,15 @@ Each student is expected to submit a ~1500 word final paper, in the form of a re
 * <span style="color:red">Midterm 2 written component — in class (today)</span>
 * <span style="color:red">Midterm 2 oral component — by appointment</span>
 
+* <span style="color:purple">You may print and bring the following notes to the exam. They should be your OWN notes (and not a peer's):</span>
+    * <span style="color: purple">**Reading notes:** These are the notes you've submitted with each class session. You are allowed up to 2 pages PER reading assignment (_"2 pages" means: 1 double-sided page or 2 single-sided pages_).</span>
+        * <span style="color: purple">Print and bring your **submitted or revised** notes (revisions of submitted reading notes), and any **missed** notes (reading notes you never submitted but have completed anyway).</span>
+        * <span style="color: purple">We will check that your notes total to a maximum of 2 pages PER reading.</span>
+    * <span style="color: purple">**Supplementary notes:** These are any additional notes you may want (e.g., from lectures). You may submit a maximum of 8 pages of supplementary reading notes for Midterm 1 (_"8 pages" means: 4 double-sided pages or 8 single-sided pages_).</span>
+
+<span style="color: purple">You will submit your printed notes with your exam. We will keep your notes until grading is completed, and then we will return them to you. You will have access to your notes during both the oral and written exam components.</span>
+
+<span style="color: purple">You only need to bring notes from the Maturation and Environment modules—you will not be tested on the Pattern Recognition and Cognitive Biases modules. That said, you may choose to bring ALL your reading notes if you would like to do so. If you do not have access to a printer, please let us know ASAP.</span>
 
 ## Module 5: Beyond the lab
 
