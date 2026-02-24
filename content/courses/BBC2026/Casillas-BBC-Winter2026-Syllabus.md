@@ -16,7 +16,7 @@ It is expected that, by the end of the course, students will grasp the basic mec
 
 **Office hours:**
 
-* **Jin:** Thursdays 9:45am–10:45am in Green 507 (book [here](https://calendar.app.google/PC4vi15HGt7Wwbrc9)).
+* **Jin:** Thursdays 9:45am–10:45am in Green 008 (book [here](https://calendar.app.google/PC4vi15HGt7Wwbrc9)).
 * **Mei:** Wednesdays 1:30–3:00 pm in Rosenwald 325 (book appointments via email).
 * **Casillas:** Fridays 11:00am–12:00pm in Rosenwald 318A (book [here](https://calendar.app.google/SnnbvEJxeJPv52Vc9)).
 
