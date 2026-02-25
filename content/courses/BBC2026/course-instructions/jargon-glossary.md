@@ -1,6 +1,6 @@
 # Reading glossary
 
-- <span style="color:red">**I don't plan to pre-post glossary items for the week 8 and 9 readings, which are not tested on either midterm. If I find time, I'll post them when I'm able, before the end of the quarter (but don't depend on it). Thanks for your understanding!**:</span>
+<span style="color:red">**I don't plan to pre-post glossary items for the week 8 and 9 readings, which are not tested on either midterm. If I find time, I'll post them when I'm able, before the end of the quarter (but don't depend on it). Thanks for your understanding!**:</span>
 
 A few notes of context:
 
