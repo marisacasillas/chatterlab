@@ -58,7 +58,7 @@ Students will be able to use their submitted reading notes and submitted lecture
 
 ### Final paper (30%)
 
-Each student is expected to submit a ~1500 word final paper, in the form of a research proposal. Suggested workflow and evaluation guidelines [here](https://chatterlab.uchicago.edu/courses/bbc2026/course-instructions/proposal/).
+Each student is expected to submit a ~1500 (max 2500) word final paper, in the form of a research proposal. Suggested workflow and evaluation guidelines [here](https://chatterlab.uchicago.edu/courses/bbc2026/course-instructions/proposal/).
 
 ----
 
