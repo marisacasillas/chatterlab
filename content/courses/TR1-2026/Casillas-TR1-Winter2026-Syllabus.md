@@ -150,7 +150,7 @@ All course materials will be available via this chatterlab course webpage. All a
 
 * **Assignments due today (2 students):** Please read your classmates’ proposals and come prepared to discuss them with some concrete and/or detailed feedback.
 
-### Tuesday, 10 March 2026 (FINAL)
+### Friday, 13 March 2026 (FINAL)
 
 This is the due date for a final draft of your 4-6 page research proposal. Please make sure that this version includes a brief abstract and 3 keywords. (The page length does not include a bibliography or abstract).
 
