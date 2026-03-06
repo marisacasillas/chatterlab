@@ -1,4 +1,4 @@
-## Jordyn Martin (she/her/hers)
+## Jordyn Martin (they/them/theirs)
 
 ### About me
 

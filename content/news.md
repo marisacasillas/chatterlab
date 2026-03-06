@@ -1,5 +1,16 @@
 # chatter news
 
+### March 2026
+* [Jordyn Martin](../bios/jordyn-aboutme/) gave a talk at UChicago's Sociolinguistics Lab (Bidialectal Language Socialization, Ideology, and Topic-driven style-shifting in Racialized Caregivers’ Speech).
+* [Yuchen Jin](../bios/yuchen-aboutme/) successfully defended her dissertation proposal. Congratulations!
+* [Marisa Casillas](../bios/marisa-aboutme/) will be giving an invited talk at [CIFAR AI Infant Learning Workshop](https://events.cifar.ca/website/92386/home/).
+
+### February 2026
+* [Camille Osumah](https://camille-osumah.notion.site) published her first publication ([Awake infant fMRI: Insights from more than 750 scanning sessions](https://doi.org/10.1101/2025.02.20.636736)). Congratulations!
+
+### January 2026
+* The Chatter Lab hosted the week-long [2026 UChicago Kinship Workshop and Summit](../kinshipsummit2026/) and undergraduate guest from Columbia University, Joseph Leisz.
+
 ### December 2025
 * We welcomed [Andrea Liu](../bios/andrea-aboutme/) and [Franziska Kungys](../bios/franziska-aboutme/) as new research assistants.
 * [Adaora Mbanefo](https://www.linkedin.com/in/adaora-mbanefo/?originalSubdomain=za) from the University of Illinois Urbana-Champaign received the [ICIS Founding Generation Summer Fellowship for Undergraduates](https://infantstudies.org/founding-generation-fellowship/) and will join the Chatter Lab as a Summer 2026 intern.
@@ -43,8 +54,7 @@
 
 ### November 2024
 * There were several Chatter Lab presentations at the Boston University Conference on Language Development ([BUCLD](https://www.bu.edu/bucld/)):
-	* [Mia Zhang](../bios/mia-aboutme/) gave a talk (Word order, morphological
-	typology, and method predict the size of the noun bias: A meta analysis)
+	* [Mia Zhang](../bios/mia-aboutme/) gave a talk (Word order, morphological typology, and method predict the size of the noun bias: A meta analysis)
 	* [Yuchen Jin](../bios/yuchen-aboutme/) presented a poster (Developmental change in acquiring overhearable words within naturalistic contexts)
 	* [Kennedy Casey](https://kennedycasey.github.io/) gave a talk (Tseltal children show a verb bias in early vocabulary development)
 
@@ -55,7 +65,7 @@
 * [Marisa Casillas's](../bios/marisa-aboutme/) paper with John Bunce, [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), [Elika Bergelson](https://bergelsonlab.com/bergelson-personal-page.html), Celia Rosemberg, Alejandra Stein, Florencia Alam, and Maia Julieta Migdalek was published in the _Journal of Child Language_. Read it [here](https://doi.org/10.1017/S030500092400028X).
 * [Mia Zhang](../bios/mia-aboutme/) gave a talk (Linguistic and Methodological Factors Shaping the Noun Bias in Early Language Production) at the [Crosslinguistic Perspectives on Processing and learning](https://www.comparativelinguistics.uzh.ch/en/events/x-ppl2024.html) Conference.
 * We welcomed [MAPSS](https://mapss.uchicago.edu/) student Kristen Johnson.
-* Former undergraduate research assistant and postbac staff [Jordyn Martin](../bios/jordyn-aboutme/) is starting her PhD program at UChicago Linguistics. Congratulations, Jordyn!
+* Former undergraduate research assistant and postbac staff [Jordyn Martin](../bios/jordyn-aboutme/) is starting their PhD program at UChicago Linguistics. Congratulations, Jordyn!
 * Blossom Onwubuariri had her abstract accepted for a poster presentation (Exploring the Relationship Between Heritage Language fluency and Ethnic Identity in the US Healthcare System: An Ethnographic Study) at the Annual Biomedical Research Conference for Minoritized Scientists [(ABRCMS 2024)](https://www.abrcms.org/).
 
 ### August 2024
@@ -89,7 +99,7 @@
 
 ### January 2024
 * The following Chatter Lab presentations took place at the [American Dialect Society](https://americandialect.org/) 2024 Conference:
-	* [Jordyn Martin](../bios/jordyn-aboutme/) presented her work with [Claire Bergey](https://clairebergey.net/), [Sharese King](https://www.drshareseking.com/), and [Marisa Casillas](../bios/marisa-aboutme/) (Copula absence variation in child and adult corpus speech)
+	* [Jordyn Martin](../bios/jordyn-aboutme/) presented their work with [Claire Bergey](https://clairebergey.net/), [Sharese King](https://www.drshareseking.com/), and [Marisa Casillas](../bios/marisa-aboutme/) (Copula absence variation in child and adult corpus speech)
 	* [Sharese King](https://www.drshareseking.com/) presented her work with [Marisa Casillas](../bios/marisa-aboutme/) on Kimberly Shorter's thesis work (The interplay of dialect and legal profession in the courtroom)
 * [Marisa Casillas](../bios/marisa-aboutme/) gave a colloquium at Princeton University (Becoming a conversationalist: A cross-cultural perspective on the link between everyday talk and language development)
 * We welcomed [Dalia Querenet Onfroy de Breville](../bios/dalia-aboutme/) as a new research assistant.

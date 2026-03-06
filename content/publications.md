@@ -9,10 +9,7 @@ Looking for [tools](../tools/)?
 
 ## select preprints
 
-Bunce, J. P., Soderstrom, M., Bergelson, E., Rosemberg, C. R., Stein, A., Alam, Migdalek, M. J., & **Casillas, M.** (resubmitted, February 2024). A cross-cultural examination of young children’s everyday language experiences. [[ms](https://psyarxiv.com/723pr/)]
-
 **Casillas, M.**, & Casey, K. (under review, December 2024). Daylong egocentric recordings in small- and large-scale language communities: A practical introduction. [[ms](https://doi.org/10.31234/osf.io/b3jxs)]
-
 
 ## in press/accepted
 
@@ -20,15 +17,25 @@ Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interac
 
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
-Kempe, V., & Casillas, M. (accepted). Studying child-directed speech. In L. Raviv & C. Boeckx (Eds.), The Oxford Handbook of Approaches to Language Evolution. [[ms](https://osf.io/preprints/psyarxiv/jv54a)]
+Kempe, V., & **Casillas, M.** (accepted). Studying child-directed speech. In L. Raviv & C. Boeckx (Eds.), The Oxford Handbook of Approaches to Language Evolution. [[ms](https://osf.io/preprints/psyarxiv/jv54a)]
+
+Lammertink, I., Rowland, C., & **Casillas, M.** (accepted). Who’s next? Turn anticipation in Dutch preschoolers with and without Developmental Language Disorder. Journal of Speech, Language, and Hearing Research.
+
+## 2026
+
+Bohn, M., & **Casillas, M.** (2026). Language learning as ontogenetic adaptation. _Trends in Cognitive Sciences_. [[ms](https://doi.org/10.1016/j.tics.2025.12.005 )]
+
+Tey, K. J., Walker, S., Seidl, A., Scaff, C., Peurey, L., Kelleher, B. L., Havard, W., Hamrick, L., Grosjean, P., Cychosz, M., Colleran, H., **Casillas, M.**, Bergelson, E., Hitczenko, K. & Cristia, A. (2026). The Development of Canonical Proportion as a Function of Community, Multilingualism, and Target Language’s Syllable Complexity. _Journal of Child Language_, 1–21. [[ms](https://doi.org/10.1017/S0305000926100476)]
 
 ## 2025
 
-**Casillas, M.**, Foushee, R., Gómez Pérez, H., Méndez Girón, J., Polian, G., Casey, K., & Brown, P. (2025). A vocabulary checklist for early lexical development in Tseltal. _Language Development Research_, _5(3)_, 245–275. [[ms](http://doi.org/10.34842/ldr2025-862)]
+**Casillas, M.**, Foushee, R., Gómez Pérez, H., Méndez Girón, J., Polian, G., Casey, K., & Brown, P. (2025). A vocabulary checklist for early lexical development in Tseltal. _Language Development Research_, _5_(3), 245–275. [[ms](http://doi.org/10.34842/ldr2025-862)]
 
 Bergey, C. A., **Casillas, M.**, Messinger, D., & Sparks, R. Z. (2025). Naturalistic observation of language development outside the home. _Proceedings of the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025)_ (pp.38-39). [[ms](https://escholarship.org/uc/item/0xd3r8t8)]
 
 Lammertink, I., de Vries, M., Rowland, C., & **Casillas, M.** (2025). From age two, children use pronouns to predict who will speak next in conversation. _Journal of Experimental Child Psychology_, _261_, 106358. [[ms](https://doi.org/10.1016/j.jecp.2025.106358)]
+
+Bunce, J., Soderstrom, M., Bergelson, E., Rosemberg, C., Stein, A., Alam, F., Migdalek, M. J., & **Casillas, M.** (2025). A cross-linguistic examination of young children’s everyday language experiences. _Journal of Child Language_, _52_(4), 786–814. [[ms](https://doi.org/10.1017/S030500092400028X)]
 
 ## 2024
 
