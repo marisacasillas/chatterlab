@@ -213,7 +213,7 @@ Each student is expected to submit a ~1500 (max 2500) word final paper, in the f
 
 ## Module 5: Beyond the lab
 
-### Thursday, 26 February 2026 (8.2)
+### Thursday, 26 February 2026 (8.2) – Discussion; no slides!
 
 * **Pre-class reading:** 
     * Hart and Risley (2003). The early catastrophe: The 30 million word gap by age 3. _American Educator, 27_(1), 4-9. <span style="color:purple">**(RV)**</span> ([pdf](https://www.dropbox.com/s/5muq6od54uejfyp/hart2003catastrophe.pdf?dl=0))
@@ -222,7 +222,7 @@ Each student is expected to submit a ~1500 (max 2500) word final paper, in the f
 * **Assignments due today:** Reading notes
 
 
-### Tuesday, 3 March 2026 (9.1)
+### Tuesday, 3 March 2026 (9.1) – Discussion; no slides!
 
 * **Pre-class reading:**
     * Sperry et al. (2018). Reexamining the verbal environments of children from different socioeconomic backgrounds. _Child Development, 90_(4), 1303-1318. <span style="color:green">**(JA)**</span> ([pdf](https://www.dropbox.com/s/pky2b07bh2jm0fx/sperry2019reexamining.pdf?dl=0))
