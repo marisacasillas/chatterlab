@@ -9,15 +9,9 @@ Looking for [tools](../tools/)?
 
 ## select preprints
 
-**Casillas, M.**, & Casey, K. (under review, December 2024). Daylong egocentric recordings in small- and large-scale language communities: A practical introduction. [[ms](https://doi.org/10.31234/osf.io/b3jxs)]
-
 ## in press/accepted
 
-Brown, P., & **Casillas, M.** (forthcoming). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian. New York, NY: Berghahn. [[ms](/lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
-
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
-
-Kempe, V., & **Casillas, M.** (accepted). Studying child-directed speech. In L. Raviv & C. Boeckx (Eds.), The Oxford Handbook of Approaches to Language Evolution. [[ms](https://osf.io/preprints/psyarxiv/jv54a)]
 
 Lammertink, I., Rowland, C., & **Casillas, M.** (accepted). Who’s next? Turn anticipation in Dutch preschoolers with and without Developmental Language Disorder. Journal of Speech, Language, and Hearing Research. [[ms](/lab-publications/Lammertink_et_al_2025_Whos_Next_JSLHR.pdf)]
 
@@ -37,12 +31,21 @@ Lammertink, I., de Vries, M., Rowland, C., & **Casillas, M.** (2025). From age t
 
 Bunce, J., Soderstrom, M., Bergelson, E., Rosemberg, C., Stein, A., Alam, F., Migdalek, M. J., & **Casillas, M.** (2025). A cross-linguistic examination of young children’s everyday language experiences. _Journal of Child Language_, _52_(4), 786–814. [[ms](https://doi.org/10.1017/S030500092400028X)]
 
+Kempe, V., & **Casillas, M.** (2025). Studying child-directed speech. In L. Raviv & C. Boeckx (Eds.), _The Oxford Handbook of Approaches to Language Evolution_. [[ms](https://doi.org/10.1093/oxfordhb/9780192886491.013.6)]
+
+Brown, P., & **Casillas, M.** (2025). Childrearing through social interaction on Rossel Island, PNG. In A. J. Fentiman, & M. Goody (Eds.), _Esther Goody revisited: Exploring the legacy of an original inter-disciplinarian_. New York, NY: Berghahn. [[ms](/lab-publications/Brown_Casillas_accepted_Childrearing_through_social_interaction_EGoodyVolume_DRAFT21Jan2017.pdf)]
+
 ## 2024
 
 **Casillas, M.**, Foushee, R., Méndez Girón, J., Polian, G., & Brown, P. (2024). Little evidence for a noun bias in Tseltal spontaneous speech. _First Language_, _OnlineFirst_, 1–29. [[ms](/lab-publications/Casillas_et_al_2024_Little-evidence-for-a-noun-bias-in-Tseltal-spontaneous-speech_First_Language.pdf)] [[Español](https://docs.google.com/document/d/1dgwkyT9zQD8kdNoKfwPLiGLND__Hr49bei-9FsAxryE/edit?usp=sharing)]
 
+**Casillas, M.**, Ferjan Ramírez, N., Leong, V., & Romeo, R. (2024). Becoming a conversationalist: Questions, challenges, and new directions in the study of child interactional development. _Infant behavior & development_, _76_, 101956. [[ms](https://doi.org/10.1016/j.infbeh.2024.101956)]
+
+**Casillas, M.**, & Casey, K. (2024). Daylong egocentric recordings in small- and large-scale language communities: A practical introduction. In C. Yu, & J. J. Lockman (Eds.), _Advances in Child Development and Behavior_ (Vol. 66, pp. 29-53). [[ms](https://doi.org/10.1016/bs.acdb.2024.05.002)]
+
 Lutzenberger, H., **Casillas, M.**, Fikkert, P., Crasborn, O., de Vos, C. (2024) More than looks: Exploring methods to test phonological discrimination in the sign language Kata Kolok. _Language Learning and Development_, _XX_, 1–27. [[ms](/lab-publications/Lutzenberger_et_al_2024_More_than_looks.pdf)]
 
+Hitczenko, K., Bergelson, E., **Casillas, M.**, Colleran, H., Cychosz, M., Grosjean, P., Hamrick, L. R., Kelleher, B., Scaff, C., Seidl, A., Walker, S., & Cristia, A. (2024). A cross-linguistic study of the effect of early experience on vocal development. _Developmental Science. Stage 1 Registered Report._ [[ms](https://doi.org/10.17605/OSF.IO/J2Y7C)]
 
 ## 2023
 
