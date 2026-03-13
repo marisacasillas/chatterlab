@@ -13,9 +13,9 @@ Looking for [tools](../tools/)?
 
 Hellwig, B., Sarvasy, H., & **Casillas, M.** (provisionally accepted). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
-Lammertink, I., Rowland, C., & **Casillas, M.** (accepted). Who’s next? Turn anticipation in Dutch preschoolers with and without Developmental Language Disorder. Journal of Speech, Language, and Hearing Research. [[ms](/lab-publications/Lammertink_et_al_2025_Whos_Next_JSLHR.pdf)]
-
 ## 2026
+
+Lammertink, I., Rowland, C., & **Casillas, M.** (2026). Who’s next? Turn anticipation in Dutch preschoolers with and without Developmental Language Disorder. _Journal of Speech, Language, and Hearing Research_, 1-18. [[ms](https://doi.org/10.1044/2025_JSLHR-25-00180)]
 
 Bohn, M., & **Casillas, M.** (2026). Language learning as ontogenetic adaptation. _Trends in Cognitive Sciences_. [[ms](https://doi.org/10.1016/j.tics.2025.12.005 )]
 
