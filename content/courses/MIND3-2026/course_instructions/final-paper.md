@@ -6,7 +6,7 @@ Your paper (formatting instructions below) should be written for an intelligent 
 
 Your submission should be free of typos.
 
-If you make an office hours appointment to do so, I will review whatever you've written with you in our 20-minute timeslot. I will not read drafts in offoce hours or via email.
+If you make an office hours appointment, I will review whatever you've written with you in our 20-minute timeslot. I will not read full drafts in office hours or via email.
 
 Your literature review must include at least one assigned reading from the course (to which your topic directly relates) and at least 3 (better 4–5) additional readings that were not assigned in the course.
 
@@ -35,7 +35,6 @@ There are four parts to the full final paper:
 	- Take as many pages as you need for this section
 4. Self-assessment
     - Write 1–3 sentences each on how your paper fulfils the grading criteria below
-    - Propose a grade for your paper (out of 100)
 
 ## Grading
 
@@ -46,12 +45,12 @@ Final grades will reflect:
 3. Clarity of the theoretical content (i.e., do you effectively convey the key theories, hypotheses, and concepts that provide a basis for discourse between the publications you have selected? If your publications conflict in their theoretical content, make that clear too and describe how and why.)
 4. Strength of the thematic connection between the topic, the literature review outcomes, and the course topic of context effects in psychology.
 
-I will make my own assessment on these three points before reviewing your self assessment and I will take both our perspectives into account in giving you a final grade.
+I will make my own assessment on these three points before reviewing your self assessment. I will take both our perspectives into account in giving you a final grade.
 
 NOTE: Unless you explicitly ask for detailed feedback I will only give a summary of the final grade justification.
 
 
 ### A note on using AI
-For this assignment, we leave it to students to use AI in whatever way best serves their learning. However, students are always responsible for knowing and understanding the ideas presented in their written work. Therefore, I reserve the right to conduct an oral exam on any submission if I suspect plagiarism or over-reliance on AI. If I request an in-person oral exam, it will be scheduled before 5pm on Thursday of Finals Week.
+For this assignment, I leave it to students to use AI in whatever way best serves their learning. However, students are always responsible for knowing and understanding the ideas presented in their written work. Therefore, I reserve the right to conduct an oral exam on any submission if I suspect plagiarism or over-reliance on AI. If I request an in-person oral exam, it will be scheduled before 5pm on Thursday of Finals Week. If I request an oral exam, you will receive an Incomplete (I) grade in the course until you come to take it.
 
 [[back to main page](../../casillas-mind3-spring2026-syllabus/)]
