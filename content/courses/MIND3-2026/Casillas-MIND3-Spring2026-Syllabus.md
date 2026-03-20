@@ -48,7 +48,7 @@ You must submit a [synopsis](../course_instructions/wkly-syn/) for 5 of the 9 we
 * Week 5 (April 23, 2024): [Literature review part 1](../course_instructions/wkly-litrev/)
 * Week 6 (April 30, 2024): [Literature review part 2](../course_instructions/wkly-litrev/)
 * Week 7 (May 7, 2024): Draft paper outline (see final paper guidelines [here](../course_instructions/final-paper/))
-* Week 8 (May 14, 2024): [Final paper (see final paper guidelines [here](../course_instructions/final-paper/))
+* Week 8 (May 14, 2024): Final paper DRAFT (see final paper guidelines [here](../course_instructions/final-paper/))
 * Week 9 (May 21, 2024): [Debate](../course_instructions/wkly-debate/)
 
 
