@@ -39,7 +39,7 @@ An important note on readings: Please be sure to read all footnotes, tables, and
 
 ### Assignment deadlines
 
-You must submit [synopsies](../course_instructions/wkly-syn/) for 5 of the weeks of the quarter; it's up to you which 5 to choose. The other assignments are due on specific dates as follows:
+You must submit a [synopsis](../course_instructions/wkly-syn/) for 5 of the 9 weeks of the quarter; it's up to you which 5 to choose. The other assignments are due on specific dates as follows:
 
 * Week 1 (March 26, 2024): [Retrospective](../course_instructions/retrospective/)
 * Week 2 (April 2, 2024): 
