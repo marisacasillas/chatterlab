@@ -10,7 +10,7 @@ Thursdays 11:00am-12:20am
 
 ## Grading 
 
-* 15% participation <!--15 pts-->
+* 10% participation <!--10 pts-->
 * 40% weekly assignments <!--4 pts each-->
 * 10% final paper outline <!--10 pts-->
 * 10% final paper (complete draft) <!--10 pts-->
