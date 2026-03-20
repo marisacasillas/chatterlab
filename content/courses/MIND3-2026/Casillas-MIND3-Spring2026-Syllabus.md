@@ -20,7 +20,7 @@ Thursdays 11:00am-12:20am
 
 ## Participation
 
-We use in-class time for clarification, discussion, and debate. I'll start each section with a mini quiz on the readings for that week, so you are strongly encouraged to attend lecture and read the week's papers before coming to section.
+We use in-class time for clarification, discussion, and debate. I'll start each section with a mini quiz on the readings for that week. This is all to say that you are strongly encouraged to attend lecture and read the week's papers before coming to section.
 
 For full participation credit, you must complete:
 
@@ -33,7 +33,7 @@ NOTE: Each student is allowed one excused absence—the one absence will not aff
 
 ## Weekly assignments
 
-The weekly assignments include: 5 paper synopses, 1 retrospective, 2 debate preparations, and 4 assignments to get your final paper started.  **ALL assignments are due _BEFORE_ the start of section.** Late assignments will be penalized by a grade (a half grade off every 12 hours).
+The weekly assignments include: 5 paper synopses, 1 retrospective, 2 debate preparations, and 4 assignments to get your final paper started.  **ALL assignments are due _BEFORE_ the start of section.** Late assignments will be penalized (a half grade off every 12 hours).
 
 An important note on readings: Please be sure to read all footnotes, tables, and information boxes. It is not necessary to read supplementary materials, appendices, or post-article commentaries.
 
