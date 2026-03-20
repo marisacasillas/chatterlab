@@ -30,15 +30,17 @@ I also work on a number of smaller projects relating to linguistic and cultural 
 
 [Trial Research II]({{< ref "courses/TR2-2023/Casillas-TR2-Fall2023-Syllabus.md" >}}) (last taught Fall 2023)
 
-[Human Language and Interaction]({{< ref "courses/HLI2023/Casillas-HLI-Spring2023-Syllabus.md" >}}) (last taught Spring 2023; coming Spring 2026)
+[Human Language and Interaction]({{< ref "courses/HLI2026/Casillas-HLI-Spring2026-Syllabus.md" >}}) (last taught Spring 2026)
 
-[Mind III]({{< ref "courses/MIND3-2024/Casillas-MIND3-Spring2024-Syllabus.md" >}}) (last taught Spring 2024; coming Spring 2026)
+[Mind III]({{< ref "courses/MIND3-2026/Casillas-MIND3-Spring2026-Syllabus.md" >}}) (last taught Spring 2026)
 
-[Blooming Buzzing Confusion]({{< ref "courses/BBC2023/Casillas-BBC-Winter2023-Syllabus.md" >}}) (last taught Winter 2026)
+[Blooming Buzzing Confusion]({{< ref "courses/BBC2026/Casillas-BBC-Winter2026-Syllabus.md" >}}) (last taught Winter 2026)
 
 [Methods in Child Development Research]({{< ref "courses/MCDR2023/Casillas-MCDR-Winter2023-Syllabus.md" >}}) (last taught Winter 2023)
 
 [The Development of Communicative Competence]({{< ref "courses/DCC2024/Casillas-DevCommComp-Spring2024-Syllabus.md" >}}) (last taught Spring 2024)
+
+Relational Social Cognition and Language in Early Development (last taught Winter 2026)
 
 #### Retired
 
