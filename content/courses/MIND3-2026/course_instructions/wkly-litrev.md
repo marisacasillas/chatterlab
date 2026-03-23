@@ -33,4 +33,4 @@ I will give feedback on your proposal, including recommended adjustments to the 
 
 * Note: You can add up to TWO more readings for your final paper. Those two additional readings can be selected either on the basis of the citation or keyword methods described above
 
-[[back to main page](../../casillas-mind3-spring2024-syllabus/)]
+[[back to main page](../../casillas-mind3-spring2026-syllabus/)]
