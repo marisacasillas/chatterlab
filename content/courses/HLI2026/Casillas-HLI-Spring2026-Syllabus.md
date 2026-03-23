@@ -130,7 +130,7 @@ We will spend some time on learning the basics of scientific report writing.
 
 * Pre-class reading: [Levinson, S. C. (2019). Interactional foundations of language: The interaction engine hypothesis. In _Human language: From genes and brain to behavior_ (pp. 189-200). MIT Press.](https://pure.mpg.de/rest/items/item_3171367_3/component/file_3186123/content)
 
-* **Mini paper 1 due today** <!--: Devise a Schelling game (linguistic or non-linguistic) and run it on 4–6 of your friends. Describe how you set up your game, why, what you expected the outcome to be, and what the actual outcome was. Discuss your reported findings in a way that engages directly with big ideas from the course for full credit [2500 words **max**; [rubric](../miniassignment2-rubric/)]-->
+* <span style="color:green">**Mini paper 1 due today**</span> <!--: Devise a Schelling game (linguistic or non-linguistic) and run it on 4–6 of your friends. Describe how you set up your game, why, what you expected the outcome to be, and what the actual outcome was. Discuss your reported findings in a way that engages directly with big ideas from the course for full credit [2500 words **max**; [rubric](../miniassignment2-rubric/)]-->
 
 
 ## Module 3: Communication, language, and action
@@ -178,8 +178,9 @@ We will spend some time on learning the basics of scientific report writing.
 * Pre-class reading: UL Chapter 7
 
 * <span style="color:orange">**Due today for the scientific report**: Upload your annotations of the verbal turn taking to Box (we will provide the link)
-<!--together with a screenshot showing that you have passed the [online annotation checker](https://aclew.shinyapps.io/schober_clark_replication/). Grades for this portion will be allocated as follows:-->
 	* <span style="color:orange">**Up to 10%** for data annotation of verbal turn taking (the TAs will spot-check your annotation files and recording for high quality segmentation and annotation)</span>
+	<!--together with a screenshot showing that you have passed the [online annotation checker](https://aclew.shinyapps.io/schober_clark_replication/). Grades for this portion will be allocated as follows:-->
+
 
 ### Tuesday, 5 May 2026 (7.1): Joint commitment
 
@@ -195,7 +196,7 @@ We will spend some time on learning the basics of scientific report writing.
 
 <!--* <span style="color:orange">**Due today for the scientific report**: Find one participant for the overhearer portion of data collection, establish a testing time _BEFORE end of day on Monday, May 8th_, and send your participant the session information. Cc your TA to confirm that you have done this.</span>-->
 
-* **Mini paper 2 due today** <!--: Find an example of a conversation "in the wild" (e.g., spontaneous conversations, interviews, and the like on youtube, tiktok, etc.) in which two or more of the talkers use multiple depictive gestures. Unscripted content is strongly preferred but not required if you have a particularly interesting scripted example in mind. Provide a link where we can access the example. Describe, in detail, three of the gestures and their meanings (make sure to tell us precisely when in the conversation each gesture occurs). For each gesture, describe how it relates to other ongoing verbal and non-verbal signals by that same talker and also how it relates to the ongoing discourse context between the talkers engaged in the interaction. As part of your description of each gesture, make an argument using course concepts and your own observations about the intended function of that gesture in that particular context. [2500 words **max**; [rubric](../miniassignment4-rubric/)]-->
+* <span style="color:green">**Mini paper 2 due today**</span> <!--: Find an example of a conversation "in the wild" (e.g., spontaneous conversations, interviews, and the like on youtube, tiktok, etc.) in which two or more of the talkers use multiple depictive gestures. Unscripted content is strongly preferred but not required if you have a particularly interesting scripted example in mind. Provide a link where we can access the example. Describe, in detail, three of the gestures and their meanings (make sure to tell us precisely when in the conversation each gesture occurs). For each gesture, describe how it relates to other ongoing verbal and non-verbal signals by that same talker and also how it relates to the ongoing discourse context between the talkers engaged in the interaction. As part of your description of each gesture, make an argument using course concepts and your own observations about the intended function of that gesture in that particular context. [2500 words **max**; [rubric](../miniassignment4-rubric/)]-->
 
 
 ## Module 5:
