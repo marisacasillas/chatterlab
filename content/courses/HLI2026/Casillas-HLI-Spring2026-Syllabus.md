@@ -75,7 +75,7 @@ We will replicate some of the classic findings reported in the [Stivers et al. (
 
 We will spend some time on learning the basics of scientific report writing.
 
-## Policy on regrade requests
+### Policy on regrade requests
 
 The policy on regrade requests is that I (Dr. Casillas) will look at and regrade any of your assignments again upon request, but if I don't see a need to raise the score, I'll take off a small amount of credit for each question/assignment you've asked me to review. This policy is just to balance the many requests I get for re-reviews against the time I need to spend on other commitments. It also ensures that students only pursue requests if they are quite certain that their grade is wrong.
 
