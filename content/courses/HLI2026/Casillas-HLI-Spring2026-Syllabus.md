@@ -244,7 +244,7 @@ The policy on regrade requests is that I (Dr. Casillas) will look at and regrade
     * TBA
 
 ## Final deadline (Tuesday, 26 May 2026)
-Scientific report due, including: Study 1 on our class replication of [Stivers et al. (2009)](https://www.dropbox.com/scl/fi/y21oumvbqq2fphu1785a3/stivers2009universal.pdf?rlkey=0lv7y9hb1u1yakloe8z5s3hga&st=xq4f041u&dl=0) and Study 2, a motivated, original, incremental follow-up study proposal with predicted findings (4000 words **max**; [rubric](../scientificreport-rubric/)).
+Scientific report due, including: Study 1 on our class replication of [Stivers et al. (2009)](https://www.dropbox.com/scl/fi/y21oumvbqq2fphu1785a3/stivers2009universal.pdf?rlkey=0lv7y9hb1u1yakloe8z5s3hga&st=xq4f041u&dl=0) and Study 2, a motivated, original, incremental follow-up study proposal with predicted findings (4500 words **max**; [rubric](../scientificreport-rubric/)).
 
 
 # Contact
