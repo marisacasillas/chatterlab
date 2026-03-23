@@ -57,9 +57,9 @@ NOTE: Each student is allowed two excused absences—the two absences will not a
 We'll check your understanding of the class content with in-class quizzes at least once a week. The quizzes will cover the pre-class reading and prior lecture content. When we calculate your grade, we'll grade this component on the best half of your quiz scores. For example, if your quizzes are all scored out of 5 and you got scores of 1, 0, 5, 4, 3, 5, 2, 3, 3, 1, your overall average would be 54%, but your score for your best half of quizzes would be 80%. Because we are dropping the bottom half of quiz scores, we are not offering make-up quizzes for missed class sessions.
 
 
-### Mini papers (30% of grade)
+### Mini papers (20% of grade)
 
-Over the course of the quarter, students will submit two mini papers (15% each; 2500 words max). Mini papers typically engage with real data of some kind. Papers will be evaluated based on their (a) thoroughness and attention to detail with respect to the data/prompt, and (b) quality of discussion relating the data to course materials. We strongly discourage students from centering their responses on personal anecdotes or pure critique. Responses should instead make specific, clear connections to relevant course concepts, and critical commentary should be accompanied by integrative and/or constructive framing.
+Over the course of the quarter, students will submit two mini papers (10% each; 2500 words max). Mini papers typically engage with real data of some kind. Papers will be evaluated based on their (a) thoroughness and attention to detail with respect to the data/prompt, and (b) quality of discussion relating the data to course materials. We strongly discourage students from centering their responses on personal anecdotes or pure critique. Responses should instead make specific, clear connections to relevant course concepts, and critical commentary should be accompanied by integrative and/or constructive framing.
 
 
 ### Study replication project (45% of grade)
