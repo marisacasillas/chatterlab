@@ -64,4 +64,8 @@ Grossly incomplete submissions or submissions that do not sufficiently follow th
 
 The policy on regrade requests is that I (Dr. Casillas) will look at and regrade any of your assignments again upon request, but if I don't see a need to raise the score, I'll take off a small amount of credit for each question/assignment you've asked me to review. This policy is just to balance the many requests I get for re-reviews against the time I need to spend on other commitments. It also ensures that students only pursue requests if they are quite certain that their grade is wrong.
 
+## A note on using AI
+
+For any at-home written assignment, I (Dr. Casillas) leave it to students to use AI in whatever way best serves their learning. However, students are always responsible for knowing and understanding the ideas presented in their written work. Therefore, I reserve the right to conduct an oral exam on any submission if I suspect plagiarism or over-reliance on AI. If I request an oral exam, you will receive an Incomplete (I) grade in the course until you come to take it.
+
 [[main page]](../casillas-hli-spring2026-syllabus/)
