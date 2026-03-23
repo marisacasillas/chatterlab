@@ -54,6 +54,9 @@ You must submit a [synopsis](../course_instructions/wkly-syn/) for 5 of the 9 we
 
 ## [Final paper](../course_instructions/final-paper/) deadline (Wednesday, 27 May 2026)
 
+## Policy on regrade requests
+
+The policy on regrade requests is that I will look at and regrade any of your assignments again upon request, but if I don't see a need to raise the score, I'll take off a small amount of credit for each question/assignment you've asked me to review. This policy is just to balance the many requests I get for re-reviews against the time I need to spend on other commitments. It also ensures that students only pursue requests if they are quite certain that their grade is wrong.
 
 # Contact
 **Email:** mcasillas@uchicago.edu
