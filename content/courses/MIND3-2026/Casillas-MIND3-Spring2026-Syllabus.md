@@ -24,22 +24,21 @@ We use in-class time for clarification, discussion, and debate. I'll start each 
 
 For full participation credit, you must complete:
 
-* A critical reflection for your writing advisor (completed in class)
-* A writing workshop (completed in class); more TBA
-* A 1-on-1 meeting with your writing advisor (schedule yourself: Will Sweek, sweekw@uchicago.edu) **DUE by end of day on Friday, May 22nd, 2026**
+* A critical reflection workshop with your writing advisor (completed outside of class; details TBA on Canvas)
+* A 1-on-1 meeting with your writing advisor (schedule on your own: Will Sweek, sweekw@uchicago.edu) **due PRIOR to your final paper draft submission**
 
 NOTE: Each student is allowed one excused absence—the one absence will not affect your participation score. If you miss more than one section because you are experiencing a more significant interruption to your life, please get in touch.
 
 
 ## Weekly assignments
 
-The weekly assignments include: 5 paper synopses, 1 retrospective, 2 debate preparations, and 4 assignments to get your final paper started.  **ALL assignments are due _BEFORE_ the start of section.** Late assignments will be penalized (a half grade off every 12 hours).
+The weekly assignments include: synopsis assignments for 5 lectures, 1 retrospective, 2 debate preparations, and 4 assignments to get your final paper started.  **ALL assignments are due _BEFORE_ the start of section.** Late assignments will be penalized (a half grade off every 12 hours).
 
-An important note on readings: Please be sure to read all footnotes, tables, and information boxes. It is not necessary to read supplementary materials, appendices, or post-article commentaries.
+An important note on readings: Please be sure to read all footnotes, tables, and information boxes. It is not necessary to read supplementary materials, appendices, or post-article commentaries, though of course if you're feeling curious, go ahead and read them!
 
 ### Assignment deadlines
 
-You must submit a [synopsis](../course_instructions/wkly-syn/) for 5 of the 9 weeks of the quarter; it's up to you which 5 to choose. The other assignments are due on specific dates as follows:
+You must submit a [synopsis](../course_instructions/wkly-syn/) assignment for 5 of the 9 lectures of the quarter; it's up to you which 5 lectures to choose. The other assignments are due on specific dates as follows:
 
 * Week 1 (March 26, 2024): [Retrospective](../course_instructions/retrospective/)
 * Week 2 (April 2, 2024): 
