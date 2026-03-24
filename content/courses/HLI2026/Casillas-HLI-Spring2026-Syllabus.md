@@ -92,7 +92,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Tuesday, 24 March 2026 (1.1): Introduction and syllabus
 
- <!--[[slides]](https://docs.google.com/presentation/d/1E1eI1IhWSLfaYPjsJ21fIXE-xFeKr3hT/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1E1eI1IhWSLfaYPjsJ21fIXE-xFeKr3hT/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
 * Pre-class reading: None!
 
