@@ -14,9 +14,9 @@ It is expected that, by the end of the course, students will be able to explain 
 
 **Office hours:**
 
-* Dr. Casillas: Pre-book a meeting [here](https://calendar.app.google/tPXfbzT5AbqTuFsk6). Meetings take place in Rosenwald 318A unless otherwise specified.
-* Yuchen Jin: TBD
-* Samir Levitt: TBD
+* Dr. Casillas: Fridays 12:30–1:50. Pre-book a meeting [here](https://calendar.app.google/tPXfbzT5AbqTuFsk6). Meetings take place in Rosenwald 318A unless otherwise specified.
+* Yuchen Jin: Thursdays 2:30–3:30pm in Harper Library.
+* Samir Levitt: Mondays 11–12 in Harper Library.
 
 **Course materials:**
 
@@ -257,7 +257,7 @@ Scientific report due, including: Study 1 on our class replication of [Stivers e
 
 **Office:** Rosenwald 318A
 
-**Office hours:** Pre-book a meeting [here](https://calendar.app.google/tPXfbzT5AbqTuFsk6). Meetings take place in Rosenwald 318A unless otherwise specified.
+**Office hours:** Fridays 12:30–1:50. Pre-book a meeting [here](https://calendar.app.google/tPXfbzT5AbqTuFsk6). Meetings take place in Rosenwald 318A unless otherwise specified.
 
 
 _If you require any accommodations for this course, as soon as possible please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) so that you may discuss with him/her how your accommodations may be implemented in this course.
