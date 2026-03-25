@@ -71,7 +71,7 @@ We will replicate some of the classic findings reported in the [Stivers et al. (
 3. Data annotation: verbal responses (10% of grade)
 4. Data annotation: gestural responses (5% of grade)
 5. Review of results (in class, led by Dr. Casillas)
-6. Scientific report (due Tuesday of finals week, *max* 45000 words; 25% of grade)
+6. Scientific report (due Tuesday of finals week, *max* 4500 words; 25% of grade)
 
 We will spend some time on learning the basics of scientific report writing.
 
