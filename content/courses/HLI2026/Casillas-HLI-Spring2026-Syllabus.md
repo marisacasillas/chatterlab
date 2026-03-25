@@ -15,7 +15,7 @@ It is expected that, by the end of the course, students will be able to explain 
 **Office hours:**
 
 * Dr. Casillas: Fridays 12:30–1:50. Pre-book a meeting [here](https://calendar.app.google/tPXfbzT5AbqTuFsk6). Meetings take place in Rosenwald 318A unless otherwise specified.
-* Yuchen Jin: Thursdays 2:30–3:30pm in Harper Library.
+* Yuchen Jin: Thursdays 2:30–3:30pm in Harper Library. Pre-book a meeting [here](https://calendar.app.google/wghS7SpTF4t9YiNXA).
 * Samir Levitt: Mondays 11–12 in Harper Library.
 
 **Course materials:**
