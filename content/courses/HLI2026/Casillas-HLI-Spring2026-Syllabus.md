@@ -52,7 +52,7 @@ Students are generally expected to come to class and actively participate in dis
 NOTE: Each student is allowed two excused absences—the two absences will not affect your participation score. If you miss more than two classes because you are experiencing a more significant interruption to your life, please get in touch.
 
 
-### In-class quizzes (15% of grade)
+### In-class quizzes (25% of grade)
 
 We'll check your understanding of the class content with in-class quizzes at least once a week. The quizzes will cover the pre-class reading and prior lecture content. When we calculate your grade, we'll grade this component on the best half of your quiz scores. For example, if your quizzes are all scored out of 5 and you got scores of 1, 0, 5, 4, 3, 5, 2, 3, 3, 1, your overall average would be 54%, but your score for your best half of quizzes would be 80%. Because we are dropping the bottom half of quiz scores, we are not offering make-up quizzes for missed class sessions.
 
@@ -92,7 +92,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Tuesday, 24 March 2026 (1.1): Introduction and syllabus
 
- [[slides]](https://docs.google.com/presentation/d/1E1eI1IhWSLfaYPjsJ21fIXE-xFeKr3hT/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1E1eI1IhWSLfaYPjsJ21fIXE-xFeKr3hT/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/4FSk5T0z0ckaYfCIuL1aw7Ryxj2aNsPbyRS8bprjJAJxD6G3Q6lSDRmKu-uT_D7X.CehSWAWG_4M4lyq3)
 
 * Pre-class reading: None!
 
