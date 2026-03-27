@@ -98,7 +98,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Thursday, 26 March 2026 (1.2): Language use
 
- [[slides]](https://docs.google.com/presentation/d/11VCh8BDRuEhe6WUmsxUD1Cuo66xYZkec/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/11VCh8BDRuEhe6WUmsxUD1Cuo66xYZkec/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/IkrhkrsEu0C-BxlYm2bohrZg6W6Il_eoBjKhVfCTv96whqipzmhKsiKk8Yxb4Yyl.pSFGlk445akO4QlK)
 
 * Pre-class reading: UL Chapter 1
 
