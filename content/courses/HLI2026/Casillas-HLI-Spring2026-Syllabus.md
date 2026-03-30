@@ -16,7 +16,7 @@ It is expected that, by the end of the course, students will be able to explain 
 
 * Dr. Casillas: Fridays 12:30–1:50. Pre-book a meeting [here](https://calendar.app.google/tPXfbzT5AbqTuFsk6). Meetings take place in Rosenwald 318A unless otherwise specified.
 * Yuchen Jin: Thursdays 2:30–3:30pm in Harper Library. Pre-book a meeting [here](https://calendar.app.google/wghS7SpTF4t9YiNXA).
-* Samir Levitt: Mondays 11–12 in Harper Library.
+* Samir Levitt: Tuesdays 11–12 in the Harper Café. If the café fills up before I find seating, I will walk down the hallway to the adjoining reading room in Stuart Hall. In that case, you will see me as soon as you walk in the room. Please email me with any clarifying questions @ levitt@uchicago.edu.
 
 **Course materials:**
 
