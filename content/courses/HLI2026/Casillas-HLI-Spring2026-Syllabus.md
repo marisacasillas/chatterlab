@@ -232,7 +232,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 * Pre-class reading: None!
 
 
-### Tuesday, 19 May 2026 (9.1): TA guest lecture
+### Tuesday, 19 May 2026 (9.1): Guest lecture from TA Samir Levitt
 
  <!--[[slides]](https://docs.google.com/presentation/d/1hIi8IBqqFVb-wwF8JWU6GxPK8cf5eic5RbmDY1Zy0lM/edit?usp=sharing) <!--[[recording]]()-->
 
@@ -240,7 +240,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
     * TBA
 
 
-### Thursday, 21 May 2026 (9.2): TA guest lecture
+### Thursday, 21 May 2026 (9.2): Guest lecture from TA Yuchen Jin
 
  <!--[[slides]](https://docs.google.com/presentation/d/1YX6pADIy-K7jjK_4wuBLOGTQHLGXTbBL/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
