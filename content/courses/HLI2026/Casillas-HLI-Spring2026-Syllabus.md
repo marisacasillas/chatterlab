@@ -106,7 +106,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Tuesday, 31 March 2026 (2.1): Joint activities
 
- [[slides]](https://docs.google.com/presentation/d/1YX-YzfpDGOEmWwOX0-kMjQZQ-TXHig3H/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1YX-YzfpDGOEmWwOX0-kMjQZQ-TXHig3H/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/ZtgbDUJwxzwl0zzFQAu-PSLobMMK-uCa5g-JaViASt2mTggXl49xWaaPIGm0OPvj.uU5lMQxJGUwkwk_Z)
 
 * Pre-class reading: UL Chapter 2
 
