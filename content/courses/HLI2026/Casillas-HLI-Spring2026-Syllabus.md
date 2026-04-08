@@ -119,7 +119,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Tuesday, 7 April 2026 (3.1): Common ground
 
- [[slides]](https://docs.google.com/presentation/d/1KJ1ysJQiCyoiaVLS7KU08sjeb1Sqmg-h/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1KJ1ysJQiCyoiaVLS7KU08sjeb1Sqmg-h/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/grvL3ATVICaBmorMcmzrQZvs5wOPQxjzahNMG20DvtJFLQMsdml8YGp8F9NBAtfk.XfwrNCyTFbNr6GfT)
 
 * Pre-class reading: UL Chapter 4
 
