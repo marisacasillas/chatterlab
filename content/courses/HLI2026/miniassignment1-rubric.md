@@ -28,7 +28,7 @@ _Note that it is up to YOU how to divide your (max) 2500 words between these dif
 
 ## Translation of questions to grades
 
-Submissions that score “excellent and above expectations” across the board will receive a perfect grade (A; 100/100). Submissions that score “needs significant work” across the board will receive a (C-; 70/100). We expect most submissions to fall between these two results. This translation from evaluation questions to grades is done by the particular grader (Dr. Casillas, Jenny, or Ben) who is assigned to each individual paper. However, our team will calibrate our assessments by first reviewing a random sample of papers together.
+Submissions that score “excellent and above expectations” across the board will receive a perfect grade (A; 100/100). Submissions that score “needs significant work” across the board will receive a (C-; 70/100). We expect most submissions to fall between these two results. This translation from evaluation questions to grades is done by the particular grader (Dr. Casillas or a TA) who is assigned to each individual paper. However, our team will calibrate our assessments by first reviewing a random sample of papers together.
 
 Grossly incomplete submissions or submissions that do not sufficiently follow the outlined task will maximally receive a grade of C-; please contact your TA if completing the assignment becomes insurmountable for some reason. Grades of D and lower will be discussed and verified by the entire grading team.
 
