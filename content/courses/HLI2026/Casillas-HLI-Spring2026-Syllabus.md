@@ -127,7 +127,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Thursday, 9 April 2026 (3.2): Introduction to Conversation Analysis
 
- [[slides]](https://docs.google.com/presentation/d/1FJsX9Z7y9FgbQQESfLHdDmS5UFb-HY5g/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1FJsX9Z7y9FgbQQESfLHdDmS5UFb-HY5g/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) [[recording]](https://uchicago.zoom.us/rec/share/C3RyZzOhaR9TD4lz4zaV22EORUbB2urgZIat3n75TplekZi4osjywiy41kKixds4.akEXAvOXjBSILmn_)
 
 * Pre-class reading: [Sidnell, J. (2016). Conversation Analysis. Oxford Research Encyclopedia of Linguistics.](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-40) and [Stivers, T. (2013). Sequence Organization. In J. Sidnell and T. Stivers (Eds.), _The Handbook of Conversation Analysis_ (pp. 191–209). Blackwell Publishing Ltd.](https://www.dropbox.com/s/zs74jwrloxb15g2/stivers2013sequence.pdf?dl=0)
 
