@@ -134,7 +134,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Tuesday, 14 April 2026 (4.1): The Human Interaction Engine
 
- [[slides]](https://docs.google.com/presentation/d/1iu8BmTPCJxAvxgHV1i2igq10RQQrqSrB/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)  <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1iu8BmTPCJxAvxgHV1i2igq10RQQrqSrB/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true)  [[recording]](https://uchicago.zoom.us/rec/share/j89wbhpJf4bCn1yUS_kDgl-YI4QrZRFv3eHEjStOVrLd87QxEtDUuanNUAqA8l0M.h2Kl0oT10zLKnx2A)
 
 * Pre-class reading: [Levinson, S. C. (2019). Interactional foundations of language: The interaction engine hypothesis. In _Human language: From genes and brain to behavior_ (pp. 189-200). MIT Press.](https://pure.mpg.de/rest/items/item_3171367_3/component/file_3186123/content)
 
