@@ -145,7 +145,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Thursday, 16 April 2026 (4.2): Study preparation
 
- <!--[[slides]](https://docs.google.com/presentation/d/1Kt6i2fukV559ecZE7WlQlqoLsFx0jwj5vEEP_4fGh7M/edit?usp=sharing) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1OxoTjr2IGxV2Og72wPaqkVRcTc9a9RV8JHT1TQg3l7c/edit?usp=sharing) <!--[[recording]]()-->
 
 * Pre-class reading: [Stivers et al. (2009)](https://www.dropbox.com/scl/fi/y21oumvbqq2fphu1785a3/stivers2009universal.pdf?rlkey=0lv7y9hb1u1yakloe8z5s3hga&st=xq4f041u&dl=0)
 
