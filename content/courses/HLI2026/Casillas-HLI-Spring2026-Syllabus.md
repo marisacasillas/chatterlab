@@ -201,7 +201,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 <!--* <span style="color:orange">**Due today for the scientific report**: Find one participant for the overhearer portion of data collection, establish a testing time _BEFORE end of day on Monday, May 8th_, and send your participant the session information. Cc your TA to confirm that you have done this.</span>-->
 
-* <span style="color:green">**Mini paper 2 due today**</span> Describe the difference between signal meaning and speaker (producer) meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the producer meaning from the signal [2500 words **max**]<!--; [rubric](../miniassignment2-rubric/)-->
+* <span style="color:green">**Mini paper 2 due today**</span> Describe the difference between signal meaning and speaker (producer) meaning. Give three real examples (cite accessible sources) demonstrating ways in which these two types of meaning can diverge. For each example, describe how we as analysts can _know_ there is a difference in the meaning and what recipients need to know/do in order to recover the producer meaning from the signal [2500 words **max**; [rubric](../miniassignment2-rubric/)].
 
 
 
