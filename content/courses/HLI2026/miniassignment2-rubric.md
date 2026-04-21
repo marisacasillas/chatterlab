@@ -1,4 +1,4 @@
-# Mini assignment 3 rubric
+# Mini assignment 2 rubric
 
 [[main page]](../casillas-hli-spring2026-syllabus/)
 
