@@ -152,7 +152,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Tuesday, 21 April 2026 (5.1): Grounding 
 
- [[slides]](https://docs.google.com/presentation/d/1Qo8pXMaORtScaIFbslPTv9t20YXeMnlT1Qt8u8bULuY/edit?usp=sharing) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1Qo8pXMaORtScaIFbslPTv9t20YXeMnlT1Qt8u8bULuY/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/rQ_RlYm9Ndk3OWHaCI9YIrLOX6s8cC2cE2vNjKWUi8vgy6QpvarH8kH9BGsgGX-C.5CemoHAWiRklZVBy)
 
 * Pre-class reading: UL Chapter 8
 
