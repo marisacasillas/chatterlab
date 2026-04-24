@@ -160,7 +160,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Thursday, 23 April 2026 (5.2): Understanding intentions and signaling
 
- [[slides]](https://docs.google.com/presentation/d/1RI5Qdyk10WXO7cGRBamdnnEHIydJd2peyL89hpUlhEg/edit?usp=sharing) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1RI5Qdyk10WXO7cGRBamdnnEHIydJd2peyL89hpUlhEg/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/vK4NzQD4pGxrcOJOy-C8OzRRWZYVF6jQkiatOJQUdMqKiQi1IGNW2nFckwvLpxeK.r71_26frTXKAe_YL)
 
 * Pre-class reading: UL Chapter 5 + UL Chapter 6
 
