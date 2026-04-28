@@ -169,7 +169,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Tuesday, 28 April 2026 (6.1): Multimodal interaction
 
- <!--[[slides]](https://docs.google.com/presentation/d/10MuRC7v5FCZ3UPMLBxbpH6kmjstrNl08IcJRj6w9SGk/edit?usp=sharing) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/10MuRC7v5FCZ3UPMLBxbpH6kmjstrNl08IcJRj6w9SGk/edit?usp=sharing) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 9 + [Holler, J., & Bavelas, J. (2017). Multi-modal communication of common ground: A review of social functions. In R. B. Church, M. W. Alibali, & S. D. Kelly (Eds.), Why gesture? How the hands function in speaking, thinking and communicating (pp. 213-240). Amsterdam: Benjamins.](https://pure.mpg.de/rest/items/item_2352807_13/component/file_2459489/content)
   
