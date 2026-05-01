@@ -178,7 +178,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Thursday, 30 April 2026 (6.2): Joint projects
 
- [[slides]](https://docs.google.com/presentation/d/1MXMbK10zAtjKPyvjmjFszgpwC2306FrfAKY6rKeekYA/edit?usp=sharing) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1MXMbK10zAtjKPyvjmjFszgpwC2306FrfAKY6rKeekYA/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/eFfi0Vv10XN2Y-OUpg1kJ2ivUBRtwLZqxiK11KIaZWI_1GcwhlfYlUj935HP8MVh.DGNetKnOcfbqxWlA)
 
 * Pre-class reading: UL Chapter 7
 
