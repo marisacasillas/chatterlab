@@ -189,7 +189,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Tuesday, 5 May 2026 (7.1): Joint commitment
 
- <!--[[slides]](https://docs.google.com/presentation/d/1tErTDRKmhq5HeHBesTVrqcRo6LosccyQ/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1tErTDRKmhq5HeHBesTVrqcRo6LosccyQ/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 10
 
