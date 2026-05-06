@@ -238,20 +238,19 @@ Find an example of a conversation "in the wild" (e.g., spontaneous conversations
 * Pre-class reading: None!
 
 
-### Tuesday, 19 May 2026 (9.1): Guest lecture from TA Samir Levitt
+### Tuesday, 19 May 2026 (9.1): Language Death: Shift in Communal Common Ground (guest lecture from TA Samir Levitt)
 
- <!--[[slides]](https://docs.google.com/presentation/d/1hIi8IBqqFVb-wwF8JWU6GxPK8cf5eic5RbmDY1Zy0lM/edit?usp=sharing) <!--[[recording]]()-->
+ <!--[[slides]]() <!--[[recording]]()-->
 
-* Pre-class reading:
-    * TBA
+* Pre-class reading: [Lupyan, G., & Dale, R. (2010). Language structure is partly determined by social structure. _PloS one_, _5_(1), e8559](https://drive.google.com/file/d/1PF9n0PSZVWyMnaGgTkT7HJeBGicDqIfE/view?usp=sharing) and [Gal, S. (1978). Peasant men can't get wives: Language change and sex roles in a bilingual community. _Language in Society_, _7_(1), 1-16.](https://drive.google.com/file/d/1kAHHmoItBGx6pxpSnT-knWIjD6JAXjQD/view?usp=sharing)
 
 
-### Thursday, 21 May 2026 (9.2): Guest lecture from TA Yuchen Jin
+### Thursday, 21 May 2026 (9.2): Title TBA (guest lecture from TA Yuchen Jin)
 
- <!--[[slides]](https://docs.google.com/presentation/d/1YX6pADIy-K7jjK_4wuBLOGTQHLGXTbBL/edit?usp=sharing&ouid=113881693939043281352&rtpof=true&sd=true) <!--[[recording]]()-->
+ <!--[[slides]]() <!--[[recording]]()-->
 
-* Pre-class reading:
-    * TBA
+* Pre-class reading: [Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399-410](https://drive.google.com/file/d/1otXdgNfWFbHUTyC6jzK1ZC8MjvKet-Sb/view?usp=sharing) and [Oshima-Takane, Y., Goodz, E., & Derevensky, J. L. (1996). Birth order effects on early language development: Do secondborn children learn from overheard speech?. _Child Development_, _67_(2), 621-634.](https://drive.google.com/file/d/1FuVRHrEHPdgka0xD5MwefrdpT0iehTVH/view?usp=sharing)
+
 
 ## Final deadline (Tuesday, 26 May 2026)
 Scientific report due, including: Study 1 on our class replication of [Stivers et al. (2009)](https://www.dropbox.com/scl/fi/y21oumvbqq2fphu1785a3/stivers2009universal.pdf?rlkey=0lv7y9hb1u1yakloe8z5s3hga&st=xq4f041u&dl=0) and Study 2, a motivated, original, incremental follow-up study proposal with predicted findings (4500 words **max**; [rubric](../scientificreport-rubric/)).
