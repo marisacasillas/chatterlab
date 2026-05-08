@@ -195,7 +195,7 @@ For any at-home written assignment, I (Dr. Casillas) leave it to students to use
 
 ### Thursday, 7 May 2026 (7.2): Conversation
 
- [[slides]](https://docs.google.com/presentation/d/1HlLlvMrBgTCAfU4VfELzhfVb4R39b-hEe2L25T4HVGI/edit?usp=sharing) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1HlLlvMrBgTCAfU4VfELzhfVb4R39b-hEe2L25T4HVGI/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/SBJMLr51xtkcqEvtr8GaCpa9eoHt_nIoQi8cqpvLVTN4gEwc6zLC_0RBP_bucyag.7hS2H55oCPx8GdzM)
 
 * Pre-class reading: UL Chapter 11
 
