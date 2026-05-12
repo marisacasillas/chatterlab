@@ -217,7 +217,7 @@ Find an example of a conversation "in the wild" (e.g., spontaneous conversations
 
 ### Tuesday, 12 May 2026 (8.1):  Layering
 
- <!--[[slides]](https://docs.google.com/presentation/d/1TX-7uyapPhVSzWMz6Kv-qogWw6lWDEZnJKFNKoa2tAw/edit?usp=sharing) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1TX-7uyapPhVSzWMz6Kv-qogWw6lWDEZnJKFNKoa2tAw/edit?usp=sharing) <!--[[recording]]()-->
 
 * Pre-class reading: UL Chapter 12
 
