@@ -242,8 +242,8 @@ Find an example of a conversation "in the wild" (e.g., spontaneous conversations
 
  <!--[[slides]]() <!--[[recording]]()-->
 
-* Pre-class reading: [Lupyan, G., & Dale, R. (2010). Language structure is partly determined by social structure. _PloS one_, _5_(1), e8559](https://drive.google.com/file/d/1PF9n0PSZVWyMnaGgTkT7HJeBGicDqIfE/view?usp=sharing) and [Kulick, D. (2018). Young People's Tayap. _In A Death in the Rainforest: How a Language and a Way of Life Came to an End in Papua New Guinea_ (pp. 159–173). Chapel Hill: Algonquin Books.](https://drive.google.com/file/d/1wUXkcjOrQtjdlT3ACJmapLJJ6TMiIVBG/view?usp=sharing)
-* Optional reading: [Gal, S. (1978). Peasant men can't get wives: Language change and sex roles in a bilingual community. _Language in Society_, _7_(1), 1–16.](https://drive.google.com/file/d/1kAHHmoItBGx6pxpSnT-knWIjD6JAXjQD/view?usp=sharing)
+* Pre-class reading: [Lupyan, G., & Dale, R. (2010). Language structure is partly determined by social structure. _PloS one_, _5_(1), e8559](https://drive.google.com/file/d/1PF9n0PSZVWyMnaGgTkT7HJeBGicDqIfE/view?usp=sharing) and [Gal, S. (1978). Peasant men can't get wives: Language change and sex roles in a bilingual community. _Language in Society_, _7_(1), 1–16.](https://drive.google.com/file/d/1kAHHmoItBGx6pxpSnT-knWIjD6JAXjQD/view?usp=sharing)
+* Optional reading: [Kulick, D. (2018). Young People's Tayap. _In A Death in the Rainforest: How a Language and a Way of Life Came to an End in Papua New Guinea_ (pp. 159–173). Chapel Hill: Algonquin Books.](https://drive.google.com/file/d/1wUXkcjOrQtjdlT3ACJmapLJJ6TMiIVBG/view?usp=sharing)
 
 
 ### Thursday, 21 May 2026 (9.2): Language learning through overhearing (guest lecture from TA Yuchen Jin)
