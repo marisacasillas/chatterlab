@@ -251,7 +251,7 @@ Find an example of a conversation "in the wild" (e.g., spontaneous conversations
  <!--[[slides]]() <!--[[recording]]()-->
 
 * Pre-class reading: [Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399–410](https://drive.google.com/file/d/1otXdgNfWFbHUTyC6jzK1ZC8MjvKet-Sb/view?usp=sharing) and [Oshima-Takane, Y., Goodz, E., & Derevensky, J. L. (1996). Birth order effects on early language development: Do secondborn children learn from overheard speech?. _Child Development_, _67_(2), 621–634.](https://drive.google.com/file/d/1FuVRHrEHPdgka0xD5MwefrdpT0iehTVH/view?usp=sharing)
-* Optional reading: [Clark, H. H., & Schaefer, E. F. (1987). Concealing one's meaning from overhearers. _Journal of Memory and Language_, _26_(2), 209-225.]
+* Optional reading: [Clark, H. H., & Schaefer, E. F. (1987). Concealing one's meaning from overhearers. _Journal of Memory and Language_, _26_(2), 209-225.](https://drive.google.com/file/d/147pZTRQ--SP8zjuqO-PRqESvGnBAiJNq/view?usp=sharing)
 
 
 ## Final deadline (Tuesday, 26 May 2026)
