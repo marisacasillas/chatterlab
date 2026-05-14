@@ -233,7 +233,7 @@ Find an example of a conversation "in the wild" (e.g., spontaneous conversations
 
 ### Thursday, 14 May 2026 (8.2): Presentation of replication findings + how to write a scientific report
 
- [[slides]](https://docs.google.com/presentation/d/1Yy6FUbK4cK9waxWM1kq-JMZpSBDARqSTIYxS3LUziJk/edit?usp=sharing) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1Yy6FUbK4cK9waxWM1kq-JMZpSBDARqSTIYxS3LUziJk/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/Dcnhvq6aXrYm1LITHbCzWILHGC15fBusmySai35ViPkaclN-FoHBPM0U8c7E9wcx.ifdQM4Zx7gs4a_w8)
 
 * Pre-class reading: None!
 
