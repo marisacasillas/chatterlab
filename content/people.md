@@ -23,7 +23,7 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 #### Undergraduate students
 
-[Tessa Bracken](/bios/tessa-aboutme/)
+[Amalia Benghiat](/bios/amalia-aboutme/)
 
 [Finn Galarneau](/bios/finn-aboutme/)
 
@@ -35,8 +35,6 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Andrea Liu](/bios/andrea-aboutme/)
 
-[Egheosase (Osa) Odiase](/bios/osa-aboutme/)
-
 [Dalia Querenet](/bios/dalia-aboutme/)
 
 [Eva Smolen](/bios/eva-aboutme/)
@@ -44,6 +42,8 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 [Ruby Swensen](/bios/ruby-aboutme/)
 
 [Ariel Wang](/bios/ariel-aboutme/)
+
+[Frank Wang](/bios/frank-aboutme/)
 
 ### <a href="/former-members/"><u> Former members</u></a>
 

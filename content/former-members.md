@@ -42,11 +42,15 @@ Carla Escalante (BA 2024)
 
 ### Undergraduate students
 
+Tessa Bracken (BA ongoing!)
+
 Jocelyn Zacarias (BA ongoing!)
 
 Marvin Diaz (BA ongoing!)
 
-Alex Klerman (BA ongoing!)
+Egheosase (Osa) Odiase (BA 2026)
+
+Alex Klerman (BA 2026)
 
 Lizzie Mickiewicz (BA 2024)
 
