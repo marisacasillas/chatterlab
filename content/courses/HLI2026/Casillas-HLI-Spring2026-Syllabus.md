@@ -240,7 +240,7 @@ Find an example of a conversation "in the wild" (e.g., spontaneous conversations
 
 ### Tuesday, 19 May 2026 (9.1): Language Death: Shift in Communal Common Ground (guest lecture from TA Samir Levitt)
 
- [[slides]](https://docs.google.com/presentation/d/19SC0CR8yX2j8CijzooovCRZfKTMxntsxQ9F3VTCAfA8/edit?usp=sharing) <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/19SC0CR8yX2j8CijzooovCRZfKTMxntsxQ9F3VTCAfA8/edit?usp=sharing) [[recording]](https://uchicago.zoom.us/rec/share/KM-Wi5v12tP5ocTTg9OSJMqTLaPAIEUQ9tCzSYvd8ARjtd_cWRscgqJMTSGGRIIw.cMhq9ouh9aEEtnRR)
 
 * Pre-class reading:
     * [Lupyan, G., & Dale, R. (2010). Language structure is partly determined by social structure. _PloS one_, _5_(1), e8559](https://drive.google.com/file/d/1PF9n0PSZVWyMnaGgTkT7HJeBGicDqIfE/view?usp=sharing) and
