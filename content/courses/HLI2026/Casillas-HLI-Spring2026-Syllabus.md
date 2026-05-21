@@ -250,7 +250,7 @@ Find an example of a conversation "in the wild" (e.g., spontaneous conversations
 
 ### Thursday, 21 May 2026 (9.2): Language learning through overhearing (guest lecture from TA Yuchen Jin)
 
- <!--[[slides]]() <!--[[recording]]()-->
+ [[slides]](https://docs.google.com/presentation/d/1IyQJY-sR-dNBSLyfr3alJgDqvBNJ2SSUmdYKRrGeXIk/edit?usp=sharing) <!--[[recording]]()-->
 
 * Pre-class reading:
     * [Dunn, J., & Shatz, M. (1989). Becoming a conversationalist despite (or because of) having an older sibling. _Child Development_, 399–410](https://drive.google.com/file/d/1otXdgNfWFbHUTyC6jzK1ZC8MjvKet-Sb/view?usp=sharing) and
