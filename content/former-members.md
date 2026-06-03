@@ -48,6 +48,12 @@ Jocelyn Zacarias (BA ongoing!)
 
 Marvin Diaz (BA ongoing!)
 
+Bri Kay (BA 2026)
+
+Dalia Querenet (BA 2026)
+
+Eva Smolen (BA 2026)
+
 Egheosase (Osa) Odiase (BA 2026)
 
 Alex Klerman (BA 2026)

@@ -29,15 +29,9 @@ PhD applicants interested in working with Dr. Casillas should [contact her](/con
 
 [Anushka Guru](/bios/anushka-aboutme/)
 
-[Bri Kay](/bios/bri-aboutme/)
-
 [Franziska Kungys](/bios/franziska-aboutme/)
 
 [Andrea Liu](/bios/andrea-aboutme/)
-
-[Dalia Querenet](/bios/dalia-aboutme/)
-
-[Eva Smolen](/bios/eva-aboutme/)
 
 [Ruby Swensen](/bios/ruby-aboutme/)
 

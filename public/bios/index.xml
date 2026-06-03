@@ -23,6 +23,13 @@
     </item>
     <item>
       <title></title>
+      <link>http://localhost:1313/bios/_archived/bri-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/_archived/bri-aboutme/</guid>
+      <description>&lt;h2 id=&#34;bri-kay-sheherhers&#34;&gt;Bri Kay (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/bri-kay.JPG&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I&amp;rsquo;m a fourth-year undergrad at the University of Chicago, double majoring in Linguistics in French. I joined Chatter Lab in February of 2025 and am interested in how children learn first and second languages.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:briannakay228@uchicago.edu&#34;&gt;briannakay228@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/bios/_archived/camille-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/_archived/camille-aboutme/</guid>
@@ -34,6 +41,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/_archived/carla-aboutme/</guid>
       <description>&lt;h2 id=&#34;carla-escalante-sheherhers&#34;&gt;Carla Escalante (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a fourth year undergraduate studying linguistics and biochemistry at the University of Chicago. I joined the chatter lab as a research assistant in January of 2023. I am interested in language acquisition in early childhood, particularly in multilingual environments.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:cdescalante@uchicago.edu&#34;&gt;cdescalante@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/_archived/dalia-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/_archived/dalia-aboutme/</guid>
+      <description>&lt;h2 id=&#34;dalia-querenet-sheherhers&#34;&gt;Dalia Querenet (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/dalia-querenet.jpg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a fourth-year undergraduate student at the University of Chicago. I joined Chatter Lab in January 2024. As a Cognitive Science student, I am interested in learning about the relationship between environment and language.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:dquerenet@uchicago.edu&#34;&gt;dquerenet@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bios/_archived/eva-aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bios/_archived/eva-aboutme/</guid>
+      <description>&lt;h2 id=&#34;eva-smolen-sheherhers&#34;&gt;Eva Smolen (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a fourth year undergraduate studying Psychology and Music at the University of Chicago. I joined the Chatter Lab in February 2024 and am most interested in understanding the role language plays in identity formation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:smolen@uchicago.edu&#34;&gt;smolen@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -124,35 +145,28 @@
       <link>http://localhost:1313/bios/amalia-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/amalia-aboutme/</guid>
-      <description>&lt;h2 id=&#34;amalia-benghiat-sheherhers&#34;&gt;Amalia Benghiat (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/amalia-benghiat.jpg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a second-year double majoring in Linguistics and Comparative Human Development, with a minor in Chemistry. I joined the Chatter Lab in May 2026 and am broadly interested in how social interaction, development, and linguistic structure shape the way people learn and use language.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:abenghiat@uchicago.edu&#34;&gt;abenghiat@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;amalia-benghiat-sheherhers&#34;&gt;Amalia Benghiat (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/amalia-benghiat.jpg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a third-year double majoring in Linguistics and Comparative Human Development, with a minor in Chemistry. I joined the Chatter Lab in May 2026 and am broadly interested in how social interaction, development, and linguistic structure shape the way people learn and use language.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:abenghiat@uchicago.edu&#34;&gt;abenghiat@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/bios/andrea-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/andrea-aboutme/</guid>
-      <description>&lt;h2 id=&#34;andrea-liu-hehimhis&#34;&gt;Andrea Liu (he/him/his)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/andrea-liu.JPG&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a second-year undergrad at the University of Chicago majoring in Neuroscience and Linguistics. I joined the Chatter Lab in December 2025. Broadly, I’m interested in how children’s early environments shape language development at both the behavioral and neural levels. I hope to explore how linguistic input, social context, and cognitive processes interact to support language learning, and I’m thrilled to grow alongside the lab as I deepen my research experience!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;andrea-liu-hehimhis&#34;&gt;Andrea Liu (he/him/his)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/andrea-liu.JPG&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a third-year undergrad at the University of Chicago majoring in Neuroscience and Linguistics. I joined the Chatter Lab in December 2025. Broadly, I’m interested in how children’s early environments shape language development at both the behavioral and neural levels. I hope to explore how linguistic input, social context, and cognitive processes interact to support language learning, and I’m thrilled to grow alongside the lab as I deepen my research experience!&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/bios/anushka-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/anushka-aboutme/</guid>
-      <description>&lt;h2 id=&#34;anushka-guru-sheherhers&#34;&gt;Anushka Guru (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a third year undergraduate student studying Environmental Science and Biology on the Pre-Health track at the University of Chicago. I joined the Chatter Lab in February 2025. I am interested in the way that the human body forms (both normally and abnormally) to support speech development.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:aguru@uchicago.edu&#34;&gt;aguru@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;anushka-guru-sheherhers&#34;&gt;Anushka Guru (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a fourth year undergraduate student studying Environmental Science and Biology on the Pre-Health track at the University of Chicago. I joined the Chatter Lab in February 2025. I am interested in the way that the human body forms (both normally and abnormally) to support speech development.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:aguru@uchicago.edu&#34;&gt;aguru@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/bios/ariel-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/ariel-aboutme/</guid>
-      <description>&lt;h2 id=&#34;ariel-wang-sheherhers&#34;&gt;Ariel Wang (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/ariel-wang.jpg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a third year undergraduate student intending to major in Public Policy and Economics at the University of Chicago. I am interested in exploring the intersection between behavioral science and law in the realm of policy, economics and beyond, with a focus on the criminal justice system. I joined the Chatter Lab in February 2024, hoping to learn more about how language and dialect influence the developmental pathways of people from different backgrounds.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/bios/bri-aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bios/bri-aboutme/</guid>
-      <description>&lt;h2 id=&#34;bri-kay-sheherhers&#34;&gt;Bri Kay (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/bri-kay.JPG&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I&amp;rsquo;m a fourth-year undergrad at the University of Chicago, double majoring in Linguistics in French. I joined Chatter Lab in February of 2025 and am interested in how children learn first and second languages.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:briannakay228@uchicago.edu&#34;&gt;briannakay228@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;ariel-wang-sheherhers&#34;&gt;Ariel Wang (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/ariel-wang.jpg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a fourth year undergraduate student intending to major in Public Policy and Economics at the University of Chicago. I am interested in exploring the intersection between behavioral science and law in the realm of policy, economics and beyond, with a focus on the criminal justice system. I joined the Chatter Lab in February 2024, hoping to learn more about how language and dialect influence the developmental pathways of people from different backgrounds.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -163,24 +177,10 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/bios/dalia-aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bios/dalia-aboutme/</guid>
-      <description>&lt;h2 id=&#34;dalia-querenet-sheherhers&#34;&gt;Dalia Querenet (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/dalia-querenet.jpg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a fourth-year undergraduate student at the University of Chicago. I joined Chatter Lab in January 2024. As a Cognitive Science student, I am interested in learning about the relationship between environment and language.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:dquerenet@uchicago.edu&#34;&gt;dquerenet@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/bios/eva-aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bios/eva-aboutme/</guid>
-      <description>&lt;h2 id=&#34;eva-smolen-sheherhers&#34;&gt;Eva Smolen (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a fourth year undergraduate studying Psychology and Music at the University of Chicago. I joined the Chatter Lab in February 2024 and am most interested in understanding the role language plays in identity formation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:smolen@uchicago.edu&#34;&gt;smolen@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/bios/finn-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/finn-aboutme/</guid>
-      <description>&lt;h2 id=&#34;finn-galarneau-sheherhers&#34;&gt;Finn Galarneau (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a third-year undergraduate student at the University of Chicago majoring in linguistics. Since I joined the Chatter Lab in June of 2025, I&amp;rsquo;ve been so excited to work with the children we bring in for participant testing. I hope to continue learning about how the environment shapes the way children acquire and use language in different contexts.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:finngalarneau@uchicago.edu&#34;&gt;finngalarneau@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;finn-galarneau-sheherhers&#34;&gt;Finn Galarneau (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;I am a fourth-year undergraduate student at the University of Chicago majoring in linguistics. Since I joined the Chatter Lab in June of 2025, I&amp;rsquo;ve been so excited to work with the children we bring in for participant testing. I hope to continue learning about how the environment shapes the way children acquire and use language in different contexts.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:finngalarneau@uchicago.edu&#34;&gt;finngalarneau@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -194,7 +194,7 @@
       <link>http://localhost:1313/bios/franziska-aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bios/franziska-aboutme/</guid>
-      <description>&lt;h2 id=&#34;franziska-kungys-sheherhers&#34;&gt;Franziska Kungys (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/franziska-kungys.jpeg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am an undeclared second-year undergraduate student at the University of Chicago. I joined the Chatter Lab in December 2025, and I am interested in the way children first learn languages personally and environmentally especially in bilingual and multilingual homes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:fkungys@uchicago.edu&#34;&gt;fkungys@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;franziska-kungys-sheherhers&#34;&gt;Franziska Kungys (she/her/hers)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/people/franziska-kungys.jpeg&#34; height=&#34;400&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;br&gt;&#xA;I am a third-year undergraduate student majoring in Comparative Human Development at the University of Chicago. I joined the Chatter Lab in December 2025, and I am interested in the way children first learn languages personally and environmentally especially in bilingual and multilingual homes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:fkungys@uchicago.edu&#34;&gt;fkungys@uchicago.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
