@@ -1,9 +1,31 @@
 # chatter news
 
+### June 2026
+* We welcomed [Adaora Mbanefo](https://www.linkedin.com/in/adaora-mbanefo/?originalSubdomain=za) (University of Illinois Urbana-Champaign) and Dayanna Torres-Cordova (Cornell University) as summer interns.
+* [Ruby Swensen](../bios/ruby-aboutme/) received the Department of Comparative Human Development's [Earl R. Franklin Research Summer Fellowship](https://humdev.uchicago.edu/undergraduate-programs/requirements-and-forms/franklin-research-fellowship) for her honors thesis project.
+* Chatter Lab members [Bri Kay](../bios/bri-aboutme/), [Osa Odiase](../bios/osa-aboutme/), [Dalia Quarenet](../bios/dalia-aboutme/), and [Eva Smolen](../bios/eva-aboutme/) graduated from the college. Congratulations!
+
+
+### May 2026
+* We welcomed [Amalia Benghiat](../bios/amalia-aboutme/) and [Frank Wang](../bios/frank-aboutme/) as new research assistants.
+* [Jordyn Martin](../bios/jordyn-aboutme/) presented their Qualifying Paper (QP) at the Department of Linguistics QP Fest (Bidialectal Language Socialization, Ideology, and Topic-driven style-shifting in Racialized Caregivers' Speech).
+* [Yuchen Jin](../bios/yuchen-aboutme/) published her first paper, a review article on kinship, with [Marisa Casillas](../bios/marisa-aboutme/). Read it [here](http://doi.org/10.1111/tops.70056).
+* [Jordyn Martin](../bios/jordyn-aboutme/) successfully defended their first Qualifying Paper (QP). Congratulations!
+* [Subin Kim](https://subinkim00.github.io) received the [Center for East Asian Studies (CEAS) Korean Studies Pre-Dissertation Research Grant](https://grad.uchicago.edu/fellowship/center-for-east-asian-studies-korean-studies-pre-dissertation-research-grant/).
+* [Subin Kim](https://subinkim00.github.io) and [Camille Osumah](https://camille-osumah.notion.site) both received the Department of Comparative Human Development's [Gianinno Graduate Research Awards](https://humdev.uchicago.edu/doctoral-programs/admissions/requirements-and-resources/grants).
+* [Yuchen Jin](../bios/yuchen-aboutme/) received the Department of Comparative Human Development's [Rynerson Research Award](https://humdev.uchicago.edu/doctoral-programs/admissions/requirements-and-resources/grants).
+
+### April 2026
+* [Marisa Casillas](../bios/marisa-aboutme/) gave an invited keynote presentation at Chicago Linguistic Society ([CLS](https://www.chicagolinguisticsociety.com)) (Learning language from everyday talk).
+* [Subin Kim](https://subinkim00.github.io) gave a talk at Chicago Linguistic Society ([CLS](https://www.chicagolinguisticsociety.com)) (Respect, distance, and socialization: The role of honorifics in Korean child-directed speech).
+* The Chatter Lab hosted the UChicago Laboratory Schools Nursery 4 class (the Sunflowers class) for a half-day visit featuring language science demonstrations.
+* [Camille Osumah](https://camille-osumah.notion.site) presented at Language Evolution, Acquisition, and Processing Workshop ([LEAP](https://voices.uchicago.edu/leap/)) (Outside the Yaad: Diasporic Language Ideologies of Jamaican Patwa).
+* [Subin Kim's](https://subinkim00.github.io) paper was accepted in the [CogSci 2026](https://cognitivesciencesociety.org/cogsci-2026/) proceedings as a poster presentation (Spotlight and handover: Register socialization in Korean child-directed speech).
+
 ### March 2026
 * [Jordyn Martin](../bios/jordyn-aboutme/) gave a talk at UChicago's Sociolinguistics Lab (Bidialectal Language Socialization, Ideology, and Topic-driven style-shifting in Racialized Caregivers’ Speech).
 * [Yuchen Jin](../bios/yuchen-aboutme/) successfully defended her dissertation proposal. Congratulations!
-* [Marisa Casillas](../bios/marisa-aboutme/) will be giving an invited talk at [CIFAR AI Infant Learning Workshop](https://events.cifar.ca/website/92386/home/).
+* [Marisa Casillas](../bios/marisa-aboutme/) gave an invited talk at [CIFAR AI Infant Learning Workshop](https://events.cifar.ca/website/92386/home/).
 
 ### February 2026
 * [Camille Osumah](https://camille-osumah.notion.site) published her first publication ([Awake infant fMRI: Insights from more than 750 scanning sessions](https://doi.org/10.1101/2025.02.20.636736)). Congratulations!
