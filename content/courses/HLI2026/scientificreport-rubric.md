@@ -2,7 +2,7 @@
 
 [[main page]](../casillas-hli-spring2026-syllabus/)
 
-Please see the [lecture slides on writing scientific reports](https://docs.google.com/presentation/d/1LHTzJKN9NuFEaAPJd_g50GUW9P7hcx0R0Pf_qrfZCzc/edit?usp=sharing) before you read this rubric and make a plan for your paper.
+Please see the lecture slides on writing scientific reports before you read this rubric and make a plan for your paper.
 
 ## Structure and format
 
