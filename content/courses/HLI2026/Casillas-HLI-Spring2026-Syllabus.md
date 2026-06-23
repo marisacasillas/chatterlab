@@ -4,6 +4,13 @@ Spring 2026: CHDV 23100, LING 21150, PSYC 23120, EDSO 23101
 
 Tuesdays and Thursdays 3:30pm-4:50pm Chicago time
 
+<!--
+NOTES FOR NEXT TIME:
+- timeline on verbal annotation (more TA time for OH coding)
+- written instructions for coding are sometimes unclear
+- check on why students are coding turns instead of turn transitions
+-->
+
 Language may be learned by individuals, but we most often use it for communication between groups. How is it that we manage to transmit our internal thoughts to others' minds? How is it that we can understand what others mean to express to us? Whether we are greeting a passerby, ordering a meal, or debating politics, there are a number of invisible processes that bring language to life in the space between individuals. This course investigates the social and cognitive processes that enable us to successfully communicate with others. The theories we cover are built on observations of adult language use and child development in multiple cultural settings, also taking inspiration from non-human animal communication.
 
 It is expected that, by the end of the course, students will be able to explain the limitations of language for communication and will be able to elaborate on a number of social and other cognitive processes that critically support communicative language use.
