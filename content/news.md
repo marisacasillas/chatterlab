@@ -1,10 +1,17 @@
 # chatter news
 
+### July 2026
+* We published our first study newsletter, about preliminary cross-cultural results on infants' preference for different types of speech. Read it [[here](/lab-publications/newsletters/20260715-IDSPref-Eng.pdf)]!
+* [Yuchen Jin](../bios/yuchen-aboutme/) was awarded the Department of Comparative Human Development's Helen Sunukjian Fellowship. Congratulations, Yuchen!
+* [Yuchen Jin](../bios/yuchen-aboutme/) and [Subin Kim](https://subinkim00.github.io) initiated summer fieldwork projects, in Hangzhou, China and Gwangju, South Korea, respectively.
+* Summer interns [Adaora Mbanefo](https://www.linkedin.com/in/adaora-mbanefo/?originalSubdomain=za) (University of Illinois Urbana-Champaign) and Dayanna Torres-Cordova (Cornell University) gave excellent presentations to wrap up their internships. We also heard from [Northwestern Child Language Lab](https://childlanguagelab.northwestern.edu/)'s Alexa Núñez Magaña about her summer project and upcoming honors thesis plans.
+
 ### June 2026
 * We welcomed [Adaora Mbanefo](https://www.linkedin.com/in/adaora-mbanefo/?originalSubdomain=za) (University of Illinois Urbana-Champaign) and Dayanna Torres-Cordova (Cornell University) as summer interns.
 * [Ruby Swensen](../bios/ruby-aboutme/) received the Department of Comparative Human Development's [Earl R. Franklin Research Summer Fellowship](https://humdev.uchicago.edu/undergraduate-programs/requirements-and-forms/franklin-research-fellowship) for her honors thesis project.
-* Chatter Lab members [Bri Kay](../bios/bri-aboutme/), [Osa Odiase](../bios/osa-aboutme/), [Dalia Quarenet](../bios/dalia-aboutme/), and [Eva Smolen](../bios/eva-aboutme/) graduated from the college. Congratulations!
-
+* Chatter Lab members [Bri Kay](../bios/bri-aboutme/), [Osa Odiase](../bios/osa-aboutme/), [Dalia Quarenet](../bios/dalia-aboutme/), and [Eva Smolen](../bios/eva-aboutme/) graduated from the College. Congratulations!
+* [Mia Zhang](https://infantlanguagelab.utk.edu/our-team/), [Subin Kim](https://subinkim00.github.io), and [Marisa Casillas](../bios/marisa-aboutme/)'s [quantitative systematic review of the noun bias](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.70241) was published in Cognitive Science.
+* [Yuchen Jin](../bios/yuchen-aboutme/), [Kennedy Casey](https://kennedycasey.github.io/), [Ruthe Foushee](https://ruthefoushee.com/), and [Marisa Casillas](../bios/marisa-aboutme/)'s experimental study on everyday word learning from overhearing in English was accepted at Child Development (to be published September 2026).
 
 ### May 2026
 * We welcomed [Amalia Benghiat](../bios/amalia-aboutme/) and [Frank Wang](../bios/frank-aboutme/) as new research assistants.
@@ -28,7 +35,7 @@
 * [Marisa Casillas](../bios/marisa-aboutme/) gave an invited talk at [CIFAR AI Infant Learning Workshop](https://events.cifar.ca/website/92386/home/).
 
 ### February 2026
-* [Camille Osumah](https://camille-osumah.notion.site) published her first publication ([Awake infant fMRI: Insights from more than 750 scanning sessions](https://doi.org/10.1101/2025.02.20.636736)). Congratulations!
+* [Camille Osumah](https://camille-osumah.notion.site) published her first paper ([Awake infant fMRI: Insights from more than 750 scanning sessions](https://doi.org/10.1101/2025.02.20.636736)). Congratulations!
 
 ### January 2026
 * The Chatter Lab hosted the week-long [2026 UChicago Kinship Workshop and Summit](../kinshipsummit2026/) and undergraduate guest from Columbia University, Joseph Leisz.
