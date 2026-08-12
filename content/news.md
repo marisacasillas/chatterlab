@@ -1,7 +1,7 @@
 # chatter news
 
 ### July 2026
-* We published our first study newsletter, about preliminary cross-cultural results on infants' preference for different types of speech. Read it [[here](/lab-publications/newsletters/20260715-IDSPref-Eng.pdf)]!
+* We published our first study newsletter, about preliminary cross-cultural results on infants' preference for different types of speech. Read it [here](/lab-publications/newsletters/20260715-IDSPref-Eng.pdf)!
 * [Yuchen Jin](../bios/yuchen-aboutme/) was awarded the Department of Comparative Human Development's Helen Sunukjian Fellowship. Congratulations, Yuchen!
 * [Yuchen Jin](../bios/yuchen-aboutme/) and [Subin Kim](https://subinkim00.github.io) initiated summer fieldwork projects, in Hangzhou, China and Gwangju, South Korea, respectively.
 * Summer interns [Adaora Mbanefo](https://www.linkedin.com/in/adaora-mbanefo/?originalSubdomain=za) (University of Illinois Urbana-Champaign) and Dayanna Torres-Cordova (Cornell University) gave excellent presentations to wrap up their internships. We also heard from [Northwestern Child Language Lab](https://childlanguagelab.northwestern.edu/)'s Alexa Núñez Magaña about her summer project and upcoming honors thesis plans.
