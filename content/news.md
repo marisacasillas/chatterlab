@@ -1,5 +1,8 @@
 # chatter news
 
+### August 2026
+* [Marisa Casillas](../bios/marisa-aboutme/) gave a lecture on _Getting started in quantitative developmental language research_ to attendees of the [2026 Truly Global /L+/ Summer/Winter School on Language Acquisition](https://www.lplusschool.org/)
+
 ### July 2026
 * We published our first study newsletter, about preliminary cross-cultural results on infants' preference for different types of speech. Read it [here](/lab-publications/newsletters/20260715-IDSPref-Eng.pdf)!
 * [Yuchen Jin](../bios/yuchen-aboutme/) was awarded the Department of Comparative Human Development's Helen Sunukjian Fellowship. Congratulations, Yuchen!
