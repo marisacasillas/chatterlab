@@ -2,9 +2,9 @@
 
 ### PhD students
 
-Dr. Casillas will not be accepting students for the upcoming 2025-26 PhD application cycle in Comparative Human Development. Please check back for future cycles!
+<!-- Dr. Casillas will not be accepting students for the upcoming 20XX-XX PhD application cycle in Comparative Human Development. Please check back for future cycles! -->
 
-<!-- If you are interested in applying for a PhD in Comparative Human Development to work with Dr. Casillas, please get in touch with her. Include a CV and a brief description of what your mutual interests are and what you would like to know more about regarding the program and work in the lab. -->
+If you are interested in applying for a PhD in Comparative Human Development to work with Dr. Casillas, please get in touch with her. Include a CV and a brief description of what your mutual interests are and what you would like to know more about regarding the program and work in the lab.
 
 ----
 
