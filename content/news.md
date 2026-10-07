@@ -1,9 +1,17 @@
 # chatter news
 
+### October 2026
+* Chatter Lab participated in the [University of Chicago's 5th Annual South Side Science Festival](https://southsidescience.event.uchicago.edu) and presented language sciences demonstrations.
+
+### September 2026
+* Summer intern [Adaora Mbanefo](https://www.linkedin.com/in/adaora-mbanefo/?originalSubdomain=za) (University of Illinois Urbana-Champaign) presented her summer research findings at the [ICIS Founding Generation Summer Fellowship for Undergraduates](https://infantstudies.org/founding-generation-fellowship/) virtual symposium (Detecting Children's Entry into Multiparty Talk with Linguistic Alignment).
+* [Yuchen Jin](../bios/yuchen-aboutme/), [Ruthe Foushee](https://ruthefoushee.com/), [Kennedy Casey](https://kennedycasey.github.io/), and [Marisa Casillas](../bios/marisa-aboutme/)'s [Developmental change in acquiring overhearable words from naturalistic contexts](https://doi.org/10.1093/chidev/aacag127) was published in _Child Development_.
+
 ### August 2026
 * [Marisa Casillas](../bios/marisa-aboutme/) gave a lecture on _Getting started in quantitative developmental language research_ to attendees of the [2026 Truly Global /L+/ Summer/Winter School on Language Acquisition](https://www.lplusschool.org/)
 
 ### July 2026
+* [Subin Kim](https://subinkim00.github.io) gave a poster presentation at the [Annual Meeting of the Cognitive Science Society 2026](https://cognitivesciencesociety.org/cogsci-2026/) (Spotlight and handover: Register socialization in Korean child-directed speech).
 * We published our first study newsletter, about preliminary cross-cultural results on infants' preference for different types of speech. Read it [here](/lab-publications/newsletters/20260715-IDSPref-Eng.pdf)!
 * [Yuchen Jin](../bios/yuchen-aboutme/) was awarded the Department of Comparative Human Development's Helen Sunukjian Fellowship. Congratulations, Yuchen!
 * [Yuchen Jin](../bios/yuchen-aboutme/) and [Subin Kim](https://subinkim00.github.io) initiated summer fieldwork projects, in Hangzhou, China and Gwangju, South Korea, respectively.
@@ -13,8 +21,8 @@
 * We welcomed [Adaora Mbanefo](https://www.linkedin.com/in/adaora-mbanefo/?originalSubdomain=za) (University of Illinois Urbana-Champaign) and Dayanna Torres-Cordova (Cornell University) as summer interns.
 * [Ruby Swensen](../bios/ruby-aboutme/) received the Department of Comparative Human Development's [Earl R. Franklin Research Summer Fellowship](https://humdev.uchicago.edu/undergraduate-programs/requirements-and-forms/franklin-research-fellowship) for her honors thesis project.
 * Chatter Lab members [Bri Kay](../bios/bri-aboutme/), [Osa Odiase](../bios/osa-aboutme/), [Dalia Quarenet](../bios/dalia-aboutme/), and [Eva Smolen](../bios/eva-aboutme/) graduated from the College. Congratulations!
-* [Mia Zhang](https://infantlanguagelab.utk.edu/our-team/), [Subin Kim](https://subinkim00.github.io), and [Marisa Casillas](../bios/marisa-aboutme/)'s [quantitative systematic review of the noun bias](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.70241) was published in Cognitive Science.
-* [Yuchen Jin](../bios/yuchen-aboutme/), [Kennedy Casey](https://kennedycasey.github.io/), [Ruthe Foushee](https://ruthefoushee.com/), and [Marisa Casillas](../bios/marisa-aboutme/)'s experimental study on everyday word learning from overhearing in English was accepted at Child Development (to be published September 2026).
+* [Mia Zhang](https://infantlanguagelab.utk.edu/our-team/), [Subin Kim](https://subinkim00.github.io), and [Marisa Casillas](../bios/marisa-aboutme/)'s [quantitative systematic review of the noun bias](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.70241) was published in _Cognitive Science_.
+* [Yuchen Jin](../bios/yuchen-aboutme/), [Kennedy Casey](https://kennedycasey.github.io/), [Ruthe Foushee](https://ruthefoushee.com/), and [Marisa Casillas](../bios/marisa-aboutme/)'s experimental study on everyday word learning from overhearing in English was accepted at _Child Development_ (to be published September 2026).
 
 ### May 2026
 * We welcomed [Amalia Benghiat](../bios/amalia-aboutme/) and [Frank Wang](../bios/frank-aboutme/) as new research assistants.

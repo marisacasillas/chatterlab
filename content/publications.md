@@ -11,15 +11,21 @@ Looking for [tools](../tools/)?
 
 ## in press/accepted
 
-**Casillas, M.**, Jin, Y., & Levinson, S. C. (accepted). Charting new paths in the study of kin term acquisition. _Topics in Cognitive Sciences._
-
-Casey, K., Elliott, M., Mickiewicz, E., Bergelson, E., & **Casillas, M.** (accepted). Daylong patterns of object-centric interaction in two subsistence societies. _Infant Behavior and Development_.
-
-Hellwig, B., Sarvasy, H., & **Casillas, M.** (in press). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
+Hellwig, B., Sarvasy, H., & **Casillas, M.** (forthcoming July 2027). Language acquisition. In N. Evans & S. Fedden (Eds.), The Oxford Guide to Papuan Languages. [[ms](https://psyarxiv.com/qr76m/)]
 
 Hitczenko, K., Bergelson, E., **Casillas, M.**, Colleran, H., Cychosz, M., Grosjean, P., Hamrick, L. R., Kelleher, B., Scaff, C., Seidl, A., Walker, S., & Cristia, A. (accepted Stage 1 registered report) A cross-linguistic study of the effect of early experience on vocal development. _Developmental Science. Stage 1 Registered Report._ [[ms](https://doi.org/10.17605/OSF.IO/J2Y7C)]
 
 ## 2026
+
+Jin, Y., Foushee, R., Casey, K., & **Casillas, M.** (2026). Developmental change in acquiring overhearable words from naturalistic contexts. _Child Development_, aacag127. [[ms](https://doi.org/10.1093/chidev/aacag127)]
+
+Casey, K., Elliott, M., Mickiewicz, E., Bergelson, E., & **Casillas, M.** (2026). Daylong patterns of object-centric interaction in two subsistence societies. _Infant Behavior and Development_, _83_, 102197. [[ms](https://doi.org/10.1016/j.infbeh.2026.102197)]
+
+**Casillas, M.**, Jin, Y., & Levinson, S. C. (2026). Charting new paths in the study of kin term acquisition. _Topics in Cognitive Sciences_, e70056. [[ms](https://doi.org/10.1111/tops.70056)]
+
+Kim, S., & **Casillas, M.** (2026). Spotlight and handover: Register socialization in Korean child-directed speech. _Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026)_, pp.1684-1691. [[ms](https://escholarship.org/uc/item/8s60378x)]
+
+Zhang, Y., Kim, S., & **Casillas, M.** (2026). Cross-Cultural Variation in the Noun Bias in Early Vocabulary Development: A Systematic Review. _Cognitive science_, _50_(7), e70241. [[ms](https://doi.org/10.1111/cogs.70241)]
 
 Lammertink, I., Rowland, C., & **Casillas, M.** (2026). Who’s next? Turn anticipation in Dutch preschoolers with and without Developmental Language Disorder. _Journal of Speech, Language, and Hearing Research_, 1-18. [[ms](https://doi.org/10.1044/2025_JSLHR-25-00180)]
 
@@ -61,6 +67,7 @@ Cristia, A., Foushee, R., Aravena-Bravo, P., Cychosz, M., Scaff, C., & **Casilla
 
 Scaff, C., **Casillas, M.**, Stieglitz, J., & Cristia, A. (2023). Characterization of children’s verbal input in a forager-farmer population using long-form audio recordings and diverse input definitions. _Infancy_, _EarlyView_, 1–20. [[ms](https://pubmed.ncbi.nlm.nih.gov/38014953/)]
 
+Hitczenko, K., Bergelson, E., **Casillas, M.**, Colleran, H., Cychosz, M., Grosjean, P., Hamrick, L. R., Kelleher, B. L., §Scaff, C., Seidl, A., Walker, S., Cristia, A. (2023). The development of canonical proportion continues past toddlerhood. _Proceedings of the 20th International Congress of Phonetic Sciences_, pp. 1210–1214. [[ms](/lab-publications/Hitczenko_et_al_2023_ICPHS.pdf)]
 
 ## 2022
 
